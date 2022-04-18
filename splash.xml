@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  
+	<view name="splash">
+
+		<splash name="splash">
+			<backgroundColor>000000FF</backgroundColor>
+		</splash>
+		<image name="background">
+			<path>./_assets/splash.jpg</path>
+		</image>
+		
+		<text name="label, FakeXMB" extra="true">
+			<origin>0 0</origin>
+			<fontPath>./_assets/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontSize>0.023</fontSize>
+			<color>000000</color>
+			<forceUppercase>true</forceUppercase>
+		</text>
+
+		<text name="label">
+			<pos>0.6 0.55</pos>
+			<size>0.33 0.05</size>
+			<alignment>center</alignment>
+		</text>
+
+		<text name="FakeXMBversion" extra="true">
+			<pos>0.367 0.239</pos>
+			<fontPath>./_assets/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontSize>0.090</fontSize>
+			<text>FakeXMB</text>
+		</text>
+
+		<image name="progressbar">
+			<origin>0 0</origin>
+			<!-- <pos>0.6 0.56</pos>
+			<size>0.307 0.045</size> -->
+			<pos>0.263 0.7</pos>
+			<size>0.455 0.065</size>
+			<color>F8F8FF</color>
+		</image>
+		<image name="progressbar:active">
+			<color>7B68EE</color>
+		</image>
+		
+	</view>
+	
+</theme>

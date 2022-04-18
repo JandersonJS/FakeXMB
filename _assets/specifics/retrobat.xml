@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Theme: es-theme-ComicScrap for Retrobat - Batocera
+version: 1.0
+author: Lehcim Cram Trebor
+inspired by ComicBook theme by TMNTturtleguy at https://github.com/TMNTturtleguy/es-theme-ComicBook
+-->
+
+<theme defaultView="video">
+<formatVersion>7</formatVersion>
+
+<view name="system">
+
+<image name="sketchBox1a,sketchBox1b,sketchBox1c,bubblemarquee01,bubblemarquee02,bubblemarquee03">
+<visible>false</visible>
+</image>
+
+</view>
+
+<view name="video">
+
+<image name="logosClassics" extra="true">
+<pos>0.74796875 0.0847222222222222</pos>
+<maxSize>0.2 0.08</maxSize>
+</image>
+
+<image name="logosClassicsShadow" extra="true">
+<pos>0.7485 0.0843</pos>
+<maxSize>0.2 0.08</maxSize>
+</image>
+
+<image name="menu" extra="true">
+<path>./../menuBasic.png</path>
+</image>
+
+<image name="menu" extra="true" ifSubset="maskColor:tmnt">
+<path>./../menuBasicTmnt.png</path>
+</image>
+
+<image name="menu" extra="true" ifSubset="maskColor:comix">
+<path>./../menuBasicComix.png</path>
+</image>
+
+<image name="menu" extra="true" ifSubset="maskColor:themed">
+<path>./../themedSkins/menu/defaultBase.png</path>
+<path>./../themedSkins/menu/${system.theme}.png</path>
+</image>
+
+<image name="menuBack" extra="true">
+<path>./../menuBackBasic.png</path>
+</image>
+
+<image name="md_marquee">
+<visible>false</visible>
+</image>
+
+<video name="md_video">
+<pos>0.7473958333333333 0.5550925925925926</pos>
+<maxSize>0.4760416666666667 0.7546296296296296</maxSize>
+</video>
+
+<image name="scanlines" extra="true" ifSubset="staticEffectApply:artworksApply">
+<size>0.4760416666666667 0.7546296296296296</size>
+<pos>0.7473958333333333 0.5550925925925926</pos>
+</image>
+
+<image name="md_thumbnail">
+<visible>false</visible>
+</image>
+
+<image name="md_fanart">
+<visible>false</visible>
+</image>
+
+<text name="md_lbl_releasedate">
+<visible>false</visible>
+</text>
+		
+<datetime name="md_releasedate">
+<visible>false</visible>
+</datetime>
+
+<text name="md_lbl_genre">
+<visible>false</visible>
+</text>
+		
+<text name="md_genre">
+<visible>false</visible>
+</text>
+
+<text name="md_lbl_developer">
+<visible>false</visible>
+</text>
+		
+<text name="md_developer">
+<visible>false</visible>
+</text>
+
+<text name="md_lbl_players">
+<visible>false</visible>
+</text>
+
+<text name="md_players">
+<visible>false</visible>
+</text>
+		
+<rating name="md_rating">
+<visible>false</visible>
+</rating>
+		
+<text name="md_lbl_playcount">
+<visible>false</visible>
+</text>
+		
+<text name="md_playcount">
+<visible>false</visible>
+</text>
+
+<text name="md_description">
+<visible>false</visible>
+</text>
+
+<text name="md_flag">
+<visible>false</visible>
+</text>
+
+<text name="md_manual,md_nomanual">
+<visible>false</visible>
+</text>
+
+<text name="md_savestate,md_nosavestate">
+<visible>false</visible>
+</text>
+
+<text name="md_kidgame, md_notkidgame">
+<visible>false</visible>
+</text>
+
+</view>
+
+</theme>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+    <baseColor>8b0000</baseColor>
+    <gradientEndColor>6b2020</gradientEndColor>
+    <backgroundColor>252525</backgroundColor>
+    <centerFadeColor>8b000050</centerFadeColor>
+  </variables>
+  <subset name="colorset" displayName="${subset.colorset}">
+    <include name="gray" displayName="${gray}">./art/colors/gray.xml</include>
+    <include name="blue" displayName="${blue}">./art/colors/blue.xml</include>
+    <include name="red" displayName="${red}"/>
+    <include name="green" displayName="${green}">./art/colors/green.xml</include>
+    <include name="yellow" displayName="${yellow}">./art/colors/yellow.xml</include>
+    <include name="violet">./art/colors/violet.xml</include>
+    <include name="cyan">./art/colors/cyan.xml</include>
+    <include name="orange">./art/colors/orange.xml</include>
+    <include name="brawn">./art/colors/brawn.xml</include>
+    <include name="silver">./art/colors/silver.xml</include>
+  </subset>
+	<view name="splash">
+
+		<splash name="splash">
+			<backgroundColor>000000FF</backgroundColor>
+		</splash>
+		<image name="background">
+			<path>./art/splash.jpg</path>
+		</image>
+		<image name="logo" extra="true">
+			<pos>0.140 0.270</pos>
+			<path>./art/splash_batocera.svg</path>
+			<size>0 0.25</size>
+			<alignment>left</alignment>
+		</image>
+		
+		<text name="label, FakeXMB" extra="true">
+			<origin>0 0</origin>
+			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontSize>0.023</fontSize>
+			<color>000000</color>
+			<forceUppercase>true</forceUppercase>
+		</text>
+
+
+		<text name="FakeXMB" extra="true">
+			<pos>0.367 0.239</pos>
+			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontSize>0.090</fontSize>
+			<alignment>left</alignment>
+			<text>FakeXMB</text>
+		</text>
+		<text name="PLUS" extra="true">
+			<pos>0.600 0.300</pos>
+			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontSize>0.090</fontSize>
+			<alignment>right</alignment>
+			<color>ffffff</color>
+			<text>PLUS</text>
+		</text>
+		<text name="Version" extra="true">
+			<pos>0.800 0.350</pos>
+			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontSize>0.050</fontSize>
+			<alignment>right</alignment>
+			<color>${baseColor}</color>
+			<text>3.5</text>
+		</text>
+
+    <image name="progressbar">
+      <origin>0 0</origin>
+      <pos>0.25 0.87</pos>
+      <size>0.5 0.036</size>
+      <color>6060607F</color>
+      <colorEnd>6060607F</colorEnd>
+      <roundCorners>0.01</roundCorners>
+    </image>
+    <image name="progressbar:active">
+      <tile>true</tile>
+      <path>./art/progress.png</path>
+      <color>${baseColor}</color>
+      <colorEnd>${gradientEndColor}</colorEnd>
+    </image>
+		
+	</view>
+	
+</theme>

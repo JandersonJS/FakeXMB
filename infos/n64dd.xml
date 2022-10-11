@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>The 64DD is a magnetic floppy disk drive peripheral for the Nintendo 64 game console developed by Nintendo. It was announced in 1995, prior to the Nintendo 64's 1996 launch, and after numerous delays was released in Japan on December 13, 1999. The "64" references both the Nintendo 64 console and the 64MB storage capacity of the disks, and "DD" is short for "disk drive" or "dynamic drive".</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>El 64DD es un periférico de unidad de disquete magnético para la consola de juegos Nintendo 64 desarrollado por Nintendo. Se anunció en 1995, antes del lanzamiento de Nintendo 64 en 1996, y después de numerosos retrasos se lanzó en Japón el 13 de diciembre de 1999. El "64" hace referencia tanto a la consola Nintendo 64 como a la capacidad de almacenamiento de 64 MB de los discos, y "DD " es la abreviatura de "unidad de disco" o "unidad dinámica".</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>Le 64DD est un périphérique de lecteur de disquette magnétique pour la console de jeu Nintendo 64 développé par Nintendo. Il a été annoncé en 1995, avant le lancement de la Nintendo 64 en 1996, et après de nombreux retards, il a été publié au Japon le 13 décembre 1999. Le "64" fait référence à la fois à la console Nintendo 64 et à la capacité de stockage de 64 Mo des disques, et "DD " est l'abréviation de "lecteur de disque" ou "lecteur dynamique".</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>O 64DD é um periférico de unidade de disquete magnético para o console de jogos Nintendo 64 desenvolvido pela Nintendo. Foi anunciado em 1995, antes do lançamento do Nintendo 64 em 1996, e após vários atrasos foi lançado no Japão em 13 de dezembro de 1999. O "64" faz referência tanto ao console Nintendo 64 quanto à capacidade de armazenamento de 64 MB dos discos, e "DD " é a abreviação de "unidade de disco" ou "unidade dinâmica".</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>64DD</text>
+		</text>
+	</view>
+</theme>

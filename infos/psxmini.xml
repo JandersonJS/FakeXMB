@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>PlayStation Classic is a new mini-console, built to celebrate the rich heritage of the original PlayStation. It has been designed to closely resemble the design of the original console in a much smaller form factor, and is preloaded with 20 games from a wide variety of genres.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>PlayStation Classic es una nueva miniconsola, creada para celebrar la rica herencia de la PlayStation original. Ha sido diseñado para parecerse mucho al diseño de la consola original en un factor de forma mucho más pequeño y está precargado con 20 juegos de una amplia variedad de géneros.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>PlayStation Classic est une nouvelle mini-console, conçue pour célébrer le riche héritage de la PlayStation originale. Il a été conçu pour ressembler étroitement au design de la console d'origine dans un facteur de forme beaucoup plus petit et est préchargé avec 20 jeux d'une grande variété de genres.</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>O PlayStation Classic é um novo mini-console, construído para celebrar a rica herança do PlayStation original. Ele foi projetado para se assemelhar ao design do console original em um formato muito menor e é pré-carregado com 20 jogos de uma ampla variedade de gêneros.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>PlayStation Classic</text>
+		</text>
+	</view>
+</theme>

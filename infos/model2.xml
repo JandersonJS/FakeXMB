@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>The Sega Model 2 (モデル2) is an arcade system board originally debuted by Sega in 1993 as a successor to the Sega Model 1 board. It is an extension of the Model 1 hardware, most notably introducing the concept of texture-mapped polygons, allowing for more realistic 3D graphics for its time.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>La Sega Model 2 (モデル2) es una placa de sistema arcade presentada originalmente por Sega en 1993 como sucesora de la placa Sega Model 1. Es una extensión del hardware del Modelo 1, que presenta sobre todo el concepto de polígonos mapeados con textura, lo que permite gráficos 3D más realistas para su época.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>Le Sega Model 2 (モ デ ル 2) est une carte système d'arcade lancée à l'origine par Sega en 1993 en tant que successeur de la carte Sega Model 1. Il s'agit d'une extension du matériel du modèle 1, introduisant notamment le concept de polygones à texture mappée, permettant des graphismes 3D plus réalistes pour l'époque.</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>A Sega Model 2 (モデル2) é uma placa de sistema de arcade originalmente lançada pela Sega em 1993 como sucessora da placa Sega Model 1. É uma extensão do hardware do Modelo 1, principalmente introduzindo o conceito de polígonos mapeados por textura, permitindo gráficos 3D mais realistas para a época.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>SEGA Model 2</text>
+		</text>
+	</view>
+</theme>

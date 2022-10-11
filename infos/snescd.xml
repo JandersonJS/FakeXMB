@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>The Super NES CD-ROM System, known as Super Famicom CD-ROM Adapter in Japan, is an unreleased video game peripheral for the Super Nintendo Entertainment System (SNES). The add-on built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>El Super NES CD-ROM System, conocido como Super Famicom CD-ROM Adapter en Japón, es un periférico de videojuegos inédito para Super Nintendo Entertainment System (SNES). El complemento se basó en la funcionalidad del SNES basado en cartuchos al agregar soporte para un formato basado en CD-ROM conocido como Super Disc.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>Le système de CD-ROM Super NES, connu sous le nom d'adaptateur de CD-ROM Super Famicom au Japon, est un périphérique de jeu vidéo inédit pour le système de divertissement Super Nintendo (SNES). Le module complémentaire s'appuyait sur les fonctionnalités du SNES à cartouche en ajoutant la prise en charge d'un format basé sur CD-ROM appelé Super Disc.</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>O Super NES CD-ROM System, conhecido como Super Famicom CD-ROM Adapter no Japão, é um periférico de videogame inédito para o Super Nintendo Entertainment System (SNES). O add-on construído sobre a funcionalidade do SNES baseado em cartucho, adicionando suporte para um formato baseado em CD-ROM conhecido como Super Disc.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Super Nintendo MSU</text>
+		</text>
+	</view>
+</theme>

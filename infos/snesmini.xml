@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>The Super NES Classic Edition is a dedicated home video game console released by Nintendo, which emulates the Super Nintendo Entertainment System. The console, a successor to the NES Classic Edition, comes with twenty-one Super NES titles pre-installed, including the first official release of Star Fox 2. It was released in North America and Europe on September 29, 2017.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>La Super NES Classic Edition es una consola de videojuegos doméstica dedicada lanzada por Nintendo, que emula el Super Nintendo Entertainment System. La consola, sucesora de NES Classic Edition, viene con veintiún títulos de Super NES preinstalados, incluido el primer lanzamiento oficial de Star Fox 2. Fue lanzado en Norteamérica y Europa el 29 de septiembre de 2017.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>La Super NES Classic Edition est une console de jeu vidéo domestique dédiée publiée par Nintendo, qui émule la Super Nintendo Entertainment System. La console, qui succède à la NES Classic Edition, est livrée avec vingt et un titres Super NES préinstallés, dont la première version officielle de Star Fox 2. Elle est sortie en Amérique du Nord et en Europe le 29 septembre 2017.</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>O Super NES Classic Edition é um console de videogame doméstico dedicado lançado pela Nintendo, que emula o Super Nintendo Entertainment System. O console, sucessor do NES Classic Edition, vem com vinte e um títulos do Super NES pré-instalados, incluindo o primeiro lançamento oficial de Star Fox 2. Foi lançado na América do Norte e Europa em 29 de setembro de 2017.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Super NES Classic Edition</text>
+		</text>
+	</view>
+</theme>

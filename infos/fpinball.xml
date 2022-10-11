@@ -1,0 +1,36 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	    
+
+		<text name="system_description" extra="true" >
+			<text>Future Pinball ("FP") is a freeware 3D pinball editing and gaming application for Microsoft Windows. The software is similar to Visual Pinball ("VP") and other modern pinball simulation applications. Just as with VP's partnership with Visual PinMAME, FP uses partner applications to emulate original pinball ROM code.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr" >
+			<text>Future Pinball ("FP") est une application gratuite d'édition et de jeu de flipper 3D pour Microsoft Windows. Le logiciel est similaire à Visual Pinball ("VP") et à d'autres applications modernes de simulation de flipper. Tout comme avec le partenariat de VP avec Visual PinMAME, FP utilise des applications partenaires pour émuler le code ROM original du flipper.
+
+</text>
+		</text>
+
+		
+		<text name="system_description" extra="true" lang="es">
+			<text>Future Pinball ("FP") es una aplicación gratuita de juegos y edición de pinball en 3D para Microsoft Windows. El software es similar a Visual Pinball ("VP") y otras aplicaciones modernas de simulación de pinball. Al igual que con la asociación de VP con Visual PinMAME, FP utiliza aplicaciones asociadas para emular el código ROM original de pinball.
+
+</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt" >
+			<text>Future Pinball ("FP") é um aplicativo gratuito de edição e jogos de pinball 3D para Microsoft Windows. O software é semelhante ao Visual Pinball ("VP") e outros aplicativos modernos de simulação de pinball. Assim como na parceria do VP com o Visual PinMAME, a FP usa aplicativos de parceiros para emular o código ROM original do pinball.
+
+</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Future Pinball</text>
+		</text>
+	</view>
+</theme>

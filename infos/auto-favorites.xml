@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>Here are listed your favorite games</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>Aquí están listados tus juegos favoritos</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>Voici la liste de vos jeux préférés</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+				<text>Aqui estão listados seus jogos favoritos</text>
+		</text>
+
+		
+
+
+				
+
+		<text name="system_name" extra="true">
+			<text>Favorites</text>
+		</text>
+
+		<text name="system_name" extra="true" lang="es">
+			<text>Favoritos</text>
+		</text>
+
+		<text name="system_name" extra="true" lang="fr">
+			<text>Favoris</text>
+		</text>
+
+		
+		<text name="system_name" extra="true" lang="pt">
+			<text>Favoritos</text>
+		</text>
+	</view>
+</theme>

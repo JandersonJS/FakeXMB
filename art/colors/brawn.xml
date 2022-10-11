@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+    <baseColor>8B4513</baseColor>
+    <gradientEndColor>8B4513</gradientEndColor>
+    <centerFadeColor>8B4513</centerFadeColor>    
+    <backgroundColor>ffffff</backgroundColor>
+    <bottomBarColor>8B4513</bottomBarColor>
+    <glowColor>8B4513</glowColor>
+    <systemInfoColor>FAFAFFB0</systemInfoColor>
+    <backgroundImage>./art/fiber.png</backgroundImage>
+
+    <groupColor>8B4513</groupColor>
+    <groupSeparatorColor>D2691E</groupSeparatorColor>
+
+  </variables>
+</theme>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+  <variables>
+    <baseColor>C0C0C0</baseColor>
+    <gradientEndColor>C0C0C0</gradientEndColor>
+    <centerFadeColor>C0C0C0</centerFadeColor>    
+    <backgroundColor>ffffff</backgroundColor>
+    <bottomBarColor>C0C0C0</bottomBarColor>
+    <glowColor>696969</glowColor>
+    <systemInfoColor>FAFAFFB0</systemInfoColor>
+    <backgroundImage>./art/fiber.png</backgroundImage>
+
+    <groupColor>DCDCDC</groupColor>
+    <groupSeparatorColor>D3D3D3</groupSeparatorColor>
+
+  </variables>
+</theme>

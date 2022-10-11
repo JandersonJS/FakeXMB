@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>The Nintendo Switch is a video game console developed by Nintendo and released worldwide in most regions on March 3, 2017. The console itself is a tablet that can either be docked for use as a home console or used as a portable device, making it a hybrid console.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>Nintendo Switch es una consola de videojuegos desarrollada por Nintendo y lanzada en todo el mundo en la mayoría de las regiones el 3 de marzo de 2017. La consola en sí es una tableta que se puede acoplar para usar como consola doméstica o como dispositivo portátil, lo que la convierte en una consola híbrida.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>La Nintendo Switch est une console de jeu vidéo développée par Nintendo et lancée dans le monde entier dans la plupart des régions le 3 mars 2017. La console elle-même est une tablette qui peut être soit connectée pour être utilisée comme console de salon, soit utilisée comme appareil portable, ce qui en fait un console hybride.</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>O Nintendo Switch é um console de videogame desenvolvido pela Nintendo e lançado mundialmente na maioria das regiões em 3 de março de 2017. O console em si é um tablet que pode ser encaixado para uso como console doméstico ou usado como dispositivo portátil, tornando-o um console híbrida.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Nintendo Switch</text>
+		</text>
+	</view>
+</theme>

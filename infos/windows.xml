@@ -1,0 +1,31 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+	
+
+		<text name="system_description" extra="true" >
+			<text>Windows is an operating system designed by Microsoft. The operating system is what allows you to use a computer. Windows comes preloaded on most new personal computers (PCs), which helps to make it the most popular operating system in the world.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Windows es el sistema operativo insignia de Microsoft, el estándar de facto para las computadoras domésticas y de negocios. El sistema operativo basado en una interfaz gráfica de usuario (GUI) fue introducido en 1985 y se han liberado muchas versiones desde entonces, como se describe a continuación.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr" >
+			<text>Windows est au départ une interface graphique unifiée produite par Microsoft, qui est devenue ensuite une gamme de systèmes d’exploitation à part entière, principalement destinés aux ordinateurs compatibles PC.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt" >
+			<text>O Windows é um sistema operacional de interface gráfica multitarefa. Isso significa que podemos trabalhar com vários programas simultaneamente. Por exemplo poderíamos escutar um CD colocado no CD-ROM enquanto escrevemos um documento, imprimimos um outro e recebemos um fax, todos ao mesmo tempo.</text>
+		</text>
+
+		
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Windows</text>
+		</text>
+	</view>
+</theme>

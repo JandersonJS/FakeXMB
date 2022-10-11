@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+				
+				<text name="system_description" extra="true">
+				<text>TIC-80 is a free and open source fantasy computer for making, playing and sharing tiny games.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>TIC-80 es una computadora de fantasía gratuita y de código abierto para crear, jugar y compartir pequeños juegos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>TIC-80 est une fantasy console sous licence libre, inspirée de Pico-8</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>O TIC-80 é um computador de fantasia gratuito e de código aberto para criar, jogar e compartilhar pequenos jogos.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Tic 80</text>
+		</text>
+	</view>
+</theme>

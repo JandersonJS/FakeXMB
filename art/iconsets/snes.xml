@@ -1,0 +1,35 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="menu, system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./snes/updown.png</iconUpDown>
+			<iconLeftRight>./snes/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./snes/all.png</iconUpDownLeftRight>
+			<iconA>./snes/a.png</iconA>
+			<iconB>./snes/b.png</iconB>
+			<iconX>./snes/x.png</iconX>
+			<iconY>./snes/y.png</iconY>
+			<iconL>./snes/l.png</iconL>
+			<iconR>./snes/r.png</iconR>
+			<iconStart>./snes/start.png</iconStart>
+			<iconSelect>./snes/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+  <view name="screen">
+
+
+    <controllerActivity name="controllerActivity">
+      <pos>0.01 0.012</pos>
+      <size>0.090 0.030</size>
+      <itemSpacing>0.003</itemSpacing>
+      <imagePath>./snes/controller.svg</imagePath>
+      <color>FFFFFF80</color>
+      <activityColor>A0A0FFC0</activityColor>
+      <hotkeyColor>FFA0A0C0</hotkeyColor>
+    </controllerActivity>
+
+</view>
+	
+</theme>

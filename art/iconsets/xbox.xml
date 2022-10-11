@@ -1,0 +1,35 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	
+	<view name="menu, system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+		<helpsystem name="help">
+			<iconColor>FFFFFFFF</iconColor>
+			<iconUpDown>./xbox/updown.png</iconUpDown>
+			<iconLeftRight>./xbox/leftright.png</iconLeftRight>
+			<iconUpDownLeftRight>./xbox/all.png</iconUpDownLeftRight>
+			<iconA>./xbox/a.png</iconA>
+			<iconB>./xbox/b.png</iconB>
+			<iconX>./xbox/x.png</iconX>
+			<iconY>./xbox/y.png</iconY>
+			<iconL>./xbox/l.png</iconL>
+			<iconR>./xbox/r.png</iconR>
+			<iconStart>./xbox/start.png</iconStart>
+			<iconSelect>./xbox/select.png</iconSelect>
+		</helpsystem>		
+	</view>
+  <view name="screen">
+
+
+    <controllerActivity name="controllerActivity">
+      <pos>0.01 0.012</pos>
+      <size>0.085 0.025</size>
+      <itemSpacing>0.003</itemSpacing>
+      <imagePath>./xbox/controller.svg</imagePath>
+      <color>FFFFFF80</color>
+      <activityColor>A0A0FFC0</activityColor>
+      <hotkeyColor>FFA0A0C0</hotkeyColor>
+    </controllerActivity>
+
+</view>
+	
+</theme>

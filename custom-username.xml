@@ -1,5 +1,7 @@
 <!-- Theme by pajarorrojo modified by LordOgro-->
-<theme> <formatVersion>7</formatVersion> <view name="system, splash"> <text name="username" extra="static">
+<theme> <formatVersion>7</formatVersion>
+<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+<text name="username" extra="static">
 <!-- put here your username, symply change username for your own username-->
 <!-- pon aquí tu usuario, simplemente cambia username por tu usuario-->
 

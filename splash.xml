@@ -1,24 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
   <formatVersion>7</formatVersion>
-  <variables>
-    <baseColor>8b0000</baseColor>
-    <gradientEndColor>6b2020</gradientEndColor>
-    <backgroundColor>252525</backgroundColor>
-    <centerFadeColor>8b000050</centerFadeColor>
-  </variables>
-  <subset name="colorset" displayName="${subset.colorset}">
-    <include name="gray" displayName="${gray}">./art/colors/gray.xml</include>
-    <include name="blue" displayName="${blue}">./art/colors/blue.xml</include>
-    <include name="red" displayName="${red}"/>
-    <include name="green" displayName="${green}">./art/colors/green.xml</include>
-    <include name="yellow" displayName="${yellow}">./art/colors/yellow.xml</include>
-    <include name="violet">./art/colors/violet.xml</include>
-    <include name="cyan">./art/colors/cyan.xml</include>
-    <include name="orange">./art/colors/orange.xml</include>
-    <include name="brawn">./art/colors/brawn.xml</include>
-    <include name="silver">./art/colors/silver.xml</include>
-  </subset>
+
 	<view name="splash">
 
 		<splash name="splash">
@@ -69,17 +52,16 @@
 
     <image name="progressbar">
       <origin>0 0</origin>
-      <pos>0.25 0.87</pos>
-      <size>0.5 0.036</size>
+      <pos>0.05 0.87</pos>
+      <size>0.9 0.016</size>
       <color>6060607F</color>
       <colorEnd>6060607F</colorEnd>
-      <roundCorners>0.01</roundCorners>
+      <roundCorners>0.008</roundCorners>
     </image>
     <image name="progressbar:active">
       <tile>true</tile>
-      <path>./art/progress.png</path>
-      <color>${baseColor}</color>
-      <colorEnd>${gradientEndColor}</colorEnd>
+      <color>4a8d35</color>
+      <colorEnd>4a8d35</colorEnd>
     </image>
 		
 	</view>

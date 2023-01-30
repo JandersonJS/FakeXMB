@@ -1,3 +1,6 @@
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
 <theme>
 	<formatVersion>7</formatVersion>
 
@@ -15,10 +18,6 @@
 		<text name="system_description" extra="true" lang="fr">
 			<text>Retrouvez ici tous vos screenshots avec le Hotkey+L.</text>
 		</text>	
-
-		<text name="system_description" extra="true" lang="pt">
-			<text>Aqui sera mostrado suas screenshots, capturado com o comando Hotkey+L.</text>
-		</text>
 
 
 
@@ -38,10 +37,6 @@
 		
 		<text name="system_name" extra="true" lang="fr">
 			<text>Galerie des Screenshots</text>
-		</text>
-
-		<text name="system_name" extra="true" lang="pt">
-			<text>Galería de Capturas</text>
 		</text>
 
 		

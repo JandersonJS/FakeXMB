@@ -1,4 +1,6 @@
-<!-- Theme by pajarorrojo-->
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
 <theme>
 	<formatVersion>7</formatVersion>
 
@@ -28,7 +30,7 @@ En un principio el sistema Neo-Geo se creó como plataforma para máquinas recre
 				
 
 		<text name="system_name" extra="true">
-			<text>Neo Geo</text>
+			<text>Neo-Geo</text>
 		</text>
 	</view>
 </theme>

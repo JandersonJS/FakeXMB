@@ -1,29 +1,36 @@
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
 <theme>
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
 				
 				<text name="system_description" extra="true">
-				<text>Flash is freeware computer software for viewing multimedia contents, executing rich Internet applications, and streaming audio and video content created on the Adobe Flash platform. </text>
-		</text>
+				<text></text>
+			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>Flash es una aplicación informática para contenido creado en la plataforma de Adobe Flash, y englobada en la categoría de reproductor multimedia. Fue creado inicialmente por Macromedia y distribuido por Adobe Systems.</text>
+				<text></text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>Flash était un plugin de navigateur web ou un lecteur multimédia autonome utilisant la technologie Flash de l'entreprise Adobe.</text>
+				<text></text>
 		</text>
 
 	
-				<text name="system_description" extra="true" lang="pt">
-				<text>Flash foi um reprodutor de multimídia e aplicações amplamente distribuído, anteriormente criado e disponibilizado pela Macromedia, mas que agora pertence à Adobe Systems.</text>
+		<text name="system_description" extra="true" lang="pt">
+				<text></text>
+		</text>
+		
+		<text name="system_description" extra="true" lang="it">
+				<text></text>
 		</text>
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>Acclaim</text>
+			<text>Flash Player</text>
 		</text>
 	</view>
 </theme>

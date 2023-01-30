@@ -1,3 +1,6 @@
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
 <theme>
 	<formatVersion>7</formatVersion>
 
@@ -28,6 +31,9 @@ Fue lanzada por Nintendo en Norteamérica, Europa y Australia entre 1985 y 1987.
 		<text name="system_name" extra="true">
 			<text>Nintendo Entertainment System</text>
 		</text>
-	</view>
+
+		<text name="system_name" extra="true" region="jp">
+			<text>Famicom</text>
+		</text>	</view>
 	
 </theme>

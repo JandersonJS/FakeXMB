@@ -1,29 +1,36 @@
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
 <theme>
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-				
+
+		
 				<text name="system_description" extra="true">
-				<text>O Neo Geo X é um console de videogame portátil desenvolvido e licenciado pela SNK Playmore e fabricado pela Tommo. Foi lançado em 18 de dezembro de 2012. É o retorno do console Neo Geo criado na década de noventa. Após alguns boatos e especulações na internet as primeiras informações sobre o Neo Geo X foram relatadas oficialmente em janeiro de 2012 e o portátil foi posteriormente confirmado em março.</text>
-			</text>
+			<text>Neo Geo is a family of video game hardware developed by SNK. On the market from 1990 to 2004, the brand originated with the release of an arcade system, the MVS and its home console counterpart, the Neo Geo AES.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>O Neo Geo X es una consola de videojuegos portátil desarrollada y licenciada pela SNK Playmore y fabricada pela Tommo. Fecha de lanzamiento el 18 de diciembre de 2012. É o retorno de la consola Neo Geo criado en la década de noventa. Após algunos barcos y especulações na internet como primeiras informaciones sobre o Neo Geo X foram relatadas oficialmente en janeiro de 2012 y o portátil para posteriormente confirmar em março.</text>
+			<text>Neo-Geo es el nombre de un sistema de 16 bits basado en cartuchos para arcades así como videoconsolas para el hogar lanzado en 1990 por la compañía de videojuegos japonesa SNK. La tecnología del sistema ofrecía unos gráficos 2D, y una calidad de sonido muy superiores a la que ofrecían otros sistemas caseros de su época. 
+
+En un principio el sistema Neo-Geo se creó como plataforma para máquinas recreativas, más tarde también estaba disponible como videoconsola doméstica a un precio demasiado elevado para muchos, 700 dólares, y entre 200 y 1000 dólares por cartucho. </text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>O Neo Geo X est une console de jeu vidéo portable débloqué et sous licence pour SNK Playmore et fabriqué pour Tommo. Foi lancé le 18 décembre 2012. Éo retorno do console Neo Geo criado na década de noventa. Após alguns boatos e especulações na internet as primeiras informações sobre o Neo Geo X foram relatadas oficialmente em janvier 2012 e o portátil foi posteriormente em março.</text>
+			<text>La Neo-Geo est un système de jeux vidéo pour borne d'arcade compatible JAMMA destiné aux salles d'arcade et créé par la société japonaise SNK en 1990.</text>
 		</text>
 
-	
-		<text name="system_description" extra="true" lang="pt">
-				<text>O Neo Geo X é um console de videogame portátil desenvolvido e licenciado pela SNK Playmore e fabricado pela Tommo. Foi lançado em 18 de dezembro de 2012. É retorno do console Neo Geo criado na década de noventa. Após boatos e ações na internet, as primeiras informações sobre o Neo Geo X foram divulgadas oficialmente em janeiro de 2012 e o portátil foi posteriormente confirmado em março.</text>
+				<text name="system_description" extra="true" lang="pt">
+			<text>Neo Geo é uma família da hardware de videogames desenvolvido pela SNK. A marca originou-se com a liberação de um sistema arcade, o Neo Geo MVS e sua contraparte de console doméstico, o Neo Geo AES.</text>
 		</text>
+
+		
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>Neo Geo X</text>
+			<text>Neo-Geo X</text>
 		</text>
 	</view>
 </theme>

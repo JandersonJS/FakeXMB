@@ -1,4 +1,6 @@
-<!-- Theme by pajarorrojo-->
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
 <theme>
 	<formatVersion>7</formatVersion>
 
@@ -26,7 +28,7 @@ Pertenece a la sexta generación de consolas. El sistema fue el primero en tener
 				
 
 		<text name="system_name" extra="true">
-			<text>Sega Dreamcast</text>
+			<text>Dreamcast</text>
 		</text>
 	</view>
 </theme>

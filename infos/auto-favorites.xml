@@ -1,23 +1,26 @@
+<!-- Theme by pajarorrojo
+https://github.com/pajarorrojo/es-theme-PlayStation-X 
+-->
 <theme>
 	<formatVersion>7</formatVersion>
 
 	<view name="system">
-				
-				<text name="system_description" extra="true">
-				<text>Here are listed your favorite games</text>
-		</text>
-		
-				<text name="system_description" extra="true" lang="es">
-				<text>Aquí están listados tus juegos favoritos</text>
-		</text>
-		
-				<text name="system_description" extra="true" lang="fr">
-				<text>Voici la liste de vos jeux préférés</text>
+
+
+		<text name="system_description" extra="true" >
+			<text></text>
 		</text>
 
-	
-				<text name="system_description" extra="true" lang="pt">
-				<text>Aqui estão listados seus jogos favoritos</text>
+		<text name="system_description" extra="true" lang="es">
+			<text></text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr" >
+			<text></text>
+		</text>
+
+			    <text name="system_description" extra="true" lang="pt" >
+			<text></text>
 		</text>
 
 		

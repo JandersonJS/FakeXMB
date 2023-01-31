@@ -20,7 +20,8 @@
   <view name="screen">
 
     <controllerActivity name="controllerActivity">
-      <pos>0.01 0.012</pos>
+      <origin>0 0</origin>
+      <pos>0.900 0.135</pos>
       <size>0.099 0.025</size>
       <itemSpacing>0.003</itemSpacing>
       <imagePath>./arcade/controller.svg</imagePath>

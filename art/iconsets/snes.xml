@@ -21,7 +21,8 @@
 
 
     <controllerActivity name="controllerActivity">
-      <pos>0.01 0.012</pos>
+      <origin>0 0</origin>
+      <pos>0.900 0.135</pos>
       <size>0.090 0.030</size>
       <itemSpacing>0.003</itemSpacing>
       <imagePath>./snes/controller.svg</imagePath>

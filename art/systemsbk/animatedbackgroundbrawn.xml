@@ -6,6 +6,7 @@
       <size>1 1</size>
       <pos>0 0</pos>
       <origin>0 0</origin>
+      <linearSmooth>true</linearSmooth>
       <path>./art/video/brawn.mp4</path>
       <zIndex>19</zIndex>     
     </video>

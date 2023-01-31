@@ -7,6 +7,7 @@
       <pos>0 0</pos>
       <origin>0 0</origin>
       <path>./art/video/cyan.mp4</path>
+      <linearSmooth>true</linearSmooth>
       <zIndex>19</zIndex>     
     </video>
   </view>

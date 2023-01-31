@@ -20,7 +20,7 @@
       <reflexion>0.16 0.0</reflexion>
       <reflexionOnFrame>true</reflexionOnFrame>
     </image>
-    <image name="CenterFade" extra="static">
+    <image name="CenterFade" extra="true">
       <tile>false</tile>
       <pos>0.5 0.5</pos>
       <size>1 0.5</size>      
@@ -38,10 +38,10 @@
       <glowSize>2</glowSize>
       <reflexion>0.20 0.0</reflexion>
     </text>
-    <image name="carousel-inner" extra="static">
+    <image name="carousel-inner" extra="true">
       <visible>false</visible>
     </image>
-    <image name="carousel-shadow" extra="static">
+    <image name="carousel-shadow" extra="true">
       <visible>false</visible>
     </image>
   </view>

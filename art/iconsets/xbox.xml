@@ -22,7 +22,7 @@
 
     <controllerActivity name="controllerActivity">
       <origin>0 0</origin>
-      <pos>0.900 0.135</pos>
+      <pos>0.690 0.177</pos>
       <size>0.085 0.025</size>
       <itemSpacing>0.003</itemSpacing>
       <imagePath>./xbox/controller.svg</imagePath>

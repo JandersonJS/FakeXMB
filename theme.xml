@@ -1,14 +1,17 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
-Theme: FakeXMB_PLUS
-version: 3.0
+The FakeXMB was made to look like the official Playstation 3 XMB, and has an information bar very similar to the Top-Info of the Playstation-X theme.
+It has monochrome logos in the system view, used in various themes and with various colors, in our case just gray, used mainly in RVGM-BT.
+FakeXMB is a free theme and can be used on your preferred system.
+Enjoy!
+Special thanx: Pajarorojo, Fabrice Caruso and Darknior.
+Theme: FakeXMB
 author: LordOgro
 license: creative commons CC-BY-NC-SA
-originally based on: Carbon 2.0
 -->
 <theme defaultView="detailed">
   <formatVersion>7</formatVersion>
-    <include>./top-info.xml</include>
+    <include>./info.xml</include>
     <include>./infos/${system.theme}.xml</include>
     <include>./custom-username.xml</include>
   <variables>
@@ -158,8 +161,8 @@ originally based on: Carbon 2.0
   <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
       <text name="system_description" extra="static">
       <origin>0.5 0.5</origin>
-      <pos>0.804 0.147</pos>
-      <size>0.18 0.06</size>
+      <pos>0.852 0.147</pos>
+      <size>0.28 0.06</size>
       <forceUppercase>0</forceUppercase>
       <fontSize>0.035</fontSize>
       <color>ffffff</color>
@@ -177,12 +180,12 @@ originally based on: Carbon 2.0
     <!-- Used by random box need to be declared there -->
 
     <image name="infoBar" extra="static">
-      <pos>0.68 0.075</pos>
+      <pos>0.68 0.070</pos>
       <origin>0 0</origin>
       <path>./art/colorglass.png</path>
       <color>${baseColor}7f</color>
       <roundCorners>0.02</roundCorners>
-      <size>0.40 0.10</size>
+      <size>0.40 0.15</size>
       <zIndex>50</zIndex>
       <visible>true</visible>
     </image>
@@ -266,7 +269,7 @@ originally based on: Carbon 2.0
 
       <text name="trophy-level" extra="static">
          <text>2023</text>
-         <pos>0.942 0.082</pos>
+         <pos>0.942 0.082</pos>view name
          <size>0.048 0.035</size>
          <color>ffffff</color>
          <fontPath>./fonts/SST Roman.ttf</fontPath>

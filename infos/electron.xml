@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>The Acorn Electron was a budget version of the BBC Micro educational/home computer introduced by Acorn Computers Ltd on 25 August 1983. It had 32 kilobytes of RAM, and its ROM includes BBC BASIC v2 along with its operating system. </text>
@@ -12,6 +9,14 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
 		<text name="system_description" extra="true" lang="es">
 			<text>El Acorn Electron fue un ordenador doméstico diseñado y comercializado por Acorn Computers en 1983 como una versión barata de su BBC Micro. Tenía 32 kilobytes de RAM, y su ROM incluía BBC BASIC v2 junto con su sistema operativo.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr">
+			<text>L'Acorn Electron était une version économique de l' ordinateur éducatif / domestique BBC Micro introduit par Acorn Computers Ltd le 25 août 1983. Il avait 32 kilo-octets de RAM et sa ROM comprend BBC BASIC v2 avec son système d'exploitation.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>O Acorn Electron era uma versão econômica do computador doméstico/educacional BBC Micro introduzido pela Acorn Computers Ltd em 25 de agosto de 1983. Ele tinha 32 kilobytes de RAM e sua ROM inclui BBC BASIC v2 junto com seu sistema operacional.</text>
 		</text>
 
 

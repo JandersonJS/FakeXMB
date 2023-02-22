@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Chihiro (also known as Sega Chihiro) is an arcade system board developed and used by Sega for a variety of high-end arcade releases in the early-to-mid 2000's. Originally released in 2002 with The House of the Dead III, Chihiro is a successor to the NAOMI series of boards and is based on Microsoft's Xbox console.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Chihiro (también conocido como Sega Chihiro) es una placa de sistema de arcade desarrollada y utilizada por Sega para una variedad de lanzamientos de arcade de alta gama a principios y mediados de la década de 2000. Lanzado originalmente en 2002 con The House of the Dead III, Chihiro es el sucesor de la serie de tableros NAOMI y está basado en la consola Xbox de Microsoft.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Chihiro (également connue sous le nom de Sega Chihiro) est une carte système d'arcade développée et utilisée par Sega pour une variété de versions d'arcade haut de gamme du début au milieu des années 2000. Initialement publié en 2002 avec The House of the Dead III, Chihiro est un successeur de la série de cartes NAOMI et est basé sur la console Xbox de Microsoft.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Chihiro (também conhecido como Sega Chihiro) é uma placa de sistema de arcade desenvolvida e usada pela Sega para uma variedade de lançamentos de arcade de ponta no início e meados dos anos 2000. Originalmente lançado em 2002 com The House of the Dead III, Chihiro é um sucessor da série de placas NAOMI e é baseado no console Xbox da Microsoft.</text>
 		</text>
 		
 				

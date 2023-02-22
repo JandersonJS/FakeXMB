@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>The Compact Disc-Interactive (CD-I, later CD-i) is a digital optical disc data storage format that was mostly developed and marketed by Dutch company Philips.</text>
@@ -18,8 +15,8 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 			<text>Le CD-i, sigle de Compact Disc Interactif, est une console de jeux vidéo et lecteur multimédia conçu par Philips, Sony et Matsushita pour imposer un nouveau standard « multimédia », concept très en vogue depuis le début de l'année 1991. </text>
 		</text>
 
-		<text name="system_description" extra="true" lang="it">
-			<text>Il CD-i (conosciuto anche come Compact Disc Interactive o Philips CD-i) è un lettore multimediale, anche console per videogiochi, sviluppato e commercializzato dalla Philips tra il 1991 e il 1998. </text>
+		<text name="system_description" extra="true" lang="pt">
+			<text>O Compact Disc-Interactive (CD-I, mais tarde CD-i) é um formato de armazenamento de dados de disco óptico digital que foi desenvolvido e comercializado principalmente pela empresa holandesa Philips.</text>
 		</text>
 
 

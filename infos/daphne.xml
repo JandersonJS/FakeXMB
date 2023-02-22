@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 				<text name="system_description" extra="true" >
 			<text>DAPHNE is a Free laserdisc game emulator that allows one to play laserdisc arcade games. Using Daphne, one can play various laserdisc arcade games such Dragon's Lair, Astron Belt and much more.</text>

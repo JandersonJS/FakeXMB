@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Atari (/əˈtɑːri/) is a brand name that has been owned by several entities since its inception in 1972. It is currently owned by French publisher Atari SA through a subsidiary named Atari Interactive. The original Atari, Inc., founded in Sunnyvale, California, in 1972 by Nolan Bushnell and Ted Dabney, was a pioneer in arcade games, home video game consoles and home computers. The company's products, such as Pong and the Atari 2600, helped define the electronic entertainment industry from the 1970s to the mid-1980s.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Atari (/əˈtɑːri/) es una marca que ha sido propiedad de varias entidades desde su creación en 1972. Actualmente es propiedad de la editorial francesa Atari SA a través de una subsidiaria llamada Atari Interactive. La Atari, Inc. original, fundada en Sunnyvale, California, en 1972 por Nolan Bushnell y Ted Dabney, fue pionera en juegos de arcade, consolas de videojuegos para el hogar y computadoras para el hogar. Los productos de la compañía, como Pong y Atari 2600, ayudaron a definir la industria del entretenimiento electrónico desde la década de 1970 hasta mediados de la década de 1980.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Atari (/əˈtɑːri/) est une marque qui appartient à plusieurs entités depuis sa création en 1972. Elle appartient actuellement à l'éditeur français Atari SA via une filiale nommée Atari Interactive. Le premier Atari, Inc., fondé à Sunnyvale, en Californie, en 1972 par Nolan Bushnell et Ted Dabney, était un pionnier des jeux d'arcade, des consoles de jeux vidéo domestiques et des ordinateurs personnels. Les produits de la société, tels que Pong et l'Atari 2600, ont contribué à définir l'industrie du divertissement électronique des années 1970 au milieu des années 1980.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Atari (/əˈtɑːri/) é uma marca que pertence a várias entidades desde sua criação em 1972. Atualmente é propriedade da editora francesa Atari SA por meio de uma subsidiária chamada Atari Interactive. A Atari, Inc. original, fundada em Sunnyvale, Califórnia, em 1972 por Nolan Bushnell e Ted Dabney, foi pioneira em jogos de fliperama, consoles de videogame e computadores domésticos. Os produtos da empresa, como o Pong e o Atari 2600, ajudaram a definir a indústria de entretenimento eletrônico dos anos 1970 até meados dos anos 1980.</text>
 		</text>
 		
 				

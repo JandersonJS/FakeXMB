@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Capcom Co., Ltd. (Japanese: 株式会社カプコン, Hepburn: Kabushiki-gaisha Kapukon) is a Japanese video game developer and publisher. It has created a number of multi-million-selling game franchises, with its most commercially successful being Resident Evil, Monster Hunter, Street Fighter, Mega Man, Devil May Cry, Dead Rising, and Marvel vs. Capcom. Mega Man himself serves as the official mascot of the company. Established in 1979, it has become an international enterprise with subsidiaries in East Asia (Hong Kong), Europe (London, England), and North America (San Francisco, California).</text>
 		</text>
 
-		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+		<text name="system_description" extra="true" lang="es" >
+			<text>Capcom Co., Ltd. (en japonés: 株式会社カプコン, Hepburn: Kabushiki-gaisha Kapukon) es un desarrollador y editor de videojuegos japonés. Ha creado una serie de franquicias de juegos con ventas multimillonarias, siendo las de mayor éxito comercial Resident Evil, Monster Hunter, Street Fighter, Mega Man, Devil May Cry, Dead Rising y Marvel vs. Capcom. El propio Mega Man es la mascota oficial de la empresa. Establecida en 1979, se ha convertido en una empresa internacional con filiales en el este de Asia (Hong Kong), Europa (Londres, Inglaterra) y América del Norte (San Francisco, California).</text>
 		</text>
 
 		
-		<text name="system_description" extra="true" lang="es">
-			<text></text>
+		<text name="system_description" extra="true" lang="fr">
+			<text>Capcom Co., Ltd. (japonais : 株式会社カプコン, Hepburn : Kabushiki-gaisha Kapukon) est un développeur et éditeur de jeux vidéo japonais. Il a créé un certain nombre de franchises de jeux vendues à plusieurs millions d'exemplaires, dont les plus réussies sur le plan commercial sont Resident Evil, Monster Hunter, Street Fighter, Mega Man, Devil May Cry, Dead Rising et Marvel vs Capcom. Mega Man lui-même est la mascotte officielle de l'entreprise. Fondée en 1979, elle est devenue une entreprise internationale avec des filiales en Asie de l'Est (Hong Kong), en Europe (Londres, Angleterre) et en Amérique du Nord (San Francisco, Californie).</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Capcom Co., Ltd. (Japonês: 株式会社カプコン, Hepburn: Kabushiki-gaisha Kapukon) é uma desenvolvedora e editora japonesa de videogames. Ele criou uma série de franquias de jogos que venderam vários milhões, sendo seu maior sucesso comercial Resident Evil, Monster Hunter, Street Fighter, Mega Man, Devil May Cry, Dead Rising e Marvel vs. Capcom. O próprio Mega Man é o mascote oficial da empresa. Fundada em 1979, tornou-se uma empresa internacional com subsidiárias no leste da Ásia (Hong Kong), Europa (Londres, Inglaterra) e América do Norte (São Francisco, Califórnia).</text>
 		</text>
 		
 				

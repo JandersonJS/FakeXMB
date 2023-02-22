@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		
 				<text name="system_description" extra="true" >

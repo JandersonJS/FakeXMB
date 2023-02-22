@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Data East Corporation (データイースト株式会社, Dēta Īsuto kabushiki gaisha), also abbreviated as DECO, was a Japanese video game, pinball and electronic engineering company. The company was in operation from 1976 to 2003, and released 150 video game titles. Its main headquarters were located in Suginami, Tokyo. The American subsidiary, Data East USA, was headquartered in San Jose, California.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Data East Corporation (デ ー タ イ ー ス ト 株 式 会社, Dēta Īsuto kabushiki gaisha ) , également abrégé en DECO , était une société japonaise de jeux vidéo, de flippers et d'ingénierie électronique. La société a été en activité de 1976 à 2003 et a publié 150 titres de jeux vidéo. Son siège principal était situé à Suginami, Tokyo. La filiale américaine, Data East USA, avait son siège social à San Jose, en Californie.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Data East Corporation (データイースト株式会社, Dēta Īsuto kabushiki gaisha), también abreviada como DECO, fue una empresa japonesa de videojuegos, pinball e ingeniería electrónica. La empresa estuvo en funcionamiento desde 1976 hasta 2003 y ha lanzado 150 títulos de videojuegos. Su sede principal estaba ubicada en Suginami, Tokio. La subsidiaria estadounidense, Data East USA, tenía su sede en San José, California.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Data East Corporation (データイースト株式会社, Dēta Īsuto kabushiki gaisha), também abreviado como DECO, foi uma empresa japonesa de videogame, pinball e engenharia eletrônica. A empresa esteve em operação de 1976 a 2003 e lançou 150 títulos de videogame. Sua sede principal estava localizada em Suginami, Tóquio. A subsidiária americana, Data East USA, estava sediada em San Jose, Califórnia.</text>
 		</text>
 		
 				

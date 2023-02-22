@@ -1,30 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Adobe Flash Player (known in Internet Explorer, Firefox, and Google Chrome as Shockwave Flash) is computer software for viewing multimedia contents, executing rich Internet applications, and streaming audio and video content created on the Adobe Flash platform. It can run from a web browser as a browser plug-in or independently on supported devices. Originally created by FutureWave under the name FutureSplash Player, it was renamed to Macromedia Flash Player after Macromedia acquired FutureWave in 1996. It was then developed and distributed by Adobe Systems as Flash Player after Adobe acquired Macromedia in 2005. It is currently developed and distributed by Zhongcheng for users in China, and by Harman International for enterprise users outside of China, in collaboration with Adobe.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Adobe Flash Player (conocido en Internet Explorer, Firefox y Google Chrome como Shockwave Flash) es un software de computadora para ver contenido multimedia, ejecutar aplicaciones de Internet enriquecidas y transmitir contenido de audio y video creado en la plataforma Adobe Flash. Puede ejecutarse desde un navegador web como complemento del navegador o de forma independiente en dispositivos compatibles. Originalmente creado por FutureWave con el nombre FutureSplash Player, pasó a llamarse Macromedia Flash Player después de que Macromedia adquiriera FutureWave en 1996. Luego, Adobe Systems lo desarrolló y distribuyó como Flash Player después de que Adobe adquiriera Macromedia en 2005. Actualmente lo desarrolla y distribuye Zhongcheng para usuarios en China y por Harman International para usuarios empresariales fuera de China, en colaboración con Adobe.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Adobe Flash Player (connu dans Internet Explorer, Firefox et Google Chrome sous le nom de Shockwave Flash) est un logiciel informatique permettant de visualiser des contenus multimédias, d'exécuter des applications Internet riches et de diffuser en continu des contenus audio et vidéo créés sur la plate-forme Adobe Flash. Il peut s'exécuter à partir d'un navigateur Web en tant que plug-in de navigateur ou indépendamment sur les appareils pris en charge. Créé à l'origine par FutureWave sous le nom de FutureSplash Player, il a été renommé Macromedia Flash Player après l'acquisition de FutureWave par Macromedia en 1996. Il a ensuite été développé et distribué par Adobe Systems sous le nom de Flash Player après l'acquisition de Macromedia par Adobe en 2005. Il est actuellement développé et distribué par Zhongcheng pour les utilisateurs en Chine et par Harman International pour les entreprises en dehors de la Chine, en collaboration avec Adobe.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
-		</text>
-		
-		<text name="system_description" extra="true" lang="it">
-				<text></text>
+				<text>Adobe Flash Player (conhecido no Internet Explorer, Firefox e Google Chrome como Shockwave Flash) é um software de computador para visualização de conteúdo multimídia, execução de aplicativos avançados de Internet e streaming de conteúdo de áudio e vídeo criado na plataforma Adobe Flash. Ele pode ser executado em um navegador da Web como um plug-in de navegador ou independentemente em dispositivos compatíveis. Originalmente criado pela FutureWave sob o nome de FutureSplash Player, foi renomeado para Macromedia Flash Player depois que a Macromedia adquiriu a FutureWave em 1996. Em seguida, foi desenvolvido e distribuído pela Adobe Systems como Flash Player depois que a Adobe adquiriu a Macromedia em 2005. Atualmente é desenvolvido e distribuído pela Zhongcheng para usuários na China e pela Harman International para usuários corporativos fora da China, em colaboração com a Adobe.</text>
 		</text>
 		
 				

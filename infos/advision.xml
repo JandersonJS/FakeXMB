@@ -1,15 +1,12 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>Adventure Vision is a cartridge-based video game console released by Entex Industries in either August or October 1982. The monitor, game controls, and computer hardware are all contained within a single portable unit. The LED monitor can only display red pixels. Four games were released, all of which are arcade ports.
 
-Adventure Vision was Entex's second-generation system following the Entex Select-A-Game, released a year earlier in 1981. </text>
+Adventure Vision was Entex's second-generation system following the Entex Select-A-Game, released a year earlier in 1981.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
@@ -17,6 +14,18 @@ Adventure Vision was Entex's second-generation system following the Entex Select
 
 Una interesante característica del Adventure Vision era su "monitor", la consola usaba una línea de 40 LEDs rojos combinados con un espejo rotante localizado adentro de la máquina. Esto permitía una resolución de 150 x 40 píxeles.
 				</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Adventure Vision est une console de jeu vidéo à cartouche lancée par Entex Industries en août ou octobre 1982. Le moniteur, les commandes de jeu et le matériel informatique sont tous contenus dans une seule unité portable. Le moniteur LED ne peut afficher que des pixels rouges. Quatre jeux sont sortis, tous étant des ports d'arcade.
+
+Adventure Vision était le système de deuxième génération d'Entex après l'Entex Select-A-Game, sorti un an plus tôt en 1981.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Adventure Vision é um console de videogame baseado em cartucho lançado pela Entex Industries em agosto ou outubro de 1982. O monitor, os controles do jogo e o hardware do computador estão todos contidos em uma única unidade portátil. O monitor LED só pode exibir pixels vermelhos. Quatro jogos foram lançados, todos os quais são portas de arcade.
+
+Adventure Vision foi o sistema de segunda geração da Entex seguindo o Entex Select-A-Game, lançado um ano antes em 1981.</text>
 		</text>
 
 

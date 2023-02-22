@@ -1,30 +1,22 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-	
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">	
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Flatpak is a framework for distributing desktop applications across various Linux distributions. It has been created by developers who have a long history of working on the Linux desktop, and is run as an independent open source project.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Flatpak es un marco para distribuir aplicaciones de escritorio en varias distribuciones de Linux. Ha sido creado por desarrolladores que tienen un largo historial de trabajo en el escritorio de Linux y se ejecuta como un proyecto de código abierto independiente.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Flatpak est un framework permettant de distribuer des applications de bureau sur diverses distributions Linux. Il a été créé par des développeurs qui travaillent depuis longtemps sur le bureau Linux et est exécuté comme un projet open source indépendant.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
-		</text>
-
-		<text name="system_description" extra="true" lang="it" >
-			<text></text>
+			<text>Flatpak é uma estrutura para distribuição de aplicativos de desktop em várias distribuições do Linux. Ele foi criado por desenvolvedores com um longo histórico de trabalho no desktop Linux e é executado como um projeto de código aberto independente.</text>
 		</text>
 		
 		

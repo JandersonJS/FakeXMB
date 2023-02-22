@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>The CPS-1 or Capcom Play System 1 is an arcade board from Capcom that debuted in 1988 with the game Forgotten Worlds. Street Fighter II, one of the most popular fighting games of all time, used this system. The system has fallen victim to several altered versions of its games.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Le CPS-1 ou Capcom Play System 1 est une carte d'arcade de Capcom qui a fait ses débuts en 1988 avec le jeu Forgotten Worlds. Street Fighter II, l'un des jeux de combat les plus populaires de tous les temps, a utilisé ce système. Le système a été victime de plusieurs versions modifiées de ses jeux.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>La CPS-1 o Capcom Play System 1 es una placa arcade de Capcom que debutó en 1988 con el juego Forgotten Worlds. Street Fighter II, uno de los juegos de lucha más populares de todos los tiempos, utilizó este sistema. El sistema ha sido víctima de varias versiones alteradas de sus juegos.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>O CPS-1 ou Capcom Play System 1 é uma placa de arcade da Capcom que estreou em 1988 com o jogo Forgotten Worlds. Street Fighter II, um dos jogos de luta mais populares de todos os tempos, utilizava esse sistema. O sistema foi vítima de várias versões alteradas de seus jogos.</text>
 		</text>
 		
 				

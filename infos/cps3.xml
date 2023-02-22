@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>The CP System III (CPシステムIII, shīpī shisutemu surī) or CPS-3 is an arcade system board that was first used by Capcom in 1996 with the arcade game Red Earth. It was the second successor to the CP System arcade hardware, following the CP System II. It would be the last proprietary system board Capcom would produce before moving on to the Dreamcast-based Naomi platform. </text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Le CP System III (CP シ ス テ ム III, shīpī shisutemu surī ) ou CPS-3 est une carte système d'arcade qui a été utilisée pour la première fois par Capcom en 1996 avec le jeu d'arcade Red Earth . C'était le deuxième successeur du matériel d'arcade CP System, après le CP System II. Ce serait la dernière carte système propriétaire que Capcom produirait avant de passer à la plate-forme Naomi basée sur Dreamcast.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>El CP System III (CPシステムIII, shīpī shisutemu surī) o CPS-3 es una placa de sistema arcade que Capcom utilizó por primera vez en 1996 con el juego de arcade Red Earth. Fue el segundo sucesor del hardware arcade CP System, siguiendo al CP System II. Sería la última placa de sistema patentada que Capcom produciría antes de pasar a la plataforma Naomi basada en Dreamcast.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>O CP System III (CPシステムIII, shīpī shisutemu surī) ou CPS-3 é uma placa de sistema de arcade que foi usada pela primeira vez pela Capcom em 1996 com o jogo de arcade Red Earth. Foi o segundo sucessor do hardware de arcade CP System, seguindo o CP System II. Seria a última placa de sistema proprietária que a Capcom produziria antes de passar para a plataforma Naomi baseada em Dreamcast.</text>
 		</text>
 		
 				

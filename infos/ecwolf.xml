@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+			<text>ECWolf is a port of the Wolfenstein 3D engine based of Wolf4SDL. It combines the original Wolfenstein 3D engine with the user experience of ZDoom to create the most user and mod author friendly Wolf3D source port.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+			<text>ECWolf es un puerto del motor Wolfenstein 3D basado en Wolf4SDL. Combina el motor Wolfenstein 3D original con la experiencia del usuario de ZDoom para crear el puerto fuente Wolf3D más amigable para el usuario y el autor de mods.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>ECWolf est un portage du moteur 3D Wolfenstein basé sur Wolf4SDL. Il combine le moteur Wolfenstein 3D original avec l'expérience utilisateur de ZDoom pour créer le port source Wolf3D le plus convivial pour les utilisateurs et les auteurs de mods.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+			<text>ECWolf é uma versão do motor Wolfenstein 3D baseado em Wolf4SDL. Ele combina o mecanismo Wolfenstein 3D original com a experiência do usuário do ZDoom para criar a porta de origem Wolf3D mais amigável para usuários e autores de mods.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>ECWolf</text>
+		</text>
+	</view>
+</theme>

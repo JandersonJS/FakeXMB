@@ -1,18 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text>The Commodore Plus/4 is a home computer released by Commodore International in 1984. The "Plus/4" name refers to the four-application ROM resident office suite (word processor, spreadsheet, database, and graphing); it was billed as "the productivity computer with software built-in." </text>
+				<text>The Commodore Plus/4 is a home computer released by Commodore International in 1984. The "Plus/4" name refers to the four-application ROM resident office suite (word processor, spreadsheet, database, and graphing); it was billed as "the productivity computer with software built-in."</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
 				<text>El Commodore Plus/4 fue un ordenador personal realizado por Commodore International en 1984. El nombre «Plus/4» hace referencia al paquete de oficina residente en la memoria ROM compuesto por cuatro aplicaciones (procesador de textos, hoja de cálculo, bases de datos, y gráficos); fue anunciado como «el equipo de la productividad con software incorporado». </text>
-		</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Commodore Plus / 4 est un ordinateur domestique publié par Commodore International en 1984. Le nom "Plus / 4" fait référence à la suite bureautique résidente ROM à quatre applications (traitement de texte, tableur, base de données et graphique); il a été présenté comme "l'ordinateur de productivité avec logiciel intégré".</text>
+			</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Commodore Plus/4 é um computador doméstico lançado pela Commodore International em 1984. O nome "Plus/4" refere-se à suíte de escritório residente da ROM com quatro aplicativos (processador de texto, planilha, banco de dados e gráficos); foi anunciado como "o computador de produtividade com software integrado".</text>
+			</text>
 		
 				
 

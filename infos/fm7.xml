@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>The FM-7 ("Fujitsu Micro 7") is a home computer created by Fujitsu. It was first released in 1982 and was sold in Japan and Spain. It is a stripped-down version of Fujitsu's earlier FM-8 computer, and during development it was referred to as the "FM-8 Jr.".</text>
@@ -12,6 +9,14 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
 		<text name="system_description" extra="true" lang="es">
 			<text>El FM-7 ("Fujitsu Micro 7") es un ordenador doméstico creado por Fujitsu. Se lanzó por primera vez en 1982 y se vendió en Japón y España. Es una versión simplificada del FM-8 anterior de Fujitsu, y durante el desarrollo se le denominó "FM-8 Jr".</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le FM-7 ("Fujitsu Micro 7") est un ordinateur personnel créé par Fujitsu. Il est sorti pour la première fois en 1982 et a été vendu au Japon et en Espagne. Il s'agit d'une version simplifiée de l'ancien ordinateur FM-8 de Fujitsu, et pendant le développement, il a été appelé le "FM-8 Jr.".</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O FM-7 ("Fujitsu Micro 7") é um computador doméstico criado pela Fujitsu. Foi lançado pela primeira vez em 1982 e foi vendido no Japão e na Espanha. É uma versão simplificada do computador FM-8 anterior da Fujitsu e, durante o desenvolvimento, foi referido como "FM-8 Jr.".</text>
 		</text>
 
 

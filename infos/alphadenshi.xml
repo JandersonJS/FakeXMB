@@ -1,32 +1,29 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Alpha Denshi (アルファ電子) was an electronics and software engineering company established in July 1980 in Saitama, Japan, headed by Kazuo Arai. The company originally dealt in communications equipment, but released its first arcade game in May 1981: Janputer, arguably the world's first true mahjong video game.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Alpha Denshi (アルファ電子) fue una empresa de ingeniería de software y electrónica establecida en julio de 1980 en Saitama, Japón, dirigida por Kazuo Arai. La compañía originalmente se ocupaba de equipos de comunicaciones, pero lanzó su primer juego de arcade en mayo de 1981: Janputer, posiblemente el primer videojuego de mahjong verdadero del mundo.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Alpha Denshi (アルファ電子) était une société d'ingénierie électronique et logicielle créée en juillet 1980 à Saitama, au Japon, dirigée par Kazuo Arai. La société s'occupait à l'origine d'équipements de communication, mais a sorti son premier jeu d'arcade en mai 1981 : Janputer, sans doute le premier vrai jeu vidéo de mahjong au monde.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Alpha Denshi (アルファ電子) foi uma empresa de engenharia eletrônica e de software fundada em julho de 1980 em Saitama, Japão, liderada por Kazuo Arai. A empresa originalmente negociava com equipamentos de comunicação, mas lançou seu primeiro jogo de arcade em maio de 1981: Janputer, indiscutivelmente o primeiro videogame de mahjong verdadeiro do mundo.</text>
 		</text>
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>Alpha Densi</text>
+			<text>Alpha Denshi</text>
 		</text>
 	</view>
 </theme>

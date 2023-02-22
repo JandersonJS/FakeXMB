@@ -1,22 +1,30 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform. The original version of the Arduboy was 1.6 millimetres (0.063 in) thick, with the height and width of a credit card, and was initially designed as an electronic business card.
 
-Later consumer versions replaced the first version's touch-sensitive panels by physical buttons, and include a protective plastic case, raising the thickness to 5 millimetres (0.20 in). 
-			</text>
+Later consumer versions replaced the first version's touch-sensitive panels by physical buttons, and include a protective plastic case, raising the thickness to 5 millimetres (0.20 in).</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
 			<text>Arduboy es una consola de juegos portátil con software de código abierto, basada en la plataforma de hardware Arduino. El desarrollo se financió mediante una campaña de Kickstarter en 2015. La versión original del Arduboy tenía 1,6 mm de grosor, la altura y el ancho de una tarjeta de crédito, y fue diseñada inicialmente como una tarjeta de presentación electrónica.
 					
 Las versiones de consumo posteriores reemplazaron los paneles sensibles al tacto de la primera versión por botones físicos e incluyen una caja protectora de plástico, lo que aumenta el grosor a 5 mm. </text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>L'Arduboy est une console de jeu portable avec un logiciel open source, basé sur la plate-forme matérielle Arduino. La version originale de l'Arduboy mesurait 1,6 millimètre (0,063 po) d'épaisseur, avec la hauteur et la largeur d'une carte de crédit, et était initialement conçue comme une carte de visite électronique.
+
+Les versions grand public ultérieures ont remplacé les panneaux tactiles de la première version par des boutons physiques et comprennent un boîtier de protection en plastique, portant l'épaisseur à 5 millimètres (0,20 po).</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Arduboy é um console de jogos portátil com software de código aberto, baseado na plataforma de hardware Arduino. A versão original do Arduboy tinha 1,6 milímetros (0,063 pol.) De espessura, com a altura e a largura de um cartão de crédito e foi inicialmente projetada como um cartão de visita eletrônico.
+
+As versões posteriores do consumidor substituíram os painéis sensíveis ao toque da primeira versão por botões físicos e incluem uma caixa plástica protetora, aumentando a espessura para 5 milímetros (0,20 pol.).</text>
 		</text>
 
 

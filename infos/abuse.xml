@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+			<text>Abuse is a run and gun video game developed by Crack dot Com and published by Electronic Arts in North America and Origin Systems in Europe. It was released on February 29, 1996 for MS-DOS. A Mac OS port of the game was published by Bungie and released on March 5, 1997. The game's source code, along with some of the shareware content, has been in the public domain since the late 1990s and has been ported to Linux and many other platforms.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+			<text>Abuse es un videojuego de correr y disparar desarrollado por Crack dot Com y publicado por Electronic Arts en Norteamérica y Origin Systems en Europa. Fue lanzado el 29 de febrero de 1996 para MS-DOS. Bungie publicó un puerto del juego para Mac OS y lo lanzó el 5 de marzo de 1997. El código fuente del juego, junto con parte del contenido del shareware, ha sido de dominio público desde finales de la década de 1990 y ha sido portado a Linux y muchos otros. otras plataformas.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Abuse est un jeu vidéo run and gun développé par Crack dot Com et édité par Electronic Arts en Amérique du Nord et Origin Systems en Europe. Il est sorti le 29 février 1996 pour MS-DOS. Un port Mac OS du jeu a été publié par Bungie et sorti le 5 mars 1997. Le code source du jeu, ainsi qu'une partie du contenu du shareware, est dans le domaine public depuis la fin des années 1990 et a été porté sur Linux et de nombreux d'autres plateformes.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+			<text>Abuse é um videogame run and gun desenvolvido pela Crack dot Com e publicado pela Electronic Arts na América do Norte e Origin Systems na Europa. Foi lançado em 29 de fevereiro de 1996 para MS-DOS. Uma porta do jogo para Mac OS foi publicada pela Bungie e lançada em 5 de março de 1997. O código-fonte do jogo, junto com parte do conteúdo shareware, está em domínio público desde o final dos anos 1990 e foi portado para Linux e muitos outras plataformas.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Abuse</text>
+		</text>
+	</view>
+</theme>

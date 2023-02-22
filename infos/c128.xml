@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 
 		<text name="system_description" extra="true" >
@@ -20,7 +17,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>O Commodore 128, também conhecido como C128, C-128, C= 128,[n 1] é o último computador doméstico de 8 bits lançado comercialmente pela Commodore Business Machines (CBM). Introduzido em janeiro de 1985 na CES em Las Vegas, apareceu três anos depois de seu antecessor, o best-seller Commodore 64.</text>
 		</text>
 
 		

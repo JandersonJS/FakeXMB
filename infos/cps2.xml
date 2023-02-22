@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>CPS-2 or Capcom Play System 2 is an arcade board created by Capcom. It debuted in 1993 with the game Super Street Fighter II. The CPS-2 consisted of two separate parts; an A board, which connects to the JAMMA wiring and contains components common among CPS-2 games, and a B board, which contains the game itself.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>CPS-2 ou Capcom Play System 2 est une carte d'arcade créée par Capcom. Il a fait ses débuts en 1993 avec le jeu Super Street Fighter II. Le CPS-2 se composait de deux parties distinctes; une carte A, qui se connecte au câblage JAMMA et contient des composants communs aux jeux CPS-2, et une carte B, qui contient le jeu lui-même.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>CPS-2 o Capcom Play System 2 es una placa arcade creada por Capcom. Debutó en 1993 con el juego Super Street Fighter II. El CPS-2 constaba de dos partes separadas; una placa A, que se conecta al cableado JAMMA y contiene componentes comunes entre los juegos CPS-2, y una placa B, que contiene el juego en sí.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>CPS-2 ou Capcom Play System 2 é uma placa de arcade criada pela Capcom. Estreou em 1993 com o jogo Super Street Fighter II. A CPS-2 consistia de duas partes separadas; uma placa A, que se conecta à fiação JAMMA e contém componentes comuns entre os jogos para CPS-2, e uma placa B, que contém o jogo em si.</text>
 		</text>
 		
 				

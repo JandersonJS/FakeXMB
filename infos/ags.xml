@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Adventure Game Studio (acronym AGS) is an open source development tool that is primarily used to create adventure video games. It is aimed at intermediate-level game designers, and combines an integrated development environment (IDE) for configuring most aspects of the game with a C-based scripting language for processing game logic.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Adventure Game Studio (acrónimo AGS) es una herramienta de desarrollo de código abierto que se utiliza principalmente para crear videojuegos de aventuras. Está dirigido a diseñadores de juegos de nivel intermedio y combina un entorno de desarrollo integrado (IDE) para configurar la mayoría de los aspectos del juego con un lenguaje de secuencias de comandos basado en lenguaje C para procesar la lógica del juego.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Adventure Game Studio (acronyme AGS) est un outil de développement open source principalement utilisé pour créer des jeux vidéo d'aventure. Il est destiné aux concepteurs de jeux de niveau intermédiaire et combine un environnement de développement intégré (IDE) pour configurer la plupart des aspects du jeu avec un langage de script basé sur le langage C pour traiter la logique du jeu.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Adventure Game Studio (acrônimo AGS) é uma ferramenta de desenvolvimento de código aberto que é principalmente usado para criar jogos eletrônicos de aventura. Destina-se a designers de jogos de nível intermediário, e combina um ambiente de desenvolvimento integrado (IDE) para configurar a maioria dos aspectos do jogo com uma linguagem de script baseada na linguagem C para processar a lógica do jogo.</text>
 		</text>
 		
 				

@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		
 		<text name="system_description" extra="true" >
@@ -25,12 +22,20 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		
 						
 
-		<text name="system_name" extra="true" >
+		<text name="system_name" extra="true">
 			<text>Retro Achievements</text>
 		</text>
 
-		<text name="system_name" extra="true" lang="es" >
+		<text name="system_name" extra="true" lang="es">
 			<text>Retro Logros (trofeos)</text>
+		</text>
+
+		<text name="system_name" extra="true" lang="fr">
+			<text>Réalisations rétro</text>
+		</text>
+
+		<text name="system_name" extra="true" lang="pt">
+			<text>Conquistas retrô</text>
 		</text>
 	</view>
 </theme>

@@ -1,25 +1,22 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Here we visualize all the games we have on the system.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Aquí visualizamos todos los juegos que tenemos en el sistema.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Ici, nous visualisons tous les jeux que nous avons sur le système.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Aqui visualisamos todos os jogos que possuimos no sistema.</text>
 		</text>
 		
 				

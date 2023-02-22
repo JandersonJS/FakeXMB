@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Cinematronics Incorporated was an arcade game developer that primarily released vector graphics games in the late 1970s and early 1980s. While other companies released games based on raster displays, early in their history, Cinematronics and Atari, Inc. released vector-display games, which offered a distinctive look and a greater graphic capability (at the time), at the cost of being only black and white (initially). Cinematronics also published Dragon's Lair in 1983, the first major LaserDisc video game.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Cinematronics Incorporated était un développeur de jeux d'arcade qui a principalement publié des jeux graphiques vectoriels à la fin des années 1970 et au début des années 1980. Alors que d'autres sociétés ont sorti des jeux basés sur des affichages raster, au début de leur histoire, Cinematronics et Atari, Inc. ont sorti des jeux à affichage vectoriel, qui offraient un look distinctif et une plus grande capacité graphique (à l'époque), au prix d'être uniquement noir et blanc (initialement). Cinematronics a également publié Dragon's Lair en 1983, le premier grand jeu vidéo LaserDisc.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Cinematronics Incorporated fue un desarrollador de juegos de arcade que lanzó principalmente juegos de gráficos vectoriales a fines de la década de 1970 y principios de la de 1980. Mientras que otras compañías lanzaron juegos basados ​​en pantallas de trama, al principio de su historia, Cinematronics y Atari, Inc. lanzaron juegos de pantalla vectorial, que ofrecían una apariencia distintiva y una mayor capacidad gráfica (en ese momento), a costa de ser solo negros. y blanco (inicialmente). Cinematronics también publicó Dragon's Lair en 1983, el primer videojuego importante de LaserDisc.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>A Cinematronics Incorporated foi uma desenvolvedora de jogos arcade que lançou principalmente jogos gráficos vetoriais no final dos anos 1970 e início dos anos 1980. Enquanto outras empresas lançavam jogos baseados em telas raster, no início de sua história, a Cinematronics e a Atari, Inc. e branco (inicialmente). A Cinematronics também publicou Dragon's Lair em 1983, o primeiro grande videogame LaserDisc.</text>
 		</text>
 		
 				

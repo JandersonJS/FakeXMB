@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Atlus Co., Ltd. (株式会社アトラス, Kabushikigaisha Atorasu) is a Japanese video game developer, publisher, arcade manufacturer and distribution company based in Tokyo. A subsidiary of Sega, the company is known for video game series such as Megami Tensei, Persona, Etrian Odyssey and Trauma Center, as well as Print Club (Purikura) arcade machines. Its corporate mascot is Jack Frost, a snowman-like character from their Shin Megami Tensei series. Outside of video games, the company is known for their Purikura arcade machines, which are selfie photo sticker booths popular in East Asia.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Atlus Co., Ltd. (株式会社アトラス, Kabushikigaisha Atorasu) est un développeur, éditeur, fabricant d'arcade et société de distribution de jeux vidéo japonais basé à Tokyo. Filiale de Sega, la société est connue pour ses séries de jeux vidéo telles que Megami Tensei, Persona, Etrian Odyssey et Trauma Center, ainsi que pour les bornes d'arcade Print Club (Purikura). Sa mascotte d'entreprise est Jack Frost, un personnage ressemblant à un bonhomme de neige de leur série Shin Megami Tensei. En dehors des jeux vidéo, la société est connue pour ses machines d'arcade Purikura, qui sont des cabines d'autocollants photo selfie populaires en Asie de l'Est.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Atlus Co., Ltd. (株式会社アトラス, Kabushikigaisha Atorasu) es una desarrolladora, editora, fabricante de máquinas recreativas y distribuidora japonesa de videojuegos con sede en Tokio. Una subsidiaria de Sega, la compañía es conocida por series de videojuegos como Megami Tensei, Persona, Etrian Odyssey y Trauma Center, así como por las máquinas recreativas Print Club (Purikura). Su mascota corporativa es Jack Frost, un personaje parecido a un muñeco de nieve de su serie Shin Megami Tensei. Fuera de los videojuegos, la compañía es conocida por sus máquinas recreativas Purikura, que son cabinas autoadhesivas para selfies populares en el este de Asia.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Atlus Co., Ltd. (株式会社アトラス, Kabushikigaisha Atorasu) é uma desenvolvedora, editora, fabricante de fliperama e distribuidora japonesa de videogames com sede em Tóquio. Uma subsidiária da Sega, a empresa é conhecida por séries de videogames como Megami Tensei, Persona, Etrian Odyssey e Trauma Center, bem como máquinas de fliperama Print Club (Purikura). Seu mascote corporativo é Jack Frost, um personagem parecido com um boneco de neve da série Shin Megami Tensei. Fora dos videogames, a empresa é conhecida por suas máquinas de fliperama Purikura, que são cabines de adesivos para selfies populares no leste da Ásia.</text>
 		</text>
 		
 				

@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Coleco Industries, Inc. was an American company founded in 1932 by Maurice Greenberg as The Connecticut Leather Company. It was a successful toy company in the 1980s, mass-producing versions of Cabbage Patch Kids dolls and its video game consoles, the Coleco Telstar dedicated consoles and ColecoVision. While the company ceased operations in 1988 as a result of bankruptcy, the Coleco brand was revived in 2005, and remains active to this day. </text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Coleco Industries, Inc. était une société américaine fondée en 1932 par Maurice Greenberg sous le nom de Connecticut Leather Company. C'était une entreprise de jouets prospère dans les années 1980, produisant en série des poupées Cabbage Patch Kids et leurs consoles de jeux vidéo, les consoles dédiées Coleco Telstar et ColecoVision. Alors que l'entreprise a cessé ses activités en 1988 à la suite d'une faillite, la marque Coleco a été relancée en 2005 et reste active aujourd'hui.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Coleco Industries, Inc. fue una empresa estadounidense fundada en 1932 por Maurice Greenberg como The Connecticut Leather Company. Fue una exitosa empresa de juguetes en la década de 1980, que producía en masa versiones de las muñecas Cabbage Patch Kids y sus consolas de videojuegos, las consolas dedicadas Coleco Telstar y ColecoVision. Si bien la empresa cesó sus operaciones en 1988 como resultado de la quiebra, la marca Coleco revivió en 2005 y permanece activa en la actualidad.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Coleco Industries, Inc. foi uma empresa americana fundada em 1932 por Maurice Greenberg como The Connecticut Leather Company. Foi uma empresa de brinquedos de sucesso na década de 1980, produzindo em massa versões de bonecas Cabbage Patch Kids e seus consoles de videogame, os consoles dedicados Coleco Telstar e ColecoVision. Enquanto a empresa encerrou as operações em 1988 como resultado da falência, a marca Coleco foi revivida em 2005 e permanece ativa até hoje.</text>
 		</text>
 		
 				

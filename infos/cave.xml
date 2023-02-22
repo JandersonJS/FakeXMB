@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>CAVE Interactive Co., Ltd. is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy. They are known primarily for their "bullet hell" shoot 'em ups; from 1995 up to 2013, CAVE was one of the most prolific shoot 'em up developers in the Japanese market. Alongside this, CAVE has produced a variety of other types games for arcades, home consoles, PCs, and smartphones, also dating back to 1995. "CAVE" is an acronym for "Computer Art Visual Entertainment". </text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>CAVE Interactive Co., Ltd. est une société japonaise de jeux vidéo fondée en 1994 par d'anciens employés de Toaplan suite à sa faillite. Ils sont principalement connus pour leurs shoot'em up "bullet hell" ; de 1995 à 2013, CAVE a été l'un des développeurs de shoot'em up les plus prolifiques du marché japonais. Parallèlement à cela, CAVE a produit une variété d'autres types de jeux pour les arcades, les consoles de salon, les PC et les smartphones, remontant également à 1995. "CAVE" est l'acronyme de "Computer Art Visual Entertainment".</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>CAVE Interactive Co., Ltd. es una empresa japonesa de videojuegos fundada en 1994 por ex empleados de Toaplan tras su quiebra. Son conocidos principalmente por sus shoot'em ups de "infierno de balas"; desde 1995 hasta 2013, CAVE fue uno de los desarrolladores de juegos de disparos más prolíficos del mercado japonés. Además de esto, CAVE ha producido una variedad de otros tipos de juegos para salas de juegos, consolas domésticas, PC y teléfonos inteligentes, que también se remontan a 1995. "CAVE" es un acrónimo de "Computer Art Visual Entertainment".</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>CAVE Interactive Co., Ltd. é uma empresa japonesa de videogames fundada em 1994 por ex-funcionários da Toaplan após sua falência. Eles são conhecidos principalmente por seus tiroteios "infernais"; de 1995 a 2013, CAVE foi um dos desenvolvedores de shoot 'em up mais prolíficos do mercado japonês. Paralelamente, a CAVE produziu uma variedade de outros tipos de jogos para fliperamas, consoles domésticos, PCs e smartphones, também datados de 1995. "CAVE" é um acrônimo para "Computer Art Visual Entertainment".</text>
 		</text>
 		
 				

@@ -1,11 +1,8 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-				
+  <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
 				<text name="system_description" extra="true">
 				<text></text>
 			</text>

@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Founded in 1980, Ko Bong was the first company in Korea to be granted permission for the manufacturing of electromechanical amusement machines, which it started exporting to Lybia and Saudi Arabia in 1982.1 Ko Bong was one of six companies that joined Philko in forming the Korean Computer Graphics Research Association in 1987.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Fondée en 1980, Ko Bong a été la première entreprise coréenne à obtenir l'autorisation de fabriquer des machines d'amusement électromécaniques, qu'elle a commencé à exporter vers la Lybie et l'Arabie saoudite en 1982.1 Ko Bong était l'une des six entreprises qui ont rejoint Philko pour former le Korean Computer Association de recherche graphique en 1987.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Fundada en 1980, Ko Bong fue la primera empresa en Corea a la que se le otorgó permiso para fabricar máquinas recreativas electromecánicas, que comenzó a exportar a Libia y Arabia Saudita en 1982.1 Ko Bong fue una de las seis empresas que se unieron a Philko para formar la Korean Computer Asociación de Investigación Gráfica en 1987.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Fundada em 1980, a Ko Bong foi a primeira empresa na Coreia a obter permissão para a fabricação de máquinas de diversão eletromecânicas, que começou a exportar para a Líbia e a Arábia Saudita em 1982.1 A Ko Bong foi uma das seis empresas que se juntaram à Philko para formar a Korean Computer Associação de Pesquisa Gráfica em 1987.</text>
 		</text>
 		
 				

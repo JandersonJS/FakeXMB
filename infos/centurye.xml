@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Century, formerly known as Allied Leisure, was an American arcade game manufacturer. They were based in Hialeah, Florida, and were one of the top six suppliers of coin-operated arcade video game machinery in the United States during the early 1980s. Century in its modern inception was formed when former Taito of America president Ed Miller and his partner Bill Olliges took over Allied Leisure, Inc. They renamed it "Centuri" in 1980.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Century, anciennement connu sous le nom d'Allied Leisure, était un fabricant américain de jeux d'arcade. Ils étaient basés à Hialeah, en Floride, et étaient l'un des six principaux fournisseurs de machines de jeux vidéo d'arcade à pièces aux États-Unis au début des années 1980. Century, à ses débuts modernes, a été formé lorsque l'ancien président de Taito of America, Ed Miller, et son partenaire Bill Olliges ont repris Allied Leisure, Inc. Ils l'ont renommé "Centuri" en 1980.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Century, anteriormente conocido como Allied Leisure, fue un fabricante estadounidense de juegos de arcade. Tenían su sede en Hialeah, Florida, y fueron uno de los seis principales proveedores de máquinas de videojuegos arcade que funcionan con monedas en los Estados Unidos a principios de la década de 1980. Century en su inicio moderno se formó cuando el ex presidente de Taito of America, Ed Miller, y su socio Bill Olliges se hicieron cargo de Allied Leisure, Inc. Lo rebautizaron como "Centuri" en 1980.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>A Century, anteriormente conhecida como Allied Leisure, era uma fabricante americana de jogos de fliperama. Eles estavam sediados em Hialeah, Flórida, e eram um dos seis principais fornecedores de máquinas de videogame arcade operadas com moedas nos Estados Unidos durante o início dos anos 1980. A Century em seu início moderno foi formada quando o ex-presidente da Taito of America Ed Miller e seu parceiro Bill Olliges assumiram a Allied Leisure, Inc. Eles a renomearam como "Centuri" em 1980.</text>
 		</text>
 		
 				

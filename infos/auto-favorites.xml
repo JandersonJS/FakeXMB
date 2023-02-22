@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>In this list you will find the games that you mark as favorites</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>En esta lista encontrarás los juegos que marcas como favoritos</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Dans cette liste, vous trouverez les jeux que vous marquez comme favoris</text>
 		</text>
 
 			    <text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Nesta lista você encontrará os jogos que você marcou como favoritos</text>
 		</text>
 
 		

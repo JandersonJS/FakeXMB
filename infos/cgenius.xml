@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Commander Genius is a software piece that interprets the Commander Keen and Cosmos the Cosmic Adventure series. As fans and developers we try to implement new features, improve the gameplay and give players an experience that feels like playing the original game but a bit more refreshing.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Commander Genius est un logiciel qui interprète les séries Commander Keen et Cosmos the Cosmic Adventure. En tant que fans et développeurs, nous essayons d'implémenter de nouvelles fonctionnalités, d'améliorer le gameplay et de donner aux joueurs une expérience qui donne l'impression de jouer au jeu original mais un peu plus rafraîchissante.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Commander Genius es una pieza de software que interpreta las series Commander Keen y Cosmos the Cosmic Adventure. Como fanáticos y desarrolladores, tratamos de implementar nuevas funciones, mejorar la jugabilidad y brindarles a los jugadores una experiencia similar a la del juego original, pero un poco más refrescante.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Commander Genius é um software que interpreta as séries Commander Keen e Cosmos the Cosmic Adventure. Como fãs e desenvolvedores, tentamos implementar novos recursos, melhorar a jogabilidade e dar aos jogadores uma experiência semelhante ao jogo original, mas um pouco mais refrescante.</text>
 		</text>
 		
 				

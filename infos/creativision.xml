@@ -1,14 +1,11 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, the older VideoBrain Family Computer, and to a lesser extent the Intellivision game console and Coleco Adam computer, all of which anticipated the trend of video game consoles becoming more like low-end computers. </text>
+			<text>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, the older VideoBrain Family Computer, and to a lesser extent the Intellivision game console and Coleco Adam computer, all of which anticipated the trend of video game consoles becoming more like low-end computers.</text>
 		</text>
 
 		
@@ -17,6 +14,16 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
 			</text>
 		</text>
+
+		
+		<text name="system_description" extra="true" lang="fr">
+			<text>La technologie vidéo CreatiVision est un ordinateur hybride et une console de jeu vidéo domestique introduits par VTech en 1981 et sortis en 1982. L'unité hybride était similaire dans son concept à des ordinateurs tels que l'APF Imagination Machine, l'ancien ordinateur de la famille VideoBrain et, dans une moindre mesure. la console de jeu Intellivision et l'ordinateur Coleco Adam, qui ont tous anticipé la tendance des consoles de jeux vidéo à ressembler davantage à des ordinateurs bas de gamme.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt" >
+			<text>O Video Technology CreatiVision é um computador híbrido e console de videogame doméstico introduzido pela VTech em 1981 e lançado em 1982. A unidade híbrida era semelhante em conceito a computadores como o APF Imagination Machine, o antigo VideoBrain Family Computer e, em menor grau, o console de jogos Intellivision e o computador Coleco Adam, todos antecipando a tendência dos consoles de videogame se tornarem mais parecidos com computadores de baixo custo.</text>
+		</text>
+		
 
 		
 				

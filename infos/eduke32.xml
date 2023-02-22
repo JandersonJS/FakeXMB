@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	    
+
+		<text name="system_description" extra="true" >
+			<text>EDuke32 is an awesome, free homebrew game engine and source port of the classic PC first person shooter Duke Nukem 3D— Duke3D for short—to Windows, Linux, Mac OS X, FreeBSD, several handhelds, your family toaster, and to your girlfriend's vibrator. We've added thousands of cool and useful features and upgrades for regular players and additional editing capabilities and scripting extensions for homebrew developers and mod creators. EDuke32 is open source software that is completely free to use for all non-commercial purposes.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr" >
+			<text>EDuke32 est un moteur de jeu homebrew génial et gratuit et un port source du jeu de tir à la première personne classique sur PC Duke Nukem 3D - Duke3D en abrégé - vers Windows, Linux, Mac OS X, FreeBSD, plusieurs ordinateurs de poche, votre grille-pain familial et le vibromasseur de votre petite amie . Nous avons ajouté des milliers de fonctionnalités et de mises à niveau intéressantes et utiles pour les joueurs réguliers, ainsi que des capacités d'édition et des extensions de script supplémentaires pour les développeurs homebrew et les créateurs de mods. EDuke32 est un logiciel open source entièrement gratuit à utiliser à des fins non commerciales.</text>
+		</text>
+
+		
+		<text name="system_description" extra="true" lang="es">
+			<text>EDuke32 es un increíble motor de juego casero gratuito y puerto fuente del clásico juego de disparos en primera persona para PC Duke Nukem 3D (Duke3D para abreviar) para Windows, Linux, Mac OS X, FreeBSD, varias computadoras de mano, la tostadora de su familia y el vibrador de su novia. . Hemos agregado miles de funciones y actualizaciones geniales y útiles para jugadores regulares y capacidades de edición adicionales y extensiones de secuencias de comandos para desarrolladores caseros y creadores de mods. EDuke32 es un software de código abierto que es de uso completamente gratuito para todos los fines no comerciales.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt" >
+			<text>Eduke32 é um incrível mecanismo de jogo homebrew gratuito e porta de origem do clássico jogo de tiro em primeira pessoa para PC Duke Nukem 3D— Duke3D para abreviar—para Windows, Linux, Mac OS X, FreeBSD, vários computadores de mão, sua torradeira familiar e para o vibrador de sua namorada . Adicionamos milhares de recursos e atualizações legais e úteis para jogadores regulares e recursos adicionais de edição e extensões de script para desenvolvedores homebrew e criadores de mods. Eduke32 é um software de código aberto totalmente gratuito para uso em todos os fins não comerciais.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>EDuke32</text>
+		</text>
+	</view>
+</theme>

@@ -1,21 +1,22 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text>The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released. Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan. Over 30 Arcadia 2001 clones exist.
-
-The unrelated Arcadia Corporation, manufacturer of the Atari 2600 Supercharger add-on, was sued by Emerson for trademark infringement. Arcadia Corporation then changed its name to Starpath. </text>
+				<text>The Arcadia 2001 is a second-generation 8-bit home video game console released by Emerson Radio in May 1982 for a price of US$ 99, several months before the release of ColecoVision. It was discontinued only 18 months later, with a total of 35 games having been released. Emerson licensed the Arcadia 2001 to Bandai, which released it in Japan. Over 30 Arcadia 2001 clones exist. The unrelated Arcadia Corporation, manufacturer of the Atari 2600 Supercharger add-on, was sued by Emerson for trademark infringement. Arcadia Corporation then changed its name to Starpath. </text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>Arcadia 2001 es una consola de 8 bits de segunda generación lanzada por Emerson Radio en 1982 tras el lanzamiento de ColecoVision. Fue retirada solo 18 meses después, habiéndose lanzado un total de 35 juegos. Emerson licenció el Arcadia 2001 a Bandai, que lo lanzó en Japón. Existen más de 30 clones de Arcadia 2001.
-
-Una empresa no relacionada con Arcadia Corporation, fabricante del complemento Atari 2600 Supercharger fue demandada por Emerson por infracción de marca registrada. Arcadia Corporation luego cambió su nombre a Starpath. </text>
+				<text>Arcadia 2001 es una consola de 8 bits de segunda generación lanzada por Emerson Radio en 1982 tras el lanzamiento de ColecoVision. Fue retirada solo 18 meses después, habiéndose lanzado un total de 35 juegos. Emerson licenció el Arcadia 2001 a Bandai, que lo lanzó en Japón. Existen más de 30 clones de Arcadia 2001. Una empresa no relacionada con Arcadia Corporation, fabricante del complemento Atari 2600 Supercharger fue demandada por Emerson por infracción de marca registrada. Arcadia Corporation luego cambió su nombre a Starpath. </text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>L'Arcadia 2001 est une console de jeu vidéo domestique 8 bits de deuxième génération commercialisée par Emerson Radio en mai 1982 au prix de 99 dollars américains, plusieurs mois avant la sortie de ColecoVision. Il a été interrompu seulement 18 mois plus tard, avec un total de 35 jeux sortis. Emerson a autorisé l'Arcadia 2001 à Bandai, qui l'a sorti au Japon. Plus de 30 clones d'Arcadia 2001 existent. La société indépendante Arcadia Corporation, fabricant du module complémentaire Atari 2600 Supercharger, a été poursuivie par Emerson pour contrefaçon de marque. Arcadia Corporation a alors changé son nom en Starpath.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="pt">
+				<text>O Arcadia 2001 é um console de videogame doméstico de 8 bits de segunda geração lançado pela Emerson Radio em maio de 1982 por um preço de US$ 99, vários meses antes do lançamento do ColecoVision. Foi descontinuado apenas 18 meses depois, com um total de 35 jogos lançados. Emerson licenciou o Arcadia 2001 para a Bandai, que o lançou no Japão. Existem mais de 30 clones do Arcadia 2001. A não relacionada Arcadia Corporation, fabricante do complemento Atari 2600 Supercharger, foi processada por Emerson por violação de marca registrada. A Arcadia Corporation então mudou seu nome para Starpath.</text>
 		</text>
 		
 				

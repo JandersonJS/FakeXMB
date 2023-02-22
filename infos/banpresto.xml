@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
-		<text name="system_description" extra="true" >
-			<text></text>
+		<text name="system_description" extra="true">
+			<text>Banpresto was a partly-owned subsidiary of toymaker Bandai from 1989 to 2006, and a wholly-owned subsidiary of Bandai Namco Holdings from 2006 to 2008. In addition to video games, Banpresto produced toys, keyrings, apparel, and plastic models.</text>
 		</text>
 
-		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+		<text name="system_description" extra="true" lang="es" >
+			<text>Banpresto fue una subsidiaria de propiedad parcial del fabricante de juguetes Bandai de 1989 a 2006, y una subsidiaria de propiedad total de Bandai Namco Holdings de 2006 a 2008. Además de videojuegos, Banpresto produjo juguetes, llaveros, prendas de vestir y modelos de plástico.</text>
 		</text>
 
 		
-		<text name="system_description" extra="true" lang="es">
-			<text></text>
+		<text name="system_description" extra="true" lang="fr">
+			<text>Banpresto était une filiale en partie détenue par le fabricant de jouets Bandai de 1989 à 2006 et une filiale en propriété exclusive de Bandai Namco Holdings de 2006 à 2008. En plus des jeux vidéo, Banpresto produisait des jouets, des porte-clés, des vêtements et des modèles en plastique.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>A Banpresto foi uma subsidiária parcial da fabricante de brinquedos Bandai de 1989 a 2006 e uma subsidiária integral da Bandai Namco Holdings de 2006 a 2008. Além de videogames, a Banpresto produziu brinquedos, chaveiros, roupas e modelos de plástico.</text>
 		</text>
 		
 				

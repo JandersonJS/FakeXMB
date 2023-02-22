@@ -1,27 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Raizing and Eighting were formed in part by former staff of Compile, to create arcade games. The development was done by Raizing, while sales and distribution were done by Eighting. Their first game, Mahou Daisakusen/Sorcer Striker was released in 1993. After the arcade developer Toaplan closed their doors, some of their staff went to Raizing, while others began the offshoot companies Cave, Takumi, and Gazelle, all of which were noted for their strong support of the shoot 'em up genre, and the "danmaku" (or "manic") subgenre in particular. Raizing continued to use arcade hardware based on Toaplan's units for years after Toaplan's demise.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Raising et Eighting ont été formés en partie par d'anciens membres du personnel de Compile, pour créer des jeux d'arcade. Le développement a été réalisé par Raizing, tandis que les ventes et la distribution ont été réalisées par Eighting. Leur premier jeu, Mahou Daisakusen/Sorcer Striker est sorti en 1993. Après que le développeur d'arcade Toaplan ait fermé ses portes, certains membres de leur personnel sont allés à Raizing, tandis que d'autres ont commencé les sociétés dérivées Cave, Takumi et Gazelle, qui étaient toutes connues pour leur fort soutien au genre shoot 'em up, et au sous-genre "danmaku" (ou "manic") en particulier. Raizing a continué à utiliser du matériel d'arcade basé sur les unités de Toaplan pendant des années après la disparition de Toaplan.</text>
 		</text>
-
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Raizing y Eighting fueron formados en parte por ex empleados de Compile, para crear juegos de arcade. El desarrollo estuvo a cargo de Raizing, mientras que las ventas y la distribución estuvieron a cargo de Eighting. Su primer juego, Mahou Daisakusen/Sorcer Striker, se lanzó en 1993. Después de que el desarrollador de arcade Toaplan cerrara sus puertas, parte de su personal se fue a Raizing, mientras que otros comenzaron las empresas derivadas Cave, Takumi y Gazelle, todas las cuales se destacaron por su fuerte apoyo al género shoot 'em up y al subgénero "danmaku" (o "maníaco") en particular. Raizing continuó usando hardware arcade basado en las unidades de Toaplan durante años después de la desaparición de Toaplan.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Raizing e Eighting foram formados em parte por ex-funcionários da Compile, para criar jogos de arcade. O desenvolvimento foi feito pela Raizing, enquanto as vendas e distribuição foram feitas pela Eighting. Seu primeiro jogo, Mahou Daisakusen/Sorcer Striker, foi lançado em 1993. Depois que o desenvolvedor de fliperama Toaplan fechou suas portas, alguns de seus funcionários foram para Raizing, enquanto outros começaram as empresas ramificadas Cave, Takumi e Gazelle, todas conhecidas por seu forte apoio ao gênero shoot 'em up e ao subgênero "danmaku" (ou "maníaco") em particular. Raizing continuou a usar hardware de arcade baseado nas unidades de Toaplan por anos após o fim de Toaplan.</text>
 		</text>
 		
 				

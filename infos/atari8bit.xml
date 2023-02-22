@@ -1,18 +1,24 @@
-﻿<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 		<text name="system_description" extra="true">
-<text>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 based on the MOS Technology 6502 CPU. Various versions of the same basic design would be released over the next decade, but remained largely identical internally. These included the original Atari 400 and 800, and their successors, the XL and XE series.</text>
+			<text>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 based on the MOS Technology 6502 CPU. Various versions of the same basic design would be released over the next decade, but remained largely identical internally. These included the original Atari 400 and 800, and their successors, the XL and XE series.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
 			<text>A partir de 1979, Atari construyó una serie de ordenadores personales de 8 bits basados en el CPU 6502 de MOS Technology. Durante la siguiente década serían lanzadas varias versiones del mismo diseño básico, pero seguían siendo en gran parte idénticos internamente. Estos incluyeron el original Atari 400 y el 800, y sus sucesores, la serie XL y XE.</text>
 		</text>
+		
+		<text name="system_description" extra="true" lang="fr">
+			<text>La famille Atari 8 bits est une série d' ordinateurs personnels 8 bits introduits par Atari, Inc. en 1979 sous le nom d' Atari 400 et Atari 800 basés sur le processeur MOS Technology 6502 . Diverses versions de la même conception de base seraient publiées au cours de la prochaine décennie, mais restaient largement identiques en interne. Ceux-ci comprenaient les Atari 400 et 800 originaux, et leurs successeurs, les séries XL et XE.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>A família Atari de 8 bits é uma série de computadores domésticos de 8 bits introduzidos pela Atari, Inc. em 1979 como Atari 400 e Atari 800 baseados na CPU MOS Technology 6502. Várias versões do mesmo design básico seriam lançadas na próxima década, mas permaneceram praticamente idênticas internamente. Isso incluía os Atari 400 e 800 originais e seus sucessores, as séries XL e XE.</text>
+		</text>
+		
 
 
 				

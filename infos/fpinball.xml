@@ -1,27 +1,26 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Future Pinball is a real time Pinball Development System. It allows you to design and play your very own pinball simulation in True real time 3D. It uses Advanced Physics to provide the best possible Simulation of a true to life pinball machine.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Future Pinball est un système de développement de flipper en temps réel. Il vous permet de concevoir et de jouer votre propre simulation de flipper en 3D en temps réel. Il utilise la physique avancée pour fournir la meilleure simulation possible d'un flipper réaliste.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Future Pinball es un sistema de desarrollo de Pinball en tiempo real. Te permite diseñar y jugar tu propia simulación de pinball en 3D en tiempo real real. Utiliza física avanzada para proporcionar la mejor simulación posible de una máquina de pinball real.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Future Pinball é um sistema de desenvolvimento de Pinball em tempo real. Ele permite que você crie e jogue sua própria simulação de pinball em 3D em tempo real. Ele usa física avançada para fornecer a melhor simulação possível de uma verdadeira máquina de pinball.
+
+</text>
 		</text>
 		
 				

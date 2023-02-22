@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>Traduzido do inglês-O TRS-80 Micro Computer System é um microcomputador de mesa lançado em 1977 e vendido pela Tandy Corporation através de suas lojas Radio Shack. O nome é uma abreviação de Tandy Radio Shack, Z80 [microprocessador]. É um dos primeiros computadores domésticos de varejo produzidos em massa e comercializados em massa.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Traduzido do inglês-O TRS-80 Micro Computer System es un microcomputador de mesa lanzado en 1977 y vendido por Tandy Corporation a través de sus lojas Radio Shack. El nombre es una abreviación de Tandy Radio Shack, Z80 [microprocesador]. É um dos primeros computadores domésticos de varejo producidos en masa y comercializados en masa.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Traduzido do francês-O TRS-80 Micro Computer System est un micro-ordinateur de mesa lancé en 1977 et vendu par Tandy Corporation à través de suas lojas Radio Shack. O nome é uma abreviação de Tandy Radio Shack, Z80 [microprocesseur]. É um dos primeiros computadores domésticos de varejo produzidos em massa e comercializados em massa.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Traduzido do inglês-O TRS-80 Micro Computer System é um microcomputador de mesa lançado em 1977 e vendido pela Tandy Corporation através de suas lojas Radio Shack. O nome é uma abreviação de Tandy Radio Shack, Z80 [microprocessador]. É um dos primeiros computadores de varejo produzidos em massa e comercializados em massa.</text>
 		</text>
 		
 				

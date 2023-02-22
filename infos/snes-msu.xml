@@ -1,29 +1,37 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text>The Super NES CD-ROM System, known as Super Famicom CD-ROM Adapter in Japan, is an unreleased video game peripheral for the Super Nintendo Entertainment System (SNES). The add-on built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc.</text>
+				<text>The Super NES CD-ROM Systemv is an unreleased video game peripheral for the Super Nintendo Entertainment System (SNES). The add-on built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc.
+
+The SNES-CD platform was developed in a partnership between Nintendo and Sony. The platform was planned to be launched as an add-on for the standard SNES, as well as a hybrid console by Sony called the PlayStation.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>El Super NES CD-ROM System, conocido como Super Famicom CD-ROM Adapter en Japón, es un periférico de videojuegos inédito para Super Nintendo Entertainment System (SNES). El complemento se basó en la funcionalidad del SNES basado en cartuchos al agregar soporte para un formato basado en CD-ROM conocido como Super Disc.</text>
+				<text>El Super NES CD-ROM Systemv es un periférico de videojuegos inédito para Super Nintendo Entertainment System (SNES). El complemento se basó en la funcionalidad del SNES basado en cartuchos al agregar soporte para un formato basado en CD-ROM conocido como Super Disc.
+
+La plataforma SNES-CD se desarrolló en una asociación entre Nintendo y Sony. Se planeó lanzar la plataforma como un complemento para el SNES estándar, así como una consola híbrida de Sony llamada PlayStation.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>Le système de CD-ROM Super NES, connu sous le nom d'adaptateur de CD-ROM Super Famicom au Japon, est un périphérique de jeu vidéo inédit pour le système de divertissement Super Nintendo (SNES). Le module complémentaire s'appuyait sur les fonctionnalités du SNES à cartouche en ajoutant la prise en charge d'un format basé sur CD-ROM appelé Super Disc.</text>
+			<text>e Super NES CD-ROM Systemv est un périphérique de jeu vidéo inédit pour le Super Nintendo Entertainment System (SNES). Le module complémentaire s'appuyait sur les fonctionnalités du SNES à cartouche en ajoutant la prise en charge d'un format basé sur CD-ROM appelé Super Disc.
+
+La plate-forme SNES-CD a été développée dans le cadre d'un partenariat entre Nintendo et Sony. La plate-forme devait être lancée en tant que module complémentaire pour la SNES standard, ainsi qu'une console hybride de Sony appelée PlayStation.</text>
 		</text>
 
-	
-		<text name="system_description" extra="true" lang="pt">
-				<text>O Super NES CD-ROM System, conhecido como Super Famicom CD-ROM Adapter no Japão, é um periférico de videogame inédito para o Super Nintendo Entertainment System (SNES). O add-on construído sobre a funcionalidade do SNES baseado em cartucho, adicionando suporte para um formato baseado em CD-ROM conhecido como Super Disc.</text>
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Super NES CD-ROM Systemv é um periférico de videogame inédito para o Super Nintendo Entertainment System (SNES). O complemento construído sobre a funcionalidade do SNES baseado em cartucho, adicionando suporte para um formato baseado em CD-ROM conhecido como Super Disc.
+
+A plataforma SNES-CD foi desenvolvida em parceria entre a Nintendo e a Sony. A plataforma foi planejada para ser lançada como um complemento para o SNES padrão, bem como para um console híbrido da Sony chamado PlayStation.</text>
 		</text>
+
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>Super Nintendo MSU</text>
+			<text>Super Disc System</text>
 		</text>
 	</view>
 </theme>

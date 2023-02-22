@@ -1,29 +1,32 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-				
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		
 				<text name="system_description" extra="true">
-				<text>PlayStation Classic is a new mini-console, built to celebrate the rich heritage of the original PlayStation. It has been designed to closely resemble the design of the original console in a much smaller form factor, and is preloaded with 20 games from a wide variety of genres.</text>
-			</text>
+			<text>Is a home video game console developed by Sony Computer Entertainment. The console was the first of the PlayStation lineup of home video game consoles as part of the fifth generation of video game consoles.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>PlayStation Classic es una nueva miniconsola, creada para celebrar la rica herencia de la PlayStation original. Ha sido diseñado para parecerse mucho al diseño de la consola original en un factor de forma mucho más pequeño y está precargado con 20 juegos de una amplia variedad de géneros.</text>
+			<text>PlayStation oficialmente abreviada como PS1 o PSX es la primera videoconsola de Sony. Lanzada el 3 de diciembre de 1994 en Japón, el 9 de septiembre de 1995 en Estados Unidos y el 29 de septiembre de 1995 en Europa. Se considera la videoconsola más exitosa de la quinta generación tanto en ventas como en popularidad.
+
+Tuvo gran éxito al implantar el CD-ROM a pesar de que otras compañías ya lo habían hecho. A finales de los 80, Nintendo acordó con Sony desarrollar para Super Nintendo un perférico que cargara juegos en disco. Finalmente, Nintendo y Sony no llegaron a un acuerdo y esta última decidió lanzar la consola que todos conocemos. Se estima que Sony pudo vender 105 millones de unidades en diez años.  </text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>PlayStation Classic est une nouvelle mini-console, conçue pour célébrer le riche héritage de la PlayStation originale. Il a été conçu pour ressembler étroitement au design de la console d'origine dans un facteur de forme beaucoup plus petit et est préchargé avec 20 jeux d'une grande variété de genres.</text>
+			<text>La PlayStation (プレイステーション) est une console de jeux vidéo de cinquième génération, produite par Sony Computer Entertainment à partir de 1994. Première machine de la gamme PlayStation.</text>
 		</text>
 
-	
-		<text name="system_description" extra="true" lang="pt">
-				<text>O PlayStation Classic é um novo mini-console, construído para celebrar a rica herança do PlayStation original. Ele foi projetado para se assemelhar ao design do console original em um formato muito menor e é pré-carregado com 20 jogos de uma ampla variedade de gêneros.</text>
+				<text name="system_description" extra="true" lang="pt">
+			<text>Foi o primeiro console de vídeo game fabricado pela Sony, desde o seu lançamento vendeu mais de 100 milhões de unidades. Ocupa a posição de segundo console de mesa mais vendido de todos os tempos.</text>
 		</text>
+
 		
-				
+						
 
 		<text name="system_name" extra="true">
-			<text>PlayStation Classic</text>
+			<text>PlayStation Mini</text>
 		</text>
 	</view>
 </theme>

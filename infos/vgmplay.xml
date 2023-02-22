@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>Video game music (or VGM) is the soundtrack that accompanies video games. Early video game music was once limited to sounds of early sound chips, such as programmable sound generators (PSG) or FM synthesis chips. These limitations have led to the style of music known as chiptune, which became the sound of the first video games.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>La música de videojuegos (o VGM) es la banda sonora que acompaña a los videojuegos. La música de los primeros videojuegos alguna vez se limitó a los sonidos de los primeros chips de sonido, como los generadores de sonido programables (PSG) o los chips de síntesis FM. Estas limitaciones han dado lugar al estilo de música conocido como chiptune, que se convirtió en el sonido de los primeros videojuegos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>La musique de jeu vidéo (ou VGM) est la bande sonore qui accompagne les jeux vidéo. Les premières musiques de jeux vidéo étaient autrefois limitées aux sons des premières puces sonores, telles que les générateurs de sons programmables (PSG) ou les puces de synthèse FM. Ces limitations ont conduit au style de musique connu sous le nom de chiptune, qui est devenu le son des premiers jeux vidéo.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+				<text>Música de videogame (ou VGM) é a trilha sonora que acompanha os videogames. A música dos primeiros videogames já foi limitada aos sons dos primeiros chips de som, como geradores de som programáveis ​​(PSG) ou chips de síntese FM. Essas limitações levaram ao estilo de música conhecido como chiptune, que se tornou o som dos primeiros videogames.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Amcoe</text>
+		</text>
+	</view>
+</theme>

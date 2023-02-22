@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The V.Smile is a sixth-generation educational home video game console manufactured and released by VTech. Titles are available on ROM cartridges called "Smartridges" and the graphics are primarily sprite-based.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>V.Smile es una consola de videojuegos doméstica educativa de sexta generación fabricada y lanzada por VTech. Los títulos están disponibles en cartuchos ROM llamados "Smartridges" y los gráficos se basan principalmente en sprites.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr">
+			<text>Le V.Smile est une console de jeu vidéo domestique éducative de sixième génération fabriquée et commercialisée par VTech. Les titres sont disponibles sur des cartouches ROM appelées "Smartridges" et les graphiques sont principalement basés sur des sprites.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>O V.Smile é um console de videogame doméstico educacional de sexta geração fabricado e lançado pela VTech. Os títulos estão disponíveis em cartuchos ROM chamados "Smartridges" e os gráficos são baseados principalmente em sprites.</text>
+		</text>
+
+
+
+		<text name="system_name" extra="true">
+			<text>V.Smile</text>
+		</text>
+	</view>
+</theme>

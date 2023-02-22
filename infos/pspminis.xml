@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
 				<text>PS minis for the PSP, are games available to download from the PlayStation Store. Many of them are also compatible with the PlayStation 3 (PS3), PlayStation Vita (PSVita) and PlayStation TV (PSTV) as indicated. </text>

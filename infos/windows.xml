@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 
 		<text name="system_description" extra="true" >
-			<text>Windows is an operating system designed by Microsoft. The operating system is what allows you to use a computer. Windows comes preloaded on most new personal computers (PCs), which helps to make it the most popular operating system in the world.</text>
+			<text>Microsoft Windows (or simply Windows) is a family of operating systems developed, marketed and sold by Microsoft. It consists of several families of operating systems, each serving a particular sector of the computing industry, and the system is generally associated with the compatible IBM PC architecture. Active Windows families include Windows NT, Windows Embedded, and Windows Phone; these can span subfamilies such as Windows CE or Windows Server.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text>Windows es el sistema operativo insignia de Microsoft, el estándar de facto para las computadoras domésticas y de negocios. El sistema operativo basado en una interfaz gráfica de usuario (GUI) fue introducido en 1985 y se han liberado muchas versiones desde entonces, como se describe a continuación.</text>
+			<text>Microsoft Windows (o simplemente Windows) es una familia de sistemas operativos desarrollados, comercializados y vendidos por Microsoft. Consta de varias familias de sistemas operativos, cada uno de los cuales sirve a un sector particular de la industria informática, y el sistema generalmente está asociado con la arquitectura de PC IBM compatible. Las familias activas de Windows incluyen Windows NT, Windows Embedded y Windows Phone; estos pueden abarcar subfamilias como Windows CE o Windows Server.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text>Windows est au départ une interface graphique unifiée produite par Microsoft, qui est devenue ensuite une gamme de systèmes d’exploitation à part entière, principalement destinés aux ordinateurs compatibles PC.</text>
+			<text>Microsoft Windows (ou simplement Windows) est une famille de systèmes d'exploitation développés, commercialisés et vendus par Microsoft. Il se compose de plusieurs familles de systèmes d'exploitation, chacun desservant un secteur particulier de l'industrie informatique, et le système est généralement associé à l'architecture IBM PC compatible. Les familles Windows actives incluent Windows NT, Windows Embedded et Windows Phone ; ceux-ci peuvent couvrir des sous-familles telles que Windows CE ou Windows Server.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text>O Windows é um sistema operacional de interface gráfica multitarefa. Isso significa que podemos trabalhar com vários programas simultaneamente. Por exemplo poderíamos escutar um CD colocado no CD-ROM enquanto escrevemos um documento, imprimimos um outro e recebemos um fax, todos ao mesmo tempo.</text>
+			<text>Microsoft Windows (ou simplesmente Windows) é uma família de sistemas operacionais desenvolvidos, comercializados e vendidos pela Microsoft. É constituída por várias famílias de sistemas operacionais, cada qual atendendo a um determinado setor da indústria da computação, sendo que o sistema geralmente é associado com a arquitetura IBM PC compatível. As famílias ativas do Windows incluem Windows NT, Windows Embedded e Windows Phone; estes podem abranger subfamílias, como Windows CE ou Windows Server.</text>
 		</text>
 
 		

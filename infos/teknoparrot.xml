@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>TeknoParrot is a software package allowing you to run selected PC-based arcade titles on your own hardware, with full support for keyboard and mouse controls, gamepads, steering wheels and joysticks.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>TeknoParrot es un paquete de software que le permite ejecutar títulos arcade seleccionados para PC en su propio hardware, con soporte completo para controles de teclado y mouse, gamepads, volantes y joysticks.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>TeknoParrot est un progiciel vous permettant d'exécuter des titres d'arcade sur PC sélectionnés sur votre propre matériel, avec une prise en charge complète des commandes du clavier et de la souris, des manettes de jeu, des volants et des joysticks.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>TeknoParrot é um pacote de software que permite executar títulos de fliperama selecionados para PC em seu próprio hardware, com suporte total para controles de teclado e mouse, gamepads, volantes e joysticks.</text>
 		</text>
 		
 				

@@ -1,29 +1,35 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-				
-				<text name="system_description" extra="true">
-				<text>The Super NES Classic Edition is a dedicated home video game console released by Nintendo, which emulates the Super Nintendo Entertainment System. The console, a successor to the NES Classic Edition, comes with twenty-one Super NES titles pre-installed, including the first official release of Star Fox 2. It was released in North America and Europe on September 29, 2017.</text>
-			</text>
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+	
 		
-				<text name="system_description" extra="true" lang="es">
-				<text>La Super NES Classic Edition es una consola de videojuegos doméstica dedicada lanzada por Nintendo, que emula el Super Nintendo Entertainment System. La consola, sucesora de NES Classic Edition, viene con veintiún títulos de Super NES preinstalados, incluido el primer lanzamiento oficial de Star Fox 2. Fue lanzado en Norteamérica y Europa el 29 de septiembre de 2017.</text>
+				<text name="system_description" extra="true" >
+			<text>Is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America.</text>
+		</text>
+				
+				<text name="system_description" lang="es" >
+			<text>La Super Nintendo Entertainment System, conocida popularmente como la Super Nintendo en Europa, Super Famicom en Japón y también nombrada oficialmente de forma abreviada como la Super NES o SNES en América.
+
+Segunda videoconsola de sobremesa de Nintendo y la sucesora de Nintendo Entertainment System (NES) en América y Europa. Mantuvo una gran rivalidad en todo el mundo con la Sega Mega Drive (o Sega Genesis) durante la era de 16 bits.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>La Super NES Classic Edition est une console de jeu vidéo domestique dédiée publiée par Nintendo, qui émule la Super Nintendo Entertainment System. La console, qui succède à la NES Classic Edition, est livrée avec vingt et un titres Super NES préinstallés, dont la première version officielle de Star Fox 2. Elle est sortie en Amérique du Nord et en Europe le 29 septembre 2017.</text>
+			<text>Super Nintendo Entertainment System, ou Super Famicom (スーパーファミコン?) au Japon, est une console de jeux vidéo 16 bits du constructeur japonais Nintendo commercialisée à partir de août 1991.</text>
 		</text>
 
-	
-		<text name="system_description" extra="true" lang="pt">
-				<text>O Super NES Classic Edition é um console de videogame doméstico dedicado lançado pela Nintendo, que emula o Super Nintendo Entertainment System. O console, sucessor do NES Classic Edition, vem com vinte e um títulos do Super NES pré-instalados, incluindo o primeiro lançamento oficial de Star Fox 2. Foi lançado na América do Norte e Europa em 29 de setembro de 2017.</text>
+			<text name="system_description" extra="true" lang="pt">
+			<text>O SNES é o segundo home console da Nintendo. O console apresentou gráficos avançados e recursos de som em comparação com outros consoles na época. Considerado um dos melhores consoles da história.</text>
 		</text>
+
+		
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>Super NES Classic Edition</text>
+			<text>Super Nintendo Mini</text>
 		</text>
-	</view>
+
+		</view>
 </theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>The Retro Engine is a game engine that was originally developed by Christian Whitehead. It is a retro-styled multiplatform engine that has been used in several game remasters in the Sonic the Hedgehog series. Since 2018, the engine has been developed by the newly founded Evening Star Studio.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>Retro Engine es un motor de juego desarrollado originalmente por Christian Whitehead. Es un motor multiplataforma de estilo retro que se ha utilizado en varias remasterizaciones de juegos de la serie Sonic the Hedgehog. Desde 2018, el motor ha sido desarrollado por el recién fundado Evening Star Studio.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>Le Retro Engine est un moteur de jeu développé à l'origine par Christian Whitehead. Il s'agit d'un moteur multiplateforme de style rétro qui a été utilisé dans plusieurs remasters de jeux de la série Sonic the Hedgehog. Depuis 2018, le moteur est développé par le nouveau studio Evening Star.</text>
+		</text>
+	
+				<text name="system_description" extra="true" lang="pt">
+				<text>O Retro Engine é um motor de jogo que foi originalmente desenvolvido por Christian Whitehead. É um mecanismo multiplataforma de estilo retrô que foi usado em vários jogos remasterizados da série Sonic the Hedgehog. Desde 2018, o mecanismo é desenvolvido pelo recém-fundado Evening Star Studio.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Sonic Retro Engine</text>
+		</text>
+	</view>
+</theme>

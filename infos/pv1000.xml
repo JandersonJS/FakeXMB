@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Casio PV-1000 is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Casio PV-1000 es una consola de videojuegos para el hogar de 8 bits de la tercera generación de videoconsolas, desarrollada por Casio y lanzada en octubre de 1983 exclusivamente en Japón a un precio de 14.800 yenes.
+
+Tras su salida al mercado, pronto se hizo evidente que el hardware era más débil que el de las consolas de la competencia y que la consola no ofrecía ventajas significativas sobre otros sistemas. El destino de la consola se selló con la aparición de las dos consolas Nintendo Family Computer y Sega Master System, que ofrecían hardware más potentes y más juegos. Hoy en día es un artículo de colección muy solicitado. 
+			</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>La Casio PV-1000 est une console de jeu vidéo domestique de troisième génération fabriquée par Casio et sortie au Japon en 1983. Elle a été abandonnée moins d'un an après sa sortie.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Casio PV-1000 é um console de videogame doméstico de terceira geração fabricado pela Casio e lançado no Japão em 1983. Foi descontinuado menos de um ano após o lançamento.</text>
+		</text>
+
+		<text name="system_name" extra="true">
+			<text>Casio PV-1000</text>
+		</text>
+	</view>
+</theme>

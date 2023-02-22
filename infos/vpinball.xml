@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text>Visual Pinball is a freeware and source available video game engine for pinball tables and similar games such as pachinko machines. The software is composed of an editor and the simulator part itself. It runs on Microsoft Windows. The program is also able to operate with Visual PinMAME, an emulator for ROM images from real pinball machines.</text>
-			</text>
+				<text>An engine for creating and re-creating pinball machines, virtually. VPE is a toolkit with the goal of making it easy to create pinball machines digitally. It uses Unity's High Definition Render Pipeline and comes with extensive editor tooling that aims to provide all the features needed for such a task.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>Visual Pinball es un motor de videojuegos gratuito y disponible en la fuente para mesas de pinball y juegos similares, como máquinas de pachinko. El software está compuesto por un editor y la parte del simulador en sí. Se ejecuta en Microsoft Windows. El programa también puede operar con Visual PinMAME, un emulador de imágenes ROM de máquinas de pinball reales.</text>
+				<text>Un motor para crear y recrear máquinas de pinball, virtualmente. VPE es un conjunto de herramientas cuyo objetivo es facilitar la creación digital de máquinas de pinball. Utiliza la canalización de procesamiento de alta definición de Unity y viene con herramientas de edición extensas que tienen como objetivo proporcionar todas las características necesarias para tal tarea.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>Visual Pinball est un logiciel gratuit et un moteur de jeu vidéo disponible pour les tables de flipper et les jeux similaires tels que les machines à pachinko. Le logiciel est composé d'un éditeur et de la partie simulateur elle-même. Il fonctionne sur Microsoft Windows. Le programme est également capable de fonctionner avec Visual PinMAME, un émulateur pour les images ROM de vrais flippers.</text>
+				<text>Un moteur pour créer et recréer virtuellement des flippers. VPE est une boîte à outils dont le but est de faciliter la création numérique de flippers. Il utilise le pipeline de rendu haute définition de Unity et est livré avec des outils d'édition complets qui visent à fournir toutes les fonctionnalités nécessaires à une telle tâche.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text>O Visual Pinball é um mecanismo de videogame gratuito e disponível como fonte para mesas de pinball e jogos semelhantes, como máquinas de pachinko. O software é composto por um editor e a própria parte do simulador. Ele é executado no Microsoft Windows. O programa também é capaz de operar com o Visual PinMAME, um emulador para imagens ROM de máquinas de pinball reais.</text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Um mecanismo para criar e recriar máquinas de pinball, virtualmente. O VPE é um kit de ferramentas com o objetivo de facilitar a criação digital de máquinas de pinball. Ele usa o pipeline de renderização de alta definição do Unity e vem com ferramentas de editor extensas que visam fornecer todos os recursos necessários para tal tarefa.</text>
 		</text>
 		
 				

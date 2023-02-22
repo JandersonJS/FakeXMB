@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Windows Installer (msiexec.exe, previously known as Microsoft Installer, codename Darwin) is a software component and application programming interface (API) of Microsoft Windows used for the installation, maintenance, and removal of software. The installation information, and optionally the files themselves, are packaged in installation packages, loosely relational databases structured as COM Structured Storages and commonly known as "MSI files", from their default filename extensions. The packages with the file extensions mst contain Windows Installer "Transformation Scripts", those with the msm extensions contain "Merge Modules" and the file extension pcp is used for "Patch Creation Properties".</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Windows Installer (msiexec.exe, anteriormente conocido como Microsoft Installer, nombre en clave Darwin) es un componente de software y una interfaz de programación de aplicaciones (API) de Microsoft Windows que se utiliza para la instalación, el mantenimiento y la eliminación de software. La información de instalación y, opcionalmente, los propios archivos, se empaquetan en paquetes de instalación, bases de datos relacionales estructuradas libremente como almacenamientos estructurados COM y comúnmente conocidos como "archivos MSI", por sus extensiones de nombre de archivo predeterminadas. Los paquetes con las extensiones de archivo mst contienen "Scripts de transformación" de Windows Installer, los que tienen las extensiones msm contienen "Módulos de combinación" y la extensión de archivo pcp se usa para "Propiedades de creación de parches".</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Windows Installer (msiexec.exe, anciennement connu sous le nom de Microsoft Installer, nom de code Darwin) est un composant logiciel et une interface de programmation d'application (API) de Microsoft Windows utilisés pour l'installation, la maintenance et la suppression de logiciels. Les informations d'installation, et éventuellement les fichiers eux-mêmes, sont regroupés dans des packages d'installation, des bases de données vaguement relationnelles structurées en tant que stockages structurés COM et communément appelées "fichiers MSI", à partir de leurs extensions de nom de fichier par défaut. Les packages avec les extensions de fichier mst contiennent des "scripts de transformation" de Windows Installer, ceux avec les extensions msm contiennent des "modules de fusion" et l'extension de fichier pcp est utilisée pour les "propriétés de création de correctifs".</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Windows Installer (msiexec.exe, anteriormente conhecido como Microsoft Installer, codinome Darwin) é um componente de software e interface de programação de aplicativos (API) do Microsoft Windows usado para instalação, manutenção e remoção de software. As informações de instalação e, opcionalmente, os próprios arquivos, são compactados em pacotes de instalação, bancos de dados relacionais pouco estruturados como armazenamentos estruturados COM e comumente conhecidos como "arquivos MSI", de suas extensões de nome de arquivo padrão. Os pacotes com extensões de arquivo mst contêm "Scripts de transformação" do Windows Installer, aqueles com extensões msm contêm "Módulos de mesclagem" e a extensão de arquivo pcp é usada para "Propriedades de criação de patch".</text>
 		</text>
 
 		

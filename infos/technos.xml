@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>Technōs Japan Corp. was a Japanese video game developer, best known for the Double Dragon and Kunio-kun franchises (the latter including Renegade, Super Dodge Ball and River City Ransom) as well as Karate Champ, The Combatribes and Voltage Fighter Gowcaizer. As of June 2015, Arc System Works owns the intellectual properties of Technōs Japan.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Technōs Japan Corp. fue un desarrollador de videojuegos japonés, mejor conocido por las franquicias Double Dragon y Kunio-kun (esta última incluye Renegade, Super Dodge Ball y River City Ransom), así como Karate Champ, The Combatribes y Voltage Fighter Gowcaizer. Desde junio de 2015, Arc System Works posee las propiedades intelectuales de Technōs Japan.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Technōs Japan Corp. était un développeur de jeux vidéo japonais, surtout connu pour les franchises Double Dragon et Kunio-kun (cette dernière comprenant Renegade, Super Dodge Ball et River City Ransom) ainsi que Karate Champ, The Combatribes et Voltage Fighter Gowcaizer. Depuis juin 2015, Arc System Works détient les propriétés intellectuelles de Technōs Japan.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Technōs Japan Corp. foi uma desenvolvedora de video games japonesa, mais conhecida pelas franquias Double Dragon e Kunio'kun (esta ultima inclui Renegade, Super Dodge Ball e River City Ransom), assim como Karate Champ,The Combatribes e Voltage Fighter Gowcaizer. Desde Junho de 2015, a Arc System Works possui as propriedades intelectuais da Technōs Japan.</text>
 		</text>
 		
 				

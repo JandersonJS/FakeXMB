@@ -1,27 +1,22 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text>The Uzebox is a retro-minimalist homebrew game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it's based on an interrupt driven kernel and has no frame buffer.
-
-</text>
-			</text>
+				<text>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>La Uzebox es una consola de juegos casera retro-minimalista. Se basa en un microcontrolador de propósito general AVR de 8 bits fabricado por Atmel. La particularidad del sistema es que se basa en un kernel controlado por interrupciones y no tiene un búfer de cuadros.
-
-</text>
+				<text>Uzebox es una videoconsola libre de diseño retro. Se basa en el microcontrolador AVR de 8 bits de Atmel.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>L'Uzebox est une console de jeu homebrew rétro-minimaliste. Il est basé sur un microcontrôleur AVR 8 bits à usage général fabriqué par Atmel. La particularité du système est qu'il est basé sur un noyau piloté par interruption et n'a pas de tampon de trame.</text>
+				<text>La Uzebox est une console de jeux vidéo open source, aux graphismes rétro minimalistes. Elle est basée sur un microcontrôleur AVR 8-bit, fabriqué par la société Atmel. La particularité du système est l'utilisation d'un noyau conduit interrompu, et qu'il n'a pas de framebuffer. Les jeux sont développables en C.</text>
 		</text>
 
-	
-		<text name="system_description" extra="true" lang="pt">
-				<text>O Uzebox é um console de jogos homebrew retro-minimalista. Ele é baseado em um microcontrolador de uso geral AVR de 8 bits feito pela Atmel. A particularidade do sistema é que ele é baseado em um kernel acionado por interrupção e não possui buffer de quadros.</text>
+				<text name="system_description" extra="true" lang="pt">
+			        <text>O Uzebox é um console de jogos de código aberto de 8 bits retro-minimalista. Ele é baseado em um microcontrolador de uso geral AVR de 8 bits fabricado pela Atmel.</text>
 		</text>
 		
 				

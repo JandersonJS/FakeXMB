@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987.</text>
@@ -13,6 +10,15 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		<text name="system_description" extra="true" lang="es">
 			<text>La Atari XE Video Game System (o Atari XEGS) es una consola de videojuegos lanzada por Atari Corporation en 1987. Basada en el microordenador Atari 65XE, la XEGS es compatible con la biblioteca de software de las máquinas de la familia Atari de 8 bits.</text>
 		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le système de jeu vidéo Atari XE (Atari XEGS) est une refonte industrielle de l'ordinateur personnel Atari 65XE et le modèle final de la famille Atari 8 bits. Il a été publié par Atari Corporation en 1987.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Atari XE Video Game System (Atari XEGS) é um redesenho industrial do computador doméstico Atari 65XE e o modelo final da família Atari de 8 bits. Foi lançado pela Atari Corporation em 1987.</text>
+		</text>
+		
 
 
 		<text name="system_name" extra="true">

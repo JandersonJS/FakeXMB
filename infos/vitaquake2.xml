@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+			<text>As its title suggests, VitaQuake II is a port of Quake II’s engine for the PSVita. Quake II is a massively popular game that was released in late 1997 by id Software as a successor (but not a direct sequel) to Quake I.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+			<text>Como sugiere su título, VitaQuake II es un puerto del motor de Quake II para PSVita. Quake II es un juego enormemente popular que fue lanzado a finales de 1997 por id Software como sucesor (pero no como secuela directa) de Quake I.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Comme son titre l'indique, VitaQuake II est un portage du moteur de Quake II pour la PSVita. Quake II est un jeu massivement populaire sorti fin 1997 par id Software en tant que successeur (mais pas une suite directe) de Quake I.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+			<text>Como o título sugere, o VitaQuake II é uma porta do mecanismo do Quake II para o PSVita. Quake II é um jogo extremamente popular que foi lançado no final de 1997 pela id Software como um sucessor (mas não uma sequência direta) de Quake I.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Amcoe</text>
+		</text>
+	</view>
+</theme>

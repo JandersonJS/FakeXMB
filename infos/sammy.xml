@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Sammy Corporation is a Japanese developer and retailer of pachinko and pachislot machines, headquartered in Shinagawa, Tokyo. Its South Korean office, Sammy Amusement Service, is headquartered in Seoul, South Korea. Sammy is a subsidiary of the entertainment conglomerate Sega Sammy Holdings.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Sammy Corporation es un desarrollador y minorista japonés de máquinas pachinko y pachislot, con sede en Shinagawa, Tokio. Su oficina de Corea del Sur, Sammy Amusement Service, tiene su sede en Seúl, Corea del Sur. Sammy es una subsidiaria del conglomerado de entretenimiento Sega Sammy Holdings.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Sammy Corporation est un développeur et détaillant japonais de machines pachinko et pachislot, dont le siège est à Shinagawa, Tokyo. Son bureau sud-coréen, Sammy Amusement Service, a son siège à Séoul, en Corée du Sud. Sammy est une filiale du conglomérat de divertissement Sega Sammy Holdings.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>A Sammy Corporation é uma desenvolvedora e varejista japonesa de máquinas pachinko e pachislot, com sede em Shinagawa, Tóquio. Seu escritório sul-coreano, Sammy Amusement Service, está sediado em Seul, Coréia do Sul. Sammy é uma subsidiária do conglomerado de entretenimento Sega Sammy Holdings.</text>
 		</text>
 		
 				

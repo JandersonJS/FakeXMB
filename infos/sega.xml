@@ -1,24 +1,24 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Sega Corporation is a Japanese multinational video game and entertainment company headquartered in Shinagawa, Tokyo. Its international branches, Sega of America and Sega Europe, are headquartered in Irvine, California and London, respectively. Its division for the development of both arcade games and home video games, Sega Games, has existed in its current state since 2020; from 2015 to that point, the two had made up separate entities known as Sega Games and Sega Interactive Co., Ltd. Sega is a subsidiary of Sega Sammy Holdings. From 1983 until 2001, Sega also developed video game consoles.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Sega Corporation est une multinationale japonaise de jeux vidéo et de divertissement dont le siège est à Shinagawa, Tokyo. Ses succursales internationales, Sega of America et Sega Europe, ont respectivement leur siège social à Irvine, en Californie et à Londres. Sa division pour le développement de jeux d'arcade et de jeux vidéo domestiques, Sega Games, existe dans son état actuel depuis 2020 ; de 2015 à ce moment-là, les deux avaient constitué des entités distinctes connues sous le nom de Sega Games et Sega Interactive Co., Ltd. Sega est une filiale de Sega Sammy Holdings. De 1983 à 2001, Sega a également développé des consoles de jeux vidéo.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Sega Corporation es una multinacional japonesa de videojuegos y entretenimiento con sede en Shinagawa, Tokio. Sus sucursales internacionales, Sega of America y Sega Europe, tienen su sede en Irvine, California y Londres, respectivamente. Su división para el desarrollo tanto de juegos arcade como de videojuegos domésticos, Sega Games, existe en su estado actual desde 2020; desde 2015 hasta ese momento, los dos formaron entidades separadas conocidas como Sega Games y Sega Interactive Co., Ltd. Sega es una subsidiaria de Sega Sammy Holdings. Desde 1983 hasta 2001, Sega también desarrolló consolas de videojuegos.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>A Sega Corporation é uma empresa multinacional japonesa de videogames e entretenimento com sede em Shinagawa, Tóquio. Suas filiais internacionais, Sega of America e Sega Europe, estão sediadas em Irvine, Califórnia e Londres, respectivamente. Sua divisão para o desenvolvimento de jogos de arcade e videogames domésticos, Sega Games, existe em seu estado atual desde 2020; de 2015 até aquele momento, os dois formaram entidades separadas conhecidas como Sega Games e Sega Interactive Co., Ltd. A Sega é uma subsidiária da Sega Sammy Holdings. De 1983 a 2001, a Sega também desenvolveu consoles de videogame.</text>
 		</text>
 		
 				

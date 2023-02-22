@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design... no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future."</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>La VIC-20 fue la primera computadora de cualquier descripción en vender un millón de unidades. Se describió como "una de las primeras computadoras antiespectatoriales, no esotéricas por diseño... ya no relegada a aficionados / entusiastas o personas con dinero, la computadora que desarrolló Commodore fue la computadora del futuro".</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Le VIC-20 a été le premier ordinateur de toute description à vendre un million d'unités. Il a été décrit comme "l'un des premiers ordinateurs anti-spectatorial et non ésotérique de par sa conception... n'est plus relégué aux amateurs / passionnés ou à ceux qui ont de l'argent, l'ordinateur développé par Commodore était l'ordinateur du futur".</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>O VIC-20 foi o primeiro computador de qualquer descrição a vender um milhão de unidades. Foi descrito como "um dos primeiros computadores anti-espectatoriais e não esotéricos por design... não mais relegado a amadores / entusiastas ou àqueles com dinheiro, o computador desenvolvido pela Commodore era o computador do futuro."</text>
 		</text>
 		
 				

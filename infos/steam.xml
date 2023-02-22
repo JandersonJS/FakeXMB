@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>Steam é um software de gestão de direitos digitais criado pela Valve Corporation ou Valve L.L.C., de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>Steam es un software de gestión de direcciones digitales criado por Valve Corporation o Valve L.L.C., de plataformas digitales como juegos y aplicaciones de programación y fornece servicios facilitados como actualización automática de juegos, y precios acessíveis aos usuários.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>Steam est un logiciel de gestion numérique créé par Valve Corporation ou Valve L.L.C., de plates-formes numériques comme outils de programmation et de fornece serviços facilitados comme automatisation automatique des outils, et preços acessíveis aos usuários.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+				<text>Steam é um software de gerenciamento de direitos digitais criado pela Valve Corporation ou Valve L.L.C., de plataformas digitais como jogos e aplicativos de programação e fornece serviços facilitados como atualização automática de jogos, e preços acessíveis aos usuários.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Steam</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+			<text>First released over 20 years ago, Zelda Classic is a game engine made to recreate and modify the original Legend of Zelda game. The community surrounding it has created over 600 quests or custom games from it, totaling in about 20+ hours of content.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+			<text>Lanzado por primera vez hace más de 20 años, Zelda Classic es un motor de juego creado para recrear y modificar el juego original de Legend of Zelda. La comunidad que lo rodea ha creado más de 600 misiones o juegos personalizados, con un total de más de 20 horas de contenido.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Sorti pour la première fois il y a plus de 20 ans, Zelda Classic est un moteur de jeu conçu pour recréer et modifier le jeu original Legend of Zelda. La communauté qui l'entoure a créé plus de 600 quêtes ou jeux personnalisés à partir de celui-ci, totalisant plus de 20 heures de contenu.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+			<text>Lançado pela primeira vez há mais de 20 anos, Zelda Classic é um mecanismo de jogo feito para recriar e modificar o jogo Legend of Zelda original. A comunidade ao seu redor criou mais de 600 missões ou jogos personalizados a partir dele, totalizando cerca de 20+ horas de conteúdo.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Amcoe</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+			<text>XRick is an open source implementation of the game "Rick Dangerous". Rick Dangerous is a platform game developed by Core Design for the Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64, and MS-DOS. The game was released in 1989 and published by MicroProse on the Firebird Software label in the UK, and on the MicroPlay label in America. It was also published in Spain by Erbe Software. Later, it was released with two other games, Stunt Car Racer and MicroProse Soccer, on the Commodore 64 Powerplay 64 cartridge. The game was followed by a sequel, Rick Dangerous 2, in 1990. Loosely based on the Indiana Jones film franchise, the game received mixed reviews from critics. This libretro core is based on BigOrno's work.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+			<text>XRick es una implementación de código abierto del juego "Rick Dangerous". Rick Dangerous es un juego de plataformas desarrollado por Core Design para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 y MS-DOS. El juego fue lanzado en 1989 y publicado por MicroProse en el sello Firebird Software en el Reino Unido y en el sello MicroPlay en Estados Unidos. También fue publicado en España por Erbe Software. Más tarde, se lanzó con otros dos juegos, Stunt Car Racer y MicroProse Soccer, en el cartucho Commodore 64 Powerplay 64. El juego fue seguido por una secuela, Rick Dangerous 2, en 1990. Basado libremente en la franquicia cinematográfica de Indiana Jones, el juego recibió críticas mixtas de los críticos. Este núcleo de libretro está basado en el trabajo de BigOrno.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>XRick est une implémentation open source du jeu "Rick Dangerous". Rick Dangerous est un jeu de plateforme développé par Core Design pour Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 et MS-DOS. Le jeu est sorti en 1989 et publié par MicroProse sur le label Firebird Software au Royaume-Uni et sur le label MicroPlay en Amérique. Il a également été publié en Espagne par Erbe Software. Plus tard, il est sorti avec deux autres jeux, Stunt Car Racer et MicroProse Soccer, sur la cartouche Commodore 64 Powerplay 64. Le jeu a été suivi d'une suite, Rick Dangerous 2, en 1990. Librement basé sur la franchise de films Indiana Jones, le jeu a reçu des critiques mitigées de la part des critiques. Ce noyau libretro est basé sur le travail de BigOrno.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+			<text>XRick é uma implementação de código aberto do jogo "Rick Dangerous". Rick Dangerous é um jogo de plataforma desenvolvido pela Core Design para Acorn Archimedes, Amiga, Atari ST, Amstrad CPC, ZX Spectrum, Commodore 64 e MS-DOS. O jogo foi lançado em 1989 e publicado pela MicroProse no selo Firebird Software no Reino Unido e no selo MicroPlay na América. Também foi publicado na Espanha pela Erbe Software. Mais tarde, foi lançado com dois outros jogos, Stunt Car Racer e MicroProse Soccer, no cartucho Commodore 64 Powerplay 64. O jogo foi seguido por uma sequência, Rick Dangerous 2, em 1990. Vagamente baseado na franquia de filmes de Indiana Jones, o jogo recebeu críticas mistas dos críticos. Este núcleo de libretro é baseado no trabalho de BigOrno.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Rick Dangerous</text>
+		</text>
+	</view>
+</theme>

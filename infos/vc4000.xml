@@ -1,0 +1,30 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>The Interton Video Computer 4000 (officially abbreviated as Interton VC 4000) is an early 8-bit ROM cartridge-based second-generation home video game console that was released in Germany, England, France, Spain, Austria, the Netherlands and Australia in 1978.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>Interton Video Computer 4000 (abreviado oficialmente como Interton VC 4000) es una de las primeras consolas de videojuegos domésticas de segunda generación basadas en cartuchos de 8 bits que se lanzó en Alemania, Inglaterra, Francia, España, Austria, los Países Bajos y Australia en 1978.</text>
+		        </text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>L'Interton Video Computer 4000 (officiellement abrégé en Interton VC 4000) est une première console de jeu vidéo domestique de deuxième génération basée sur une cartouche ROM 8 bits qui a été lancée en Allemagne, en Angleterre, en France, en Espagne, en Autriche, aux Pays-Bas et en Australie en 1978.</text>
+		        </text>
+
+				<text name="system_description" extra="true" lang="pt">
+			        <text>O Interton Video Computer 4000 (oficialmente abreviado como Interton VC 4000) é um console de videogame doméstico de segunda geração baseado em cartucho ROM de 8 bits que foi lançado na Alemanha, Inglaterra, França, Espanha, Áustria, Holanda e Austrália em 1978.</text>
+		        </text>
+		
+		
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Interton Video Computer 4000</text>
+		</text>
+	</view>
+</theme>

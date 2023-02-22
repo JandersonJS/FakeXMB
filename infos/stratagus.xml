@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>Stratagus is a free and open-source cross-platform game engine used to build real-time strategy video games. Licensed under the GNU GPL-2.0-only, it is written mostly in C++ with the configuration language being Lua.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Stratagus es un motor de juego multiplataforma gratuito y de código abierto que se utiliza para crear videojuegos de estrategia en tiempo real. Con licencia GNU GPL-2.0 únicamente, está escrito principalmente en C++ y el lenguaje de configuración es Lua.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Stratagus est un moteur de jeu multiplateforme gratuit et open source utilisé pour créer des jeux vidéo de stratégie en temps réel. Sous licence GNU GPL-2.0 uniquement, il est écrit principalement en C++, le langage de configuration étant Lua.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Stratagus é um mecanismo de jogo multiplataforma gratuito e de código aberto usado para criar videogames de estratégia em tempo real. Licenciado apenas sob GNU GPL-2.0, é escrito principalmente em C++ com a linguagem de configuração sendo Lua.</text>
 		</text>
 		
 				

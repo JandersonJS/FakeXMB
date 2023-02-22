@@ -1,32 +1,30 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text>Quake is a first-person shooter game developed by id Software and published by GT Interactive. The first game in the Quake series,[8] it was originally released for MS-DOS, Microsoft Windows and Linux in 1996, followed by Mac OS and Sega Saturn in 1997 and Nintendo 64 in 1998. In the game, players must find their way through various maze-like, medieval environments while battling monsters using an array of weaponry. The overall atmosphere is dark and gritty, with many stone textures and a rusty, capitalized font. Quake takes heavy inspiration from gothic fiction and the works of H. P. Lovecraft.</text>
+			<text>Tyr-Quake is a branch of the Quake source code released by id Software. It is intended to support Quake and Quakeworld while fixing little bugs that have come up over the years.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text>Quake est un jeu de tir à la première personne développé par id Software et édité par GT Interactive. Le premier jeu de la série Quake,[8] il a été initialement publié pour MS-DOS, Microsoft Windows et Linux en 1996, suivi par Mac OS et Sega Saturn en 1997 et Nintendo 64 en 1998. Dans le jeu, les joueurs doivent trouver leur traversez divers environnements médiévaux ressemblant à des labyrinthes tout en combattant des monstres à l'aide d'un éventail d'armes. L'atmosphère générale est sombre et graveleuse, avec de nombreuses textures de pierre et une police rouillée en majuscule. Quake s'inspire fortement de la fiction gothique et des œuvres de H. P. Lovecraft.
-
-</text>
+			<text>Tyr-Quake est une branche du code source de Quake publié par id Software. Il est destiné à prendre en charge Quake et Quakeworld tout en corrigeant les petits bogues qui sont apparus au fil des ans.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text>Quake es un juego de disparos en primera persona desarrollado por id Software y publicado por GT Interactive. El primer juego de la serie Quake,[8] se lanzó originalmente para MS-DOS, Microsoft Windows y Linux en 1996, seguido de Mac OS y Sega Saturn en 1997 y Nintendo 64 en 1998. En el juego, los jugadores deben encontrar su Ábrete camino a través de varios entornos medievales similares a laberintos mientras luchas contra monstruos usando una variedad de armas. La atmósfera general es oscura y arenosa, con muchas texturas de piedra y una fuente oxidada en mayúsculas. Quake se inspira mucho en la ficción gótica y las obras de H. P. Lovecraft.</text>
+			<text>Tyr-Quake es una rama del código fuente de Quake publicado por id Software. Está destinado a admitir Quake y Quakeworld mientras corrige pequeños errores que han surgido a lo largo de los años.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text>Quake é um jogo de tiro em primeira pessoa desenvolvido pela id Software e publicado pela GT Interactive. O primeiro jogo da série Quake,[8] foi lançado originalmente para MS-DOS, Microsoft Windows e Linux em 1996, seguido por Mac OS e Sega Saturn em 1997 e Nintendo 64 em 1998. No jogo, os jogadores devem encontrar seus caminho através de vários ambientes medievais semelhantes a labirintos enquanto luta contra monstros usando uma variedade de armas. A atmosfera geral é escura e arenosa, com muitas texturas de pedra e uma fonte enferrujada e maiúscula. Quake se inspira fortemente na ficção gótica e nas obras de H. P. Lovecraft.</text>
+			<text>Tyr-Quake é uma ramificação do código-fonte do Quake lançado pela id Software. Destina-se a apoiar Quake e Quakeworld enquanto corrige pequenos bugs que surgiram ao longo dos anos.</text>
 		</text>
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>TyrQuake</text>
+			<text>Tyr-Quake</text>
 		</text>
 	</view>
 </theme>

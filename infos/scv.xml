@@ -1,24 +1,22 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text>The Super Cassette Vision is a home video game console made by Epoch Co. and released in Japan on July 17, 1984, and in Europe, specifically France, later in 1984. A successor to the Cassette Vision, it competed with Nintendo's Family Computer and Sega's SG-1000 line in Japan.
-</text>
+				<text>The Super Cassette Vision is a home video game console made by Epoch Co. and released in Japan on July 17, 1984, and in Europe, specifically France, later in 1984. A successor to the Cassette Vision, it competed with Nintendo's Family Computer and Sega's SG-1000 line in Japan.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text>Super Cassette Vision es una consola de videojuegos doméstica fabricada por Epoch Co. y lanzada en Japón el 17 de julio de 1984 y en Europa, específicamente en Francia, más tarde en 1984. Sucesora de Cassette Vision, compitió con Family Computer de Nintendo y Línea SG-1000 de Sega en Japón.</text>
+				<text>Super Cassette Vision es una consola de videojuegos hecha por Epoch Co. y lanzada en Japón el 17 de julio de 1984, y en Europa, específicamente en Francia, más tarde en 1984. Sucesor de Cassette Vision, compitió con la Family Computer de Nintendo y el SG-1000 de Sega en Japón. </text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text>La Super Cassette Vision est une console de jeu vidéo domestique fabriquée par Epoch Co. et sortie au Japon le 17 juillet 1984, et en Europe, plus précisément en France, plus tard en 1984. Successeur de la Cassette Vision, elle a concurrencé la Family Computer de Nintendo et La ligne SG-1000 de Sega au Japon.</text>
+			<text>La Super Cassette Vision est une console de jeu vidéo domestique fabriquée par Epoch Co. et sortie au Japon le 17 juillet 1984, et en Europe, plus précisément en France, plus tard en 1984. Successeur de la Cassette Vision, elle a concurrencé la Family Computer de Nintendo et La ligne SG-1000 de Sega au Japon.</text>
 		</text>
 
-	
-		<text name="system_description" extra="true" lang="pt">
-				<text>O Super Cassette Vision é um console de videogame doméstico feito pela Epoch Co. e lançado no Japão em 17 de julho de 1984, e na Europa, especificamente na França, mais tarde em 1984. Um sucessor do Cassette Vision, competiu com o Family Computer da Nintendo e Linha SG-1000 da Sega no Japão.</text>
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Super Cassette Vision é um console de videogame doméstico fabricado pela Epoch Co. e lançado no Japão em 17 de julho de 1984 e na Europa, especificamente na França, no final de 1984. Sucessor do Cassette Vision, competiu com o Family Computer da Nintendo e Linha SG-1000 da Sega no Japão.</text>
 		</text>
 		
 				

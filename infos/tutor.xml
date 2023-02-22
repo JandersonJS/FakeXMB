@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Tomy Tutor, originally sold in Japan as the Pyūta (ぴゅう太) and in the UK as the Grandstand Tutor, is a home computer produced by the Japanese toymaker Tomy. It was architecturally similar, but not identical, to the Texas Instruments TI-99/4A, and used a similar Texas Instruments 16-bit CPU. The computer was launched in Japan in 1982, and in the UK and the United States in the next year.
+				</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Tomy Tutor, originalmente vendido en Japón como Pyūta (ぴゅう太) y en el Reino Unido como Grandstand Tutor, es un ordenador doméstico producido por el fabricante japonés de juguetes Tomy. Era arquitectónicamente similar, pero no idéntico, al Texas Instruments TI-99/4A, y usaba una CPU de 16 bits de Texas Instruments similar. Se lanzó en Japón en 1982 y en el Reino Unido y los Estados Unidos al año siguiente.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr">
+			<text>Le Tomy Tutor , vendu à l'origine au Japon sous le nom de Pyūta (ぴ ゅ う 太) et au Royaume-Uni sous le nom de Grandstand Tutor , est un ordinateur domestique produit par le fabricant de jouets japonais Tomy . Il était architecturalement similaire, mais pas identique, au Texas Instruments TI-99 / 4A et utilisait un processeur 16 bits Texas Instruments similaire. L'ordinateur a été lancé au Japon en 1982, puis au Royaume-Uni et aux États-Unis l'année suivante.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>O Tomy Tutor, originalmente vendido no Japão como Pyūta (ぴゅう太) e no Reino Unido como Grandstand Tutor, é um computador doméstico produzido pela fabricante de brinquedos japonesa Tomy. Era arquitetonicamente semelhante, mas não idêntico, ao Texas Instruments TI-99/4A e usava uma CPU de 16 bits semelhante da Texas Instruments. O computador foi lançado no Japão em 1982 e no Reino Unido e nos Estados Unidos no ano seguinte.</text>
+		</text>
+
+
+		<text name="system_namee" extra="true">
+			<text>Tomy Tutor</text>
+		</text>
+	</view>
+</theme>

@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>Video System was a Japanese game developer and publisher founded by software designer Koji Furukawa, that operated between 1986-2004. They were initially known for developing Arcade games (mostly Mahjong sims) and would eventually produce games for other platforms, such as the Neo-Geo, SNES and Nintendo 64. They would go on to create the Aero Fighters, F-1 Grand Prix and Super Volley franchises.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Video System fue un desarrollador y editor de juegos japonés fundado por el diseñador de software Koji Furukawa, que operó entre 1986 y 2004. Inicialmente eran conocidos por desarrollar juegos Arcade (principalmente sims de Mahjong) y eventualmente producirían juegos para otras plataformas, como Neo-Geo, SNES y Nintendo 64. Continuarían creando Aero Fighters, F-1 Grand Prix y Franquicias de Super Volley.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Video System était un développeur et éditeur de jeux japonais fondé par le concepteur de logiciels Koji Furukawa, qui a fonctionné entre 1986 et 2004. Ils étaient initialement connus pour développer des jeux d'arcade (principalement des sims de Mahjong) et finiraient par produire des jeux pour d'autres plates-formes, telles que Neo-Geo, SNES et Nintendo 64. Ils continueraient à créer les Aero Fighters, F-1 Grand Prix et Franchise Super Volley.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Video System foi uma desenvolvedora e editora de jogos japonesa fundada pelo designer de software Koji Furukawa, que operou entre 1986-2004. Eles eram inicialmente conhecidos por desenvolver jogos Arcade (principalmente simuladores de Mahjong) e eventualmente produziriam jogos para outras plataformas, como Neo-Geo, SNES e Nintendo 64. Eles criariam Aero Fighters, F-1 Grand Prix e Franquias Super Volley.</text>
 		</text>
 		
 				

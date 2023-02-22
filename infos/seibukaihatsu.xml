@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Seibu Kaihatsu Inc (有限会社 セイブ開発, yūgen kaisha seibu kaihatsu) was a Japanese manufacturer of arcade games. The company was founded in 1982 at Chiyoda-ku, Tokyo, Japan as Seibu Denshi Inc. (有限会社セイブ電子), but changed to its current name sometime in 1984. It is currently owned by Hitoshi Hamada.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Seibu Kaihatsu Inc (有限会社 セイブ開発, yūgen kaisha seibu kaihatsu) fue un fabricante japonés de juegos de arcade. La empresa se fundó en 1982 en Chiyoda-ku, Tokio, Japón como Seibu Denshi Inc. (有限会社セイブ電子), pero cambió a su nombre actual en algún momento de 1984. Actualmente es propiedad de Hitoshi Hamada.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Seibu Kaihatsu Inc (有限会社 セイブ開発, yūgen kaisha seibu kaihatsu) était un fabricant japonais de jeux d'arcade. La société a été fondée en 1982 à Chiyoda-ku, Tokyo, Japon sous le nom de Seibu Denshi Inc. (有限会社セイブ電子), mais a pris son nom actuel en 1984. Elle appartient actuellement à Hitoshi Hamada.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Seibu Kaihatsu Inc (有限会社 セイブ開発, yūgen kaisha seibu kaihatsu) foi um fabricante japonês de jogos arcade. A empresa foi fundada em 1982 em Chiyoda-ku, Tóquio, Japão como Seibu Denshi Inc. (有限会社セイブ電子), mas mudou para seu nome atual em 1984. Atualmente é propriedade de Hitoshi Hamada.</text>
 		</text>
 		
 				

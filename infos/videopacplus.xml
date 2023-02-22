@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+  <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>The Philips Videopac+ G7400 is a third-generation home video game console released in limited quantities in 1983, and only in Europe; an American release as the Odyssey³ Command Center was planned but never occurred. The G7400 was the successor to the Philips Videopac G7000, the European counterpart to the American Magnavox Odyssey². The system featured excellently tailored background and foreground graphics.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>La Philips Videopac+ G7400 es una consola de videojuegos doméstica de tercera generación lanzada en cantidades limitadas en 1983 y solo en Europa; se planeó un lanzamiento estadounidense como el Centro de Comando Odyssey³, pero nunca ocurrió. El G7400 fue el sucesor del Philips Videopac G7000, el homólogo europeo del estadounidense Magnavox Odyssey². El sistema presentaba gráficos de fondo y de primer plano excelentemente adaptados.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>La Philips Videopac+ G7400 est une console de jeu vidéo domestique de troisième génération sortie en quantité limitée en 1983, et uniquement en Europe ; une sortie américaine en tant que centre de commande Odyssey³ était prévue mais n'a jamais eu lieu. Le G7400 a succédé au Philips Videopac G7000, pendant européen du Magnavox Odyssey² américain. Le système comportait des graphiques d'arrière-plan et de premier plan parfaitement adaptés.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+				<text>O Philips Videopac+ G7400 é um console de videogame doméstico de terceira geração lançado em quantidades limitadas em 1983 e apenas na Europa; um lançamento americano como Odyssey³ Command Center foi planejado, mas nunca ocorreu. O G7400 foi o sucessor do Philips Videopac G7000, a contraparte européia do Magnavox Odyssey² americano. O sistema apresentava gráficos de fundo e de primeiro plano perfeitamente adaptados.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Videopac+</text>
+		</text>
+	</view>
+</theme>

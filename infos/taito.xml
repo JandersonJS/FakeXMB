@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>Taito Corporation is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based in Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan. It began production of video games in 1973. In 2005, Taito was purchased by Square Enix, becoming a wholly owned subsidiary by 2006.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Taito Corporation es una empresa japonesa que se especializa en videojuegos, juguetes, gabinetes de juegos y centros de juegos, con sede en Shinjuku, Tokio. La empresa fue fundada por Michael Kogan en 1953 como Taito Trading Company, importando vodka, máquinas expendedoras y máquinas de discos a Japón. Comenzó la producción de videojuegos en 1973. En 2005, Taito fue comprada por Square Enix, convirtiéndose en una subsidiaria de propiedad total en 2006.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Taito Corporation est une société japonaise spécialisée dans les jeux vidéo, les jouets, les bornes d'arcade et les centres de jeux, basée à Shinjuku, Tokyo. La société a été fondée par Michael Kogan en 1953 sous le nom de Taito Trading Company, important de la vodka, des distributeurs automatiques et des juke-box au Japon. Il a commencé la production de jeux vidéo en 1973. En 2005, Taito a été acheté par Square Enix, devenant une filiale à 100% en 2006.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>A Taito Corporation é uma empresa japonesa especializada em videogames, brinquedos, gabinetes de fliperama e centros de jogos, com sede em Shinjuku, Tóquio. A empresa foi fundada por Michael Kogan em 1953 como Taito Trading Company, importando vodca, máquinas de venda automática e jukeboxes para o Japão. Começou a produção de videogames em 1973. Em 2005, a Taito foi comprada pela Square Enix, tornando-se uma subsidiária integral em 2006.</text>
 		</text>
 		
 				

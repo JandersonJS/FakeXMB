@@ -1,23 +1,22 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Cheil Computer appeared on the scene during the second half of 1993 as an arcade game manufacturer. Their later games went under the label First Amusement. Afterwards, the arcade development team apparently split from the company to reform as Semicom. Jeil became an online game developer and worked on several network games, but apparently didn't last for very long. Semicom, however, continued to produce dozens of arcade games until 2001, when they switched to gambling machines altogether. Around the same time Semicom took over the distribution and support for Jarinkobi's CNM series (an office management suite), which apparently has since become the company's sole source of income. Until 1995, Cheil Computer's and Semicom's arcade games were published by a company called Mijin Computer.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Cheil Computer apareció en escena durante la segunda mitad de 1993 como fabricante de juegos de arcade. Sus juegos posteriores fueron bajo la etiqueta First Amusement. Posteriormente, el equipo de desarrollo de arcade aparentemente se separó de la empresa para reformarse como Semicom. Jeil se convirtió en desarrollador de juegos en línea y trabajó en varios juegos en red, pero aparentemente no duró mucho. Sin embargo, Semicom continuó produciendo docenas de juegos de arcade hasta 2001, cuando cambiaron por completo a las máquinas de juego. Casi al mismo tiempo, Semicom se hizo cargo de la distribución y el soporte de la serie CNM de Jarinkobi (una suite de gestión de oficina), que aparentemente se ha convertido desde entonces en la única fuente de ingresos de la empresa. Hasta 1995, los juegos de arcade de Cheil Computer y Semicom fueron publicados por una empresa llamada Mijin Computer.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Cheil Computer est apparu sur la scène au cours de la seconde moitié de 1993 en tant que fabricant de jeux d'arcade. Leurs derniers jeux sont passés sous le label First Amusement. Par la suite, l'équipe de développement d'arcade s'est apparemment séparée de l'entreprise pour se reformer en Semicom. Jeil est devenu développeur de jeux en ligne et a travaillé sur plusieurs jeux en réseau, mais n'a apparemment pas duré très longtemps. Semicom, cependant, a continué à produire des dizaines de jeux d'arcade jusqu'en 2001, date à laquelle ils sont complètement passés aux machines à sous. À peu près au même moment, Semicom a repris la distribution et le support de la série CNM de Jarinkobi (une suite de gestion de bureau), qui est apparemment devenue depuis la seule source de revenus de l'entreprise. Jusqu'en 1995, les jeux d'arcade de Cheil Computer et Semicom étaient édités par une société appelée Mijin Computer.</text>
 		</text>
-
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>A Cheil Computer surgiu no segundo semestre de 1993 como fabricante de jogos de fliperama. Seus jogos posteriores foram sob o rótulo First Amusement. Posteriormente, a equipe de desenvolvimento de arcade aparentemente se separou da empresa para se reformar como Semicom. Jeil tornou-se um desenvolvedor de jogos online e trabalhou em vários jogos de rede, mas aparentemente não durou muito tempo. A Semicom, no entanto, continuou a produzir dezenas de jogos de fliperama até 2001, quando mudou totalmente para as máquinas de jogo. Na mesma época, a Semicom assumiu a distribuição e o suporte da série CNM de Jarinkobi (uma suíte de gerenciamento de escritório), que aparentemente se tornou a única fonte de receita da empresa. Até 1995, os jogos de arcade da Cheil Computer e da Semicom eram publicados por uma empresa chamada Mijin Computer.</text>
 		</text>
 		
 				

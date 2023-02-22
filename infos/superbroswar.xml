@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+			<text>Super Mario War is an open-source, platform-adventure video game and level editor first released in 2004. It is based upon gameplay elements and audiovisual media that are unofficially cloned from Nintendo's Super Mario series. The game centers on players fighting each other by one player jumping on the other player's head, or by making use of items, which can be picked up during gameplay.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+			<text>Super Mario War es un videojuego y editor de niveles de aventura de plataforma de código abierto lanzado por primera vez en 2004. Se basa en elementos de juego y medios audiovisuales que se clonaron extraoficialmente de la serie Super Mario de Nintendo. El juego se centra en los jugadores que luchan entre sí cuando un jugador salta sobre la cabeza del otro jugador o hace uso de elementos que se pueden recoger durante el juego.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Super Mario War est un jeu vidéo d'aventure et de plate-forme open source et un éditeur de niveau sorti pour la première fois en 2004. Il est basé sur des éléments de gameplay et des médias audiovisuels qui sont officieusement clonés de la série Super Mario de Nintendo. Le jeu est centré sur les joueurs qui se battent en sautant sur la tête de l'autre joueur ou en utilisant des objets qui peuvent être ramassés pendant le jeu.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+			<text>Super Mario War é um videogame de aventura de plataforma de código aberto e editor de níveis lançado pela primeira vez em 2004. É baseado em elementos de jogabilidade e mídia audiovisual que são clonados não oficialmente da série Super Mario da Nintendo. O jogo centra-se em jogadores lutando entre si, um jogador pulando na cabeça do outro jogador ou fazendo uso de itens, que podem ser coletados durante o jogo.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Super Mario War</text>
+		</text>
+	</view>
+</theme>

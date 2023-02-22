@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>Universal Interactive (formerly Universal Interactive Studios) was an American video game publisher. The company was established on January 4, 1994, and led by Skip Paul and Robert Biniaz of MCA. It was best known for producing the Crash Bandicoot and Spyro platform game franchises. Universal Interactive, Inc.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Universal Interactive (anteriormente Universal Interactive Studios) fue un editor de videojuegos estadounidense. La compañía fue establecida el 4 de enero de 1994 y dirigida por Skip Paul y Robert Biniaz de MCA. Fue mejor conocido por producir las franquicias de juegos de plataforma Crash Bandicoot y Spyro. Universal Interactive, Inc.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Universal Interactive (anciennement Universal Interactive Studios) était un éditeur américain de jeux vidéo. La société a été créée le 4 janvier 1994 et dirigée par Skip Paul et Robert Biniaz de MCA. Il était surtout connu pour avoir produit les franchises de jeux de plateforme Crash Bandicoot et Spyro. Universal Interactive, Inc.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Universal Interactive (anteriormente Universal Interactive Studios) foi uma editora americana de videogames. A empresa foi fundada em 4 de janeiro de 1994 e liderada por Skip Paul e Robert Biniaz da MCA. Era mais conhecida por produzir as franquias de jogos de plataforma Crash Bandicoot e Spyro. Universal Interactive, Inc.</text>
 		</text>
 		
 				

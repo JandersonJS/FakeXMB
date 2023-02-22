@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>Toaplan was a Japanese video game developer headquartered in Tokyo, Japan. It is known for a large number of classic arcade titles, including Tiger-Heli, Flying Shark, Twin Cobra, Truxton, Zero Wing, Fire Shark, the Snow Bros. series, and more.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Toaplan fue un desarrollador de videojuegos japonés con sede en Tokio, Japón. Es conocido por una gran cantidad de títulos clásicos de arcade, incluidos Tiger-Heli, Flying Shark, Twin Cobra, Truxton, Zero Wing, Fire Shark, la serie Snow Bros. y más.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Toaplan était un développeur de jeux vidéo japonais basé à Tokyo, au Japon. Il est connu pour un grand nombre de titres d'arcade classiques, notamment Tiger-Heli, Flying Shark, Twin Cobra, Truxton, Zero Wing, Fire Shark, la série Snow Bros., etc.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Toaplan era uma desenvolvedora japonesa de videogames com sede em Tóquio, Japão. É conhecido por um grande número de títulos clássicos de fliperama, incluindo Tiger-Heli, Flying Shark, Twin Cobra, Truxton, Zero Wing, Fire Shark, a série Snow Bros.</text>
 		</text>
 		
 				

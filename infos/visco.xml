@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>It was founded in 1982 by Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) and later became corporate on August 8, 1983 while revealing itself as "Visco" in Japan. They originally developed video games for several platforms from the arcades and NES, to the Nintendo 64 and Neo Geo in the past.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Fue fundada en 1982 por Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) y luego se convirtió en empresa el 8 de agosto de 1983 mientras se revelaba como "Visco" en Japón. Originalmente desarrollaron videojuegos para varias plataformas, desde arcade y NES, hasta Nintendo 64 y Neo Geo en el pasado.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Elle a été fondée en 1982 par Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) et est ensuite devenue une entreprise le 8 août 1983 tout en se révélant sous le nom de "Visco" au Japon. Ils ont initialement développé des jeux vidéo pour plusieurs plates-formes, des arcades et NES, à la Nintendo 64 et Neo Geo dans le passé.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Foi fundada em 1982 por Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) e posteriormente tornou-se corporativa em 8 de agosto de 1983, revelando-se como "Visco" no Japão. Eles desenvolveram originalmente videogames para várias plataformas, desde fliperamas e NES, até Nintendo 64 e Neo Geo no passado.</text>
 		</text>
 		
 				

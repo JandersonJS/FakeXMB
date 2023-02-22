@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>The Sega Titan Video (Sega ST-V) was an arcade board released by Sega during 1995. It is based on the Sega Saturn hardware and was released for both Japanese and American markets, with games being released until 2001 in Japan.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Sega Titan Video (Sega ST-V) fue una placa de arcade lanzada por Sega durante 1995. Se basa en el hardware de Sega Saturn y se lanzó para los mercados japonés y estadounidense, y los juegos se lanzaron hasta 2001 en Japón.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>La Sega Titan Video (Sega ST-V) était une carte d'arcade publiée par Sega en 1995. Elle est basée sur le matériel Sega Saturn et est sortie pour les marchés japonais et américain, avec des jeux sortis jusqu'en 2001 au Japon.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>O Sega Titan Video (Sega ST-V) foi uma placa de arcade lançada pela Sega em 1995. É baseada no hardware Sega Saturn e foi lançada para os mercados japonês e americano, com jogos sendo lançados até 2001 no Japão.</text>
 		</text>
 		
 				

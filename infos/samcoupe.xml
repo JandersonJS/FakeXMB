@@ -1,23 +1,25 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>The SAM Coupé (pronounced /sæm ku:peɪ/ from its original British English branding) is an 8-bit British home computer that was first released in late 1989. It was based on and designed to have compatibility with the ZX Spectrum 48K and marketed as a logical upgrade from the Spectrum. It was originally manufactured by Miles Gordon Technology (MGT), based in Swansea in the United Kingdom.
+
+Its release at a time when 16-bit home computers were more prevalent, and a lack of commercial software titles, led to it being a commercial failure.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>El SAM Coupé (pronunciado /sæm ku:peɪ/ de su marca original en inglés británico) es una computadora doméstica británica de 8 bits que se lanzó por primera vez a fines de 1989. Se basó y diseñó para tener compatibilidad con el ZX Spectrum 48K y se comercializó como una actualización lógica del Spectrum. Fue fabricado originalmente por Miles Gordon Technology (MGT), con sede en Swansea, Reino Unido.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Le SAM Coupé (prononcé /sæm ku:peɪ/ d'après sa marque originale en anglais britannique) est un ordinateur domestique britannique 8 bits qui a été lancé pour la première fois à la fin de 1989. Il était basé sur et conçu pour être compatible avec le ZX Spectrum 48K et commercialisé comme une mise à niveau logique du Spectrum. Il a été fabriqué à l'origine par Miles Gordon Technology (MGT), basé à Swansea au Royaume-Uni.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>O SAM Coupé (pronunciado /sæm ku:peɪ/ de sua marca original em inglês britânico) é um computador doméstico britânico de 8 bits que foi lançado pela primeira vez no final de 1989. Foi baseado e projetado para ser compatível com o ZX Spectrum 48K e comercializado como uma atualização lógica do Spectrum. Foi originalmente fabricado pela Miles Gordon Technology (MGT), com sede em Swansea, no Reino Unido.</text>
 		</text>
 		
 				

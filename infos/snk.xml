@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>The SNK Corporation (株式会社SNK Kabushiki-gaisha Esu Enu Kē?) is a Japanese video game company founded in Higashiosaka, Osaka on July 22, 1978 by former boxer Eikichi Kawasaki. SNK is an acronym for Shin Nihon Kikaku (or "New Japan Project" in Japanese). Its most famous products are the Neo-Geo arcade system and home video game, as well as several game series such as Metal Slug, Samurai Shodown, Fatal Fury, Art of Fighting and The King of Fighters.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>SNK Corporation (株式会社SNK Kabushiki-gaisha Esu Enu Kē?) es una empresa japonesa de videojuegos fundada en Higashiosaka, Osaka el 22 de julio de 1978 por el ex boxeador Eikichi Kawasaki. SNK es un acrónimo de Shin Nihon Kikaku (o "New Japan Project" en japonés). Sus productos más famosos son el sistema arcade Neo-Geo y el videojuego doméstico, así como varias series de juegos como Metal Slug, Samurai Shodown, Fatal Fury, Art of Fighting y The King of Fighters.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>La SNK Corporation (株式会社SNK Kabushiki-gaisha Esu Enu Kē?) est une société japonaise de jeux vidéo fondée à Higashiosaka, Osaka le 22 juillet 1978 par l'ancien boxeur Eikichi Kawasaki. SNK est l'acronyme de Shin Nihon Kikaku (ou "New Japan Project" en japonais). Ses produits les plus célèbres sont le système d'arcade et le jeu vidéo domestique Neo-Geo, ainsi que plusieurs séries de jeux tels que Metal Slug, Samurai Shodown, Fatal Fury, Art of Fighting et The King of Fighters.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>A SNK Corporation (株式会社SNK Kabushiki-gaisha Esu Enu Kē?) é uma empresa japonesa de videogames fundada em Higashiosaka, Osaka, em 22 de julho de 1978 pelo ex-boxeador Eikichi Kawasaki. SNK é um acrônimo para Shin Nihon Kikaku (ou "New Japan Project" em japonês). Seus produtos mais famosos são o sistema de arcade Neo-Geo e o videogame doméstico, além de várias séries de jogos como Metal Slug, Samurai Shodown, Fatal Fury, Art of Fighting e The King of Fighters.</text>
 		</text>
 		
 				

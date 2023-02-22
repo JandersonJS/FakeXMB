@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>GZDoom is the latest version targeting current systems with modern graphics hardware. (Vulkan/OpenGL 4.5 capability recommended, but the minimum requirement for the hardware renderer is OpenGL 3.3, the minimum for the software renderer is Direct3D 9) </text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>GZDoom es la última versión dirigida a los sistemas actuales con hardware de gráficos moderno. (Se recomienda la capacidad de Vulkan/OpenGL 4.5, pero el requisito mínimo para el renderizador de hardware es OpenGL 3.3, el mínimo para el renderizador de software es Direct3D 9)</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>GZDoom est la dernière version ciblant les systèmes actuels avec du matériel graphique moderne. (Capacité Vulkan/OpenGL 4.5 recommandée, mais la configuration minimale requise pour le rendu matériel est OpenGL 3.3, la configuration minimale pour le rendu logiciel est Direct3D 9)</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+				<text>GZDoom é a versão mais recente voltada para sistemas atuais com hardware gráfico moderno. (Recomenda-se o recurso Vulkan/OpenGL 4.5, mas o requisito mínimo para o renderizador de hardware é OpenGL 3.3, o mínimo para o renderizador de software é Direct3D 9)</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>GZDoom</text>
+		</text>
+	</view>
+</theme>

@@ -1,24 +1,26 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>The Commodore PET is a line of personal computers produced starting in 1977 by Commodore International. A single all-in-one case combines a MOS Technology 6502 microprocessor, Commodore BASIC in read-only memory, keyboard, computer monitor, and, in early models, a cassette deck.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
-		</text>
+				<text>El PET (Personal Electronic Transactor) o CBM en Europa, fue una línea de ordenadores domésticos producida por Commodore a partir de 1977. Con buenas ventas en los mercados educativos de Canadá, Estados Unidos e Inglaterra, fue la primera computadora completamente equipada de Commodore y la que posteriormente formó la base de su línea de productos de 8 bits, incluyendo al Commodore 64. 
+				
+El primer modelo, denominado PET 2001, fue la primera computadora personal disponible para el consumidor final. </text>
+			</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
-		</text>
+				<text>Le Commodore PET est une gamme d'ordinateurs personnels produite à partir de 1977 par Commodore International. Un seul boîtier tout-en-un combine un microprocesseur MOS Technology 6502, Commodore BASIC en mémoire morte, un clavier, un écran d'ordinateur et, dans les premiers modèles, une platine cassette.</text>
+			</text>
 
-	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
-		</text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>O Commodore PET é uma linha de computadores pessoais produzida a partir de 1977 pela Commodore International. Um único gabinete all-in-one combina um microprocessador MOS Technology 6502, Commodore BASIC em memória somente leitura, teclado, monitor de computador e, nos primeiros modelos, um toca-fitas.</text>
+			</text>
+
 		
 				
 

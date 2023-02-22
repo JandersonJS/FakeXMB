@@ -1,33 +1,32 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>HBMAME stands for Home Brew MAME. It runs on Windows 7 SP1 or later. HBMAME has 2 purposes: Firstly is to preserve homebrew games written for arcade machines or arcade emulators. Secondly is to include worthwhile hacks of arcade games.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>HBMAME signifie Home Brew MAME. Il fonctionne sur Windows 7 SP1 ou version ultérieure. HBMAME a 2 objectifs : premièrement, il s'agit de préserver les jeux homebrew écrits pour les machines d'arcade ou les émulateurs d'arcade. Deuxièmement, il faut inclure des hacks intéressants de jeux d'arcade.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>HBMAME significa Home Brew MAME. Se ejecuta en Windows 7 SP1 o posterior. HBMAME tiene 2 propósitos: en primer lugar, es preservar los juegos caseros escritos para máquinas recreativas o emuladores de arcade. En segundo lugar, incluir hacks de juegos de arcade que valgan la pena.
+
+</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>HBMAME significa Home Brew MAME. Ele é executado no Windows 7 SP1 ou posterior. HBMAME tem 2 propósitos: Em primeiro lugar, é preservar os jogos homebrew escritos para máquinas de fliperama ou emuladores de fliperama. Em segundo lugar, é incluir hacks valiosos de jogos de arcade.</text>
 		</text>
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>HB MAME</text>
+			<text>HBMAME</text>
 		</text>
 	</view>
 </theme>

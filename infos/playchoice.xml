@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>The PlayChoice-10 is an arcade system that was developed and manufactured by Nintendo. The system can play up to 10 different Nintendo Entertainment System games - the games are in the form of circuit boards which can be plugged into one of ten open slots on the PlayChoice-10's motherboard. The Nintendo Super System would go on to have most of the aspects the PlayChoice-10 had, but with SNES games. </text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>El PlayChoice-10 es un sistema arcade desarrollado y fabricado por Nintendo. El sistema puede reproducir hasta 10 juegos diferentes de Nintendo Entertainment System: los juegos tienen la forma de placas de circuito que se pueden conectar a una de las diez ranuras abiertas en la placa base del PlayChoice-10. El Nintendo Super System continuaría teniendo la mayoría de los aspectos que tenía el PlayChoice-10, pero con juegos SNES.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Le PlayChoice-10 est un système d'arcade développé et fabriqué par Nintendo. Le système peut jouer jusqu'à 10 jeux Nintendo Entertainment System différents - les jeux se présentent sous la forme de circuits imprimés qui peuvent être branchés dans l'un des dix emplacements ouverts sur la carte mère du PlayChoice-10. La Nintendo Super System continuerait à avoir la plupart des aspects de la PlayChoice-10, mais avec les jeux SNES.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>O PlayChoice-10 é um sistema de arcade desenvolvido e fabricado pela Nintendo. O sistema pode reproduzir até 10 jogos diferentes do Nintendo Entertainment System - os jogos estão na forma de placas de circuito que podem ser conectadas a um dos dez slots abertos na placa-mãe do PlayChoice-10. O Nintendo Super System passaria a ter a maioria dos aspectos que o PlayChoice-10 tinha, mas com jogos SNES.</text>
 		</text>
 		
 				

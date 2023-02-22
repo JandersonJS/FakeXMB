@@ -1,32 +1,29 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>International Games System Co., Ltd. was officially established in 1991. In response to immense market opportunities in arcade games,IGS established and continued its own brand and independent R&D of key technologies as it aims to emerge as a well-known game developer in the Chinese market.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>International Games System Co., Ltd. se estableció oficialmente en 1991. En respuesta a las inmensas oportunidades de mercado en los juegos de arcade, IGS estableció y continuó con su propia marca e I+D independiente de tecnologías clave, ya que aspira a emerger como un desarrollador de juegos conocido en el mercado chino</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>International Games System Co., Ltd. a été officiellement créé en 1991. En réponse aux immenses opportunités de marché dans les jeux d'arcade, IGS a créé et poursuivi sa propre marque et sa R&D indépendante de technologies clés dans le but d'émerger en tant que développeur de jeux bien connu dans le marché chinois.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>International Games System Co., Ltd. foi oficialmente estabelecida em 1991. Em resposta às imensas oportunidades de mercado em jogos de arcade, a IGS estabeleceu e continuou sua própria marca e P&D independente de tecnologias-chave, com o objetivo de emergir como um desenvolvedor de jogos conhecido em o mercado chinês.</text>
 		</text>
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>IGS</text>
+			<text>International Games System Co.</text>
 		</text>
 	</view>
 </theme>

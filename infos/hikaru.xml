@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>The Sega Hikaru is a successor of the Sega NAOMI and Sega Model 3 arcade systems that was developed in 1998 and debuted in 1999. The Hikaru was used for a handful of deluxe dedicated-cabinet games, beginning with 1999's Brave Fire Fighters, in which the flame and water effects were largely a showpiece for the hardware.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Le Sega Hikaru est le successeur des systèmes d'arcade Sega NAOMI et Sega Model 3 qui ont été développés en 1998 et lancés en 1999. Le Hikaru a été utilisé pour une poignée de jeux de luxe dédiés, à commencer par Brave Fire Fighters en 1999, dans lequel le les effets de flamme et d'eau étaient en grande partie une pièce maîtresse pour le matériel.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>El Sega Hikaru es un sucesor de los sistemas arcade Sega NAOMI y Sega Model 3 que se desarrolló en 1998 y debutó en 1999. El Hikaru se usó para un puñado de juegos de gabinete dedicado de lujo, comenzando con Brave Fire Fighters de 1999, en el que el Los efectos de llama y agua fueron en gran medida una obra maestra para el hardware.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>O Sega Hikaru é um sucessor dos sistemas de arcade Sega NAOMI e Sega Model 3 que foi desenvolvido em 1998 e lançado em 1999. O Hikaru foi usado para um punhado de jogos de gabinete dedicados de luxo, começando com Brave Fire Fighters de 1999, no qual o os efeitos de chama e água foram em grande parte uma peça de exibição para o hardware.</text>
 		</text>
 		
 				

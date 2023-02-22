@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Nihon Bussan Co. Ltd. was a Japanese video game developer and publisher headquartered in Kita, Osaka. In the past they had also manufactured and sold yachts. The main video game brand of the company was Nichibutsu (日物、ニチブツ), with adult video games (mainly strip mahjong arcade games) coming under the Sphinx (スフィンクス) brand. The company used a horned owl for its official logo.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Nihon Bussan Co. Ltd. fue un desarrollador y editor de videojuegos japonés con sede en Kita, Osaka. En el pasado también habían fabricado y vendido yates. La principal marca de videojuegos de la empresa era Nichibutsu (日 物 、 ニ チ ブ ツ), con videojuegos para adultos (principalmente juegos de arcade de mahjong) bajo la marca Sphinx (ス フ ィ ン ク ス). La empresa utilizó un búho cornudo para su logotipo oficial.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Nihon Bussan Co. Ltd. était un développeur et éditeur de jeux vidéo japonais dont le siège était à Kita, Osaka. Dans le passé, ils avaient également fabriqué et vendu des yachts. La principale marque de jeux vidéo de la société était Nichibutsu (日 物 、 ニ チ ブ ツ), les jeux vidéo pour adultes (principalement des jeux d'arcade de strip mahjong) relevant de la marque Sphinx (ス フ ィ ン ク ス). L'entreprise a utilisé un hibou à cornes pour son logo officiel.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Nihon Bussan Co. Ltd. foi uma desenvolvedora e editora japonesa de videogames com sede em Kita, Osaka. No passado, eles também fabricaram e venderam iates. A principal marca de videogame da empresa era Nichibutsu (日物、ニチブツ), com videogames para adultos (principalmente jogos de fliperama strip mahjong) sob a marca Sphinx (スフィンクス). A empresa usou uma coruja com chifres para seu logotipo oficial.</text>
 		</text>
 		
 				

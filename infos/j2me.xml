@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
 				<text>J2ME (Java 2 Platform, Micro Edition) is a technology that allows programmers to use the Java programming language and related tools to develop programs for mobile wireless information devices such as cellular phones and personal digital assistants (PDAs). J2ME consists of programming specifications and a special virtual machine, the K Virtual Machine, that allows a J2ME-encoded program to run in the mobile device.</text>

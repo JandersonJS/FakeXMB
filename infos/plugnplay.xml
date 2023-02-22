@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+			<text>A handheld TV game or plug and play game is an integrated home video game console and game controller, usually battery powered, which connects directly to a television. The game software is built directly into the unit, which is typically designed to look like a toy or classic game console controller with the addition of a composite video cable to connect the unit. These systems usually contain either a collection of classic games or original games based on licensed properties. Because the game software is integrated into the game unit and almost never designed to be changed by the user, these game systems are typically marketed as electronic toys or collectibles rather than game consoles.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+			<text>Un juego de TV portátil o un juego plug and play es una consola de videojuegos y un controlador de juegos integrados en el hogar, generalmente alimentado por batería, que se conecta directamente a un televisor. El software del juego está integrado directamente en la unidad, que generalmente está diseñada para parecerse a un juguete o un controlador de consola de juegos clásico con la adición de un cable de video compuesto para conectar la unidad. Estos sistemas suelen contener una colección de juegos clásicos o juegos originales basados ​​en propiedades con licencia. Debido a que el software del juego está integrado en la unidad de juego y casi nunca está diseñado para que el usuario lo cambie, estos sistemas de juego generalmente se comercializan como juguetes electrónicos o coleccionables en lugar de consolas de juegos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Un jeu TV portable ou un jeu plug and play est une console de jeu vidéo domestique intégrée et un contrôleur de jeu, généralement alimenté par batterie, qui se connecte directement à un téléviseur. Le logiciel de jeu est intégré directement dans l'unité, qui est généralement conçue pour ressembler à un jouet ou à une manette de console de jeu classique avec l'ajout d'un câble vidéo composite pour connecter l'unité. Ces systèmes contiennent généralement soit une collection de jeux classiques, soit des jeux originaux basés sur des propriétés sous licence. Étant donné que le logiciel de jeu est intégré à l'unité de jeu et qu'il n'est presque jamais conçu pour être modifié par l'utilisateur, ces systèmes de jeu sont généralement commercialisés comme des jouets électroniques ou des objets de collection plutôt que comme des consoles de jeux.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+			<text>Um jogo de TV portátil ou jogo plug and play é um console de videogame doméstico integrado e um controlador de jogo, geralmente alimentado por bateria, que se conecta diretamente a uma televisão. O software do jogo é integrado diretamente na unidade, que normalmente é projetada para se parecer com um brinquedo ou controlador de console de jogo clássico com a adição de um cabo de vídeo composto para conectar a unidade. Esses sistemas geralmente contêm uma coleção de jogos clássicos ou jogos originais baseados em propriedades licenciadas. Como o software do jogo é integrado à unidade do jogo e quase nunca é projetado para ser alterado pelo usuário, esses sistemas de jogos são normalmente comercializados como brinquedos eletrônicos ou colecionáveis, em vez de consoles de jogos.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Plug 'N' Play TV Game</text>
+		</text>
+	</view>
+</theme>

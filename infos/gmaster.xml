@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema.</text>
@@ -12,6 +9,14 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
 		<text name="system_description" extra="true" lang="es">
 			<text>Game Master es una consola de juegos portátil fabricada por Hartung y diseñada para competir con Nintendo Game Boy.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Game Master est une console de jeu portable fabriquée par Hartung et conçue pour concurrencer la Nintendo Game Boy. En Allemagne, il a été commercialisé par Hartung lui-même, tandis qu'au Royaume-Uni, il a été lancé sous le nom de Systema 2000 par le fabricant déjà bien établi de jeux LCD bon marché Systema.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Game Master é um console portátil fabricado pela Hartung e projetado para competir com o Nintendo Game Boy. Na Alemanha, foi comercializado pela própria Hartung, enquanto no Reino Unido foi lançado como Systema 2000 pelo já bem estabelecido fabricante de jogos LCD baratos Systema.</text>
 		</text>
 
 

@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		
 				<text name="system_description" extra="true" >
@@ -12,7 +9,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-								<text>La serie Game and Watch es una línea de 59 consolas portátiles de videojuegos fabricadas por Nintendo y creadas por Gunpei Yokoi de 1980 a 1991. Cada una de ellas poseía un único juego con pantalla LCD, y tenía además reloj y alarma. Algunos de los títulos del formato Game and Watch fueron Donkey Kong, The Legend of Zelda, Mario Bros., Mickey Mouse, Ball, Egg, Octopus... 
+			<text>La serie Game and Watch es una línea de 59 consolas portátiles de videojuegos fabricadas por Nintendo y creadas por Gunpei Yokoi de 1980 a 1991. Cada una de ellas poseía un único juego con pantalla LCD, y tenía además reloj y alarma. Algunos de los títulos del formato Game and Watch fueron Donkey Kong, The Legend of Zelda, Mario Bros., Mickey Mouse, Ball, Egg, Octopus... 
 
 Estas consolas portátiles -que en España se conocían popularmente como «maquinitas»- actualmente son muy difíciles de conseguir, y se consideran piezas históricas y artículos de coleccionista.</text>
 		</text>

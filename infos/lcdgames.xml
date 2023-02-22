@@ -1,23 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		
 				<text name="system_description" extra="true" >
-			<text>These portable consoles housed a single game with an LCD screen and various levels of difficulty, and also used to include a clock and alarm.
-
-Nintendo's Game and Watch series was the most popular, with a line of 59 videogame titles among which were some early Donkey Kong, Mario Bros. or The Legend of Zelda ... Today is very hard to get one and are considered historical pieces and collector's items.</text>
-		</text>
+			<text>These portable consoles housed a single game with an LCD screen and various levels of difficulty, and also used to include a clock and alarm. Nintendo's Game and Watch series was the most popular, with a line of 59 videogame titles among which were some early Donkey Kong, Mario Bros. or The Legend of Zelda ... Today is very hard to get one and are considered historical pieces and collector's items.</text>
+				</text>
 		
 				<text name="system_description" extra="true" lang="es">
-								<text>Estas consolas portátiles -que en España se conocían popularmente como «maquinitas»- albergaban un único juego con pantalla LCD y varios niveles de dificultad, además solian incluir reloj y alarma. 
-									
-La serie Game and Watch de Nintendo fue la mas popular, con una línea de 59 títulos de videojuegos entre los que se encontraban unos primigenios Donkey Kong, Mario Bros. o The Legend of Zelda... Actualmente son muy difíciles de conseguir y se consideran piezas históricas y artículos de coleccionista.</text>
-		</text>
+								<text>Estas consolas portátiles -que en España se conocían popularmente como «maquinitas»- albergaban un único juego con pantalla LCD y varios niveles de dificultad, además solian incluir reloj y alarma. La serie Game and Watch de Nintendo fue la mas popular, con una línea de 59 títulos de videojuegos entre los que se encontraban unos primigenios Donkey Kong, Mario Bros. o The Legend of Zelda... Actualmente son muy difíciles de conseguir y se consideran piezas históricas y artículos de coleccionista.</text>
+				</text>
+				<text name="system_description" extra="true" lang="fr">
+			<text>Ces consoles portables abritaient un seul jeu avec un écran LCD et plusieurs niveaux de difficulté, et incluaient également souvent une horloge et une alarme. La série Game and Watch de Nintendo était la plus populaire, avec une gamme de 59 titres de jeux vidéo, dont les premiers Donkey Kong, Mario Bros. ou The Legend of Zelda ... Aujourd'hui, il est très difficile de s'en procurer et ils sont considérés comme des pièces historiques et de collection.</text>
+				</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Esses consoles portáteis abrigavam um único jogo com tela LCD e vários níveis de dificuldade, e também costumavam incluir um relógio e alarme. A série Game and Watch da Nintendo foi a mais popular, com uma linha de 59 títulos de videogame entre os quais alguns dos primeiros Donkey Kong, Mario Bros. ou The Legend of Zelda ... Hoje é muito difícil conseguir um e são considerados peças históricas e de colecionador Unid.</text>
+				</text>
 
 		
 		
@@ -25,7 +25,9 @@ La serie Game and Watch de Nintendo fue la mas popular, con una línea de 59 tí
 
 		<text name="system_name" extra="true">
 			<text>LCD Games</text>
-			<text lang="es">Maquinitas (juegos LCD)</text>
+			<text lang="es">Maquinitas (Juegos LCD)</text>
+			<text lang="fr">Maquinitas (juegos LCD)</text>
+			<text lang="pt">Minigames (Jogos LCD)</text>
 
 			
 		</text>

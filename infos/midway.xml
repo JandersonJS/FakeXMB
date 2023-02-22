@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Midway Games Inc., known previously as Midway Manufacturing and Bally Midway, and commonly known as simply Midway, was an American video game developer and publisher. Midway's franchises included Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n, and NFL Blitz.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Midway Games Inc., anciennement connu sous le nom de Midway Manufacturing et Bally Midway, et communément appelé simplement Midway, était un développeur et éditeur de jeux vidéo américain. Les franchises de Midway comprenaient Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n et NFL Blitz.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Midway Games Inc., conocida anteriormente como Midway Manufacturing y Bally Midway, y comúnmente conocida simplemente como Midway, fue un desarrollador y editor de videojuegos estadounidense. Las franquicias de Midway incluyen Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n y NFL Blitz.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Midway Games Inc., conhecida anteriormente como Midway Manufacturing e Bally Midway, e comumente conhecida simplesmente como Midway, foi uma desenvolvedora e editora de videogames americana. As franquias da Midway incluíam Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n e NFL Blitz.</text>
 		</text>
 		
 				

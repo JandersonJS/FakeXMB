@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>LowRes NX was inspired by real 8- and 16-bit systems and simulates chips for graphics, sound and I/O, which actually work like classic hardware. It supports hardware sprites as well as hardware parallax scrolling, and even offers vertical blank and raster interrupts to create authentic retro effects.</text>
+			</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>LowRes NX se inspiró en sistemas reales de 8 y 16 bits y simula chips para gráficos, sonido y E/S, que en realidad funcionan como hardware clásico. Admite sprites de hardware, así como desplazamiento de paralaje de hardware, e incluso ofrece interrupciones verticales en blanco y de trama para crear auténticos efectos retro.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>LowRes NX a été inspiré par de vrais systèmes 8 et 16 bits et simule des puces pour les graphiques, le son et les E/S, qui fonctionnent en fait comme du matériel classique. Il prend en charge les sprites matériels ainsi que le défilement de parallaxe matérielle, et offre même des interruptions verticales vierges et raster pour créer des effets rétro authentiques.</text>
+		</text>
+
+	
+		<text name="system_description" extra="true" lang="pt">
+				<text>O LowRes NX foi inspirado em sistemas reais de 8 e 16 bits e simula chips para gráficos, som e E/S, que na verdade funcionam como hardware clássico. Ele suporta sprites de hardware, bem como rolagem de paralaxe de hardware, e ainda oferece interrupções verticais em branco e raster para criar efeitos retrô autênticos.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>American Laser Games</text>
+		</text>
+	</view>
+</theme>

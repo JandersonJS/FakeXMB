@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Nintendo Co., Ltd. is a Japanese multinational video game company headquartered in Kyoto. It develops and releases both video games and video game consoles. Nintendo was founded in 1889 as Nintendo Karuta by craftsman Fusajiro Yamauchi and originally produced handmade hanafuda playing cards. After venturing into various lines of business during the 1960s and acquiring a legal status as a public company, Nintendo distributed its first console, the Color TV-Game, in 1977. It gained international recognition with the release of Donkey Kong in 1981 and the Nintendo Entertainment System and Super Mario Bros. in 1985. </text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Nintendo Co., Ltd. es una multinacional japonesa de videojuegos con sede en Kioto. Desarrolla y lanza videojuegos y consolas de videojuegos. Nintendo fue fundada en 1889 como Nintendo Karuta por el artesano Fusajiro Yamauchi y originalmente producía naipes hanafuda hechos a mano. Después de incursionar en varias líneas de negocios durante la década de 1960 y adquirir un estatus legal como empresa pública, Nintendo distribuyó su primera consola, Color TV-Game, en 1977. Ganó reconocimiento internacional con el lanzamiento de Donkey Kong en 1981 y el Nintendo Entertainment System y Super Mario Bros. en 1985.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Nintendo Co., Ltd. est une multinationale japonaise de jeux vidéo dont le siège est à Kyoto. Elle développe et commercialise à la fois des jeux vidéo et des consoles de jeux vidéo. Nintendo a été fondée en 1889 sous le nom de Nintendo Karuta par l'artisan Fusajiro Yamauchi et produisait à l'origine des cartes à jouer hanafuda faites à la main. Après s'être aventuré dans divers secteurs d'activité au cours des années 1960 et avoir acquis le statut juridique d'entreprise publique, Nintendo a distribué sa première console, le Color TV-Game, en 1977. Il a acquis une reconnaissance internationale avec la sortie de Donkey Kong en 1981 et de la Nintendo Entertainment System et Super Mario Bros. en 1985.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Nintendo Co., Ltd. é uma empresa multinacional japonesa de videogames com sede em Kyoto. Ela desenvolve e lança videogames e consoles de videogame. A Nintendo foi fundada em 1889 como Nintendo Karuta pelo artesão Fusajiro Yamauchi e originalmente produzia cartas de baralho hanafuda feitas à mão. Depois de se aventurar em várias linhas de negócios durante a década de 1960 e adquirir status legal de empresa pública, a Nintendo distribuiu seu primeiro console, o Color TV-Game, em 1977. Ganhou reconhecimento internacional com o lançamento de Donkey Kong em 1981 e o Nintendo Entertainment System e Super Mario Bros. em 1985.</text>
 		</text>
 		
 				

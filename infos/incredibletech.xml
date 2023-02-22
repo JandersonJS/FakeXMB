@@ -1,33 +1,34 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Incredible Technologies (IT) (formerly Free Radical Software (FRS)) is an American designer and manufacturer of coin-operated video games and Class III casino games, based in Vernon Hills, Illinois. The company's most widely used product is the Golden Tee Golf series. The company employs around 200 people at its offices in suburban Chicago. </text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Incredible Technologies (IT) (anciennement Free Radical Software (FRS)) est un concepteur et fabricant américain de jeux vidéo à pièces et de jeux de casino de classe III, basé à Vernon Hills, dans l'Illinois. Le produit le plus utilisé de la société est la série Golden Tee Golf. La société emploie environ 200 personnes dans ses bureaux de la banlieue de Chicago.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Incredible Technologies (IT) (anteriormente Free Radical Software (FRS)) es un diseñador y fabricante estadounidense de videojuegos que funcionan con monedas y juegos de casino Clase III, con sede en Vernon Hills, Illinois. El producto más utilizado de la empresa es la serie Golden Tee Golf. La empresa emplea a unas 200 personas en sus oficinas de los suburbios de Chicago.
+
+</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Incredible Technologies (IT) (anteriormente Free Radical Software (FRS)) é um designer e fabricante americano de videogames operados por moedas e jogos de cassino Classe III, com sede em Vernon Hills, Illinois. O produto mais utilizado da empresa é a série Golden Tee Golf. A empresa emprega cerca de 200 pessoas em seus escritórios no subúrbio de Chicago.
+
+</text>
 		</text>
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>Incredible Tech</text>
+			<text>Incredible Technologies</text>
 		</text>
 	</view>
 </theme>

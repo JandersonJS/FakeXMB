@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Mitchell Corporation developed titles for home consoles, handhelds, Japanese mobile phones, the arcade and interactive kiosks located in restaurants and other places. Mitchell also distributed printed circuit boards for the arcade/coin-op market. The company also developed video games for other publishers.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Mitchell Corporation desarrolló títulos para consolas domésticas, dispositivos portátiles, teléfonos móviles japoneses, salas de juegos y quioscos interactivos ubicados en restaurantes y otros lugares. Mitchell también distribuyó placas de circuitos impresos para el mercado de máquinas recreativas y máquinas recreativas. La empresa también desarrolló videojuegos para otras editoriales.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Mitchell Corporation a développé des titres pour les consoles de salon, les ordinateurs de poche, les téléphones portables japonais, l'arcade et les kiosques interactifs situés dans les restaurants et autres lieux. Mitchell a également distribué des cartes de circuits imprimés pour le marché des arcades/coin-op. La société a également développé des jeux vidéo pour d'autres éditeurs.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>A Mitchell Corporation desenvolveu títulos para consoles domésticos, portáteis, celulares japoneses, fliperama e quiosques interativos localizados em restaurantes e outros locais. Mitchell também distribuiu placas de circuito impresso para o mercado de fliperama/coin-op. A empresa também desenvolveu videogames para outras editoras.</text>
 		</text>
 		
 				

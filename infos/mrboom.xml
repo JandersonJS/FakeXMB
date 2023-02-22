@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Mr. Boom is an up to 8 player Bomberman clone ported to the libretro API. The goal of the game is to bomb away your enemies and other players. A summary of the licenses behind RetroArch and its cores can be found here.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text>Clon de Bomberman</text>
+			<text>Mr. Boom es un clon de Bomberman para hasta 8 jugadores adaptado a la API libretro. El objetivo del juego es bombardear a tus enemigos y a otros jugadores. Puede encontrar un resumen de las licencias detrás de RetroArch y sus núcleos aquí.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text>Clone de Bomberman</text>
+			<text>Mr. Boom est un clone de Bomberman jusqu'à 8 joueurs porté sur l'API libretro. Le but du jeu est de bombarder vos ennemis et les autres joueurs. Un résumé des licences derrière RetroArch et ses cœurs peut être trouvé ici.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Mr. Boom é um clone do Bomberman para até 8 jogadores portado para a API libretro. O objetivo do jogo é bombardear seus inimigos e outros jogadores. Um resumo das licenças por trás do RetroArch e seus núcleos pode ser encontrado aqui.</text>
 		</text>
 
 		

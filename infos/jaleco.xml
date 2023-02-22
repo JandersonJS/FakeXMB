@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Jaleco Ltd. (株式会社ジャレコ, Kabushiki Kaisha Jareko) was a corporate brand name that was used by two previously connected video game developers and publishers based in Japan. The original Jaleco company was founded in 1974 as Japan Leisure Company, founded by Yoshiaki Kanazawa, before being renamed to simply Jaleco in the early 1980s. This company was later acquired in 2000 by PCCW, who rebranded it as their Japanese game division, PCCW Japan, before reverting it to Jaleco in 2002. In 2006, Jaleco became independent from PCCW and renamed to Jaleco Holding, having their video game operations spun off into a new company, also called Jaleco. This new spin-off company was sold to mobile developer Game Yarou in 2009, with Jaleco Holding renaming itself to Encom Holdings shortly after. </text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Jaleco Ltd. (株 式 会 社 ジ ャ レ コ, Kabushiki Kaisha Jareko ) était une marque d'entreprise utilisée par deux développeurs et éditeurs de jeux vidéo précédemment connectés basés au Japon. La société Jaleco d'origine a été fondée en 1974 sous le nom de Japan Leisure Company, fondée par Yoshiaki Kanazawa, avant d'être simplement renommée Jaleco au début des années 1980. Cette société a ensuite été acquise en 2000 par PCCW, qui l'a rebaptisée en tant que division de jeux japonaise, PCCW Japan, avant de la rendre à Jaleco en 2002. En 2006, Jaleco est devenu indépendant de PCCW et renommé Jaleco Holding, faisant tourner leurs opérations de jeux vidéo. dans une nouvelle société, également appelée Jaleco. Cette nouvelle société dérivée a été vendue au développeur mobile Game Yarou en 2009, Jaleco Holding se renommant Encom Holdings peu de temps après.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Jaleco Ltd. (株式会社ジャレコ, Kabushiki Kaisha Jareko) era una marca corporativa utilizada por dos desarrolladores y editores de videojuegos previamente conectados con sede en Japón. La compañía Jaleco original se fundó en 1974 como Japan Leisure Company, fundada por Yoshiaki Kanazawa, antes de cambiar su nombre a simplemente Jaleco a principios de la década de 1980. Esta empresa fue adquirida más tarde en 2000 por PCCW, quien la renombró como su división de juegos japonesa, PCCW Japan, antes de revertirla a Jaleco en 2002. En 2006, Jaleco se independizó de PCCW y cambió su nombre a Jaleco Holding, y sus operaciones de videojuegos se dividieron. a una nueva empresa, también llamada Jaleco. Esta nueva empresa derivada se vendió al desarrollador de dispositivos móviles Game Yarou en 2009, y Jaleco Holding cambió su nombre a Encom Holdings poco después.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Jaleco Ltd. (株式会社ジャレコ, Kabushiki Kaisha Jareko) era uma marca corporativa usada por dois desenvolvedores e editores de videogames anteriormente conectados com sede no Japão. A empresa Jaleco original foi fundada em 1974 como Japan Leisure Company, fundada por Yoshiaki Kanazawa, antes de ser renomeada para simplesmente Jaleco no início dos anos 80. Esta empresa foi posteriormente adquirida em 2000 pela PCCW, que a rebatizou como sua divisão de jogos japonesa, PCCW Japan, antes de revertê-la para Jaleco em 2002. Em 2006, a Jaleco tornou-se independente da PCCW e renomeada para Jaleco Holding, tendo suas operações de videogame desmembradas. para uma nova empresa, também chamada Jaleco. Esta nova empresa spin-off foi vendida para o desenvolvedor móvel Game Yarou em 2009, com a Jaleco Holding renomeada para Encom Holdings logo depois.</text>
 		</text>
 		
 				

@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
 				<text>An improved version of the Laser 200/210. Both computers are compatible with each other, for both software and hardware. Basically, it has an enhanced keyboard and more memory. This model was also sold worldwide, the most popular version being the VZ-300 from Dick Smith Electronics.</text>
@@ -12,6 +9,14 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		
 				<text name="system_description" extra="true" lang="es">
 				<text>Ordenador fabricado por Video Technology Ltd (Hong Kong) en 1984. Fue el último de una serie de cinco ordenadores de VTech (Laser 100, 110, 200, 210 y 310) que entraron en competencia directa con los ordenadores de Sinclair (ZX81 y ZX Spectrum).</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Une version améliorée du Laser 200/210. Les deux ordinateurs sont compatibles entre eux, tant au niveau logiciel que matériel. Fondamentalement, il a un clavier amélioré et plus de mémoire. Ce modèle a également été vendu dans le monde entier, la version la plus populaire étant le VZ-300 de Dick Smith Electronics.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Uma versão melhorada do Laser 200/210. Ambos os computadores são compatíveis entre si, tanto para software quanto para hardware. Basicamente, ele possui um teclado aprimorado e mais memória. Este modelo também foi vendido em todo o mundo, sendo a versão mais popular o VZ-300 da Dick Smith Electronics.</text>
 		</text>
 		
 		

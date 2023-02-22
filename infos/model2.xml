@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Sega Model 2 was a arcade system board developed by Sega AM2 in 1993 as a direct evolution of the earlier Model 1. The board was state-of-the-art for its time, costing $2,000,000 to develop. The system would power arcade hits of the mid-1990s such as Daytona USA, Virtua Fighter 2 and The House of The Dead.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Sega Model 2 era una placa de sistema arcade desarrollada por Sega AM2 en 1993 como una evolución directa del Model 1 anterior. La placa era lo último en tecnología para su época y su desarrollo costó $ 2,000,000. El sistema impulsaría éxitos arcade de mediados de la década de 1990, como Daytona USA, Virtua Fighter 2 y The House of The Dead.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Sega Model 2 était une carte système d'arcade développée par Sega AM2 en 1993 comme une évolution directe de l'ancien modèle 1. La carte était à la pointe de la technologie pour l'époque, coûtant 2 000 000 $ à développer. Le système alimenterait les succès d'arcade du milieu des années 1990 tels que Daytona USA, Virtua Fighter 2 et The House of The Dead.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Sega Model 2 era uma placa de sistema de arcade desenvolvida pela Sega AM2 em 1993 como uma evolução direta do anterior Model 1. A placa era de última geração para a época, custando $ 2.000.000 para ser desenvolvida. O sistema alimentaria sucessos de fliperama de meados da década de 1990, como Daytona USA, Virtua Fighter 2 e The House of The Dead.</text>
 		</text>
 		
 				

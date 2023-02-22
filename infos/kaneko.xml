@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Kaneko Seisakusho (金子製作所), stylized as KANE<O, also referred to as Kaneko Co. Ltd. (カネコ株式会社), was a Japanese video game publisher founded in Suginami, Tokyo, Japan, by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series. The last game released by the company was Gals Panic S3 for the arcade in 2002.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Kaneko Seisakusho (金子製作所), estilizado como KANE<O, también conocido como Kaneko Co. Ha publicado varios juegos bajo su marca y otras compañías, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n and the Gals. Serie de pánico. El último juego lanzado por la compañía fue Gals Panic S3 para arcade en 2002.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Kaneko Seisakusho (金子製作所), stylisé comme KANE<O, également connu sous le nom de Kaneko Co. Il a publié plusieurs jeux sous sa marque et d'autres sociétés, telles que Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n and the Gals Série Panique. Le dernier jeu sorti par la société était Gals Panic S3 pour arcade en 2002.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>Kaneko Seisakusho (金子製作所), estilizado como KANE<O, também conhecido como Kaneko Co. Publicou vários jogos sob sua marca e outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic. O último jogo lançado pela empresa foi Gals Panic S3 para fliperama em 2002.</text>
 		</text>
 		
 				

@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
 				<text>MUGEN is a game engine for 2D fighting games, created by Elecbyte in 1999 using the Allegro software library for display and inputs (keyboard, gamepad). The engine allows you to create characters, scenario and other game components through a compilation of text, graphics and sound files, it also supports MP3 files in order to put music in the background during the game. This engine is advanced and flexible enough to match some commercial 2D fighting fighting games. It is ahead of the equivalent game engines existing in free software.</text>

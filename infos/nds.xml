@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 				<text name="system_description" extra="true">
 			<text>The Nintendo DS (ニ ン テ ン ド ー DS, Nintendō Dī Esu ?, DS for Dual Screen, Double Screen in Japan), is a portable console created by Nintendo, released at the end of 2004 in Japan and North America and in 2005 in Europe. Has the particularity of the double screen and the touchscreen. It has also democratized casual gaming which has contributed to its popularity.</text>

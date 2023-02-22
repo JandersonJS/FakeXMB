@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>A Namco Limited (株式会社ナムコ Kabushiki gaisha Namuko?) foi uma desenvolvedora e publicadora japonesa de jogos eletrônicos sediada em Tóquio. Foi fundada em junho de 1955 por Masaya Nakamura com o nome de Nakamura Seisakusho, iniciando suas operações como produtora de brinquedos à fichas destinados a lojas de departamento. Pelas décadas seguintes gozou de sucesso em seu ramo, sendo renomeada Nakamura Manufacturing em 1959 e começando a usar o acrônimo "Namco" em 1971. Ela comprou a divisão japonesa da Atari em 1974 e passou a publicar seus jogos no Japão.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>A Namco Limited (株式会社ナムコ Kabushiki gaisha Namuko ?) pour uma desenvolvedora e publicadora japonesa de jogos eletrônicos sediada em Tóquio. Foi fondé en juin 1955 par Masaya Nakamura avec le nom de Nakamura Seisakusho, iniciando suas operações como produtora de brinquedos à fichas destinados a lojas de departamento. Pelas décadas seguintes gozou de success em seu ramo, sendo renomeada Nakamura Manufacturing em 1959 and começando a usar o acrônimo "Namco" em 1971. Ela comprou a divisão japonesa da Atari em 1974 and passou a publicar seus jogos no Japão.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Una Namco Limited (株式会社ナムコ Kabushiki gaisha Namuko?) para una desenvolvedora y publicadora japonesa de juegos electrónicos sediada en Tóquio. Foi fundada en junio de 1955 por Masaya Nakamura con el nombre de Nakamura Seisakusho, iniciando sus operaciones como productora de brinquedos à fichas destinadas a lojas de departamento. Pelas décadas siguientes gozou de sucesso em seu ramo, sendo renomeada Nakamura Manufacturing em 1959 y começando a usar o acrônimo "Namco" em 1971. Ela comprou a divisão japanese da Atari em 1974 and passou a public seus jogos no Japão.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>A Namco Limited (株式会社ナムコ Kabushiki gaisha Namuko?) foi uma desenvolvedora e publicadora japonesa de jogos eletrônicos sediada em Tóquio. Foi fundada em junho de 1955 por Masaya Nakamura com o nome de Nakamura Seisakusho, iniciando suas operações como produtora de brinquedos à fichas destinadas a lojas de departamento. Pelas décadas seguintes gozou de sucesso em seu ramo, sendo renomeada Nakamura Manufacturing em 1959 e começando a usar o acrônimo "Namco" em 1971. Ela comprou a divisão japonesa da Atari em 1974 e passou a publicar seus jogos no Japão.</text>
 		</text>
 		
 				

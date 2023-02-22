@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Gottlieb (formerly D. Gottlieb & Co.) was an American arcade game corporation based in Chicago, Illinois. It is best known for developing the arcade game Q*bert. </text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Gottlieb (anciennement D. Gottlieb & Co.) était une société américaine de jeux d'arcade basée à Chicago, Illinois. Il est surtout connu pour avoir développé le jeu d'arcade Q*bert.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Gottlieb (anteriormente D. Gottlieb & Co.) era una corporación estadounidense de juegos de arcade con sede en Chicago, Illinois. Es mejor conocido por desarrollar el juego de arcade Q*bert.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Gottlieb (anteriormente D. Gottlieb & Co.) foi uma empresa americana de jogos de arcade com sede em Chicago, Illinois. É mais conhecido por desenvolver o jogo de arcade Q*bert.</text>
 		</text>
 		
 				

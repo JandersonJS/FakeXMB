@@ -1,10 +1,7 @@
-﻿<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 		<text name="system_description" extra="true">
 			<text>The GP32 (GamePark 32) is a handheld game console developed by the South Korean company Game Park. It was released on November 23, 2001, in South Korea and distributed in some parts of Europe. Is a free software oriented console, being the first of its kind.</text>
@@ -12,6 +9,14 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
 		<text name="system_description" extra="true" lang="es">
 			<text>La GP32 (Game Park 32) es una consola de videojuegos portátil de 32 bits producida por la compañía surcoreana Game Park, que salió a la venta a finales de 2001. Tiene como principal característica, al igual que la Tapwave Zodiac, que es una consola orientada al software libre, siendo la primera de este tipo. </text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le GP32 (GamePark 32) est une console de jeu portable développée par la société sud-coréenne Game Park. Il est sorti le 23 novembre 2001 en Corée du Sud et distribué dans certaines régions d'Europe. Est une console orientée logiciel libre, étant la première du genre.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>GP32 (GamePark 32) é um console portátil desenvolvido pela empresa sul-coreana Game Park. Foi lançado em 23 de novembro de 2001, na Coréia do Sul e distribuído em algumas partes da Europa. É um console orientado a software livre, sendo o primeiro de seu tipo.</text>
 		</text>
 
 

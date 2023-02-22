@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Megatech Software was the first licensor of anime games in the United States, and the first licensor of hentai games or eroge in English.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Megatech Software fue el primer licenciante de juegos de anime en los Estados Unidos y el primer licenciante de juegos hentai o eroge en inglés.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Megatech Software a été le premier concédant de licence de jeux d'anime aux États-Unis et le premier concédant de licence de jeux hentai ou eroge en anglais.</text>
 		</text>
 
 	
 		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text>A Megatech Software foi a primeira licenciante de jogos de anime nos Estados Unidos e a primeira licenciante de jogos hentai ou eroge em inglês.</text>
 		</text>
 		
 				

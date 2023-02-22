@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
 			<text>The Mega Duck WG-108 (also known as Cougar Boy) is a handheld game console that was developed and manufactured by Hong Kong-based Welback Holdings through its Timlex International division, and released in 1993.</text>
@@ -12,6 +9,14 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 
 		<text name="system_description" extra="true" lang="es">
 			<text>La Mega Duck WG-108 (también conocida como Cougar Boy) es una consola de juegos portátil que fue desarrollada y fabricada por Welback Holdings con sede en Hong Kong a través de su división Timlex International y lanzada en 1993.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="fr">
+			<text>Le Mega Duck WG-108 (également connu sous le nom de Cougar Boy) est une console de jeu portable développée et fabriquée par Welback Holdings, basée à Hong Kong, via sa division Timlex International et lancée en 1993.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>O Mega Duck WG-108 (também conhecido como Cougar Boy) é um console de jogos portátil desenvolvido e fabricado pela Welback Holdings, com sede em Hong Kong, por meio de sua divisão Timlex International, e lançado em 1993.</text>
 		</text>
 
 

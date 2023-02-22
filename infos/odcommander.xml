@@ -1,0 +1,23 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>A two-pane file manager, similar to Norton/Midnight commander, useful to manage all the /userdata files on your Batocera system.</text>
+		</text>
+		<text name="system_description" extra="true" lang="es">
+			<text>Un administrador de archivos de dos paneles, similar a Norton/Midnight Commander, útil para administrar todos los archivos ubicados en la carpeta /userdata de su sistema Batocera</text>
+		</text>
+		<text name="system_description" extra="true" lang="fr">
+			<text>Un gestionnaire de fichiers à deux volets, similaire à Norton/Midnight commander, utile pour gérer tous les fichiers /userdata sur votre système Batocera. gestionnaire de fichiers à deux volets, similaire à Norton/Midnight commander, utile pour gérer tous les fichiers /userdata sur votre système Batocera.</text>
+		</text>
+		<text name="system_description" extra="true" lang="pt">
+			<text>Um gerenciador de arquivos tA de dois painéis, semelhante ao Norton/Midnight commander, útil para gerenciar todos os arquivos /userdata em seu sistema Batocera. seu sistema Batocera.</text>
+		</text>
+
+		<text name="system_name" extra="true">
+			<text>OD-Commander</text>
+		</text>
+	</view>
+</theme>

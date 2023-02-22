@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 
 		<text name="system_description" extra="true" >
@@ -22,7 +19,7 @@ Sus principales características son su procesador central basado en un IBM Powe
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text>O Nintendo GameCube (comumente abreviado como GameCube) é um console de videogame doméstico lançado pela Nintendo no Japão e na América do Norte em 2001 e Europa e Austrália em 2002. Como parte da sexta geração de consoles, é o sucessor do Nintendo 64.</text>
+			<text>O Nintendo GameCube (ニンテンドーゲームキューブ, Nintendō Gēmukyūbu?, pronuncia em inglês : [ˈɡeɪm.kjuːb]) é um console de videogame doméstico lançado pela Nintendo no Japão e na América do Norte em 2001 e Europa e Austrália em 2002. Como parte da sexta geração de consoles, é o sucessor do Nintendo 64.</text>
 		</text>
 
 		

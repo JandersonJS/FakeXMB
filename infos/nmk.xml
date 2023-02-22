@@ -1,23 +1,23 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
+				<text>Nihon Maicom Kaihatsu, better known as NMK, was a Japanese video game developer that created various arcade games and shoot 'em ups. The company is best and mostly known for its Neo Geo title, Zed Blade.</text>
 			</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>Nihon Maicom Kaihatsu, más conocido como NMK, fue un desarrollador de videojuegos japonés que creó varios juegos de arcade y shoot 'em ups. La compañía es mejor y más conocida por su título de Neo Geo, Zed Blade.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>Nihon Maicom Kaihatsu, mieux connu sous le nom de NMK, était un développeur de jeux vidéo japonais qui a créé divers jeux d'arcade et des shoot'em ups. La société est surtout connue pour son titre Neo Geo, Zed Blade.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>Nihon Maicom Kaihatsu, mais conhecido como NMK, foi um desenvolvedor de videogame japonês que criou vários jogos de arcade e shoot 'em ups. A empresa é melhor e mais conhecida por seu título Neo Geo, Zed Blade.</text>
 		</text>
 		
 				

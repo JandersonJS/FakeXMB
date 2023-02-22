@@ -1,26 +1,23 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		
 				<text name="system_description" extra="true">
-			<text>Is an 8-bit handheld game console which was developed and manufactured by Nintendo. It is the first handheld console in the Game Boy line and was created and published by team led by Gunpei Yokoi at the time.</text>
+			<text>The Nintendo Game Link Cable is an accessory for the Game Boy line of handheld video game systems, allowing players to connect Game Boys of all types for multiplayer gaming.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-			<text>Game Boy es una serie de videoconsolas portátiles alimentadas con pilas (a excepción del modelo SP y Micro) y comercializadas por Nintendo. Es oficialmente la tercera consola más vendida del mundo.</text>
+			<text>El cable Nintendo Game Link es un accesorio para la línea Game Boy de sistemas de videojuegos portátiles, que permite a los jugadores conectar Game Boys de todo tipo para juegos multijugador.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-			<text>Elle fut conçue par Gunpei Yokoi et Nintendo Research and Development 1 — la même équipe ayant conçu la série des Game and Watch ainsi que de nombreux jeux à succès sur Nintendo Entertainment System.</text>
+			<text>Le câble Nintendo Game Link est un accessoire pour la gamme Game Boy de systèmes de jeux vidéo portables, permettant aux joueurs de connecter des Game Boys de tous types pour les jeux multijoueurs.</text>
 		</text>
 
 				<text name="system_description" extra="true" lang="pt">
-			<text>O Game Boy é o segundo portátil da Nintendo, criado após a linha Game and Watch lançada em 1980. Junto ao Game Boy Color, venderam impressionantes 118,69 milhões de unidades.</text>
+			<text>O Nintendo Game Link Cable é um acessório para a linha Game Boy de sistemas de videogame portáteis, permitindo que os jogadores conectem Game Boys de todos os tipos para jogos multiplayer.</text>
 		</text>
 
 
@@ -32,6 +29,14 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		
 		<text name="system_name" extra="true" lang="es">
 			<text>Game Boy (2 Jugadores)</text>
+		</text>
+
+		<text name="system_name" extra="true" lang="fr">
+			<text>Game Boy (2 joueurs)</text>
+		</text>
+
+		<text name="system_name" extra="true" lang="pt">
+			<text>Game Boy (2 Jogadores)</text>
 		</text>
 
 

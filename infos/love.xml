@@ -1,32 +1,29 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 				
 				<text name="system_description" extra="true">
-				<text></text>
-			</text>
+				<text>LÖVE (stylized as LOVE) is a platform game developed and published by American indie developer Fred Wood. It was originally released in May 2008, exclusively to the game's website, but was later to released as an enhanced version entitled Love+ on February 7, 2014 to Early Access, with its final release being on February 14, 2014. For the game's fifth anniversary, it was released on Nintendo Switch on February 14, 2019.</text>
+		</text>
 		
 				<text name="system_description" extra="true" lang="es">
-				<text></text>
+				<text>LÖVE (estilizado como LOVE) es un juego de plataformas desarrollado y publicado por el desarrollador independiente estadounidense Fred Wood. Se lanzó originalmente en mayo de 2008, exclusivamente en el sitio web del juego, pero luego se lanzó como una versión mejorada titulada Love+ el 7 de febrero de 2014 para Early Access, y su lanzamiento final fue el 14 de febrero de 2014. Para el quinto aniversario del juego. , se lanzó en Nintendo Switch el 14 de febrero de 2019.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-				<text></text>
+				<text>LÖVE (stylisé comme LOVE) est un jeu de plateforme développé et publié par le développeur indépendant américain Fred Wood. Il a été initialement publié en mai 2008, exclusivement sur le site Web du jeu, mais a ensuite été publié en tant que version améliorée intitulée Love + le 7 février 2014 en accès anticipé, sa sortie finale étant le 14 février 2014. Pour le cinquième anniversaire du jeu , il est sorti sur Nintendo Switch le 14 février 2019.</text>
 		</text>
 
 	
-		<text name="system_description" extra="true" lang="pt">
-				<text></text>
+				<text name="system_description" extra="true" lang="pt">
+				<text>LÖVE (estilizado como LOVE) é um jogo de plataforma desenvolvido e publicado pelo desenvolvedor indie americano Fred Wood. Foi originalmente lançado em maio de 2008, exclusivamente para o site do jogo, mas posteriormente foi lançado como uma versão aprimorada intitulada Love + em 7 de fevereiro de 2014 para Early Access, com seu lançamento final sendo em 14 de fevereiro de 2014. Para o quinto aniversário do jogo , foi lançado no Nintendo Switch em 14 de fevereiro de 2019.</text>
 		</text>
 		
 				
 
 		<text name="system_name" extra="true">
-			<text>Love</text>
+			<text>LÖVE</text>
 		</text>
 	</view>
 </theme>

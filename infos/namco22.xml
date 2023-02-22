@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>The Namco System 22 is the successor to the Namco System 21 arcade system board. It debuted in 1992 with Sim Drive in Japan, followed by a worldwide debut in 1993 with Ridge Racer. The System 22 was designed by Namco with assistance from graphics & simulation company Evans & Sutherland.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Le Namco System 22 est le successeur de la carte système d'arcade Namco System 21. Il a fait ses débuts en 1992 avec Sim Drive au Japon, suivi d'une première mondiale en 1993 avec Ridge Racer. System 22 a été conçu par Namco avec l'aide de la société de graphisme et de simulation Evans & Sutherland.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>El Namco System 22 es el sucesor de la placa del sistema arcade Namco System 21. Debutó en 1992 con Sim Drive en Japón, seguido de un estreno mundial en 1993 con Ridge Racer. El sistema 22 fue diseñado por Namco con la ayuda de la empresa de gráficos y simulación Evans & Sutherland.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>O Namco System 22 é o sucessor da placa de sistema de arcade Namco System 21. Ele estreou em 1992 com Sim Drive no Japão, seguido por uma estreia mundial em 1993 com Ridge Racer. O System 22 foi projetado pela Namco com a ajuda da empresa de gráficos e simulação Evans & Sutherland.</text>
 		</text>
 		
 				

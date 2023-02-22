@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Irem Software Engineering is a Japanese video game console developer and publisher, and formerly a developer and manufacturer of arcade games as well. The company has its headquarters in Chiyoda, Tokyo. Irem is known internationally for three 1980s arcade games: Moon Patrol (1982; licensed to Williams Electronics in North America), the earliest beat 'em up, Kung-Fu Master (1984), and the scrolling shooter R-Type (1987). Irem has been popular in Japan with games like Gekibo: Gekisha Boy for the PC Engine and In the Hunt for arcades.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Irem Software Engineering est un développeur et éditeur japonais de consoles de jeux vidéo, et anciennement développeur et fabricant de jeux d'arcade. La société a son siège social à Chiyoda, Tokyo. Irem est connu internationalement pour trois jeux d'arcade des années 1980 : Moon Patrol (1982 ; sous licence de Williams Electronics en Amérique du Nord), le premier beat'em up, Kung-Fu Master (1984) et le R-Type scroll (1987). Irem est populaire au Japon avec des jeux comme Gekibo : Gekisha Boy pour PC Engine et In the Hunt pour les arcades.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Irem Software Engineering es un desarrollador y editor japonés de consolas de videojuegos, y anteriormente un desarrollador y fabricante de juegos de arcade. La empresa tiene su sede en Chiyoda, Tokio. Irem es conocido internacionalmente por tres juegos de arcade de la década de 1980: Moon Patrol (1982; con licencia de Williams Electronics en Norteamérica), el primer beat 'em up, Kung-Fu Master (1984) y R-Type scroll (1987). Irem es popular en Japón con juegos como Gekibo: Gekisha Boy para PC Engine e In the Hunt para salas de juegos.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>A Irem Software Engineering é uma desenvolvedora e editora japonesa de consoles de videogame e, anteriormente, desenvolvedora e fabricante de jogos de fliperama. A empresa tem sua sede em Chiyoda, Tóquio. Irem é conhecido internacionalmente por três jogos de arcade da década de 1980: Moon Patrol (1982; licenciado para a Williams Electronics na América do Norte), o primeiro beat 'em up, Kung-Fu Master (1984) e o jogo de tiro em rolagem R-Type (1987). Irem é popular no Japão com jogos como Gekibo: Gekisha Boy para PC Engine e In the Hunt para fliperamas.</text>
 		</text>
 		
 				

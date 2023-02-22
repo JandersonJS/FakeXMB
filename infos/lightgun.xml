@@ -1,10 +1,7 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	
 
 		<text name="system_description" extra="true" >
@@ -20,7 +17,7 @@ https://github.com/pajarorrojo/es-theme-PlayStation-X
 		</text>
 
 				<text name="system_description" extra="true" lang="pt">
-			<text>Uma lista automática de todos os jogos compatíveis com Light Guns disponíveis no sistema. </text>
+			<text>Uma lista automática de todos os jogos compatíveis com Light Guns disponíveis no sistema.</text>
 		</text>
 		
 		

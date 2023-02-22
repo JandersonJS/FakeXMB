@@ -1,26 +1,25 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. (originally as Apple Computer, Inc.) since January 1984.
-
-The original Macintosh is the first successful mass-market all-in-one desktop personal computer to have featured a graphical user interface, built-in screen, and mouse. Apple sold the Macintosh alongside its popular Apple II, Apple IIGS, Apple III, and Apple Lisa families of computers until the other models were discontinued in the 1990s. </text>
+			<text>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. (originally as Apple Computer, Inc.) since January 1984. The original Macintosh is the first successful mass-market all-in-one desktop personal computer to have featured a graphical user interface, built-in screen, and mouse. Apple sold the Macintosh alongside its popular Apple II, Apple IIGS, Apple III, and Apple Lisa families of computers until the other models were discontinued in the 1990s.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text>Macintosh, abreviado como Mac, es la línea de ordenadores personales diseñada, desarrollada y comercializada por Apple Inc. En sus inicios fue una alternativa económica y doméstica al Lisa, un avanzado microordenador empresarial, cuya línea de desarrollo fue absorbida por la línea Macintosh. 
-				
-El Mac terminó por convertirse en la línea estándar de desarrollo de los ordenadores de Apple, al desaparecer la línea evolutiva del Apple II. </text>
+			<text>Macintosh, abreviado como Mac, es la línea de ordenadores personales diseñada, desarrollada y comercializada por Apple Inc. En sus inicios fue una alternativa económica y doméstica al Lisa, un avanzado microordenador empresarial, cuya línea de desarrollo fue absorbida por la línea Macintosh. El Mac terminó por convertirse en la línea estándar de desarrollo de los ordenadores de Apple, al desaparecer la línea evolutiva del Apple II.</text>
 		</text>
 
+		<text name="system_description" extra="true" lang="fr">
+			<text>Le Macintosh (principalement Mac depuis 1998) est une famille d'ordinateurs personnels conçus, fabriqués et vendus par Apple Inc. (à l'origine sous le nom d'Apple Computer, Inc.) depuis janvier 1984. Le Macintosh d'origine est le premier tout-en-un grand public à succès. -un ordinateur personnel de bureau doté d'une interface utilisateur graphique, d'un écran intégré et d'une souris. Apple a vendu le Macintosh aux côtés de ses populaires familles d'ordinateurs Apple II, Apple IIGS, Apple III et Apple Lisa jusqu'à ce que les autres modèles soient abandonnés dans les années 1990.</text>
+		</text>
 
+		<text name="system_description" extra="true" lang="pt">
+			<text>O Macintosh (principalmente Mac desde 1998) é uma família de computadores pessoais projetados, fabricados e vendidos pela Apple Inc. (originalmente como Apple Computer, Inc.) desde janeiro de 1984. -um computador pessoal de mesa com interface gráfica do usuário, tela integrada e mouse. A Apple vendeu o Macintosh ao lado de seus populares computadores Apple II, Apple IIGS, Apple III e Apple Lisa até que os outros modelos foram descontinuados na década de 1990.</text>
+		</text>
 		
 				
 

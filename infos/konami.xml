@@ -1,27 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 	    
 
 		<text name="system_description" extra="true" >
-			<text></text>
+			<text>Konami Group Corporation is a Japanese multinational video game and entertainment company headquartered in Chūō, Tokyo, it also produces and distributes trading cards, anime, tokusatsu, pachinko machines, slot machines, and arcade cabinets. Konami has casinos around the world and operates health and physical fitness clubs across Japan.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
+			<text>Konami Group Corporation est une multinationale japonaise de jeux vidéo et de divertissement dont le siège est à Chūō, Tokyo. Elle produit et distribue également des cartes à collectionner, des anime, des tokusatsu, des machines à pachinko, des machines à sous et des armoires d'arcade. Konami possède des casinos dans le monde entier et exploite des clubs de santé et de conditionnement physique à travers le Japon.</text>
 		</text>
 
 		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>Konami Group Corporation es una multinacional japonesa de videojuegos y entretenimiento con sede en Chūō, Tokio. También produce y distribuye cromos, anime, tokusatsu, máquinas de pachinko, máquinas tragamonedas y gabinetes de juegos. Konami tiene casinos en todo el mundo y opera clubes de salud y fitness en todo Japón.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>Konami Group Corporation é uma empresa multinacional japonesa de videogames e entretenimento com sede em Chūō, Tóquio. Ela também produz e distribui cartões colecionáveis, anime, tokusatsu, pachinko machines, caça-níqueis e fliperamas. A Konami possui cassinos em todo o mundo e opera clubes de saúde e condicionamento físico em todo o Japão.</text>
 		</text>
 		
 				

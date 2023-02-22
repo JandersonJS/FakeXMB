@@ -1,9 +1,11 @@
-<!-- Theme by pajarorrojo modified by LordOgro-->
-<theme> <formatVersion>7</formatVersion>
+<theme> 
+<formatVersion>7</formatVersion>
 <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 <text name="username" extra="static">
 <!-- put here your username, symply change username for your own username-->
 <!-- pon aquí tu usuario, simplemente cambia username por tu usuario-->
+<!-- mettez ici votre nom d'utilisateur, changez simplement le username pour votre propre nom d'utilisateur-->
+<!-- coloque aqui seu nome de usuário, simplesmente mude o username para seu próprio nome de usuário-->
 
    <text>username</text>
 

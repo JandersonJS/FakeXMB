@@ -1,9 +1,10 @@
 <!-- Theme by pajarorrojo-->
 <theme> 
 <formatVersion>7</formatVersion> 
-  <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+  <view name="screen">
      <text name="username" extra="static">
       <text>${global.netplay.username}</text>
+         <pos>0.779 0.080</pos>
          <size>0.165 0.035</size>
          <color>ffffff</color>
          <fontPath>./../../_theme_inc/fonts/SST Light.ttf</fontPath>

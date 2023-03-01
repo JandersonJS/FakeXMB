@@ -72,7 +72,7 @@ license: creative commons CC-BY-NC-SA
   <subset name="colorset" displayName="${subset.colorset}">
     <include name="gray" displayName="${gray}">./art/colors/gray.xml</include>
     <include name="blue" displayName="${blue}">./art/colors/blue.xml</include>
-    <include name="red" displayName="${red}"/>
+    <include name="red" displayName="${red}">./art/colors/red.xml</include>
     <include name="green" displayName="${green}">./art/colors/green.xml</include>
     <include name="yellow" displayName="${yellow}">./art/colors/yellow.xml</include>
     <include name="violet">./art/colors/violet.xml</include>
@@ -178,132 +178,6 @@ license: creative commons CC-BY-NC-SA
       </text>
 
     <!-- Used by random box need to be declared there -->
-
-    <image name="infoBar" extra="static">
-      <pos>0.68 0.070</pos>
-      <origin>0 0</origin>
-      <path>./art/colorglass.png</path>
-      <color>${baseColor}7f</color>
-      <roundCorners>0.02</roundCorners>
-      <size>0.40 0.15</size>
-      <zIndex>50</zIndex>
-      <visible>true</visible>
-    </image>
-
-      <image name="plus-picto" extra="static">
-         <path>./images/plus-picto-bato.svg</path>
-         <pos>0.690 0.082</pos>
-         <maxSize>0.030</maxSize>
-         <color>ffffff</color>
-         <alignment>left</alignment>
-         <linearSmooth>true</linearSmooth>
-         <zIndex>99</zIndex>
-      </image>
-
-      <image name="info-picto" extra="static">
-         <path>./images/info-picto.svg</path>
-         <pos>0.690 0.132</pos>
-         <maxSize>0.030</maxSize>
-         <color>ffffff</color>
-         <verticalAlignment>top</verticalAlignment>
-         <alignment>left</alignment>
-         <linearSmooth>true</linearSmooth>
-         <zIndex>99</zIndex>
-      </image>
-
-      <image name="puntoazul-1" extra="static">
-         <path>./images/punto-azul.png</path>
-         <pos>0.729 0.090</pos>
-         <maxSize>0.010</maxSize>
-         <color>ffffff</color>
-         <alignment>left</alignment>
-         <linearSmooth>true</linearSmooth>
-         <zIndex>99</zIndex>
-      </image>
-
-      <text name="friends" extra="static">
-         <text>36</text>
-         <pos>0.738 0.081</pos>
-         <size>0.024 0.035</size>
-         <color>ffffff</color>
-         <fontPath>./fonts/SST Light.ttf</fontPath>
-         <fontSize>0.025</fontSize>
-         <alignment>left</alignment>
-         <glowColor>00000035</glowColor>
-         <glowSize>1</glowSize>
-         <glowOffset>3 2</glowOffset>
-         <zIndex>99</zIndex>
-         <backgroundColor>ff000000</backgroundColor>
-      </text>
-
-      <image name="users-picto" extra="static">
-         <path>./images/users-picto.svg</path>
-         <pos>0.710 0.082</pos>
-         <maxSize>0.030</maxSize>
-         <color>ffffff</color>
-         <verticalAlignment>top</verticalAlignment>
-         <alignment>left</alignment>
-         <linearSmooth>true</linearSmooth>
-         <zIndex>99</zIndex>
-      </image>
-
-      <image name="avatar" extra="static">
-         <path>./art/avatars/${image.avatar}.png</path>
-         <path ifSubset="system-avatar:custom">./custom-avatar.png</path>
-         <pos>0.759 0.082</pos>
-         <maxSize>0.030 0.030</maxSize>
-         <zIndex>99</zIndex>
-         <linearSmooth>true</linearSmooth>
-      </image>
-
-      <image name="star-picto" extra="static">
-         <path>./images/star-picto.png</path>
-         <pos>0.929 0.090</pos>
-         <maxSize>0.02</maxSize>
-         <color>ffffff</color>
-         <verticalAlignment>center</verticalAlignment>
-         <alignment>left</alignment>
-         <linearSmooth>true</linearSmooth>
-         <zIndex>99</zIndex>
-      </image>
-
-      <text name="trophy-level" extra="static">
-         <text>2023</text>
-         <pos>0.942 0.082</pos>view name
-         <size>0.048 0.035</size>
-         <color>ffffff</color>
-         <fontPath>./fonts/SST Roman.ttf</fontPath>
-         <fontSize>0.025</fontSize>
-         <alignment>left</alignment>
-         <glowColor>00000035</glowColor>
-         <glowSize>1</glowSize>
-         <glowOffset>3 2</glowOffset>
-         <zIndex>99</zIndex>
-         <backgroundColor>ff000000</backgroundColor>
-      </text>
-
-      <image name="clock-picto" extra="static">
-         <path>./images/clock.png</path>
-         <pos>0.854 0.082</pos>
-         <maxSize>0.030</maxSize>
-         <color>ffffff</color>
-         <verticalAlignment>top</verticalAlignment>
-         <alignment>left</alignment>
-         <linearSmooth>true</linearSmooth>
-         <zIndex>99</zIndex>
-      </image>
-
-      <image name="trophy-picto" extra="static">
-         <path>./images/trophy-picto.svg</path>
-         <pos>0.911 0.082</pos>
-         <maxSize>0.030</maxSize>
-         <color>ffffff</color>
-         <color ifCheevos="true">F3C300d1</color>
-         <verticalAlignment>top</verticalAlignment>
-         <alignment>left</alignment>
-         <linearSmooth>true</linearSmooth>
-         <zIndex>99</zIndex>
-      </image>
 
     <image name="box" extra="true">
       <pos>0.50 0.18</pos>

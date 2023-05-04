@@ -1,8 +1,11 @@
 <theme>
    <formatVersion>7</formatVersion>
+
+  <!-- Subset options for color  -->
+  <subset name="colorset" displayName="${subset.colorset}">
     <include name="gray" displayName="${gray}">./art/colors/gray.xml</include>
     <include name="blue" displayName="${blue}">./art/colors/blue.xml</include>
-    <include name="red" displayName="${red}"/>
+    <include name="red" displayName="${red}">./art/colors/red.xml</include>
     <include name="green" displayName="${green}">./art/colors/green.xml</include>
     <include name="yellow" displayName="${yellow}">./art/colors/yellow.xml</include>
     <include name="violet">./art/colors/violet.xml</include>
@@ -10,6 +13,7 @@
     <include name="orange">./art/colors/orange.xml</include>
     <include name="brawn">./art/colors/brawn.xml</include>
     <include name="silver">./art/colors/silver.xml</include>
+  </subset>
 
 
    <!--BARRA DE INFORMACION SUPERIOR-->
@@ -37,7 +41,7 @@
       </text>
 
     <image name="infoBar" extra="static">
-      <pos>0.68 0.070</pos>
+      <pos>0.68 0.068</pos>
       <origin>0 0</origin>
       <path>./art/colorglass.png</path>
       <color>${baseColor}7f</color>

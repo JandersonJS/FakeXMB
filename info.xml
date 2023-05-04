@@ -41,7 +41,6 @@
       <origin>0 0</origin>
       <path>./art/colorglass.png</path>
       <color>${baseColor}7f</color>
-      <roundCorners>0.02</roundCorners>
       <size>0.40 0.15</size>
       <zIndex>50</zIndex>
       <visible>true</visible>

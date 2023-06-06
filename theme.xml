@@ -384,8 +384,8 @@ El más jugado : {binding:mostPlayed}
          <size>0.09 0.058</size>
          <color>ffffff</color>
          <fontPath>./fonts/SST Light.ttf</fontPath>
-         <pos>0.874 0.070</pos>
-         <fontSize>0.025</fontSize>
+         <pos>0.873 0.070</pos>
+         <fontSize>0.028</fontSize>
          <alignment>left</alignment>
          <glowColor>00000035</glowColor>
          <glowSize>1</glowSize>

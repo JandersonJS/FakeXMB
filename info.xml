@@ -87,7 +87,7 @@
          <size>0.024 0.035</size>
          <color>ffffff</color>
          <fontPath>./fonts/SST Light.ttf</fontPath>
-         <fontSize>0.025</fontSize>
+         <fontSize>0.028</fontSize>
          <alignment>left</alignment>
          <glowColor>00000035</glowColor>
          <glowSize>1</glowSize>

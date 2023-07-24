@@ -15,6 +15,7 @@
 			<iconR>./psx/r.png</iconR>
 			<iconStart>./psx/start.png</iconStart>
 			<iconSelect>./psx/select.png</iconSelect>
+			<iconF1>./psx/f1.png</iconF1>
 		</helpsystem>		
 	</view>
 

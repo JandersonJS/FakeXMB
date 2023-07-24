@@ -15,6 +15,7 @@
 			<iconR>./snes/r.png</iconR>
 			<iconStart>./snes/start.png</iconStart>
 			<iconSelect>./snes/select.png</iconSelect>
+			<iconF1>./psx/f1.png</iconF1>
 		</helpsystem>		
 	</view>
   <view name="screen">

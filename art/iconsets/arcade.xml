@@ -15,6 +15,7 @@
 			<iconR>./arcade/r.png</iconR>
 			<iconStart>./arcade/start.png</iconStart>
 			<iconSelect>./arcade/select.png</iconSelect>
+			<iconF1>./psx/f1.png</iconF1>
 		</helpsystem>		
 	</view>
   <view name="screen">

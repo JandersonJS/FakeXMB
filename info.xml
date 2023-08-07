@@ -3,16 +3,16 @@
 
   <!-- Subset options for color  -->
   <subset name="colorset" displayName="${subset.colorset}">
-    <include name="gray" displayName="${gray}">./art/colors/gray.xml</include>
-    <include name="blue" displayName="${blue}">./art/colors/blue.xml</include>
-    <include name="red" displayName="${red}">./art/colors/red.xml</include>
-    <include name="green" displayName="${green}">./art/colors/green.xml</include>
-    <include name="yellow" displayName="${yellow}">./art/colors/yellow.xml</include>
-    <include name="violet">./art/colors/violet.xml</include>
-    <include name="cyan">./art/colors/cyan.xml</include>
-    <include name="orange">./art/colors/orange.xml</include>
-    <include name="brawn">./art/colors/brawn.xml</include>
-    <include name="silver">./art/colors/silver.xml</include>
+    <include name="gray" displayName="${gray}">./main/colors/gray.xml</include>
+    <include name="blue" displayName="${blue}">./main/colors/blue.xml</include>
+    <include name="red" displayName="${red}">./main/colors/red.xml</include>
+    <include name="green" displayName="${green}">./main/colors/green.xml</include>
+    <include name="yellow" displayName="${yellow}">./main/colors/yellow.xml</include>
+    <include name="violet">./main/colors/violet.xml</include>
+    <include name="cyan">./main/colors/cyan.xml</include>
+    <include name="orange">./main/colors/orange.xml</include>
+    <include name="brawn">./main/colors/brawn.xml</include>
+    <include name="silver">./main/colors/silver.xml</include>
   </subset>
 
 
@@ -21,7 +21,7 @@
   <view name="screen">
 
       <image name="plus-picto" extra="static">
-         <path>./images/plus-picto-bato.svg</path>
+         <path>./main/images/plus-picto-bato.svg</path>
          <pos>0.086 0.045</pos>
          <pos ifSubset="frontend:no-frontend">0.02 0.045</pos>
          <maxSize>0.050</maxSize>
@@ -43,15 +43,16 @@
     <image name="infoBar" extra="static">
       <pos>0.68 0.068</pos>
       <origin>0 0</origin>
-      <path>./art/colorglass.png</path>
+      <path>./main/media/colorglass.png</path>
       <color>${baseColor}7f</color>
       <size>0.40 0.15</size>
       <zIndex>50</zIndex>
       <visible>true</visible>
+      <linearSmooth>true</linearSmooth>
     </image>
 
       <image name="plus-picto" extra="static">
-         <path>./images/plus-picto-bato.svg</path>
+         <path>./main/images/plus-picto-bato.svg</path>
          <pos>0.690 0.082</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
@@ -61,7 +62,7 @@
       </image>
 
       <image name="info-picto" extra="static">
-         <path>./images/info-picto.svg</path>
+         <path>./main/images/info-picto.svg</path>
          <pos>0.690 0.132</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
@@ -72,7 +73,7 @@
       </image>
 
       <image name="puntoazul-1" extra="static">
-         <path>./images/punto-azul.png</path>
+         <path>./main/images/punto-azul.png</path>
          <pos>0.729 0.090</pos>
          <maxSize>0.010</maxSize>
          <color>ffffff</color>
@@ -97,7 +98,7 @@
       </text>
 
       <image name="users-picto" extra="static">
-         <path>./images/users-picto.svg</path>
+         <path>./main/images/users-picto.svg</path>
          <pos>0.710 0.082</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
@@ -108,7 +109,7 @@
       </image>
 
       <image name="avatar" extra="static">
-         <path>./art/avatars/${image.avatar}.png</path>
+         <path>./main/avatars/${image.avatar}.png</path>
          <path ifSubset="system-avatar:custom">./custom-avatar.png</path>
          <pos>0.759 0.082</pos>
          <maxSize>0.030 0.030</maxSize>
@@ -117,7 +118,7 @@
       </image>
 
       <image name="star-picto" extra="static">
-         <path>./images/star-picto.png</path>
+         <path>./main/images/star-picto.png</path>
          <pos>0.929 0.090</pos>
          <maxSize>0.02</maxSize>
          <color>ffffff</color>
@@ -132,7 +133,7 @@
          <pos>0.942 0.082</pos>
          <size>0.048 0.035</size>
          <color>ffffff</color>
-         <fontPath>./fonts/SST Roman.ttf</fontPath>
+         <fontPath>./main/fonts/SST Roman.ttf</fontPath>
          <fontSize>0.025</fontSize>
          <alignment>left</alignment>
          <glowColor>00000035</glowColor>
@@ -143,7 +144,7 @@
       </text>
 
       <image name="clock-picto" extra="static">
-         <path>./images/clock.png</path>
+         <path>./main/images/clock.png</path>
          <pos>0.854 0.082</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
@@ -154,7 +155,7 @@
       </image>
 
       <image name="trophy-picto" extra="static">
-         <path>./images/trophy-picto.svg</path>
+         <path>./main/images/trophy-picto.svg</path>
          <pos>0.911 0.082</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
@@ -171,7 +172,7 @@
          <pos tinyScreen="true">0.065 0.045</pos>
          <size>0.398 0.055</size>
          <color>FFFFFF</color>
-         <fontPath>./fonts/SST Light.ttf</fontPath>
+         <fontPath>./main/fonts/SST Light.ttf</fontPath>
          <fontSize>0.030</fontSize>
          <glowColor>00000035</glowColor>
          <glowSize>1</glowSize>
@@ -192,7 +193,7 @@
 
 
       <image name="trophy-picto" extra="static">
-         <path>./images/trophy-picto.svg</path>
+         <path>./main/images/trophy-picto.svg</path>
          <pos>0.911 0.082</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
@@ -213,7 +214,7 @@
          <pos>0.779 0.080</pos>
          <size>0.165 0.035</size>
          <color>ffffff</color>
-         <fontPath>./fonts/SST Light.ttf</fontPath>
+         <fontPath>./main/fonts/SST Light.ttf</fontPath>
          <fontSize>0.028</fontSize>
          <alignment>left</alignment>
          <glowColor>00000035</glowColor>

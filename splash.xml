@@ -8,18 +8,18 @@
 			<backgroundColor>000000FF</backgroundColor>
 		</splash>
 		<image name="background">
-			<path>./art/splash.jpg</path>
+			<path>./main/background/splash.jpg</path>
 		</image>
 		<image name="logo" extra="true">
 			<pos>0.140 0.270</pos>
-			<path>./art/splash_batocera.svg</path>
+			<path>./main/media/splash_batocera.svg</path>
 			<size>0 0.25</size>
 			<alignment>left</alignment>
 		</image>
 		
 		<text name="label, FakeXMB" extra="true">
 			<origin>0 0</origin>
-			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
 			<fontSize>0.023</fontSize>
 			<color>000000</color>
 			<forceUppercase>true</forceUppercase>
@@ -28,14 +28,14 @@
 
 		<text name="FakeXMB" extra="true">
 			<pos>0.367 0.239</pos>
-			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
 			<fontSize>0.090</fontSize>
 			<alignment>left</alignment>
 			<text>FakeXMB</text>
 		</text>
 		<text name="PLUS" extra="true">
 			<pos>0.600 0.300</pos>
-			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
 			<fontSize>0.090</fontSize>
 			<alignment>right</alignment>
 			<color>ffffff</color>
@@ -43,7 +43,7 @@
 		</text>
 		<text name="Version" extra="true">
 			<pos>0.800 0.350</pos>
-			<fontPath>./art/PhatBoy Slim BoldItalic.otf</fontPath>
+			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
 			<fontSize>0.050</fontSize>
 			<alignment>right</alignment>
 			<color>${baseColor}</color>
@@ -51,7 +51,7 @@
 		</text>
 
     <image name="progressbar">
-      <path>./art/load.png</path>
+      <path>./main/media/load.png</path>
       <origin>0 0</origin>
       <pos>0.05 0.87</pos>
       <size>0.9 0.016</size>

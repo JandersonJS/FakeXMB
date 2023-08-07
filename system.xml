@@ -14,14 +14,14 @@ originally based on: "simple" by nils bonenberger
       <size>1 1</size>
       <pos>0 0</pos>
       <origin>0 0</origin>
-      <path>./../art/bg.png</path>
+      <path>./../main/bg.png</path>
       <color>${backgroundColor}</color>
       <zIndex>10</zIndex>
       <scale>1.10</scale>
     </image>
 
     <text name="logoText">
-      <fontPath>./../art/fonts/Cabin-Bold.ttf</fontPath>
+      <fontPath>./main/fonts/Cabin-Bold.ttf</fontPath>
       <fontSize>0.06</fontSize>
       <color>FFFFFFFF</color>
       <glowColor>00000010</glowColor>
@@ -31,24 +31,24 @@ originally based on: "simple" by nils bonenberger
     
     <image name="logo">
       <!-- try png -->
-      <path>./../art/logos/${system.theme}.png</path>
+      <path>./../main/logos/${system.theme}.png</path>
       <!-- try svg -->
-      <path>./../art/logos/${system.theme}.svg</path>
+      <path>./../main/logos/${system.theme}.svg</path>
       <!-- check if lang resources exist -->
-      <path>./../art/logos/${system.theme}-${lang}.png</path>
-      <path>./../art/logos/${system.theme}-${lang}.svg</path>
+      <path>./../main/logos/${system.theme}-${lang}.png</path>
+      <path>./../main/logos/${system.theme}-${lang}.svg</path>
       <linearSmooth>true</linearSmooth>
     </image>
     
     <image name="logo" region="eu"></image>
 		<image name="logo" region="us">
-		  <path>./../art/logos/us/${system.theme}.png</path>
-			<path>./../art/logos/us/${system.theme}.svg</path>
+		  <path>./../main/logos/us/${system.theme}.png</path>
+			<path>./../main/logos/us/${system.theme}.svg</path>
 		</image>
 		
 		<image name="logo" region="jp">
-		  <path>./../art/logos/jp/${system.theme}.png</path>
-			<path>./../art/logos/jp/${system.theme}.svg</path>
+		  <path>./../main/logos/jp/${system.theme}.png</path>
+			<path>./../main/logos/jp/${system.theme}.svg</path>
 		</image>
 		    
     <image name="BottomBar" extra="static">
@@ -56,7 +56,7 @@ originally based on: "simple" by nils bonenberger
       <size>1 0.065</size>
       <pos>0 1</pos>
       <origin>0 1</origin>
-      <path>./../art/bottom.png</path>
+      <path>./../main/bottom.png</path>
       <color>${bottomBarColor}</color>
       <zIndex>50</zIndex>
     </image>
@@ -65,8 +65,8 @@ originally based on: "simple" by nils bonenberger
       <pos>0.5 0.19</pos>
       <origin>0.5 0.5</origin>
       <maxSize>0.3 0.3</maxSize>
-      <path>./../art/controllers/default.svg</path>
-      <path>./../art/controllers/${system.theme}.svg</path>
+      <path>./../main/controllers/default.svg</path>
+      <path>./../main/controllers/${system.theme}.svg</path>
       <color>${baseColor}</color>
       <zIndex>19</zIndex>
       <linearSmooth>true</linearSmooth>
@@ -79,7 +79,7 @@ originally based on: "simple" by nils bonenberger
         <text>${system.sortedBy}</text>
         <alignment>left</alignment>
         <verticalAlignment>top</verticalAlignment>
-        <fontPath>./../art/fonts/Cabin-Regular.ttf</fontPath>
+        <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
         <fontSize>0.060</fontSize>
         <pos>0.029 0.037</pos>
         <size>0.942 0.28</size>
@@ -96,7 +96,7 @@ originally based on: "simple" by nils bonenberger
         <text>${system.fullName}</text>
         <alignment>left</alignment>
         <verticalAlignment>top</verticalAlignment>
-        <fontPath>./../art/fonts/Cabin-Regular.ttf</fontPath>
+        <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
         <fontSize>0.024</fontSize>
         <pos>0.03 0.12</pos>
         <pos verticalScreen="true">0.03 0.10</pos>         
@@ -114,7 +114,7 @@ originally based on: "simple" by nils bonenberger
         <text>${system.releaseYearOrNull}</text>
         <alignment>left</alignment>
         <verticalAlignment>top</verticalAlignment>
-        <fontPath>./../art/fonts/Cabin-Regular.ttf</fontPath>
+        <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
         <fontSize>0.024</fontSize>
         <pos>0.03 0.157</pos>
         <pos verticalScreen="true">0.03 0.127</pos>         

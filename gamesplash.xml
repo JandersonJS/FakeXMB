@@ -21,7 +21,7 @@
       <glowOffset>1</glowOffset>
     </text>
     <image name="darken" extra="true">
-      <path>./art/white.png</path>
+      <path>./main/white.png</path>
       <pos>0 0.7</pos>
       <origin>0 0</origin>
       <size>1 0.3</size>

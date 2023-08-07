@@ -551,6 +551,18 @@ El más jugado : {binding:mostPlayed}
       <horizontalMargin>0.005</horizontalMargin>
     </textlist>
   </view>
+
+  <view name="Carousel, Boxes, grid">
+    <video name="md_video">
+      <size>1 1</size>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <delay>0.8</delay>
+      <loops>2</loops> 
+      <zIndex>2</zIndex>   
+    </video>
+  </view>
+
   <view name="detailed">
       <image name="md_thumbnail">
          <pos>0.56 0.5</pos>

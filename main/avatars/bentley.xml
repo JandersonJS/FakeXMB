@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>7</formatVersion>
+
+<view name="screen">
+<image name="avatar" extra="static">
+         <path>./images/bentley.png</path>
+     </image>
+
+
+      
+</view>
+
+</theme>

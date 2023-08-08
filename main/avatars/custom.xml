@@ -1,7 +1,7 @@
 <theme>
 <formatVersion>7</formatVersion>
 
-<view name="system">
+<view name="screen">
 <image name="avatar" extra="static">
          <path>./../../custom-avatar.png</path>
      </image>

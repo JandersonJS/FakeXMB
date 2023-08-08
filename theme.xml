@@ -87,44 +87,44 @@ license: creative commons CC-BY-NC-SA
 <!--AVATARES-->
 <subset name="system-avatar" displayName="${theme.Avatar}" extra="true, static">
 	<include name="custom" displayName="${custom}">./main/avatars/custom.xml</include>
-	<include name="batocera-plus" displayName="Batocera Plus">./main/avatars/batocera-plus.xml</include>
-	<include name="batocera" displayName="Batocera">./main/avatars/batocera.xml</include>
-	<include name="Bubble Bobble" displayName="Bubble Bobble">./main/avatars/bubble.xml</include>
-	<include name="castlevania" displayName="Alucard (Castlevania)">./main/avatars/castlevania.xml</include>
-	<include name="ghostgoblins" displayName="Arthur (Ghost 'n Goblins)">./main/avatars/ghostgoblins.xml</include>
-	<include name="cloud" displayName="Cloud Strife">./main/avatars/cloud.xml</include>
-	<include name="daytentacle" displayName="Day of the Tentacle">./main/avatars/daytentacle.xml</include> 
-	<include name="donkey" displayName="Donkey Kong">./main/avatars/donkey.xml</include> 
-	<include name="emulationstation" displayName="Emulation Station">./main/avatars/emulationstation.xml</include>
-	<include name="halo" displayName="Halo">./main/avatars/halo.xml</include>
-	<include name="jackelguapo" displayName="Handsome Jack">./main/avatars/jackelguapo.xml</include>
-	<include name="lara" displayName="Lara Croft">./main/avatars/lara.xml</include>
-	<include name="larry" displayName="Larry Laffer">./main/avatars/larry.xml</include>
-	<include name="zelda" displayName="Link (Zelda)">./main/avatars/zelda.xml</include>
-	<include name="mario" displayName="Mario Bros.">./main/avatars/mario.xml</include>
-	<include name="megaman" displayName="Mega-Man">./main/avatars/megaman.xml</include>
-	<include name="metal-gear" displayName="Metal Gear">./main/avatars/metal-gear.xml</include>
-	<include name="metalslug" displayName="Metal Slug">./main/avatars/metalslug.xml</include>
-	<include name="metroid" displayName="Metroid">./main/avatars/metroid.xml</include>
-	<include name="monkeyisland" displayName="Monkey Island">./main/avatars/monkeyisland.xml</include>
-	<include name="outrun" displayName="OutRun">./main/avatars/outrun.xml</include>
-	<include name="pacman" displayName="Pac-Man">./main/avatars/pacman.xml</include>
-	<include name="pacman-clyde" displayName="Pac-Man Clyde">./main/avatars/pacman-clyde.xml</include>
-	<include name="pacman-Inky" displayName="Pac-Man Inky">./main/avatars/pacman-inky.xml</include>
-	<include name="pacman-blinky" displayName="Pac-Man Blinky">./main/avatars/pacman-blinky.xml</include>
-	<include name="pacman-pinky" displayName="Pac-Man Pinky">./main/avatars/pacman-pinky.xml</include>
-	<include name="ps-logo" displayName="PlayStation Logo">./main/avatars/playstation-logo.xml</include>
-	<include name="astrobot" displayName="PSN Astro Bot">./main/avatars/astrobot.xml</include>
-	<include name="retroship" displayName="PSN Retro Ship">./main/avatars/retroship.xml</include>
-	<include name="recalbox" displayName="Recalbox">./main/avatars/recalbox.xml</include>
-	<include name="retroachievements" displayName="Retroachievements Default">./main/avatars/retroachievements.xml</include>
-	<include name="retrobat" displayName="Retrobat">./main/avatars/retrobat.xml</include>
-	<include name="retropie" displayName="Retropie">./main/avatars/retropie.xml</include>
-	<include name="shenmue" displayName="Ryo Hazuki (Shenmue)">./main/avatars/shenmue.xml</include>
-	<include name="ryu" displayName="Ryu (Street Fighter 2)">./main/avatars/ryu.xml</include>
-	<include name="sephirot" displayName="Sephirot">./main/avatars/sephirot.xml</include>
-	<include name="sonic" displayName="Sonic">./main/avatars/sonic.xml</include>
-	<include name="wonderboy" displayName="Wonderboy">./main/avatars/wonderboy.xml</include>
+	<include name="8bitapple" displayName="8 bit apple">./main/avatars/8bitapple.xml</include>
+	<include name="8bitf1car" displayName="8 bit f1 car">./main/avatars/8bitf1car.xml</include>
+	<include name="8bitflower" displayName="8 bit flower">./main/avatars/8bitflower.xml</include>
+	<include name="8bitspaceship" displayName="8 bit spaceship">./main/avatars/8bitspaceship.xml</include>
+	<include name="8bitwatermellon" displayName="8 bit watermellon">./main/avatars/8bitwatermellon.xml</include>
+	<include name="abstracts" displayName="abstracts">./main/avatars/abstracts.xml</include>
+	<include name="abstractsquare" displayName="abstract square">./main/avatars/abstractsquare.xml</include> 
+	<include name="alyxvance" displayName="Alyx Vance">./main/avatars/alyxvance.xml</include> 
+	<include name="anta" displayName="anta">./main/avatars/anta.xml</include>
+	<include name="anubis" displayName="Anubis">./main/avatars/anubis.xml</include>
+	<include name="ape1" displayName="ape1">./main/avatars/ape1.xml</include>
+	<include name="ape2" displayName="ape2">./main/avatars/ape2.xml</include>
+	<include name="ape3" displayName="ape3">./main/avatars/ape3.xml</include>
+	<include name="ape4" displayName="ape4">./main/avatars/ape4.xml</include>
+	<include name="apexlegends" displayName="Apex Legends">./main/avatars/apexlegends.xml</include>
+	<include name="arcade" displayName="arcade">./main/avatars/arcade.xml</include>
+	<include name="artefact1" displayName="artefact1">./main/avatars/artefact1.xml</include>
+	<include name="artefact2" displayName="artefact2">./main/avatars/artefact2.xml</include>
+	<include name="artefact3" displayName="artefact3">./main/avatars/artefact3.xml</include>
+	<include name="artesmarciais" displayName="Martial Arts">./main/avatars/artesmarciais.xml</include>
+	<include name="baby" displayName="baby">./main/avatars/baby.xml</include>
+	<include name="ballbear" displayName="ball bear">./main/avatars/ballbear.xml</include>
+	<include name="ballchick-clyde" displayName="ball chick">./main/avatars/ballchick.xml</include>
+	<include name="ballchicken" displayName="ball chicken">./main/avatars/ballchicken.xml</include>
+	<include name="ballpenguin" displayName="ball penguin">./main/avatars/ballpenguin.xml</include>
+	<include name="ballseal" displayName="ball seal">./main/avatars/ballseal.xml</include>
+	<include name="barbarian" displayName="barbarian">./main/avatars/barbarian.xml</include>
+	<include name="baseball1" displayName="baseball1">./main/avatars/baseball1.xml</include>
+	<include name="baseball2" displayName="baseball2">./main/avatars/baseball2.xml</include>
+	<include name="baseball3" displayName="baseball3">./main/avatars/baseball3.xml</include>
+	<include name="baseball4" displayName="baseball4">./main/avatars/baseball4.xml</include>
+	<include name="basket" displayName="basket">./main/avatars/basket.xml</include>
+	<include name="basket1" displayName="basket1">./main/avatars/basket1.xml</include>
+	<include name="basketball" displayName="basketball">./main/avatars/basketball.xml</include>
+	<include name="bear" displayName="bear">./main/avatars/bear.xml</include>
+	<include name="beetle" displayName="beetle">./main/avatars/beetle.xml</include>
+	<include name="bell" displayName="bell">./main/avatars/bell.xml</include>
+	<include name="bentley" displayName="Bentley">./main/avatars/bentley.xml</include>
 </subset>  
 
 
@@ -390,7 +390,7 @@ El más jugado : {binding:mostPlayed}
       <controllerActivity name="controllerActivity" tinyScreen="true">
          <visible>false</visible>
       </controllerActivity>
--->
+    -->
     <controllerActivity name="controllerActivity">
       <itemSpacing>0.003</itemSpacing>
       <color>FFFFFF90</color>

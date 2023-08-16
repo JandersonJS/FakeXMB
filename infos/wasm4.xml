@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	
+		<text name="system_description" extra="true">
+			<text>WASM-4 is a low-level fantasy game console for building small games with WebAssembly. Game cartridges (ROMs) are small, self-contained .wasm files that can be built with any programming language that compiles to WebAssembly.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>WASM-4 es una consola de juegos de fantasía de bajo nivel para crear juegos pequeños con WebAssembly. Los cartuchos de juego (ROM) son archivos .wasm pequeños e independientes que se pueden crear con cualquier lenguaje de programación que se compile en WebAssembly.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>WASM-4 est une console de jeu fantastique de bas niveau pour créer de petits jeux avec WebAssembly. Les cartouches de jeu (ROM) sont de petits fichiers .wasm autonomes qui peuvent être créés avec n'importe quel langage de programmation qui se compile en WebAssembly.</text>
+		</text>
+
+			<text name="system_description" extra="true" lang="pt">
+			<text>WASM-4 é um console de jogos de fantasia de baixo nível para construir pequenos jogos com WebAssembly. Cartuchos de jogos (ROMs) são arquivos .wasm pequenos e independentes que podem ser criados com qualquer linguagem de programação compilada para WebAssembly.</text>
+		</text>
+
+
+				
+		
+		<text name="system_name" extra="true">
+			<text>Panasonic 3DO</text>
+		</text>
+	</view>
+</theme>

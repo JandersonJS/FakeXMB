@@ -23,7 +23,7 @@
 				
 
 		<text name="system_name" extra="true">
-			<text>Custom Collections</text>
+			<text>ColecoVision</text>
 		</text>
 	</view>
 </theme>

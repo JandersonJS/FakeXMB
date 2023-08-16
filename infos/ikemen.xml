@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	
+		<text name="system_description" extra="true">
+			<text>I.K.E.M.E.N (short for Itsumademo Kanseishinai Eienni Mikansei ENgine) is a free and open-source fighting game engine designed to be compatible with M.U.G.E.N content, while also expanding on its feature set to allow for more flexible customization. The engine is notable for introducing stage zoom prior to the release of the M.U.G.E.N 1.1 beta, and for allowing netplay matches, a feature that is not supported in any official build of M.U.G.E.N.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>I.K.E.M.E.N (abreviatura de Itsumademo Kanseishinai Eienni Mikansei ENgine) es un motor de juego de lucha gratuito y de código abierto diseñado para ser compatible con el contenido de M.U.G.E.N, al tiempo que amplía su conjunto de funciones para permitir una personalización más flexible. El motor se destaca por introducir el zoom de escenario antes del lanzamiento de la versión beta de M.U.G.E.N 1.1 y por permitir partidas de netplay, una función que no es compatible con ninguna versión oficial de M.U.G.E.N.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>I.K.E.M.E.N (abréviation de Itsumademo Kanseishinai Eienni Mikansei ENgine) est un moteur de jeu de combat gratuit et open-source conçu pour être compatible avec le contenu M.U.G.E.N, tout en élargissant son ensemble de fonctionnalités pour permettre une personnalisation plus flexible. Le moteur est remarquable pour avoir introduit le zoom de scène avant la sortie de la version bêta de M.U.G.E.N 1.1 et pour autoriser les matchs en netplay, une fonctionnalité qui n'est prise en charge dans aucune version officielle de M.U.G.E.N.</text>
+		</text>
+
+			<text name="system_description" extra="true" lang="pt">
+			<text>I.K.E.M.E.N (abreviação de Itsumademo Kanseishinai Eienni Mikansei ENgine) é um mecanismo de jogo de luta gratuito e de código aberto projetado para ser compatível com o conteúdo M.U.G.E.N, ao mesmo tempo em que expande seu conjunto de recursos para permitir uma personalização mais flexível. O mecanismo é notável por introduzir o zoom do palco antes do lançamento do M.U.G.E.N 1.1 beta e por permitir partidas netplay, um recurso que não é suportado em nenhuma versão oficial do M.U.G.E.N.</text>
+		</text>
+
+
+				
+		
+		<text name="system_name" extra="true">
+			<text>Panasonic 3DO</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	
+		<text name="system_description" extra="true">
+			<text>Pyxel is a retro game engine for Python. Thanks to its simple specifications inspired by retro gaming consoles, such as only 16 colors can be displayed and only 4 sounds can be played back at the same time, you can feel free to enjoy making pixel art style games.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Pyxel es un motor de juego retro para Python. Gracias a sus especificaciones simples inspiradas en las consolas de juegos retro, como que solo se pueden mostrar 16 colores y solo se pueden reproducir 4 sonidos al mismo tiempo, puedes sentirte libre de disfrutar creando juegos estilo pixel art.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Pyxel est un moteur de jeu rétro pour Python. Grâce à ses spécifications simples inspirées des consoles de jeu rétro, telles que seulement 16 couleurs peuvent être affichées et seulement 4 sons peuvent être joués en même temps, vous pouvez vous sentir libre de vous amuser à créer des jeux de style pixel art.</text>
+		</text>
+
+			<text name="system_description" extra="true" lang="pt">
+			<text>Pyxel é um mecanismo de jogo retrô para Python. Graças às suas especificações simples inspiradas em consoles de jogos retrô, como apenas 16 cores podem ser exibidas e apenas 4 sons podem ser reproduzidos ao mesmo tempo, você pode se sentir à vontade para criar jogos no estilo pixel art.</text>
+		</text>
+
+
+				
+		
+		<text name="system_name" extra="true">
+			<text>Panasonic 3DO</text>
+		</text>
+	</view>
+</theme>

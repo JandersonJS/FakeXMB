@@ -23,11 +23,11 @@
 
 		<text name="loading" extra="true">
 			<origin>0 0</origin>
-			<pos>0.055 0.35</pos>
+			<pos>0.855 0.935</pos>
 			<alignment>left</alignment>
 			<color>dddddd</color>
 			<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
-			<fontSize>0.02</fontSize>
+			<fontSize>0.03</fontSize>
 			<glowColor>09090920</glowColor>
 			<glowSize>1</glowSize>
 			<glowOffset>1</glowOffset>

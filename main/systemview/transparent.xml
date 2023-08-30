@@ -12,6 +12,7 @@
       <size>1 0.3925</size>
       <origin>0 0</origin>
       <logoPos>-1 0.02</logoPos>
+      <scrollSound>./main/sounds/scroll.wav</scrollSound>
     </carousel>
 
     <image name="logo">

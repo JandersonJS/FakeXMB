@@ -223,6 +223,7 @@ license: creative commons CC-BY-NC-SA
       <path>/userdata/themes/${system.theme}/main/${system}-${lang}.png</path>
       <path>/userdata/themes/${system.theme}/main/${system}-${lang}.svg</path>
       -->
+      <storyboard><sound path="./main/sounds/omp.wav"/></storyboard>
     </image>
     <image name="logo" region="eu"></image>
 		<image name="logo" region="us">
@@ -540,7 +541,7 @@ El más jugado : {binding:mostPlayed}
       <alignment>center</alignment>
       <horizontalMargin>0.01</horizontalMargin>
       <forceUppercase>1</forceUppercase>
-      <scrollSound>./main/sounds/scroll.wav</scrollSound>
+      <scrollSound>./main/sounds/scroll-2.wav</scrollSound>
       
       <scrollbarColor>252525</scrollbarColor>
       <scrollbarCorner>0.49</scrollbarCorner>
@@ -705,14 +706,14 @@ El más jugado : {binding:mostPlayed}
       <alignment>left</alignment>
       <horizontalMargin>0.00</horizontalMargin>
       <fontSize>0.03</fontSize>
-      <scrollSound>./main/sounds/scroll.wav</scrollSound>
+      <scrollSound>./main/sounds/scroll-2.wav</scrollSound>
       
       <scrollbarColor>252525</scrollbarColor>
       <scrollbarCorner>0.49</scrollbarCorner>
       <scrollbarSize>0.0055</scrollbarSize>            
       <scrollbarAlignment>outerright</scrollbarAlignment>
       
-      <lines>17</lines>
+      <lines>15</lines>
       <horizontalMargin>0.005</horizontalMargin>
     </textlist>
     <image name="md_hidden">
@@ -821,6 +822,7 @@ El más jugado : {binding:mostPlayed}
       <fontPath>./main/fonts/Cabin-Bold.ttf</fontPath>
       <forceUppercase>true</forceUppercase>
       <zIndex>200</zIndex>
+      <storyboard><sound path="./main/sounds/bip.wav"/></storyboard>
     </text>  
   </view>
   <view name="grid">

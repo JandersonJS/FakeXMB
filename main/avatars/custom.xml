@@ -3,7 +3,10 @@
 
 <view name="screen">
 <image name="avatar" extra="static">
-         <path>./../../custom-avatar.png</path>
+      <roundCorners>0.5</roundCorners>
+         <path>./custom-avatar.jpeg</path>
+         <path>./custom-avatar.jpg</path>
+         <path>./custom-avatar.png</path>
      </image>
 
 

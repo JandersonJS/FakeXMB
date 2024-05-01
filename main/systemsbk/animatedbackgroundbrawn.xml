@@ -8,6 +8,7 @@
       <origin>0 0</origin>
       <linearSmooth>true</linearSmooth>
       <path>./main/video/brawn.mp4</path>
+      <audio>false</audio>
       <zIndex>19</zIndex>     
     </video>
   </view>

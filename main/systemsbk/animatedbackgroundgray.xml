@@ -8,6 +8,7 @@
       <origin>0 0</origin>
       <path>./main/video/gray.mp4</path>
       <videoSmooth>true</videoSmooth>
+      <audio>false</audio>
       <zIndex>19</zIndex>     
     </video>
   </view>

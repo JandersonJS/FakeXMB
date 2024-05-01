@@ -10,12 +10,6 @@
 		<image name="background">
 			<path>./main/background/splash.jpg</path>
 		</image>
-		<image name="logo" extra="true">
-			<pos>0.140 0.270</pos>
-			<path>./main/media/splash_batocera.svg</path>
-			<size>0 0.25</size>
-			<alignment>left</alignment>
-		</image>
 		
 		<text name="label, FakeXMB" extra="true">
 			<origin>0 0</origin>
@@ -33,22 +27,6 @@
 			<alignment>left</alignment>
 			<text>FakeXMB</text>
 		</text>
-		<text name="PLUS" extra="true">
-			<pos>0.600 0.300</pos>
-			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
-			<fontSize>0.090</fontSize>
-			<alignment>right</alignment>
-			<color>ffffff</color>
-			<text>PLUS</text>
-		</text>
-		<text name="Version" extra="true">
-			<pos>0.800 0.350</pos>
-			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
-			<fontSize>0.050</fontSize>
-			<alignment>right</alignment>
-			<color>${baseColor}</color>
-			<text>3.5</text>
-		</text>
 
     <image name="progressbar">
       <path>./main/media/load.png</path>
@@ -57,6 +35,7 @@
       <size>0.9 0.016</size>
       <color>6060607F</color>
       <colorEnd>6060607F</colorEnd>
+      <roundCorners>0.005</roundCorners>
     </image>
     <image name="progressbar:active">
       <tile>true</tile>

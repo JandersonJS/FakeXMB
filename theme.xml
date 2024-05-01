@@ -253,11 +253,12 @@ license: creative commons CC-BY-NC-SA
         <text>${system.sortedBy}</text>
         <alignment>left</alignment>
         <verticalAlignment>top</verticalAlignment>
-        <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+        <fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
         <fontSize>0.060</fontSize>
         <pos>0.029 0.037</pos>
-        <size>0.942 0.28</size>
-        <color>C0C0C0</color>      
+        <size>0.64 0.08</size>
+        <color>C0C0C0</color>
+	<autoScroll>horizontal</autoScroll>     
         <zIndex>100</zIndex>
         <color>D0D0D0FF</color>
         <glowColor>00000080</glowColor>

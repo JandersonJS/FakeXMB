@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) is a non-profit fan game project. It is not affiliated in any way with SEGA or Sonic Team, the original creators of Sonic 3 and Sonic & Knuckles.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) es un proyecto de juegos para fanáticos sin fines de lucro. No está afiliado de ninguna manera con SEGA o Sonic Team, los creadores originales de Sonic 3 y Sonic & Knuckles.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) est un projet de fan game à but non lucratif. Il n'est en aucun cas affilié à SEGA ou Sonic Team, les créateurs originaux de Sonic 3 et Sonic & Knuckles.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited) é um projeto de fan game sem fins lucrativos. Não é afiliado de forma alguma à SEGA ou Sonic Team, os criadores originais de Sonic 3 e Sonic & Knuckles.
+
+</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Sonic 3 A.I.R. (Angel Island Revisited)</text>
+		</text>
+	</view>
+</theme>

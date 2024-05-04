@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Fallout Community Edition is a fully working re-implementation of Fallout, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Fallout Community Edition es una reimplementación completamente funcional de Fallout, con la misma jugabilidad original, correcciones de errores en el motor y algunas mejoras en la calidad de vida, que funciona (en su mayoría) sin problemas en múltiples plataformas.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Fallout Community Edition est une réimplémentation entièrement fonctionnelle de Fallout, avec le même gameplay original, des corrections de bugs du moteur et quelques améliorations de la qualité de vie, qui fonctionne (pour la plupart) sans problème sur plusieurs plates-formes.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Fallout Community Edition é uma reimplementação totalmente funcional do Fallout, com a mesma jogabilidade original, correções de bugs no mecanismo e algumas melhorias na qualidade de vida, que funciona (principalmente) sem complicações em várias plataformas.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Fallout Community Edition</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Sega Pico, also known as Kids Computer Pico, was an electronic toy by Sega. The purpose of creating Pico was to bring younger children to use video games. The Sega Pico was developed for children aged 2 to 8 years old and the slogan was "the computer that thinks it's a toy"</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Sega Pico, también conocido como Kids Computer Pico, era un juguete electrónico de Sega. El propósito de crear Pico fue acercar a los niños más pequeños al uso de videojuegos. La Sega Pico fue desarrollada para niños de 2 a 8 años y el lema era "la computadora que se cree un juguete".</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Sega Pico, également connu sous le nom de Kids Computer Pico, était un jouet électronique de Sega. Le but de la création de Pico était d'amener les plus jeunes enfants à utiliser les jeux vidéo. La Sega Pico a été développée pour les enfants âgés de 2 à 8 ans et le slogan était « l'ordinateur qui se prend pour un jouet ».</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Sega Pico, também conhecido como Kids Computer Pico, era um brinquedo eletrônico da Sega. O objetivo da criação do Pico foi levar as crianças mais novas ao uso de videogames. O Sega Pico foi desenvolvido para crianças de 2 a 8 anos e o slogan era “o computador que pensa que é um brinquedo”</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Sega Pico</text>
+		</text>
+	</view>
+</theme>

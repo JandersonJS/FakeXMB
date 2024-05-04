@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>With OpenLara, you can experience  Tomb Raider like you've never played before. You can try it through the eyes of Lara Croft with the primary person camera, for this you can switch to this mode by pressing L1 + A and exit this mode with the same combination. FPS also available in 2-Player Mode.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Con OpenLara, puedes experimentar Tomb Raider como nunca antes lo has jugado. Puedes probarlo a través de los ojos de Lara Croft con la cámara personal principal, para ello puedes cambiar a este modo presionando L1 + A y salir de este modo con la misma combinación. FPS también disponible en el modo de 2 jugadores.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Avec OpenLara, vous pouvez découvrir Tomb Raider comme vous n'avez jamais joué auparavant. Vous pouvez l'essayer à travers les yeux de Lara Croft avec la caméra principale, pour cela vous pouvez passer à ce mode en appuyant sur L1 + A et quitter ce mode avec la même combinaison. FPS également disponible en mode 2 joueurs.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Com OpenLara, você pode experimentar Tomb Raider como nunca jogou antes. Você pode experimentá-lo através dos olhos de Lara Croft com a câmera principal, para isso você pode alternar para este modo pressionando L1 + A e sair deste modo com a mesma combinação. FPS também disponível no modo 2 jogadores.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Tomb Raider (OpenLara)</text>
+		</text>
+	</view>
+</theme>

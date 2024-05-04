@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Originally released in mid-2011 by indie game creator E. Hashimoto (Buster), Hydra Castle Labyrinth is an old school-styled platform adventure that was previously only available in Japanese. A brave soul recently translated the game to English, and now the cute metroidvania title is available for a much wider audience to enjoy. And enjoy it ye shall!</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Lanzado originalmente a mediados de 2011 por el creador de juegos independiente E. Hashimoto (Buster), Hydra Castle Labyrinth es una aventura de plataformas al estilo de la vieja escuela que anteriormente solo estaba disponible en japonés. Un alma valiente tradujo recientemente el juego al inglés y ahora el lindo título metroidvania está disponible para que lo disfrute una audiencia mucho más amplia. ¡Y disfrútalo, lo harás!</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Initialement publié mi-2011 par le créateur de jeux indépendant E. Hashimoto (Buster), Hydra Castle Labyrinth est une aventure de plateforme de style old school qui n'était auparavant disponible qu'en japonais. Une âme courageuse a récemment traduit le jeu en anglais, et maintenant le joli titre Metroidvania est disponible pour un public beaucoup plus large. Et profitez-en!</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Originalmente lançado em meados de 2011 pelo criador de jogos indie E. Hashimoto (Buster), Hydra Castle Labyrinth é uma aventura de plataforma no estilo old school que antes estava disponível apenas em japonês. Uma alma corajosa traduziu recentemente o jogo para o inglês, e agora o lindo título metroidvania está disponível para um público muito mais amplo desfrutar. E aproveite, você deve!</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Hydra Castle Labyrinth</text>
+		</text>
+	</view>
+</theme>

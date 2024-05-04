@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>ET: Legacy is an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>ET: Legacy es un proyecto de código abierto que tiene como objetivo crear un cliente y servidor totalmente compatible para el popular juego FPS en línea Wolfenstein: Enemy Territory, cuya jugabilidad todavía es considerada inigualable por muchos, a pesar de su gran antigüedad.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>ET: Legacy est un projet open source qui vise à créer un client et un serveur entièrement compatibles pour le populaire jeu FPS en ligne Wolfenstein : Enemy Territory - dont le gameplay est encore considéré comme inégalé par beaucoup, malgré son grand âge.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>ET: Legacy é um projeto de código aberto que visa criar um cliente e servidor totalmente compatível para o popular jogo FPS online Wolfenstein: Enemy Territory – cuja jogabilidade ainda é considerada incomparável por muitos, apesar de sua idade avançada.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>ET: Legacy</text>
+		</text>
+	</view>
+</theme>

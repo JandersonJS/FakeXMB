@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Playdia is an 8-bit multimedia console released only in Japan by Bandai in 1994, blue in color and with colored buttons using CDs as media.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Playdia es una consola multimedia de 8 bits lanzada únicamente en Japón por Bandai en 1994, de color azul y con botones de colores que utilizan CD como medio.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>La Playdia est une console multimédia 8 bits lancée uniquement au Japon par Bandai en 1994, de couleur bleue et avec des boutons colorés utilisant des CD comme support.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Playdia é um console multimédia 8 bits lançado apenas no Japão pela Bandai em 1994, de cor azul e botões coloridos utiliza CDs como mídia.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Playdia</text>
+		</text>
+	</view>
+</theme>

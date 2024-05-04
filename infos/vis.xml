@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Tandy Memorex Video Information System (VIS) is an interactive, multimedia CD-ROM player produced by the Tandy Corporation starting in 1992. It is similar in function to the Philips CD-i and Commodore CDTV systems (particularly the CDTV, since both the VIS and CDTV were adaptations of existing computer platforms and operating systems to the set-top-box design). The VIS systems were sold only at Radio Shack, under the Memorex brand, both of which Tandy owned at the time.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El sistema de información de vídeo (VIS) Tandy Memorex es un reproductor de CD-ROM multimedia interactivo producido por Tandy Corporation a partir de 1992. Tiene una función similar a los sistemas Philips CD-i y Commodore CDTV (particularmente el CDTV, ya que ambos VIS y CDTV fueron adaptaciones de plataformas informáticas y sistemas operativos existentes al diseño del decodificador). Los sistemas VIS se vendieron sólo en Radio Shack, bajo la marca Memorex, ambas propiedad de Tandy en ese momento.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le système d'information vidéo Tandy Memorex (VIS) est un lecteur de CD-ROM multimédia interactif produit par Tandy Corporation à partir de 1992. Son fonctionnement est similaire aux systèmes Philips CD-i et Commodore CDTV (en particulier le CDTV, puisque les deux VIS et CDTV étaient des adaptations de plates-formes informatiques et de systèmes d'exploitation existants à la conception des décodeurs). Les systèmes VIS étaient vendus uniquement chez Radio Shack, sous la marque Memorex, que Tandy possédait à l'époque.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Tandy Memorex Video Information System (VIS) é um reprodutor de CD-ROM multimídia interativo produzido pela Tandy Corporation a partir de 1992. É semelhante em função aos sistemas Philips CD-i e Commodore CDTV (particularmente o CDTV, já que ambos os VIS e CDTV foram adaptações de plataformas de computador e sistemas operacionais existentes para o design do decodificador). Os sistemas VIS eram vendidos apenas na Radio Shack, sob a marca Memorex, ambas de propriedade da Tandy na época.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Video Information System</text>
+		</text>
+	</view>
+</theme>

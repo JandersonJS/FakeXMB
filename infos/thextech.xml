@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>TheXTech is a free and open-source game engine for Mario-like platforming games. There is a complete and extended source code port of the Super Mario Bros. X 1.3 game engine (later just "SMBX"), and its direct unofficial continuation after development halted in the 2011th year. This engine preserves full compatibility with levels and episodes made for the original SMBX game, including its repacks. And it's allowed to create brand-new Levels, Episodes, and content packs. Unlike the original SMBX game that depends on Windows and x86, TheXTech can work on many operating systems (including Linux distros, macOS, xBSD, Android, Haiku, etc.) and processor architectures (including x86_64, ARM, PowerPC, MIPS, etc.). </text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>TheXTech es un motor de juegos gratuito y de código abierto para juegos de plataformas similares a Mario. Existe una adaptación completa y ampliada del código fuente del motor de juego Super Mario Bros. X 1.3 (más tarde simplemente "SMBX"), y su continuación directa no oficial después de que el desarrollo se detuviera en el año 2011. Este motor conserva la compatibilidad total con los niveles y episodios creados para el juego SMBX original, incluidos sus repacks. Y se permite crear niveles, episodios y paquetes de contenido completamente nuevos. A diferencia del juego SMBX original que depende de Windows y x86, TheXTech puede funcionar en muchos sistemas operativos (incluidas distribuciones Linux, macOS, xBSD, Android, Haiku, etc.) y arquitecturas de procesador (incluidas x86_64, ARM, PowerPC, MIPS, etc. ).</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>TheXTech est un moteur de jeu gratuit et open source pour les jeux de plateforme de type Mario. Il existe un portage complet et étendu du code source du moteur de jeu Super Mario Bros. X 1.3 (plus tard simplement "SMBX"), ainsi que sa continuation non officielle directe après l'arrêt du développement en 2011. Ce moteur préserve une compatibilité totale avec les niveaux et épisodes créés pour le jeu SMBX original, y compris ses repacks. Et il est permis de créer de tout nouveaux niveaux, épisodes et packs de contenu. Contrairement au jeu SMBX original qui dépend de Windows et x86, TheXTech peut fonctionner sur de nombreux systèmes d'exploitation (y compris les distributions Linux, macOS, xBSD, Android, Haiku, etc.) et architectures de processeurs (y compris x86_64, ARM, PowerPC, MIPS, etc. ).</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>TheXTech é um mecanismo de jogo gratuito e de código aberto para jogos de plataforma do tipo Mario. Há uma porta de código-fonte completa e estendida do mecanismo de jogo Super Mario Bros. X 1.3 (mais tarde apenas "SMBX"), e sua continuação não oficial direta após o desenvolvimento ser interrompido em 2011. Este mecanismo preserva total compatibilidade com níveis e episódios feitos para o jogo SMBX original, incluindo seus repacks. E é permitido criar novos níveis, episódios e pacotes de conteúdo. Ao contrário do jogo SMBX original que depende de Windows e x86, TheXTech pode funcionar em muitos sistemas operacionais (incluindo distribuições Linux, macOS, xBSD, Android, Haiku, etc.) e arquiteturas de processador (incluindo x86_64, ARM, PowerPC, MIPS, etc.).</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>The X Tech</text>
+		</text>
+	</view>
+</theme>

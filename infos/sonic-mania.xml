@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Sonic Mania is a platform video game developed by Christian Whitehead, PagodaWest Games and Headcannon and published by Sega. Produced in celebration of the 25th anniversary of the Sonic the Hedgehog series. The game returns to the original 2D gameplay and visual style of the Mega Drive games.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Sonic Mania es un videojuego de plataformas desarrollado por Christian Whitehead, PagodaWest Games y Headcannon y publicado por Sega. Producido para celebrar el 25 aniversario de la serie Sonic the Hedgehog. El juego vuelve a la jugabilidad 2D original y al estilo visual de los juegos de Mega Drive.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Sonic Mania é um videogame de plataforma desenvolvido por Christian Whitehead, PagodaWest Games e Headcannon e publicado pela Sega. Produzido em comemoração ao 25º aniversário da série Sonic the Hedgehog. O jogo retorna à jogabilidade 2D original e ao estilo visual dos jogos Mega Drive.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Sonic Mania é um videogame de plataforma desenvolvido por Christian Whitehead, PagodaWest Games e Headcannon e publicado pela Sega. Produzido em comemoração ao 25º aniversário da série Sonic the Hedgehog. O jogo retorna à jogabilidade 2D original e ao estilo visual dos jogos Mega Drive.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Sonic Mania</text>
+		</text>
+	</view>
+</theme>

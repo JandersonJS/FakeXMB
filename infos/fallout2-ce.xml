@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Fallout 2 Community Edition is a fully working re-implementation of Fallout 2, with the same original gameplay, engine bugfixes, and some quality of life improvements, that works (mostly) hassle-free on multiple platforms. Popular Fallout 2 total conversion mods are partially supported.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Fallout 2 Community Edition es una reimplementación completamente funcional de Fallout 2, con la misma jugabilidad original, correcciones de errores en el motor y algunas mejoras en la calidad de vida, que funciona (en su mayoría) sin problemas en múltiples plataformas. Los mods de conversión total populares de Fallout 2 son parcialmente compatibles.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Fallout 2 Community Edition est une réimplémentation entièrement fonctionnelle de Fallout 2, avec le même gameplay original, des corrections de bugs du moteur et quelques améliorations de la qualité de vie, qui fonctionne (pour la plupart) sans problème sur plusieurs plates-formes. Les mods de conversion totale populaires de Fallout 2 sont partiellement pris en charge.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Fallout 2 Community Edition é uma reimplementação totalmente funcional do Fallout 2, com a mesma jogabilidade original, correções de bugs de motor e algumas melhorias de qualidade de vida, que funciona (na maior parte) sem complicações em múltiplas plataformas. Mods populares de conversão total do Fallout 2 são parcialmente suportados.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Fallout 2 Community Edition</text>
+		</text>
+	</view>
+</theme>

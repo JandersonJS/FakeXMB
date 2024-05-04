@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Force Engine is a project with the goal to reverse engineer and rebuild the Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws. The project will include modern, built-in tools, such as a level editor and will make it easy to play Dark Forces and Outlaws on modern systems as well as the many community mods designed to work with the original games.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Force Engine es un proyecto con el objetivo de realizar ingeniería inversa y reconstruir el Jedi Engine para sistemas modernos y los juegos que usaban ese motor: Dark Forces y Outlaws. El proyecto incluirá herramientas modernas integradas, como un editor de niveles, y facilitará el juego Dark Forces and Outlaws en sistemas modernos, así como las numerosas modificaciones comunitarias diseñadas para funcionar con los juegos originales.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Force Engine est un projet dont le but est de procéder à l'ingénierie inverse et de reconstruire le moteur Jedi pour les systèmes modernes et les jeux qui utilisaient ce moteur - Dark Forces et Outlaws. Le projet comprendra des outils modernes intégrés, tels qu'un éditeur de niveaux, et permettra de jouer facilement à Dark Forces et Outlaws sur les systèmes modernes, ainsi qu'aux nombreux mods communautaires conçus pour fonctionner avec les jeux originaux.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Force Engine é um projeto com o objetivo de fazer engenharia reversa e reconstruir o Jedi Engine para sistemas modernos e os jogos que utilizavam esse motor - Dark Forces e Outlaws. O projeto incluirá ferramentas modernas integradas, como um editor de níveis, e tornará mais fácil jogar Dark Forces e Outlaws em sistemas modernos, bem como muitos mods comunitários projetados para funcionar com os jogos originais.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>The Force Engine</text>
+		</text>
+	</view>
+</theme>

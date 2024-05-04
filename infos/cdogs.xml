@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>C-Dogs SDL is an overhead shoot-em-up which lets players work alone and cooperatively during missions or fight against each other in the “dogfight” deathmatch mode. Customize your player, choose from many weapons, and blast, slide and slash your way through over 100 user-created campaigns.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>C-Dogs SDL es un juego de disparos aéreo que permite a los jugadores trabajar solos y de forma cooperativa durante las misiones o luchar entre sí en el modo de combate a muerte "pelea de perros". Personaliza tu jugador, elige entre muchas armas y ábrete camino con explosiones, deslízate y corta a través de más de 100 campañas creadas por usuarios.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>C-Dogs SDL est un shoot-em-up aérien qui permet aux joueurs de travailler seuls et en coopération pendant les missions ou de se battre les uns contre les autres dans le mode match à mort « dogfight ». Personnalisez votre lecteur, choisissez parmi de nombreuses armes et frayez-vous un chemin à travers plus de 100 campagnes créées par les utilisateurs.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>C-Dogs SDL é um jogo de tiro aéreo que permite aos jogadores trabalhar sozinhos e cooperativamente durante as missões ou lutar uns contra os outros no modo deathmatch “dogfight”. Personalize seu jogador, escolha entre muitas armas e exploda, deslize e corte em mais de 100 campanhas criadas por usuários.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>C-Dogs SDL</text>
+		</text>
+	</view>
+</theme>

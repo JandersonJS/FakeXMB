@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Tyrian is a vertically scrolling shooter developed by Eclipse Software for MS-DOS and published in 1995 by Epic MegaGames. Tyrian was programmed by Jason Emery, illustrated by Daniel Cook, and its music composed by Alexander Brandon and Andras Molnar. The game was re-released as freeware in 2004. A free and open-source port of the game started in April 2007. </text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Tyrian es un juego de disparos de desplazamiento vertical desarrollado por Eclipse Software para MS-DOS y publicado en 1995 por Epic MegaGames. Tyrian fue programado por Jason Emery, ilustrado por Daniel Cook y su música compuesta por Alexander Brandon y Andras Molnar. El juego se relanzó como software gratuito en 2004. En abril de 2007 se lanzó una versión gratuita y de código abierto del juego.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Tyrian est un jeu de tir à défilement vertical développé par Eclipse Software pour MS-DOS et publié en 1995 par Epic MegaGames. Tyrian a été programmé par Jason Emery, illustré par Daniel Cook, et sa musique composée par Alexander Brandon et Andras Molnar. Le jeu a été réédité en tant que logiciel gratuit en 2004. Un portage gratuit et open source du jeu a débuté en avril 2007.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Tyrian é um jogo de tiro com rolagem vertical desenvolvido pela Eclipse Software para MS-DOS e publicado em 1995 pela Epic MegaGames. Tyrian foi programado por Jason Emery, ilustrado por Daniel Cook, e sua música composta por Alexander Brandon e Andras Molnar. O jogo foi relançado como freeware em 2004. Uma versão gratuita e de código aberto do jogo começou em abril de 2007.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Tyrian</text>
+		</text>
+	</view>
+</theme>

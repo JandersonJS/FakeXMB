@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software. This program is designed as a cross-platform replacement for the original executable. The game data files (DOS, PC-CD, Amiga,  Macintosh) are required. Apart from that, you can buy it here on GOG or here on Steam. Create a folder with proper naming. Then follow the Flashback_Data\StreamingAssets\data folder to access the data of the Flashback you have. Copy all of the files in the data folder to the folder you just created.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>REminiscence es una reescritura del motor utilizado en el juego Flashback de Delphine Software. Este programa está diseñado como un reemplazo multiplataforma del ejecutable original. Se requieren los archivos de datos del juego (DOS, PC-CD, Amiga, Macintosh). Aparte de eso, puedes comprarlo aquí en GOG o aquí en Steam. Cree una carpeta con el nombre adecuado. Luego siga la carpeta Flashback_Data\StreamingAssets\data para acceder a los datos del Flashback que tiene. Copie todos los archivos de la carpeta de datos a la carpeta que acaba de crear.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>REminiscence est une réécriture du moteur utilisé dans le jeu Flashback de Delphine Software. Ce programme est conçu pour remplacer l'exécutable d'origine sur plusieurs plates-formes. Les fichiers de données du jeu (DOS, PC-CD, Amiga, Macintosh) sont requis. En dehors de cela, vous pouvez l'acheter ici sur GOG ou ici sur Steam. Créez un dossier avec un nom approprié. Suivez ensuite le dossier Flashback_Data\StreamingAssets\data pour accéder aux données du Flashback dont vous disposez. Copiez tous les fichiers du dossier de données dans le dossier que vous venez de créer.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>REminiscence é uma reescrita do motor usado no jogo Flashback da Delphine Software. Este programa foi projetado como um substituto multiplataforma para o executável original. Os arquivos de dados do jogo (DOS, PC-CD, Amiga, Macintosh) são necessários. Além disso, você pode comprá-lo aqui no GOG ou aqui no Steam. Crie uma pasta com nome adequado. Em seguida, siga a pasta Flashback_Data\StreamingAssets\data para acessar os dados do Flashback que você possui. Copie todos os arquivos da pasta de dados para a pasta que você acabou de criar.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>REminiscence</text>
+		</text>
+	</view>
+</theme>

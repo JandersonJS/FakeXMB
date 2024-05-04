@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>OA fork of Hurrican, freeware jump and shoot game created by Poke53280, with SDL2 enabled by default, support for libopenmpt and CRT simulation. Also uses XDG compliant data/config paths on UNIX. Additional userlevels from http://turricanforever.de included.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Una bifurcación de Hurrican, un juego gratuito de saltar y disparar creado por Poke53280, con SDL2 habilitado de forma predeterminada, soporte para libopenmpt y simulación CRT. También utiliza rutas de configuración/datos compatibles con XDG en UNIX. Se incluyen niveles de usuario adicionales de http://turricanforever.de.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Un fork de Hurrican, jeu de saut et de tir gratuit créé par Poke53280, avec SDL2 activé par défaut, prise en charge de libopenmpt et de la simulation CRT. Utilise également des chemins de données/configuration conformes à XDG sous UNIX. Niveaux d'utilisateur supplémentaires de http://turricanforever.de inclus.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Um fork do Hurrican, jogo freeware de pular e atirar criado por Poke53280, com SDL2 habilitado por padrão, suporte para simulação libopenmpt e CRT. Também usa caminhos de dados/configuração compatíveis com XDG no UNIX. Níveis de usuário adicionais de http://turricanforever.de incluídos.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Hurrican</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Return to Castle Wolfenstein is a military- and occult-themed first-person shooter game in a Second World War setting, originally released in 2001.  It is a sequel to Wolfenstein 3D. This port contains the iortcw game engines for the single-player campaign and multiplayer, based on ioquake3 and the GPL source releases of RtCW. Return to Castle Wolfenstein requires non-distributable game data files, which you have to install manually (see pkg-message).</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Return to Castle Wolfenstein es un juego de disparos en primera persona con temática militar y ocultista ambientado en la Segunda Guerra Mundial, lanzado originalmente en 2001. Es una secuela de Wolfenstein 3D. Este port contiene los motores de juego iortcw para la campaña de un jugador y multijugador, basados ​​en ioquake3 y las versiones fuente GPL de RtCW. Return to Castle Wolfenstein requiere archivos de datos del juego no distribuibles, que debes instalar manualmente (ver paquete de mensajes).</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Return to Castle Wolfenstein est un jeu de tir à la première personne sur le thème militaire et occulte dans un décor de la Seconde Guerre mondiale, initialement sorti en 2001. Il s'agit d'une suite de Wolfenstein 3D. Ce port contient les moteurs de jeu iortcw pour la campagne solo et multijoueur, basés sur ioquake3 et les versions sources GPL de RtCW. Return to Castle Wolfenstein nécessite des fichiers de données de jeu non distribuables, que vous devez installer manuellement (voir pkg-message).</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Return to Castle Wolfenstein é um jogo de tiro em primeira pessoa com tema militar e ocultista em um cenário da Segunda Guerra Mundial, lançado originalmente em 2001. É uma sequência de Wolfenstein 3D. Esta porta contém os motores de jogo iortcw para a campanha single-player e multiplayer, baseados em ioquake3 e nas versões de origem GPL do RtCW. Return to Castle Wolfenstein requer arquivos de dados de jogo não distribuíveis, que você deve instalar manualmente (consulte pkg-message).</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Return to Castle Wolfenstein</text>
+		</text>
+	</view>
+</theme>

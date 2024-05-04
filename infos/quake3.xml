@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Quake III Arena is a first-person shooter video game, originally released on December 2, 1999. The game was developed by Id Software, while the music was written and composed by Sonic Mayhem and Front Line Assembly.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Quake III Arena es un videojuego de disparos en primera persona, lanzado originalmente el 2 de diciembre de 1999. El juego fue desarrollado por Id Software, mientras que la música fue escrita y compuesta por Sonic Mayhem y Front Line Assembly.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Quake III Arena est un jeu vidéo de tir à la première personne, initialement sorti le 2 décembre 1999. Le jeu a été développé par Id Software, tandis que la musique a été écrite et composée par Sonic Mayhem et Front Line Assembly.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Quake III Arena é um videogame de tiro em primeira pessoa, lançado originalmente em 2 de dezembro de 1999. O jogo foi desenvolvido pela Id Software, enquanto a música foi escrita e composta por Sonic Mayhem e Front Line Assembly.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Quake III Arena</text>
+		</text>
+	</view>
+</theme>

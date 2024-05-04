@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>DXX-Rebirth is a source port of Descent and Descent 2, based on D1X and D2X respectively. Founded in 2005 to keep enjoying those games (on Linux) and published on this very site, the project gained more traction than I could ever have imagined and will eternally be grateful for. About 10 years later, when I became increasingly involved in other projects, I just couldn't dedicate the time to this port that it and its community deserved anymore and in 2020, I decided to officially retire. However for the purpose of preservation and for those who would still like to play, tinker or even continue where I left off, the last official version I released will remain available here for as long as I can maintain this space.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>DXX-Rebirth es un puerto fuente de Descent y Descent 2, basado en D1X y D2X respectivamente. Fundado en 2005 para seguir disfrutando de esos juegos (en Linux) y publicado en este mismo sitio, el proyecto ganó más tracción de la que jamás hubiera imaginado y por lo que estaré eternamente agradecido. Aproximadamente 10 años después, cuando me involucré cada vez más en otros proyectos, simplemente ya no pude dedicarle a este puerto el tiempo que él y su comunidad merecían y en 2020 decidí retirarme oficialmente. Sin embargo, con fines de preservación y para aquellos que todavía quieran jugar, retocar o incluso continuar donde lo dejé, la última versión oficial que publiqué permanecerá disponible aquí mientras pueda mantener este espacio.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>DXX-Rebirth est un port source de Descent et Descent 2, basés respectivement sur D1X et D2X. Fondé en 2005 pour continuer à profiter de ces jeux (sous Linux) et publié sur ce même site, le projet a gagné plus de popularité que je n'aurais jamais pu l'imaginer et j'en serai éternellement reconnaissant. Environ 10 ans plus tard, alors que je m'impliquais de plus en plus dans d'autres projets, je ne pouvais tout simplement plus consacrer à ce port le temps que lui et sa communauté méritaient et en 2020, j'ai décidé de prendre officiellement ma retraite. Cependant, dans un souci de préservation et pour ceux qui voudraient encore jouer, bricoler ou même continuer là où je m'étais arrêté, la dernière version officielle que j'ai publiée restera disponible ici aussi longtemps que je pourrai maintenir cet espace.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>DXX-Rebirth é uma porta fonte de Descent e Descent 2, baseada em D1X e D2X respectivamente. Fundado em 2005 para continuar aproveitando esses jogos (no Linux) e publicado neste mesmo site, o projeto ganhou mais força do que eu poderia imaginar e serei eternamente grato. Cerca de 10 anos depois, quando me envolvi cada vez mais noutros projetos, já não conseguia dedicar mais tempo a este porto que ele e a sua comunidade mereciam e em 2020 decidi reformar-me oficialmente. Porém para efeito de preservação e para quem ainda gostaria de jogar, mexer ou até mesmo continuar de onde parei, a última versão oficial que lancei permanecerá disponível aqui enquanto eu puder manter este espaço.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>DXX-Rebirth</text>
+		</text>
+	</view>
+</theme>

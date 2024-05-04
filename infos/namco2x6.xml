@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Namco System 246 is an arcade board that uses the PlayStation 2 hardware as a base, it was launched in 2001 with the game Ridge Racer V, just like the Sega NAOMI it was also used by other developers besides Namco for games.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>La Namco System 246 es una placa arcade que utiliza como base el hardware de PlayStation 2, fue lanzada en el año 2001 con el juego Ridge Racer V, al igual que la Sega NAOMI también fue utilizada por otros desarrolladores además de Namco para juegos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Namco System 246 est une carte d'arcade qui utilise le matériel PlayStation 2 comme base, elle a été lancée en 2001 avec le jeu Ridge Racer V, tout comme la Sega NAOMI, elle a également été utilisée par d'autres développeurs que Namco pour les jeux.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>A Namco System 246 é uma placa de arcade que utiliza o hardware do PlayStation 2 como base, foi lançada em 2001 com o jogo Ridge Racer V, assim como a Sega NAOMI também foi utilizada por outras desenvolvedoras além da Namco para jogos.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Namco System 246/ 256</text>
+		</text>
+	</view>
+</theme>

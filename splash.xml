@@ -27,21 +27,20 @@
 			<alignment>left</alignment>
 			<text>FakeXMB</text>
 		</text>
-
-    <image name="progressbar">
-      <path>./main/media/load.png</path>
-      <origin>0 0</origin>
-      <pos>0.05 0.87</pos>
-      <size>0.9 0.016</size>
-      <color>6060607F</color>
-      <colorEnd>6060607F</colorEnd>
-      <roundCorners>0.005</roundCorners>
-    </image>
-    <image name="progressbar:active">
-      <tile>true</tile>
-      <color>4a8d35</color>
-      <colorEnd>4a8d35</colorEnd>
-    </image>
+		
+		    <image name="progressbar">
+		      <path>./main/media/progress.png</path>
+		      <origin>0 0</origin>
+		      <pos>0.05 0.87</pos>
+		      <size>0.9 0.016</size>
+		      <color>6060607F</color>
+		      <colorEnd>6060607F</colorEnd>
+		    </image>
+		    <image name="progressbar:active">
+		      <tile>true</tile>
+		      <color>4a8d35</color>
+		      <colorEnd>4a8d35</colorEnd>
+		    </image>
 		
 	</view>
 	

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Sega System SP, is an arcade board developed by Sega which first entered service in 2004. It can be seen as a cost-reduced NAOMI board (itself derived from the Sega Dreamcast), where the core components are presented as a system-on-a-chip, a bespoke version of Linux is used as an operating system, and software was distributed on CompactFlash cards instead of GD-ROMs or cartridges.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Sega System SP, es una placa arcade desarrollada por Sega que entró en servicio por primera vez en 2004. Puede verse como una placa NAOMI de costo reducido (derivada de Sega Dreamcast), donde los componentes principales se presentan como un sistema integrado. -a-chip, se utiliza una versión personalizada de Linux como sistema operativo, y el software se distribuyó en tarjetas CompactFlash en lugar de GD-ROM o cartuchos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Sega System SP est une carte d'arcade développée par Sega qui est entrée en service pour la première fois en 2004. Elle peut être considérée comme une carte NAOMI à coût réduit (elle-même dérivée de la Sega Dreamcast), où les composants de base sont présentés comme un système sur le système. -a-chip, une version sur mesure de Linux est utilisée comme système d'exploitation et les logiciels ont été distribués sur des cartes CompactFlash au lieu de GD-ROM ou de cartouches.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Sega System SP é uma placa de arcade desenvolvida pela Sega que entrou em serviço pela primeira vez em 2004. Pode ser vista como uma placa NAOMI de custo reduzido (ela própria derivada do Sega Dreamcast), onde os componentes principais são apresentados como um sistema ligado -a-chip, uma versão personalizada do Linux é usada como sistema operacional, e o software foi distribuído em cartões CompactFlash em vez de GD-ROMs ou cartuchos.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Sega System SP</text>
+		</text>
+	</view>
+</theme>

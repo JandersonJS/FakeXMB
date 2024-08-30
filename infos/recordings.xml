@@ -4,19 +4,19 @@
 	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
-			<text>??</text>
+			<text>Here you can see your videos recorded with a screen recorder integrated into Batocera.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text>??</text>
+			<text>Aquí podrás ver tus vídeos grabados con un grabador de pantalla integrado en Batocera.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-			<text>???</text>
+			<text>Ici vous pouvez voir vos vidéos enregistrées avec un enregistreur d'écran intégré à Batocera.</text>
 		</text>
 
 				<text name="system_description" extra="true" lang="pt">
-			<text>???</text>
+			<text>Aqui voçê consegue ver seus videos gravados com um gravador de tela integrado ao Batocera.</text>
 		</text>
 
 

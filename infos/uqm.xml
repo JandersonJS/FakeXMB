@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Ur-Quan Masters promises a “fascinating and quirky adventure to save Earth from the ruthless Ur-Quan armada,” its creators said in a press release. Just like the original game, players embark on a space adventure across an open galaxy, encountering a colorful cast of alien creatures and discovering hundreds of star systems. The game is full of space battles, with a charming retro aesthetic and strange extraterrestrial characters.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>The Ur-Quan Masters promete una “aventura fascinante y peculiar para salvar la Tierra de la despiadada armada Ur-Quan”, dijeron sus creadores en un comunicado de prensa. Al igual que en el juego original, los jugadores se embarcan en una aventura espacial a través de una galaxia abierta, encontrándose con un colorido elenco de criaturas alienígenas y descubriendo cientos de sistemas estelares. El juego está lleno de batallas espaciales, con una encantadora estética retro y extraños personajes extraterrestres.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>The Ur-Quan Masters promettent une « aventure fascinante et décalée pour sauver la Terre de l’impitoyable armada Ur-Quan », ont déclaré ses créateurs dans un communiqué de presse. Tout comme dans le jeu original, les joueurs se lancent dans une aventure spatiale à travers une galaxie ouverte, rencontrant un groupe coloré de créatures extraterrestres et découvrant des centaines de systèmes stellaires. Le jeu regorge de batailles spatiales, avec une charmante esthétique rétro et d'étranges personnages extraterrestres.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>The Ur-Quan Masters promete uma “aventura fascinante e peculiar para salvar a Terra da implacável armada Ur-Quan”, disseram seus criadores em um comunicado à imprensa. Assim como no jogo original, os jogadores embarcam em uma aventura espacial por uma galáxia aberta, encontrando um elenco colorido de criaturas alienígenas e descobrindo centenas de sistemas estelares. O jogo é cheio de batalhas espaciais, com uma estética retrô charmosa e personagens extraterrestres estranhos.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>The Ur-Quan Masters</text>
+		</text>
+	</view>
+</theme>

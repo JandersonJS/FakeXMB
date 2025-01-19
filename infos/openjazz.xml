@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>OpenJazz is an open sourced re-implementation of Jazz Jackrabbit 1 made by Alister Thomson, also known as Toxic Bunny. It was started on the 23rd of August, 2005.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>OpenJazz es una reimplementación de código abierto de Jazz Jackrabbit 1 realizada por Alister Thomson, también conocido como Toxic Bunny. Se inició el 23 de agosto de 2005.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>OpenJazz est une réimplémentation open source de Jazz Jackrabbit 1 réalisée par Alister Thomson, également connu sous le nom de Toxic Bunny. Elle a débuté le 23 août 2005.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>OpenJazz é uma reimplementação de código aberto do Jazz Jackrabbit 1 feita por Alister Thomson, também conhecido como Toxic Bunny. Foi iniciado em 23 de agosto de 2005.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Jazz Jackrabbit</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text> The Boom3 is a port developed by Ports. It was released in 2004. This system scrapes metadata for the “pc” group(s) and loads the boom3 set from the currently selected theme, if available. Grouped with the “ports” group of systems.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Boom3 es un puerto desarrollado por Ports. Fue lanzado en 2004. Este sistema extrae metadatos para los grupos “pc” y carga el conjunto boom3 del tema seleccionado actualmente, si está disponible. Agrupado con el grupo de sistemas “ports”.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Boom3 est un port développé par Ports. Il a été publié en 2004. Ce système récupère les métadonnées du ou des groupes « PC » et charge l'ensemble boom3 à partir du thème actuellement sélectionné, s'il est disponible. Regroupé avec le groupe de systèmes « ports ».</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Boom3 é uma porta desenvolvida pela Ports. Foi lançado em 2004. Este sistema coleta metadados do(s) grupo(s) “pc” e carrega o conjunto boom3 do tema atualmente selecionado, se disponível. Agrupado com o grupo de sistemas “ports”.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Ports Boom 3</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Vircon32 is a new game console, created from scratch. It is a 32-bit system created with the goal of being as simple as possible, but still having enough features to support full, elaborate games.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Vircon32 es una nueva consola de juegos, creada desde cero. Es un sistema de 32 bits creado con el objetivo de ser lo más simple posible, pero con características suficientes para soportar juegos completos y elaborados.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Vircon32 est une nouvelle console de jeu, créée de toutes pièces. Il s'agit d'un système 32 bits créé dans le but d'être aussi simple que possible, tout en offrant suffisamment de fonctionnalités pour prendre en charge des jeux complets et élaborés.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Vircon32 é um novo console de jogos, criado do zero. É um sistema de 32 bits criado com o objetivo de ser o mais simples possível, mas ainda com recursos suficientes para suportar jogos completos e elaborados.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Vircon32</text>
+		</text>
+	</view>
+</theme>

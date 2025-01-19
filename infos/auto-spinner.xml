@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The spinner can be used for classics like Tempest, Breakout, and 720 while the trackball works great on Marble Madness, Golden Tee, Centipede, and Missle Command.  The spinner also works great as an analogue steering wheel on all MAME driving games!  The frontend has a special category to direct you to only the games that use this hardware.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>La ruleta se puede usar para clásicos como Tempest, Breakout y 720, mientras que la trackball funciona muy bien en Marble Madness, Golden Tee, Centipede y Missle Command.  ¡El spinner también funciona muy bien como volante analógico en todos los juegos de conducción MAME!  La interfaz tiene una categoría especial para dirigirte sólo a los juegos que utilizan este hardware.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le spinner peut être utilisé pour des classiques comme Tempest, Breakout et 720 tandis que le trackball fonctionne très bien sur Marble Madness, Golden Tee, Centipede et Missle Command.  Le spinner fonctionne également très bien comme volant analogique sur tous les jeux de conduite MAME !  Le frontend a une catégorie spéciale pour vous diriger uniquement vers les jeux qui utilisent ce matériel.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O botão giratório pode ser usado para clássicos como Tempest, Breakout e 720, enquanto o trackball funciona muito bem em Marble Madness, Golden Tee, Centipede e Missle Command.  O spinner também funciona muito bem como volante analógico em todos os jogos de direção MAME!  O frontend possui uma categoria especial para direcionar você apenas aos jogos que utilizam este hardware.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Spinner</text>
+		</text>
+	</view>
+</theme>

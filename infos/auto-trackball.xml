@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>A trackball is a computer cursor control device used in many laptop computer keyboards and older versions of computer mice. The device comprises a ball held by a socket containing sensors to detect a rotation of the ball about two axes -- like an upside-down mouse with a ball in it.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Un trackball es un dispositivo de control del cursor de la computadora que se utiliza en muchos teclados de computadoras portátiles y versiones anteriores de ratones de computadora. El dispositivo consta de una bola sostenida por un casquillo que contiene sensores para detectar una rotación de la bola alrededor de dos ejes, como un ratón al revés con una bola dentro.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Un trackball est un dispositif de contrôle du curseur d'ordinateur utilisé dans de nombreux claviers d'ordinateurs portables et dans les anciennes versions de souris d'ordinateur. Le dispositif comprend une balle maintenue par une douille contenant des capteurs pour détecter une rotation de la balle autour de deux axes – comme une souris à l'envers avec une balle à l'intérieur.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Um trackball é um dispositivo de controle de cursor de computador usado em muitos teclados de laptops e versões mais antigas de mouses de computador.O dispositivo compreende uma bola presa por um encaixe contendo sensores para detectar a rotação da bola em torno de dois eixos - como um mouse de cabeça para baixo com uma bola dentro.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Trackball</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>They are back! Super-cool rabbit jazz, his crazy little brother, Spaz, and their athletic sister Lori will gang up for Christmas to have a wild and wacky time on your PC. In these Christmas levels of the PC hit Jazz Jackrabbit 2, our favourite rabbits have brand new adventures in cold, snowy landscapes, where there are many evil enemies.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>¡Han vuelto! El genial Rabbit Jazz, su loco hermano pequeño, Spaz, y su atlética hermana Lori se unirán en Navidad para pasar un rato salvaje y alocado en tu PC. En estos niveles navideños del éxito para PC Jazz Jackrabbit 2, nuestros conejos favoritos viven nuevas aventuras en paisajes fríos y nevados, donde hay muchos enemigos malvados.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Ils sont de retour ! Rabbit Jazz super cool, son petit frère fou, Spaz, et leur sœur athlétique Lori s'uniront pour Noël pour passer un moment sauvage et farfelu sur votre PC. Dans ces niveaux de Noël du hit PC Jazz Jackrabbit 2, nos lapins préférés vivent de toutes nouvelles aventures dans des paysages froids et enneigés, où se trouvent de nombreux ennemis maléfiques.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Eles estão de volta! O super legal coelho jazz, seu irmão mais novo maluco, Spaz, e sua irmã atlética Lori se unirão no Natal para se divertirem e se divertirem no seu PC. Nestes níveis de Natal do sucesso para PC Jazz Jackrabbit 2, nossos coelhos favoritos vivem novas aventuras em paisagens frias e nevadas, onde existem muitos inimigos malignos.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Jazz Jackrabbit 2</text>
+		</text>
+	</view>
+</theme>

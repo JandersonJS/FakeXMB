@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The idea is that this computer evokes the same affection and nostalgia that many users had for 8-bit computers, and yet it maintains proximity to the hardware from a programming point of view. In other words, the intention is for it to be an 8-bit computer, and not a Raspberry Pi dressed up as a classic computer (get it, MSXVR?).</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>La idea es que esta computadora evoque el mismo cariño y nostalgia que muchos usuarios tenían por las computadoras de 8 bits y, sin embargo, mantenga la proximidad con el hardware desde el punto de vista de la programación. Es decir, la intención es que sea un ordenador de 8 bits, y no un Raspberry Pi disfrazado de ordenador clásico (entiendes, ¿MSXVR?).</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>L'idée est que cet ordinateur évoque la même affection et la même nostalgie que de nombreux utilisateurs avaient pour les ordinateurs 8 bits, tout en conservant une proximité avec le matériel du point de vue de la programmation. En d’autres termes, l’intention est qu’il s’agisse d’un ordinateur 8 bits, et non d’un Raspberry Pi déguisé en ordinateur classique (vous comprenez, MSXVR ?).</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>A ideia é que este computador evoque o mesmo afeto e nostalgia que muitos dos usuários tinham pelos micros de 8 bits, e ainda assim ele mantém a proximidade com o hardware do ponto de vista da programação. Ou seja, a intenção é que seja um micro de 8 bits, e não um Raspberry Pi travestido de micro clássico (entendeu, MSXVR?).</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Commander X16</text>
+		</text>
+	</view>
+</theme>

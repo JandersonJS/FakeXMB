@@ -86,6 +86,7 @@ license: creative commons CC-BY-NC-SA
 
 <!--AVATARES-->
 <subset name="system-avatar" displayName="${theme.Avatar}" extra="true, static">
+	<include if="{global.cheevos} == true" name="cheevos" displayName="Retroachievements Avatar" />
 	<include name="custom" displayName="${custom}">./main/avatars/custom.xml</include>
 	<include name="8bitapple" displayName="8 bit apple">./main/avatars/8bitapple.xml</include>
 	<include name="8bitf1car" displayName="8 bit f1 car">./main/avatars/8bitf1car.xml</include>

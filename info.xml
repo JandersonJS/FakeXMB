@@ -117,6 +117,14 @@
          <linearSmooth>true</linearSmooth>
       </image>
 
+      <webimage name="avatar"  extra="static" if="{global.cheevos} == true" ifSubset="system-avatar:cheevos">
+         <path>https://media.retroachievements.org/UserPic/${global.cheevos.username}.png</path>
+         <pos>0.759 0.082</pos>
+         <maxSize>0.030 0.030</maxSize>
+         <zIndex>99</zIndex>
+         <linearSmooth>true</linearSmooth>
+       </webimage>
+
       <image name="star-picto" extra="static">
          <path>./main/images/star-picto.png</path>
          <pos>0.929 0.090</pos>

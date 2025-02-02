@@ -1,9 +1,8 @@
 <theme> 
 <formatVersion>7</formatVersion>
-  <view name="screen">
+  <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
      <text name="username" extra="static">
       <text>${cheevos.username}</text>
-         <pos>0.779 0.080</pos>
          <size>0.165 0.035</size>
          <color>ffffff</color>
          <fontPath>./main/fonts/SST Light.ttf</fontPath>
@@ -12,6 +11,7 @@
          <glowColor>00000035</glowColor>
          <glowSize>1</glowSize>
          <glowOffset>3 2</glowOffset>
+	 <autoScroll>horizontal</autoScroll>
          <zIndex>99</zIndex>    
          <backgroundColor>ff000000</backgroundColor>    
       </text> 

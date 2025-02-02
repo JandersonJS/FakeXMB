@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!--
 The FakeXMB was made to look like the official Playstation 3 XMB, and has an information bar very similar to the Top-Info of the Playstation-X theme.
-It has monochrome logos in the system view, used in various themes and with various colors, in our case just gray, used mainly in RVGM-BT.
+Now it has black & white logos in the system view, which in my opinion makes it even cooler.
 FakeXMB is a free theme and can be used on your preferred system.
 Enjoy!
-Special thanx: Pajarorojo, Fabrice Caruso and Darknior.
+Special thanx: Pajarorojo, Fabrice Caruso.
 Theme: FakeXMB
 author: LordOgro
 license: creative commons CC-BY-NC-SA
@@ -210,17 +210,25 @@ license: creative commons CC-BY-NC-SA
       <color>${baseColor}</color>
       <forceUppercase>true</forceUppercase>
     </text>
-    <image name="logo">
-      <!-- try png -->
-      <path>./main/logos/${system.theme}.png</path>
-      <!-- try svg -->
-      <path>./main/logos/${system.theme}.svg</path>
-      <!-- check if lang resources exist -->
-      <path>./main/logos/${system.theme}-${lang}.png</path>
-      <path>./main/logos/${system.theme}-${lang}.svg</path>
-      <!-- 
-      <path>/userdata/themes/${system.theme}/main/${system}.png</path>
-      <path>/userdata/themes/${system.theme}/main/${system}.svg</path>
+	<image name="logo">
+ 
+            <storyboard event="scroll" repeatAt="1" ifSubset="staticTiles:yes">
+                <animation property="scale" from="1" to="0.9" duration="1" mode="EaseOut"/>
+                <animation property="color" from="bbbbbb" to="bbbbbb" duration="1" mode="Linear"/>
+                <animation property="opacity" from="1" to="1" duration="1" mode="Linear"/>
+                <animation property="saturation" from="0" to="0" duration="1" mode="Linear"/>
+            </storyboard>
+
+      	<!-- try png -->
+      	<path>./main/logos/${system.theme}.png</path>
+     	<!-- try svg -->
+      	<path>./main/logos/${system.theme}.svg</path>
+      	<!-- check if lang resources exist -->
+      	<path>./main/logos/${system.theme}-${lang}.png</path>
+      	<path>./main/logos/${system.theme}-${lang}.svg</path>
+      	<!-- 
+      	<path>/userdata/themes/${system.theme}/main/${system}.png</path>
+      	<path>/userdata/themes/${system.theme}/main/${system}.svg</path>
       <path>/userdata/themes/${system.theme}/main/${system}-${lang}.png</path>
       <path>/userdata/themes/${system.theme}/main/${system}-${lang}.svg</path>
       -->
@@ -235,7 +243,7 @@ license: creative commons CC-BY-NC-SA
 		<image name="logo" region="jp">
 		  <path>./main/logos/jp/${system.theme}.png</path>
 			<path>./main/logos/jp/${system.theme}.svg</path>
-		</image>
+	</image>
 		    
     <image name="BottomBar" extra="static">
       <tile>false</tile>
@@ -375,8 +383,8 @@ El más jugado : {binding:mostPlayed}
   <view name="screen">
 
       <text name="clock">
-         <size>0.09 0.058</size>
-         <pos>0.873 0.070</pos>
+         <size>0.045 0.058</size>
+         <pos>0.878 0.070</pos>
          <color>ffffff</color>
          <fontPath>./fonts/SST Light.ttf</fontPath>
          <fontSize>0.028</fontSize>
@@ -792,12 +800,12 @@ El más jugado : {binding:mostPlayed}
     </text>
     <image name="logo">
       <!-- try png -->
-      <path>./main/logos-color/${system.theme}.png</path>
-      <path>./main/logos-color/${system.theme}.svg</path>
-      <path>./main/logos-color/${system.theme}-${lang}.png</path>
-      <path>./main/logos-color/${system.theme}-${lang}.svg</path>
+      <path>./main/logos/${system.theme}.png</path>
+      <path>./main/logos/${system.theme}.svg</path>
+      <path>./main/logos/${system.theme}-${lang}.png</path>
+      <path>./main/logos/${system.theme}-${lang}.svg</path>
       <!-- if system2 exists, take this version -->
-      <path>./main/logos-color/${system.theme}2.svg</path>
+      <path>./main/logos/${system.theme}2.svg</path>
       <!--<pos>0.266 0.074</pos><maxSize>0.460 0.126</maxSize>-->
       <pos>0.5 0.074</pos>
       <maxSize>0.3 0.120</maxSize>
@@ -806,13 +814,13 @@ El más jugado : {binding:mostPlayed}
 
     <image name="logo" region="eu"></image>
 		<image name="logo" region="us">
-		  <path>./main/logos-color/us/${system.theme}.png</path>
-			<path>./main/logos-color/us/${system.theme}.svg</path>
+		  <path>./main/logos/us/${system.theme}.png</path>
+			<path>./main/logos/us/${system.theme}.svg</path>
 		</image>
 		
 		<image name="logo" region="jp">
-		  <path>./main/logos-color/jp/${system.theme}.png</path>
-			<path>./main/logos-color/jp/${system.theme}.svg</path>
+		  <path>./main/logos/jp/${system.theme}.png</path>
+			<path>./main/logos/jp/${system.theme}.svg</path>
 		</image>
 		    
     <text name="folderpath">

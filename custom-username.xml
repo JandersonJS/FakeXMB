@@ -1,16 +1,31 @@
 <theme> 
 <formatVersion>7</formatVersion>
-  <view name="screen">
-<text name="username" extra="static">
+  <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 <!-- put here your username, symply change username for your own username-->
-<!-- pon aquí tu usuario, simplemente cambia username por tu usuario-->
-<!-- mettez ici votre nom d'utilisateur, changez simplement le username pour votre propre nom d'utilisateur-->
-<!-- coloque aqui seu nome de usuário, simplesmente mude o username para seu próprio nome de usuário-->
-
-   <text>username</text>
+<!-- pon aquí tu nombre de usuario, simplemente cambia nombre de usuario por tu nombre de usuario-->
+<!-- mettez ici votre nom d'utilisateur, changez simplement le nom d'utilisateur pour votre propre nom d'utilisateur-->
+<!-- coloque aqui seu nome de usuário, simplesmente mude o nome de usuario para seu próprio nome de usuário-->
 
 
+		<text name="username" extra="static">
+		<autoScroll>horizontal</autoScroll>
+			<text>username</text>
+		</text>
+
+		<text name="username" extra="static" lang="es">
+		<autoScroll>horizontal</autoScroll>
+			<text>nombre de usuario</text>
+		</text>
+		
+		<text name="username" extra="static" lang="fr">
+		<autoScroll>horizontal</autoScroll>
+			<text>nom d'utilisateur</text>
+		</text>
+
+		<text name="username" extra="static" lang="pt">
+		<autoScroll>horizontal</autoScroll>
+			<text>nome de usuario</text>
+		</text>
 <!-- END-->
-</text> 
 </view> 
 </theme>

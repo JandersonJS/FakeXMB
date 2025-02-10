@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Catacomb is a 2-D top-down third-person shooter developed and published by Softdisk. It was originally created for the Apple II, and later ported to IBM PC compatibles. It supports EGA and CGA graphics. </text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Catacomb es un juego de disparos en tercera persona en 2D con vista desde arriba desarrollado y publicado por Softdisk. Fue creado originalmente para Apple II y luego adaptado a los equipos compatibles con IBM PC. Admite gráficos EGA y CGA.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Catacomb est un jeu de tir à la troisième personne en 2D développé et publié par Softdisk. Il a été créé à l'origine pour l'Apple II, puis porté sur les PC compatibles IBM. Il prend en charge les graphiques EGA et CGA.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Catacomb é um jogo de tiro em terceira pessoa 2-D de cima para baixo desenvolvido e publicado pela Softdisk. Foi criado originalmente para o Apple II e, mais tarde, portado para compatíveis com IBM PC. Ele suporta gráficos EGA e CGA.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Catacomb</text>
+		</text>
+	</view>
+</theme>

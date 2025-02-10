@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>This, much like the SNES MSU-1 project will allow audio from Game Boy games to be replaced with CD quality audio!</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Esto, al igual que el proyecto SNES MSU-1, permitirá reemplazar el audio de los juegos de Game Boy con audio con calidad de CD.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Tout comme le projet SNES MSU-1, cela permettra de remplacer l'audio des jeux Game Boy par un son de qualité CD !</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Isso, assim como o projeto SNES MSU-1, permitirá que o áudio dos jogos do Game Boy seja substituído por áudio com qualidade de CD!</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Super Gameboy MSU1</text>
+		</text>
+	</view>
+</theme>

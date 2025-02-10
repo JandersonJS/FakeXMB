@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Sega Lindbergh (リンドバーグ) is an arcade platform developed by Sega as a successor to the Sega NAOMI 2 arcade system. It was launched in 2005 and acted as Sega's "primary" arcade system until the release of the Sega RingEdge platform in 2009.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Sega Lindbergh (リンドバーグ) es una plataforma arcade desarrollada por Sega como sucesora del sistema arcade Sega NAOMI 2. Se lanzó en 2005 y funcionó como el sistema arcade "principal" de Sega hasta el lanzamiento de la plataforma Sega RingEdge en 2009.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>La Sega Lindbergh (リンドバーグ) est une console d'arcade développée par Sega pour succéder à la console d'arcade Sega NAOMI 2. Elle a été lancée en 2005 et a servi de console d'arcade « principale » de Sega jusqu'à la sortie de la console Sega RingEdge en 2009.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Sega Lindbergh (リンドバーグ) é uma plataforma de arcade desenvolvida pela Sega como sucessora do sistema de arcade Sega NAOMI 2. Foi lançado em 2005 e atuou como o sistema de arcade "primário" da Sega até o lançamento da plataforma Sega RingEdge em 2009.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Sega Lindbergh</text>
+		</text>
+	</view>
+</theme>

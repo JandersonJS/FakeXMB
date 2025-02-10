@@ -192,12 +192,11 @@
       <text name="systemInfoEx" extra="true">
       <include>./infos/${system.theme}.xml</include>
       </text>
-  <view name="screen">
+
           <text name="system_description" extra="true">
                <color>FFFFFF</color>
                <zIndex>80</zIndex>
           </text>
-          </view>
        </view>
   <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 

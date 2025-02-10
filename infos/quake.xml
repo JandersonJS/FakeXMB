@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Quake is the groundbreaking dark fantasy first-person shooter that continues to inspire today's retro shooters.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Quake es el innovador juego de disparos en primera persona de fantasía oscura que continúa inspirando a los shooters retro actuales.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Quake est un jeu de tir à la première personne de dark fantasy révolutionnaire qui continue d'inspirer les tireurs rétro d'aujourd'hui.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Quake é o jogo de tiro em primeira pessoa de fantasia sombria inovador que até hoje inspira os jogos de tiro retrô da atualidade.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Quake</text>
+		</text>
+	</view>
+</theme>

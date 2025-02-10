@@ -88,16 +88,56 @@ license: creative commons CC-BY-NC-SA
 <subset name="system-avatar" displayName="${theme.Avatar}" extra="true, static">
 	<include if="{global.cheevos} == true" name="cheevos" displayName="Retroachievements Avatar" />
 	<include name="custom" displayName="${custom}">./main/avatars/custom.xml</include>
-	<include name="8bitapple" displayName="8 bit apple">./main/avatars/8bitapple.xml</include>
-	<include name="8bitf1car" displayName="8 bit f1 car">./main/avatars/8bitf1car.xml</include>
-	<include name="8bitflower" displayName="8 bit flower">./main/avatars/8bitflower.xml</include>
-	<include name="8bitspaceship" displayName="8 bit spaceship">./main/avatars/8bitspaceship.xml</include>
-	<include name="8bitwatermellon" displayName="8 bit watermellon">./main/avatars/8bitwatermellon.xml</include>
-	<include name="abstracts" displayName="abstracts">./main/avatars/abstracts.xml</include>
-	<include name="abstractsquare" displayName="abstract square">./main/avatars/abstractsquare.xml</include> 
+	<include name="8bitapple" displayName="8 Bit Apple">./main/avatars/8bitapple.xml</include>
+	<include name="8bitf1car" displayName="8 Bit F1 Car">./main/avatars/8bitf1car.xml</include>
+	<include name="8bitflower" displayName="8 Bit Flower">./main/avatars/8bitflower.xml</include>
+	<include name="8bitspaceship" displayName="8 Bit Spaceship">./main/avatars/8bitspaceship.xml</include>
+	<include name="8bitwatermellon" displayName="8 Bit Watermellon">./main/avatars/8bitwatermellon.xml</include>
+	<include name="abstracts" displayName="Abstracts">./main/avatars/abstracts.xml</include>
+	<include name="abstractsquare" displayName="Abstract Square">./main/avatars/abstractsquare.xml</include> 
 	<include name="alyxvance" displayName="Alyx Vance">./main/avatars/alyxvance.xml</include> 
-	<include name="anta" displayName="anta">./main/avatars/anta.xml</include>
+	<include name="anta" displayName="Anta">./main/avatars/anta.xml</include>
 	<include name="anubis" displayName="Anubis">./main/avatars/anubis.xml</include>
+	<include name="ape1" displayName="Ape1">./main/avatars/ape1.xml</include>
+	<include name="ape2" displayName="Ape2">./main/avatars/ape2.xml</include>
+	<include name="ape3" displayName="Ape3">./main/avatars/ape3.xml</include>
+	<include name="ape4" displayName="Ape4">./main/avatars/ape4.xml</include>
+	<include name="apexlegends" displayName="Apex Legends">./main/avatars/apexlegends.xml</include>
+	<include name="arcade" displayName="Arcade">./main/avatars/arcade.xml</include>
+	<include name="artefact1" displayName="Artefact1">./main/avatars/artefact1.xml</include>
+	<include name="artefact2" displayName="Artefact2">./main/avatars/artefact2.xml</include>
+	<include name="artefact3" displayName="Artefact3">./main/avatars/artefact3.xml</include>
+	<include name="artesmarciais" displayName="Martial Arts">./main/avatars/artesmarciais.xml</include>
+	<include name="baby" displayName="Baby">./main/avatars/baby.xml</include>
+	<include name="ballbear" displayName="Ball Bear">./main/avatars/ballbear.xml</include>
+	<include name="ballchick-clyde" displayName="Ball Chick">./main/avatars/ballchick.xml</include>
+	<include name="ballchicken" displayName="Ball Chicken">./main/avatars/ballchicken.xml</include>
+	<include name="ballpenguin" displayName="Ball Penguin">./main/avatars/ballpenguin.xml</include>
+	<include name="ballseal" displayName="Ball Seal">./main/avatars/ballseal.xml</include>
+	<include name="barbarian" displayName="Barbarian">./main/avatars/barbarian.xml</include>
+	<include name="baseball1" displayName="Baseball1">./main/avatars/baseball1.xml</include>
+	<include name="baseball2" displayName="Baseball2">./main/avatars/baseball2.xml</include>
+	<include name="baseball3" displayName="Baseball3">./main/avatars/baseball3.xml</include>
+	<include name="baseball4" displayName="Baseball4">./main/avatars/baseball4.xml</include>
+	<include name="basket" displayName="Basket">./main/avatars/basket.xml</include>
+	<include name="basket1" displayName="Basket1">./main/avatars/basket1.xml</include>
+	<include name="basketball" displayName="Basketball">./main/avatars/basketball.xml</include>
+	<include name="bear" displayName="Bear">./main/avatars/bear.xml</include>
+	<include name="beetle" displayName="Beetle">./main/avatars/beetle.xml</include>
+	<include name="bell" displayName="Bell">./main/avatars/bell.xml</include>
+	<include name="bentley" displayName="Bentley">./main/avatars/bentley.xml</include>
+	<include name="butterfly" displayName="Butterfly">./main/avatars/butterfly.xml</include>
+	<include name="butterfly1" displayName="Butterfly 1">./main/avatars/butterfly1.xml</include>
+	<include name="button" displayName="Button">./main/avatars/button.xml</include>
+	<include name="buzz!" displayName="Buzz!">./main/avatars/buzz!.xml</include>
+	<include name="candyleft" displayName="Candyleft">./main/avatars/candyleft.xml</include>
+	<include name="candyright" displayName="Candyright">./main/avatars/candyright.xml</include>
+	<include name="captain qwark" displayName="Captain Qwark">./main/avatars/captain qwark.xml</include> 
+	<include name="cat" displayName="Cat">./main/avatars/cat.xml</include>
+	<include name="chick" displayName="Chick">./main/avatars/chick.xml</include>
+
+ 
+<!--	<include name="anubis" displayName="Anubis">./main/avatars/anubis.xml</include>
 	<include name="ape1" displayName="ape1">./main/avatars/ape1.xml</include>
 	<include name="ape2" displayName="ape2">./main/avatars/ape2.xml</include>
 	<include name="ape3" displayName="ape3">./main/avatars/ape3.xml</include>
@@ -125,7 +165,7 @@ license: creative commons CC-BY-NC-SA
 	<include name="bear" displayName="bear">./main/avatars/bear.xml</include>
 	<include name="beetle" displayName="beetle">./main/avatars/beetle.xml</include>
 	<include name="bell" displayName="bell">./main/avatars/bell.xml</include>
-	<include name="bentley" displayName="Bentley">./main/avatars/bentley.xml</include>
+	<include name="bentley" displayName="Bentley">./main/avatars/bentley.xml</include> -->
 </subset>  
 
 

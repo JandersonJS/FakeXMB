@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Tomb Raider is an action-adventure and platform video game developed by Core Design and published by Eidos Interactive. The debut entry in the Tomb Raider franchise, the game was initially released in 1996 for the Sega Saturn, followed by versions for MS-DOS and PlayStation.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Tomb Raider es un videojuego de acción, aventuras y plataformas desarrollado por Core Design y publicado por Eidos Interactive. El juego, que debutó en la franquicia Tomb Raider, se lanzó inicialmente en 1996 para Sega Saturn, seguido de versiones para MS-DOS y PlayStation.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Tomb Raider est un jeu vidéo d'action-aventure et de plateforme développé par Core Design et édité par Eidos Interactive. Premier opus de la franchise Tomb Raider, le jeu est initialement sorti en 1996 sur Sega Saturn, suivi de versions pour MS-DOS et PlayStation.
+
+</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Tomb Raider é um jogo eletrônico de ação-aventura e plataforma desenvolvido pela Core Design e publicado pela Eidos Interactive. Entrada de estreia da franquia Tomb Raider, o jogo foi inicialmente lançado em 1996 para o Sega Saturn, seguido por versões para MS-DOS e PlayStation.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Tomb Raider</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Tomb Raider III (also known as Tomb Raider III: Adventures of Lara Croft) is an action-adventure video game developed by Core Design and published by Eidos Interactive. It was released for PlayStation and Microsoft Windows in 1998.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Tomb Raider III (también conocido como Tomb Raider III: Adventures of Lara Croft) es un videojuego de acción y aventuras desarrollado por Core Design y publicado por Eidos Interactive. Fue lanzado para PlayStation y Microsoft Windows en 1998.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Tomb Raider III (également connu sous le nom de Tomb Raider III : Adventures of Lara Croft) est un jeu vidéo d'action-aventure développé par Core Design et publié par Eidos Interactive. Il est sorti sur PlayStation et Microsoft Windows en 1998.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Tomb Raider III (também conhecido como Tomb Raider III: Adventures of Lara Croft) é um jogo eletrônico de ação-aventura desenvolvido pela Core Design e publicado pela Eidos Interactive. Foi lançado para PlayStation e Microsoft Windows em 1998.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Tomb Raider III</text>
+		</text>
+	</view>
+</theme>

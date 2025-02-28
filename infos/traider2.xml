@@ -1,0 +1,31 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Tomb Raider II (also known as Tomb Raider II: Starring Lara Croft) is a 1997 action-adventure video game developed by Core Design and published by Eidos Interactive. It was initially released for Windows and PlayStation.
+
+</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Tomb Raider II (también conocido como Tomb Raider II: Starring Lara Croft) es un videojuego de acción y aventuras de 1997 desarrollado por Core Design y publicado por Eidos Interactive. Inicialmente se lanzó para Windows y PlayStation.
+
+</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Tomb Raider II (également connu sous le nom de Tomb Raider II : Starring Lara Croft) est un jeu vidéo d'action-aventure de 1997 développé par Core Design et publié par Eidos Interactive. Il a été initialement publié pour Windows et PlayStation.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Tomb Raider II (também conhecido como Tomb Raider II: Starring Lara Croft) é um jogo eletrônico de ação-aventura de 1997, desenvolvido pela Core Design e publicado pela Eidos Interactive. Foi inicialmente lançado para Windows e PlayStation.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Tomb Raider II</text>
+		</text>
+	</view>
+</theme>

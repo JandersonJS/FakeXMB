@@ -15,7 +15,8 @@
 		</image>
 
 		<image name="backgroundalt" extra="true">
-	    	<path>./main/background/bg.png</path>
+		<default>./main/background/bg.png</default>
+		<path></path>
 			<linearSmooth>true</linearSmooth>
 			<minSize>1 1</minSize>
 			<zIndex>1</zIndex>

@@ -444,7 +444,7 @@ El más jugado : {binding:mostPlayed}
     -->
     <controllerActivity name="controllerActivity">
       <itemSpacing>0.003</itemSpacing>
-      <color>FFFFFF90</color>
+      <color>FFFFFF</color>
       <!-- controllers -->
       <gunPath>./main/media/gun.svg</gunPath>
       <activityColor>A0A0FFC0</activityColor>
@@ -473,7 +473,7 @@ El más jugado : {binding:mostPlayed}
       <!-- wifi -->
       <!--    <networkIcon>./main/icons/Network.png</networkIcon>-->
       <!--<networkIcon>none</networkIcon>-->
-      <color>FFFFFFA0</color>
+      <color>FFFFFF</color>
     </batteryIndicator>
     <batteryIndicator name="batteryIndicator" tinyScreen="true">
       <pos>0.935 0.935</pos>
@@ -616,8 +616,8 @@ El más jugado : {binding:mostPlayed}
 
   <view name="detailed">
       <image name="md_thumbnail">
-         <pos>0.56 0.5</pos>
-         <size>0.08 0</size>
+         <pos>0.58 0.49</pos>
+         <size>0.12 0</size>
          <zIndex>36</zIndex>
       </image>
       <image name="md_marquee">
@@ -656,27 +656,29 @@ El más jugado : {binding:mostPlayed}
     </image>
    <image name="dark" extra="static" tinyScreen="false">
       <tile>false</tile>
-      <pos>0.004 0.119</pos>        
-      <size>0.525 0.853</size>
+      <pos>0.021 0.16</pos>        
+      <size>0.49 0.8</size>
       <origin>0 0</origin>
-      <path>./main/media/dark.png</path>
+      <path>./main/media/colorbg.png</path>
       <color>${baseColor}99</color>
       <linearSmooth>true</linearSmooth>      
       <zIndex>15</zIndex>
     </image>
    <image name="darkwheel" extra="static" tinyScreen="false">
       <tile>false</tile>
-      <pos>0.500 0.615</pos>        
-      <size>0.51 0.33</size>
+      <pos>0.52 0.64</pos>        
+      <size>0.49 0.33</size>
       <origin>0 0</origin>
-      <path>./main/media/darkwheel.png</path>
+      <path>./main/media/colorbg.png</path>
       <color>${baseColor}99</color>
       <linearSmooth>true</linearSmooth>      
       <zIndex>15</zIndex>
     </image>
     <text name="md_genre">
+      <autoScroll>horizontal</autoScroll>        
+      <size>0.1 0</size>
       <color>ffffff</color>
-      <pos>0.360 0.875</pos>
+      <pos>0.71 0.875</pos>
       <forceUppercase>0</forceUppercase>
       <fontPath>./main/fonts/Cabin-Bold.ttf</fontPath>
       <fontSize>0.023</fontSize>
@@ -744,6 +746,7 @@ El más jugado : {binding:mostPlayed}
       <fontPath>./main/fonts/Cabin-Bold.ttf</fontPath>
       <fontSize>0.023</fontSize>
     </text>
+
     <textlist name="gamelist">
       <selectorColor>${baseColor}</selectorColor>
       <selectedColor>ffffff</selectedColor>
@@ -766,6 +769,7 @@ El más jugado : {binding:mostPlayed}
       <lines>15</lines>
       <horizontalMargin>0.005</horizontalMargin>
     </textlist>
+
     <image name="md_hidden">
       <path>./main/media/hidden.svg</path>
       <pos>0.975 0.21</pos>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>PlayStation 4 (プレイステーション4, Pureisutēshon Fō; officially abbreviated as PS4) is a video game console, of the eighth generation with x86 architecture, produced by Sony Interactive Entertainment and launched in November 2013, as the fourth edition of the PlayStation series, successor to PlayStation 3, competing directly with Nintendo's Wii U and Microsoft's Xbox One.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>PlayStation 4 (プレイステーション4, Pureisutēshon Fō; abreviado oficialmente como PS4) es una consola de videojuegos, de octava generación con arquitectura x86, producida por Sony Interactive Entertainment y lanzada en noviembre de 2013, como la cuarta edición de la serie PlayStation, sucesora de PlayStation 3, compitiendo directamente con Wii U de Nintendo y Xbox One de Microsoft.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>La PlayStation 4 (プレイステーション4, Pureisutēshon Fō ; officiellement abrégée en PS4) est une console de jeux vidéo de huitième génération avec architecture x86, produite par Sony Interactive Entertainment et lancée en novembre 2013, en tant que quatrième édition de la série PlayStation, successeur de la PlayStation 3, en concurrence directe avec la Wii U de Nintendo et la Xbox One de Microsoft.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>PlayStation 4 (プレイステーション4, Pureisutēshon Fō; oficialmente abreviada como PS4) é um console de videogame, da oitava geração com arquitetura x86, produzido pela Sony Interactive Entertainment e lançado em novembro de 2013, como a quarta edição da série PlayStation, sucessora de PlayStation 3, competindo directamente com o Wii U da Nintendo e, com o Xbox One da Microsoft.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>PlayStation 4</text>
+		</text>
+	</view>
+</theme>

@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
   <formatVersion>7</formatVersion>
+  
   <view name="system">
     <carousel name="systemcarousel">
       <color>FAFAFF00</color>
@@ -16,11 +17,10 @@
     </carousel>
 
     <image name="logo">
-      <!-- if system2 exists, take this version -->
-      <path>./main/logos/${system.theme}2.svg</path>
       <reflexion>0.16 0.0</reflexion>
       <reflexionOnFrame>true</reflexionOnFrame>
     </image>
+
     <image name="CenterFade" extra="true">
       <tile>false</tile>
       <pos>0.5 0.5</pos>
@@ -30,6 +30,7 @@
       <color>${centerFadeColor}</color>
       <zIndex>12</zIndex>
     </image>
+
     <text name="systemInfo">
       <pos>0 0.66</pos>
       <size>1 0.25</size>
@@ -39,9 +40,11 @@
       <glowSize>2</glowSize>
       <reflexion>0.20 0.0</reflexion>
     </text>
+
     <image name="carousel-inner" extra="true">
       <visible>false</visible>
     </image>
+
     <image name="carousel-shadow" extra="true">
       <visible>false</visible>
     </image>

@@ -250,41 +250,63 @@ license: creative commons CC-BY-NC-SA
       <color>${baseColor}</color>
       <forceUppercase>true</forceUppercase>
     </text>
-	<image name="logo">
+  <image name="logo" ifSubset="logoColor:off">
  
             <storyboard event="scroll" repeatAt="1" ifSubset="staticTiles:yes">
-                <animation property="scale" from="1" to="0.9" duration="1" mode="EaseOut"/>
-                <animation property="color" from="bbbbbb" to="bbbbbb" duration="1" mode="Linear"/>
                 <animation property="opacity" from="1" to="1" duration="1" mode="Linear"/>
                 <animation property="saturation" from="0" to="0" duration="1" mode="Linear"/>
             </storyboard>
 
-      	<!-- try png -->
-      	<path>./main/logos/${system.theme}.png</path>
-     	<!-- try svg -->
-      	<path>./main/logos/${system.theme}.svg</path>
-      	<!-- check if lang resources exist -->
-      	<path>./main/logos/${system.theme}-${lang}.png</path>
-      	<path>./main/logos/${system.theme}-${lang}.svg</path>
-      	<!-- 
-      	<path>/userdata/themes/${system.theme}/main/${system}.png</path>
-      	<path>/userdata/themes/${system.theme}/main/${system}.svg</path>
+        <!-- try png -->
+        <path>./main/logos/${system.theme}.png</path>
+      <!-- try svg -->
+        <path>./main/logos/${system.theme}.svg</path>
+        <!-- check if lang resources exist -->
+        <path>./main/logos/${system.theme}-${lang}.png</path>
+        <path>./main/logos/${system.theme}-${lang}.svg</path>
+        <!-- 
+        <path>/userdata/themes/${system.theme}/main/${system}.png</path>
+        <path>/userdata/themes/${system.theme}/main/${system}.svg</path>
       <path>/userdata/themes/${system.theme}/main/${system}-${lang}.png</path>
       <path>/userdata/themes/${system.theme}/main/${system}-${lang}.svg</path>
       -->
       <storyboard><sound path="./main/sounds/omp.wav"/></storyboard>
     </image>
     <image name="logo" region="eu"></image>
-		<image name="logo" region="us">
-		  <path>./main/logos/us/${system.theme}.png</path>
-			<path>./main/logos/us/${system.theme}.svg</path>
-		</image>
-		
-		<image name="logo" region="jp">
-		  <path>./main/logos/jp/${system.theme}.png</path>
-			<path>./main/logos/jp/${system.theme}.svg</path>
-	</image>
-		    
+    <image name="logo" region="us">
+      <path>./main/logos/us/${system.theme}.png</path>
+      <path>./main/logos/us/${system.theme}.svg</path>
+    </image>
+
+
+  <image name="logo" ifSubset="logoColor:on">
+
+        <!-- try png -->
+        <path>./main/logos/${system.theme}.png</path>
+      <!-- try svg -->
+        <path>./main/logos/${system.theme}.svg</path>
+        <!-- check if lang resources exist -->
+        <path>./main/logos/${system.theme}-${lang}.png</path>
+        <path>./main/logos/${system.theme}-${lang}.svg</path>
+        <!-- 
+        <path>/userdata/themes/${system.theme}/main/${system}.png</path>
+        <path>/userdata/themes/${system.theme}/main/${system}.svg</path>
+      <path>/userdata/themes/${system.theme}/main/${system}-${lang}.png</path>
+      <path>/userdata/themes/${system.theme}/main/${system}-${lang}.svg</path>
+      -->
+      <storyboard><sound path="./main/sounds/omp.wav"/></storyboard>
+    </image>
+    <image name="logo" region="eu"></image>
+    <image name="logo" region="us">
+      <path>./main/logos/us/${system.theme}.png</path>
+      <path>./main/logos/us/${system.theme}.svg</path>
+    </image>
+    
+    <image name="logo" region="jp">
+      <path>./main/logos/jp/${system.theme}.png</path>
+      <path>./main/logos/jp/${system.theme}.svg</path>
+  </image>
+        
     <image name="BottomBar" extra="static">
       <tile>false</tile>
       <size>1 0.065</size>
@@ -1237,5 +1259,9 @@ El más jugado : {binding:mostPlayed}
   <subset name="storyboards" displayName="${animationsSubsetName}">
     <include name="yes" displayName="${yes}">./storyboards.xml</include>
     <include name="no" displayName="${no}"/>
-  </subset>
+  </subset> 
+    <subset name="logoColor" displayName="${lang.logoColor}">
+        <include name="off" displayName="${lang.off}"/>
+        <include name="on" displayName="${lang.on}"/>
+   </subset>
 </theme>

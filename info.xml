@@ -127,7 +127,7 @@
 
       <image name="star-picto" extra="static">
          <path>./main/images/star-picto.png</path>
-         <pos>0.929 0.090</pos>
+         <pos>0.952 0.090</pos>
          <maxSize>0.02</maxSize>
          <color>ffffff</color>
          <verticalAlignment>center</verticalAlignment>
@@ -138,7 +138,7 @@
 
       <text name="trophy-level" extra="static">
          <text>2025</text>
-         <pos>0.942 0.082</pos>
+         <pos>0.965 0.082</pos>
          <size>0.048 0.035</size>
          <color>ffffff</color>
          <fontPath>./main/fonts/SST Roman.ttf</fontPath>
@@ -153,7 +153,7 @@
 
       <image name="clock-picto" extra="static">
          <path>./main/images/clock.png</path>
-         <pos>0.8599 0.082</pos>
+         <pos>0.8829 0.082</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
          <verticalAlignment>top</verticalAlignment>
@@ -164,7 +164,7 @@
 
       <image name="trophy-picto" extra="static">
          <path>./main/images/trophy-picto.svg</path>
-         <pos>0.911 0.082</pos>
+         <pos>0.934 0.082</pos>
          <maxSize>0.030</maxSize>
          <color>ffffff</color>
          <color ifCheevos="true">F3C300d1</color>
@@ -203,8 +203,8 @@
       <text name="username" extra="static">
          <text>${theme.nick}</text>
          <text ifSubset="system-username:custom">${custom.nick}</text>
-         <pos>0.770 0.080</pos>
-         <size>0.087 0.035</size>
+         <pos>0.772 0.080</pos>
+         <size>0.108 0.035</size>
          <color>ffffff</color>
          <fontPath>./main/fonts/SST Light.ttf</fontPath>
          <fontSize>0.028</fontSize>

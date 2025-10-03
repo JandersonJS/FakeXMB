@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>O Philips P2000T é um computador doméstico de 8 bits lançado em 1980 pela Philips, com processador Zilog Z80 e 16 KB de RAM, que utiliza um drive de cassetes para armazenamento e chip Mullard SAA5050 para gráficos em texto, sendo um dos primeiros computadores domésticos a serem usados em escolas na Holanda.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Philips P2000T es un ordenador doméstico de 8 bits lanzado en 1980 por Philips, con procesador Zilog Z80 y 16 KB de RAM, que utiliza una unidad de casetes para armamento y un chip Mullard SAA5050 para gráficos en texto, siendo uno de los dos primeros ordenadores domésticos que se usan en escuelas de Holanda.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Philips P2000T est un ordinateur domestique 8 bits lancé en 1980 par Philips, avec un processeur Zilog Z80 et 16 Ko de RAM, qui utilise un lecteur de cassettes pour l'armement et la puce Mullard SAA5050 pour les graphiques en texte, envoyant un des deux premiers ordinateurs domestiques à des utilisateurs réguliers dans des écoles Hollande.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Philips P2000T é um computador doméstico de 8 bits lançado em 1980 pela Philips, com processador Zilog Z80 e 16 KB de RAM, que utiliza um drive de cassetes para armazenamento e chip Mullard SAA5050 para gráficos em texto, sendo um dos primeiros computadores usados ​​em escolas na Holanda.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Philips P2000T</text>
+		</text>
+	</view>
+</theme>

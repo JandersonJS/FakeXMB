@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>MSU-1 (Media Sound Unit-1) is an expansion chip for the Super Nintendo that adds CD-quality audio playback capability, and the term "MSU-1 hack" refers to fan-made projects to modify Game Boy games to run on the Super NES via the Super Game Boy, using the MSU-1 chip to obtain enhanced soundtracks.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>MSU-1 (Media Sound Unit-1) es un chip de expansión para Super Nintendo que agrega capacidad de reproducción de audio con calidad de CD, y el término "MSU-1 hack" se refiere a proyectos creados por fanáticos para modificar juegos de Game Boy para que funcionen en Super NES a través de Super Game Boy, usando el chip MSU-1 para obtener bandas sonoras mejoradas.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>MSU-1 (Media Sound Unit-1) est une puce d'extension pour la Super Nintendo qui ajoute une capacité de lecture audio de qualité CD, et le terme « hack MSU-1 » fait référence aux projets réalisés par des fans pour modifier les jeux Game Boy pour fonctionner sur la Super NES via le Super Game Boy, en utilisant la puce MSU-1 pour obtenir des bandes sonores améliorées.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>MSU-1 (Media Sound Unit-1) é um chip de expansão para o Super Nintendo que adiciona a capacidade de reproduzir áudio em qualidade de CD, e o termo "MSU-1 hack" se refere a projetos criados por fãs para modificar jogos de Game Boy para rodar no Super NES através do Super Game Boy, usando o chip MSU-1 para obter trilhas sonoras aprimoradas.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Game Boy MSU-1</text>
+		</text>
+	</view>
+</theme>

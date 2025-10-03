@@ -1,30 +1,24 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-	    
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-		<text name="system_description" extra="true" >
-			<text></text>
+		<text name="system_description" extra="true">
+			<text>The Dragon 32 was a British home microcomputer released in August 1982, known for its Motorola MC6809E processor and for its similarity to the American TRS-80 Color Computer. Produced by Dragon Data Ltd., it was aimed at the European market and featured 32 KB of RAM, being well received for its build quality and keyboard. Despite initial success, the Dragon faced technical limitations, especially in graphics, and the company went bankrupt in 1984.</text>
 		</text>
 
-		<text name="system_description" extra="true" lang="fr" >
-			<text></text>
-		</text>
-
-		
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
-		</text>
-
-		<text name="system_description" extra="true" lang="pt" >
-			<text></text>
+			<text>El Dragon 32 fue un microordenador doméstico británico lanzado en agosto de 1982, conocido por su procesador Motorola MC6809E y por su similitud con el ordenador a color estadounidense TRS-80. Producido por Dragon Data Ltd., estaba dirigido al mercado europeo y contaba con 32 KB de RAM, teniendo una excelente acogida por su calidad de construcción y su teclado. A pesar del éxito inicial, el Dragon enfrentó limitaciones técnicas, especialmente en cuanto a gráficos, y la empresa quebró en 1984.</text>
 		</text>
 		
-				
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Dragon 32 était un micro-ordinateur domestique britannique sorti en août 1982, connu pour son processeur Motorola MC6809E et sa similitude avec l'ordinateur couleur américain TRS-80. Produit par Dragon Data Ltd., il était destiné au marché européen et disposait de 32 Ko de RAM. Il fut plébiscité pour sa qualité de fabrication et son clavier. Malgré son succès initial, le Dragon se heurta à des limitations techniques, notamment graphiques, et l'entreprise fit faillite en 1984.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Dragon 32 foi um microcomputador doméstico britânico lançado em agosto de 1982, conhecido por seu processador Motorola MC6809E e por ser similar ao americano TRS-80 Color Computer. Produzido pela Dragon Data Ltd., era voltado para o mercado europeu e possuía 32 KB de RAM, sendo bem recebido por sua construção e teclado de qualidade. Apesar de um sucesso inicial, o Dragon enfrentou limitações técnicas, especialmente em gráficos, e a empresa faliu em 1984.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
 			<text>Dragon 32</text>

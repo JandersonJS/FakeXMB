@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Karaoke is a form of interactive entertainment where people sing along to pre-recorded instrumental music, with the lyrics displayed on a screen. Originating in Japan, where the word means "empty orchestra" (kara + ōkesutora), karaoke has become popular worldwide as a fun way to relax and express oneself. In Japan, it's common to sing in private rooms that also offer food and drinks, while elsewhere, there are bars where everyone sings on stage for an audience.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El karaoke es una forma de entretenimiento interactivo donde la gente canta al ritmo de música instrumental pregrabada, con la letra mostrada en una pantalla. Originario de Japón, donde la palabra significa "orquesta vacía" (kara + ōkesutora), el karaoke se ha popularizado en todo el mundo como una forma divertida de relajarse y expresarse. En Japón, es común cantar en salas privadas que también ofrecen comida y bebida, mientras que en otros lugares hay bares donde todos cantan en el escenario para el público.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le karaoké est une forme de divertissement interactif où l'on chante sur une musique instrumentale préenregistrée, les paroles étant affichées sur un écran. Originaire du Japon, où le mot signifie « orchestre vide » (kara + ōkesutora), le karaoké est devenu populaire dans le monde entier comme moyen ludique de se détendre et de s'exprimer. Au Japon, il est courant de chanter dans des salles privées proposant également restauration et boissons, tandis qu'ailleurs, dans certains bars, tout le monde chante sur scène devant un public.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Karaokê (karaoke) é uma forma de entretenimento interativo onde as pessoas cantam junto com uma música pré-gravada e instrumental, com a letra sendo exibida em uma tela. Originado no Japão, onde a palavra significa "orquestra vazia" (kara + ōkesutora), o karaokê se tornou popular mundialmente, sendo um passatempo divertido para relaxar e se expressar. No Japão, é comum cantar em salas privadas, que também oferecem comida e bebida, enquanto em outros lugares existem bares onde todos cantam no palco para um público.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Karaokê</text>
+		</text>
+	</view>
+</theme>

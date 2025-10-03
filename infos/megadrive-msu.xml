@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>"MSU-1" is an audio enhancement technology for 16-bit consoles, originating from the Super Nintendo, that allows the addition of CD-quality soundtracks to games through expansion cartridges. The concept was adapted for the Mega Drive through projects such as "MD+," which uses modified ROMs to include audio in WAV or MP3 format. This technology aims to offer an enhanced sound experience, with original songs or remixes, and can be used in emulators and flash cards, such as the Mega Everdrive Pro and Mega SD.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>"MSU-1" es una tecnología de mejora de audio para consolas de 16 bits, originaria de la Super Nintendo, que permite añadir bandas sonoras con calidad de CD a los juegos mediante cartuchos de expansión. El concepto se adaptó para la Mega Drive mediante proyectos como "MD+", que utiliza ROM modificadas para incluir audio en formato WAV o MP3. Esta tecnología busca ofrecer una experiencia de sonido mejorada, con canciones originales o remezclas, y puede utilizarse en emuladores y tarjetas flash, como la Mega Everdrive Pro y la Mega SD.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>« MSU-1 » est une technologie d'amélioration audio pour consoles 16 bits, issue de la Super Nintendo, qui permet d'ajouter des bandes sonores de qualité CD aux jeux grâce à des cartouches d'extension. Ce concept a été adapté à la Mega Drive grâce à des projets tels que « MD+ », qui utilise des ROM modifiées pour inclure du son au format WAV ou MP3. Cette technologie vise à offrir une expérience sonore améliorée, avec des chansons originales ou des remixes, et peut être utilisée avec des émulateurs et des cartes mémoire flash, comme la Mega Everdrive Pro et la Mega SD.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O "MSU-1" é uma tecnologia de aprimoramento de áudio para consoles de 16 bits, originária do Super Nintendo, que permite a adição de trilhas sonoras de qualidade de CD a jogos através de cartuchos de expansão, sendo que o conceito foi adaptado para o Mega Drive através de projetos como o "MD+" que utiliza ROMs modificadas para incluir áudio em formato WAV ou MP3. Essa tecnologia busca oferecer uma experiência sonora aprimorada, com músicas originais ou remixes, e pode ser usada em emuladores e flashcards, como o Mega Everdrive Pro e o Mega SD.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Mega Drive MSU-1</text>
+		</text>
+	</view>
+</theme>

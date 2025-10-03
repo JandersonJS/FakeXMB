@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Founded in 1991, Epic Games is an American company founded by CEO Tim Sweeney. The company is headquartered in Cary, North Carolina and has dozens of offices worldwide. Epic is a leading interactive entertainment company and provider of 3D engine technology. Epic operates one of the world’s largest games, Fortnite, which is a vibrant ecosystem of social entertainment experiences including first-party games like Fortnite Battle Royale, LEGO® Fortnite, Rocket Racing, and Fortnite Festival, as well as creator-made experiences. Epic has over 800 million accounts and over 6 billion friend connections across Fortnite, Fall Guys, Rocket League, and the Epic Games Store. The company also develops Unreal Engine, which powers many of the world’s leading games and is also adopted across industries such as film and television, broadcast and live events, architecture, automotive, and simulation. Through Fortnite, Unreal Engine, Epic Games Store, and Epic Online Services, Epic provides an end-to-end digital ecosystem for developers and creators to build, distribute, and operate games and other content.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Fundada en 1991, Epic Games es una empresa estadounidense fundada por su director ejecutivo, Tim Sweeney. La empresa tiene su sede en Cary, Carolina del Norte, y cuenta con docenas de oficinas en todo el mundo. Epic es una empresa líder en entretenimiento interactivo y proveedora de tecnología de motores 3D. Epic opera uno de los juegos más grandes del mundo, Fortnite, un vibrante ecosistema de experiencias de entretenimiento social que incluye juegos propios como Fortnite Battle Royale, LEGO® Fortnite, Rocket Racing y Fortnite Festival, así como experiencias creadas por creadores. Epic cuenta con más de 800 millones de cuentas y más de 6 mil millones de conexiones de amigos en Fortnite, Fall Guys, Rocket League y la Epic Games Store. La empresa también desarrolla Unreal Engine, que impulsa muchos de los juegos más importantes del mundo y que también se adopta en industrias como el cine y la televisión, la retransmisión y los eventos en directo, la arquitectura, la automoción y la simulación. A través de Fortnite, Unreal Engine, Epic Games Store y Epic Online Services, Epic ofrece un ecosistema digital integral para que desarrolladores y creadores creen, distribuyan y operen juegos y otros contenidos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Fondée en 1991, Epic Games est une entreprise américaine fondée par son PDG Tim Sweeney. Son siège social est situé à Cary, en Caroline du Nord, et elle compte des dizaines de bureaux dans le monde. Epic est une entreprise leader dans le divertissement interactif et un fournisseur de technologie de moteur 3D. Epic exploite l'un des jeux les plus importants au monde, Fortnite, un écosystème dynamique d'expériences de divertissement social comprenant des jeux propriétaires comme Fortnite Battle Royale, LEGO® Fortnite, Rocket Racing et Fortnite Festival, ainsi que des expériences créées par des créateurs. Epic compte plus de 800 millions de comptes et plus de 6 milliards de connexions d'amis sur Fortnite, Fall Guys, Rocket League et l'Epic Games Store. L'entreprise développe également Unreal Engine, qui équipe de nombreux jeux parmi les plus populaires au monde et est également adopté dans des secteurs tels que le cinéma et la télévision, la diffusion et les événements en direct, l'architecture, l'automobile et la simulation. Grâce à Fortnite, Unreal Engine, l'Epic Games Store et les services en ligne Epic, Epic offre un écosystème numérique complet permettant aux développeurs et aux créateurs de créer, distribuer et exploiter des jeux et d'autres contenus.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Fundada em 1991, a Epic Games é uma empresa americana fundada pelo CEO Tim Sweeney. A empresa tem sede em Cary, Carolina do Norte, e dezenas de escritórios em todo o mundo. A Epic é uma empresa líder em entretenimento interativo e fornecedora de tecnologia de mecanismo 3D. A Epic opera um dos maiores jogos do mundo, Fortnite, que é um ecossistema vibrante de experiências de entretenimento social, incluindo jogos first-party como Fortnite Battle Royale, LEGO® Fortnite, Rocket Racing e Fortnite Festival, bem como experiências criadas por criadores. A Epic tem mais de 800 milhões de contas e mais de 6 bilhões de conexões de amigos em Fortnite, Fall Guys, Rocket League e na Epic Games Store. A empresa também desenvolve a Unreal Engine, que impulsiona muitos dos principais jogos do mundo e também é adotada em setores como cinema e televisão, transmissão e eventos ao vivo, arquitetura, automotivo e simulação. Por meio do Fortnite, Unreal Engine, Epic Games Store e Epic Online Services, a Epic fornece um ecossistema digital de ponta a ponta para desenvolvedores e criadores criarem, distribuírem e operarem jogos e outros conteúdos.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Epic Games</text>
+		</text>
+	</view>
+</theme>

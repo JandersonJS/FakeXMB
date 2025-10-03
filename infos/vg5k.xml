@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Philips VG-5000 μ (sometimes written also VG5K) is an 8-bit home computer, produced by the French Radiotechnique company (RTS), and marketed by Philips, Radiola and Schneider from 1984 until 1986. Despite having a name similar to the Philips VG-8000, it is not compatible with the MSX standard and works only with software owners.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Philips VG-5000 μ (a veces escrito también VG5K) es un ordenador doméstico de 8 bits, producido por la empresa francesa Radiotechnique (RTS), y comercializado por Philips, Radiola y Schneider desde 1984 hasta 1986. A pesar de tener un nombre similar al Philips VG-8000, no es compatible con el estándar MSX y sólo funciona con propietarios de software.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le Philips VG-5000 μ (parfois écrit également VG5K) est un ordinateur domestique 8 bits, produit par la société française Radiotechnique (RTS), et commercialisé par Philips, Radiola et Schneider de 1984 à 1986. Bien qu'ayant un nom similaire au Philips VG-8000, il n'est pas compatible avec la norme MSX et ne fonctionne qu'avec les propriétaires de logiciels.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Philips VG-5000 μ (às vezes também escrito VG5K) é um computador doméstico de 8 bits, produzido pela empresa francesa Radiotechnique (RTS) e comercializado pela Philips, Radiola e Schneider de 1984 a 1986. Apesar de ter um nome semelhante ao Philips VG-8000, ele não é compatível com o padrão MSX e funciona apenas com proprietários de software.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Philips VG-5000 μ</text>
+		</text>
+	</view>
+</theme>

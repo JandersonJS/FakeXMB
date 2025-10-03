@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Power Bomberman is a fan-made, free-to-play online multiplayer game and a tribute to the entire Bomberman franchise, featuring over 70 stages with variations, over 650 characters, and various game modes like Classic Battle, Reversing, King Battle, and Hyper Battle. It allows for up to 12 players, supports both online and local multiplayer, and offers a single-player score attack mode. The game incorporates power-ups, stage gimmicks, and enemies from different Bomberman eras, allowing players to unlock a vast number of skins and personalize their experience.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Power Bomberman es un juego multijugador en línea gratuito y creado por fans, un homenaje a toda la franquicia Bomberman. Cuenta con más de 70 escenarios con variaciones, más de 650 personajes y diversos modos de juego como Batalla Clásica, Reversing, Batalla del Rey e Hiperbatalla. Permite hasta 12 jugadores, admite multijugador en línea y local, y ofrece un modo individual de ataque por puntuación. El juego incorpora potenciadores, trucos de escenario y enemigos de diferentes épocas de Bomberman, lo que permite a los jugadores desbloquear una gran cantidad de aspectos y personalizar su experiencia.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Power Bomberman est un jeu multijoueur en ligne gratuit, créé par des fans et rendant hommage à la franchise Bomberman. Il propose plus de 70 niveaux avec leurs variantes, plus de 650 personnages et divers modes de jeu comme le Combat Classique, le Combat Inversé, le Combat des Rois et l'Hyper Combat. Il peut accueillir jusqu'à 12 joueurs, est compatible avec le multijoueur en ligne et local, et propose un mode solo à score. Le jeu intègre des bonus, des gimmicks de niveaux et des ennemis de différentes époques de Bomberman, permettant aux joueurs de débloquer une multitude de skins et de personnaliser leur expérience.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Power Bomberman é um jogo multijogador online gratuito e criado por fãs, uma homenagem a toda a franquia Bomberman, com mais de 70 fases com variações, mais de 650 personagens e vários modos de jogo, como Batalha Clássica, Reversão, Batalha do Rei e Hiper Batalha. Permite até 12 jogadores, suporta multijogador online e local e oferece um modo de ataque por pontuação para um jogador. O jogo incorpora power-ups, truques de fases e inimigos de diferentes eras do Bomberman, permitindo aos jogadores desbloquear uma vasta gama de skins e personalizar sua experiência.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Power Bomberman</text>
+		</text>
+	</view>
+</theme>

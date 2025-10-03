@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>GemRB is a portable, open-source implementation of Bioware's Infinity Engine, which powers classic RPGs like Baldur's Gate and Planescape: Torment. Its goal is to make these games available on multiple platforms, fix old bugs, add new features, and serve as a platform for mod development—all without the need for commercial game data.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>GemRB es una implementación portátil y de código abierto del motor Infinity de Bioware, que impulsa juegos de rol clásicos como Baldur's Gate y Planescape: Torment. Su objetivo es que estos juegos estén disponibles en múltiples plataformas, corrijan errores antiguos, añadan nuevas funciones y sirvan como plataforma para el desarrollo de mods, todo ello sin necesidad de datos comerciales del juego.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>GemRB est une implémentation portable et open source du moteur Infinity Engine de Bioware, qui équipe des RPG classiques comme Baldur's Gate et Planescape: Torment. Son objectif est de rendre ces jeux disponibles sur plusieurs plateformes, de corriger d'anciens bugs, d'ajouter de nouvelles fonctionnalités et de servir de plateforme pour le développement de mods, le tout sans nécessiter de données de jeu commerciales.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>GemRB é uma implementação portátil e de código aberto do motor de jogo Infinity Engine da Bioware, que alimenta jogos clássicos de RPG como Baldur's Gate e Planescape: Torment. Seu objetivo é tornar esses jogos disponíveis em diversas plataformas, corrigir bugs antigos, adicionar novas funcionalidades e servir como uma plataforma para o desenvolvimento de mods, tudo isso sem a necessidade de dados de jogos comerciais. </text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>GemRB</text>
+		</text>
+	</view>
+</theme>

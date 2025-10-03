@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+				
+				<text name="system_description" extra="true">
+				<text>An engine for creating and re-creating pinball machines, virtually. Pinball FX2 is a toolkit with the goal of making it easy to create pinball machines digitally. It uses Unity's High Definition Render Pipeline and comes with extensive editor tooling that aims to provide all the features needed for such a task.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="es">
+				<text>Un motor para crear y recrear máquinas de pinball, virtualmente. Pinball FX2 es un conjunto de herramientas cuyo objetivo es facilitar la creación digital de máquinas de pinball. Utiliza la canalización de procesamiento de alta definición de Unity y viene con herramientas de edición extensas que tienen como objetivo proporcionar todas las características necesarias para tal tarea.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+				<text>Un moteur pour créer et recréer virtuellement des flippers. Pinball FX2 est une boîte à outils dont le but est de faciliter la création numérique de flippers. Il utilise le pipeline de rendu haute définition de Unity et est livré avec des outils d'édition complets qui visent à fournir toutes les fonctionnalités nécessaires à une telle tâche.</text>
+		</text>
+
+	
+				<text name="system_description" extra="true" lang="pt">
+				<text>Um mecanismo para criar e recriar máquinas de pinball, virtualmente. O Pinball FX2 é um kit de ferramentas com o objetivo de facilitar a criação digital de máquinas de pinball. Ele usa o pipeline de renderização de alta definição do Unity e vem com ferramentas de editor extensas que visam fornecer todos os recursos necessários para tal tarefa.</text>
+		</text>
+		
+				
+
+		<text name="system_name" extra="true">
+			<text>Pinball FX2</text>
+		</text>
+	</view>
+</theme>

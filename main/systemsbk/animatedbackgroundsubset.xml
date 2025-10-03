@@ -7,6 +7,12 @@
   <variables lang="fr">
     <animatedBackground>Animation du fond</animatedBackground>
   </variables>
+  <variables lang="es">
+    <animatedBackground>Animación de fondo</animatedBackground>
+  </variables>
+  <variables lang="pt">
+    <animatedBackground>Animação de fundo</animatedBackground>
+  </variables>
   <subset tinyScreen="false" name="animatedBackground" displayName="${animatedBackground}">
     <include name="yes" displayName="${yes}">./animatedbackground.xml</include>
     <include name="no" displayName="${no}"/>

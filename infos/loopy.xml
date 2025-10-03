@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Casio Loopy was a 32-bit Japanese video game console released in 1995, aimed at women, featuring a built-in thermal printer for creating stickers with game images or images captured by an optional accessory, the Magical Shop. Its library of 11 games included titles about fashion, dolls, and life simulation, but the console was not a commercial success, with its main selling point being the printer and its innovative design for the time.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>La Casio Loopy fue una consola de videojuegos japonesa de 32 bits lanzada en 1995, dirigida al público femenino, con una impresora térmica integrada para crear pegatinas con imágenes de juegos o imágenes capturadas por un accesorio opcional, la Tienda Mágica. Su catálogo de 11 juegos incluía títulos sobre moda, muñecas y simulación de vida, pero la consola no tuvo éxito comercial, siendo su principal atractivo la impresora y su diseño innovador para la época.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>La Casio Loopy était une console de jeux vidéo japonaise 32 bits lancée en 1995, destinée aux femmes. Elle était équipée d'une imprimante thermique intégrée permettant de créer des autocollants avec des images de jeux ou des images capturées par un accessoire optionnel, la Boutique Magique. Sa bibliothèque de 11 jeux comprenait des titres sur la mode, les poupées et la simulation de vie, mais la console ne connut pas de succès commercial, son principal argument de vente étant l'imprimante et son design innovant pour l'époque.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Casio Loopy foi um videogame japonês de 32 bits lançado em 1995, voltado para o público feminino, com uma impressora térmica embutida para criar adesivos com imagens de jogos ou capturadas por um acessório opcional, o Magical Shop. Sua biblioteca de 11 jogos incluía títulos sobre moda, bonecas e simulação de vida, mas o console não obteve sucesso comercial, sendo seu principal atrativo a impressora e a proposta inovadora para a época.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Casio Loopy</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Mattel Aquarius was a short-lived 1983 home computer based on the Zilog Z-80 microprocessor with 4KB RAM, a built-in Microsoft BASIC interpreter, and a rubber keyboard. Designed as a low-cost entry into the computer market with expansion potential, it was discontinued just months after its 1983 release due to poor sales and a flood of more capable competitors, leading to a failure in the crowded 1980s home computer landscape.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Mattel Aquarius fue un ordenador doméstico de corta duración de 1983 basado en el microprocesador Zilog Z-80 con 4 KB de RAM, un intérprete Microsoft BASIC integrado y un teclado de goma. Diseñado como una opción económica para entrar en el mercado informático con potencial de expansión, se descontinuó a los pocos meses de su lanzamiento en 1983 debido a las bajas ventas y a la avalancha de competidores más potentes, lo que lo convirtió en un fracaso en el abarrotado mercado de ordenadores domésticos de la década de 1980.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>L'Aquarius de Mattel, sorti en 1983, était un ordinateur personnel de courte durée, basé sur le microprocesseur Zilog Z-80, doté de 4 Ko de RAM, d'un interpréteur Microsoft BASIC intégré et d'un clavier en caoutchouc. Conçu comme une entrée de gamme économique et évolutive, il fut abandonné quelques mois seulement après sa sortie en 1983 en raison de ventes décevantes et d'une pléthore de concurrents plus performants, ce qui entraîna un échec dans le marché informatique domestique déjà saturé des années 1980.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Mattel Aquarius foi um computador doméstico de curta duração, lançado em 1983, baseado no microprocessador Zilog Z-80, com 4 KB de RAM, um interpretador Microsoft BASIC integrado e um teclado de borracha. Projetado como uma entrada de baixo custo no mercado de computadores, com potencial de expansão, foi descontinuado poucos meses após seu lançamento em 1983 devido às vendas fracas e à enxurrada de concorrentes mais potentes, resultando em um fracasso no concorrido mercado de computadores domésticos da década de 1980.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Mattel Aquarius</text>
+		</text>
+	</view>
+</theme>

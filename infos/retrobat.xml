@@ -4,26 +4,24 @@
 	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
 		<text name="system_description" extra="true">
-			<text></text>
+			<text>RetroBat is a free and open-source Windows application that organizes and automates the configuration of classic console emulators, allowing you to play games from different platforms in a single location with a unified interface based on EmulationStation. It simplifies the emulation process by automatically configuring controllers and emulators, making it easier to add games and manage themes and title information.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text></text>
+			<text>RetroBat es una aplicación gratuita y de código abierto para Windows que organiza y automatiza la configuración de emuladores de consolas clásicas, permitiéndote jugar a juegos de diferentes plataformas en un solo lugar con una interfaz unificada basada en EmulationStation. Simplifica el proceso de emulación configurando automáticamente mandos y emuladores, lo que facilita la adición de juegos y la gestión de temas e información de los títulos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>RetroBat est une application Windows gratuite et open source qui organise et automatise la configuration des émulateurs de consoles classiques. Vous pouvez ainsi jouer à des jeux de différentes plateformes depuis un emplacement unique grâce à une interface unifiée basée sur EmulationStation. Elle simplifie le processus d'émulation en configurant automatiquement les manettes et les émulateurs, facilitant ainsi l'ajout de jeux et la gestion des thèmes et des informations sur les titres.</text>
 		</text>
 
-		<text name="system_description" extra="true" lang="fr">
-			<text></text>
+				<text name="system_description" extra="true" lang="pt">
+			<text>O RetroBat é um aplicativo gratuito e de código aberto para Windows que organiza e automatiza a configuração de emuladores de consoles clássicos, permitindo jogar jogos de diferentes plataformas em um único local com uma interface unificada baseada no EmulationStation. Ele simplifica o processo de emulação ao configurar automaticamente controles e emuladores, facilitando a adição de jogos e o gerenciamento de temas e informações dos títulos.</text>
 		</text>
-
-
-		<text name="system_description" extra="true" lang="pt">
-			<text></text>
-		</text>
-
 
 
 		<text name="system_name" extra="true">
-			<text>Retrobat</text>
+			<text>RetroBat</text>
 		</text>
 	</view>
 </theme>

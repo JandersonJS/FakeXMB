@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>To play Star Fox 64 on PC, you can use Starship, a decompiled native PC port developed by the same community that created the Ocarina of Time port. Starship offers numerous enhancements over the original, including high-resolution graphics, widescreen support, high frame rates, and modding capabilities. The port also provides quality-of-life improvements like bug fixes, customizable controller settings, and cheats.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Para jugar a Star Fox 64 en PC, puedes usar Starship, una versión nativa descompilada para PC, desarrollada por la misma comunidad que creó la versión de Ocarina of Time. Starship ofrece numerosas mejoras respecto al original, como gráficos de alta resolución, compatibilidad con pantalla panorámica, alta velocidad de fotogramas y posibilidad de modificar el juego. La versión también ofrece mejoras de calidad de vida, como corrección de errores, configuración personalizable del mando y trucos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Pour jouer à Star Fox 64 sur PC, vous pouvez utiliser Starship, un portage PC natif décompilé développé par la même communauté à l'origine du portage d'Ocarina of Time. Starship offre de nombreuses améliorations par rapport à l'original, notamment des graphismes haute résolution, la compatibilité avec les écrans larges, des fréquences d'images élevées et des fonctionnalités de modding. Le portage apporte également des améliorations de confort, comme des corrections de bugs, des paramètres de manette personnalisables et des astuces.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Para jogar Star Fox 64 no PC, você pode usar o Starship, uma versão nativa descompilada para PC desenvolvida pela mesma comunidade que criou a versão de Ocarina of Time. O Starship oferece inúmeras melhorias em relação ao original, incluindo gráficos de alta resolução, suporte a widescreen, altas taxas de quadros e recursos de modificação. A versão também oferece melhorias de qualidade de vida, como correções de bugs, configurações de controle personalizáveis ​​e cheats.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Starship</text>
+		</text>
+	</view>
+</theme>

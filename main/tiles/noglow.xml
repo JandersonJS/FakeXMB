@@ -4,7 +4,7 @@
   <customView name="Tiles,Icons">
     <ninepatch name="gridtile.background:selected">
       <padding>0 0</padding>
-      <path>./main/media/frame.png</path>
+      <path>:/frame.png</path>
 <cornerSize>0.020</cornerSize>
     </ninepatch>
   </customView>

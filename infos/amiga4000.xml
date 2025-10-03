@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Amiga 4000, released by Commodore in 1992, was a high-end personal computer, the successor to the Amiga 3000, which introduced the AGA (Advanced Graphics Architecture) graphics chipset with 16.8 million colors. There were two main versions, the desktop A4000D and the tower A4000T, with Motorola 68040 or 68030 CPUs and the AmigaOS operating system. The A4000 was the last in the Amiga line before Commodore's bankruptcy, and was continued by others for a time.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Amiga 4000, lanzado por Commodore en 1992, fue un ordenador personal de gama alta, sucesor del Amiga 3000, que introdujo el chipset gráfico AGA (Arquitectura Gráfica Avanzada) con 16,8 millones de colores. Existieron dos versiones principales: el A4000D de escritorio y el A4000T de torre, con CPU Motorola 68040 o 68030 y el sistema operativo AmigaOS. El A4000 fue el último de la línea Amiga antes de la quiebra de Commodore, y fue continuado por otros durante un tiempo.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>L'Amiga 4000, commercialisé par Commodore en 1992, était un ordinateur personnel haut de gamme, successeur de l'Amiga 3000, qui introduisait le chipset graphique AGA (Advanced Graphics Architecture) avec 16,8 millions de couleurs. Il existait deux versions principales : l'A4000D pour ordinateur de bureau et l'A4000T pour ordinateur tour, équipées de processeurs Motorola 68040 ou 68030 et du système d'exploitation AmigaOS. L'A4000 fut le dernier modèle de la gamme Amiga avant la faillite de Commodore, et fut repris par d'autres pendant un temps.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Amiga 4000, lançado pela Commodore em 1992, foi um computador pessoal de alta gama, sucessor do Amiga 3000, que introduziu o chipset de gráficos AGA (Advanced Graphics Architecture) com 16,8 milhões de cores. Existiram duas versões principais, o A4000D desktop e o A4000T em torre, com CPUs Motorola 68040 ou 68030 e o sistema operacional AmigaOS. O A4000 foi o último da linha Amiga antes da falência da Commodore, sendo continuado por outros por um tempo.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Amiga 4000</text>
+		</text>
+	</view>
+</theme>

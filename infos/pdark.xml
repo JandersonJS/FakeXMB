@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Perfect Dark PC port is a native, fan-made PC version developed from the game's decompiled code, offering enhanced features like 60 FPS support, mouse and keyboard controls, widescreen resolutions, and customizable Field of View (FOV) while retaining an authentic experience. It requires players to provide their own N64 ROM file to function. The port is primarily hosted on GitHub, allowing for limited modding, and represents a significant advancement for retro gaming, enabling a modern way to play the N64 classic.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El port para PC de Perfect Dark es una versión nativa, creada por fans y desarrollada a partir del código descompilado del juego. Ofrece características mejoradas como compatibilidad con 60 FPS, controles con ratón y teclado, resoluciones de pantalla panorámica y campo de visión (FOV) personalizable, manteniendo una experiencia auténtica. Requiere que los jugadores proporcionen su propio archivo ROM de N64 para funcionar. El port está alojado principalmente en GitHub, lo que permite una modificación limitada y representa un avance significativo para los juegos retro, ofreciendo una forma moderna de jugar al clásico de N64.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Le portage PC Perfect Dark est une version PC native, créée par des fans et développée à partir du code décompilé du jeu. Il offre des fonctionnalités améliorées comme la prise en charge du 60 FPS, les commandes à la souris et au clavier, des résolutions écran large et un champ de vision personnalisable, tout en conservant une expérience authentique. Pour fonctionner, les joueurs doivent fournir leur propre fichier ROM N64. Le portage est principalement hébergé sur GitHub, ce qui permet un modding limité, et représente une avancée significative pour le rétro gaming, offrant une façon moderne de jouer à ce classique N64.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O port de Perfect Dark para PC é uma versão nativa para PC, feita por fãs, desenvolvida a partir do código descompilado do jogo, oferecendo recursos aprimorados como suporte a 60 FPS, controles por mouse e teclado, resoluções widescreen e campo de visão (FOV) personalizável, mantendo uma experiência autêntica. É necessário que os jogadores forneçam seu próprio arquivo ROM do N64 para funcionar. O port está hospedado principalmente no GitHub, permitindo modificações limitadas, e representa um avanço significativo para jogos retrô, possibilitando uma maneira moderna de jogar o clássico do N64.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Perfect Dark</text>
+		</text>
+	</view>
+</theme>

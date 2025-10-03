@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Amazon Prime Gaming offers members free PC games to keep, exclusive in-game content and in-game items for popular titles, and a free monthly Twitch channel subscription. Accessed via gaming.amazon.com and linked to your Amazon Prime account, this service provides a rotating selection of digital content and perks for various platforms including PC, console, and mobile games.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Amazon Prime Gaming ofrece a sus miembros juegos de PC gratis, contenido y artículos exclusivos para juegos populares, y una suscripción mensual gratuita al canal de Twitch. Accede a través de gaming.amazon.com y vincúlalo a tu cuenta de Amazon Prime. Este servicio ofrece una selección rotativa de contenido digital y beneficios para diversas plataformas, incluyendo juegos de PC, consola y móviles.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Amazon Prime Gaming propose à ses membres des jeux PC gratuits, du contenu et des objets exclusifs pour les titres populaires, ainsi qu'un abonnement mensuel gratuit à la chaîne Twitch. Accessible via gaming.amazon.com et lié à votre compte Amazon Prime, ce service propose une sélection évolutive de contenus numériques et d'avantages pour différentes plateformes, dont les jeux PC, consoles et mobiles.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Amazon Prime Gaming oferece aos membros jogos de PC gratuitos para manter, conteúdo exclusivo no jogo e itens no jogo para títulos populares, além de uma assinatura mensal gratuita do canal Twitch. Acessado em gaming.amazon.com e vinculado à sua conta Amazon Prime, este serviço oferece uma seleção rotativa de conteúdo digital e vantagens para diversas plataformas, incluindo jogos para PC, console e celular.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Amazon Prime Gaming</text>
+		</text>
+	</view>
+</theme>

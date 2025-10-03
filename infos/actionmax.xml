@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Action Max was a 1987 video game console by Worlds of Wonder that used VHS tapes and a light gun for on-rails shooting games, but it required a separate VCR and had no true interactivity, limiting replayability and contributing to its failure and the company's bankruptcy. Players would shoot at targets on the TV screen with a light gun, while the console used a sensor on the screen to track hits and keep score on its LED display. Only five games were released, and the console's lack of innovation and inability to provide new gameplay loops led to its quick downfall.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>La Action Max fue una consola de videojuegos de 1987 de Worlds of Wonder que utilizaba cintas VHS y una pistola de luz para juegos de disparos sobre raíles. Sin embargo, requería una grabadora de vídeo independiente y carecía de interactividad real, lo que limitaba la rejugabilidad y contribuía a su fracaso y a la quiebra de la compañía. Los jugadores disparaban a objetivos en la pantalla del televisor con una pistola de luz, mientras que la consola utilizaba un sensor en la pantalla para registrar los impactos y registrar la puntuación en su pantalla LED. Solo se lanzaron cinco juegos, y la falta de innovación de la consola y su incapacidad para ofrecer nuevos bucles de juego provocaron su rápida caída.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>L'Action Max était une console de jeux vidéo de 1987 de Worlds of Wonder. Elle utilisait des cassettes VHS et un pistolet laser pour les jeux de tir sur rails. Cependant, elle nécessitait un magnétoscope séparé et manquait d'interactivité, ce qui limitait la rejouabilité et contribua à son échec et à la faillite de l'entreprise. Les joueurs tiraient sur des cibles affichées sur l'écran de télévision avec un pistolet laser, tandis que la console utilisait un capteur à l'écran pour suivre les coups et comptabiliser les scores sur son écran LED. Seuls cinq jeux furent commercialisés, et le manque d'innovation de la console et son incapacité à proposer de nouvelles boucles de jeu ont rapidement entraîné sa chute.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Action Max foi um console de videogame de 1987 da Worlds of Wonder que utilizava fitas VHS e uma pistola de luz para jogos de tiro em trilhos, mas exigia um videocassete separado e não tinha interatividade real, limitando a rejogabilidade e contribuindo para seu fracasso e a falência da empresa. Os jogadores atiravam em alvos na tela da TV com uma pistola de luz, enquanto o console usava um sensor na tela para rastrear acertos e registrar a pontuação em seu display de LED. Apenas cinco jogos foram lançados, e a falta de inovação do console e a incapacidade de fornecer novos loops de jogabilidade levaram à sua rápida queda.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Action Max</text>
+		</text>
+	</view>
+</theme>

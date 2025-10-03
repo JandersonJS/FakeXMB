@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Ship of Harkinian is an open-source, fan-made PC port of The Legend of Zelda: Ocarina of Time, built from a decompiled version of the original Nintendo 64 game. It runs on modern hardware for platforms like Windows, macOS, and Linux, offering enhancements such as 4K resolution, higher frame rates, and support for custom mods. To use it, you need a legally obtained Ocarina of Time ROM, which Ship of Harkinian then uses to extract the game's copyrighted assets.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Ship of Harkinian es una versión para PC de código abierto y creada por fans de The Legend of Zelda: Ocarina of Time, basada en una versión descompilada del juego original de Nintendo 64. Funciona en hardware moderno para plataformas como Windows, macOS y Linux, y ofrece mejoras como resolución 4K, mayor velocidad de fotogramas y compatibilidad con mods personalizados. Para usarla, necesitas una ROM de Ocarina of Time obtenida legalmente, que Ship of Harkinian utiliza para extraer los recursos protegidos por derechos de autor del juego.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Ship of Harkinian est un portage PC open source et fan-made de The Legend of Zelda: Ocarina of Time, développé à partir d'une version décompilée du jeu Nintendo 64 original. Il fonctionne sur des plateformes modernes comme Windows, macOS et Linux, et offre des améliorations telles qu'une résolution 4K, des fréquences d'images plus élevées et la prise en charge de mods personnalisés. Pour l'utiliser, vous avez besoin d'une ROM Ocarina of Time obtenue légalement, que Ship of Harkinian utilise ensuite pour extraire les ressources protégées par les droits d'auteur du jeu.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Ship of Harkinian é uma versão para PC de código aberto e feita por fãs de The Legend of Zelda: Ocarina of Time, criada a partir de uma versão descompilada do jogo original para Nintendo 64. Ele roda em hardware moderno para plataformas como Windows, macOS e Linux, oferecendo melhorias como resolução 4K, taxas de quadros mais altas e suporte a mods personalizados. Para usá-lo, você precisa de uma ROM de Ocarina of Time obtida legalmente, que Ship of Harkinian usa para extrair os recursos protegidos por direitos autorais do jogo.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Ship of Harkinian</text>
+		</text>
+	</view>
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>OpenGOAL is a fan-made project that provides a native PC port for the Jak and Daxter games, allowing users to play the PlayStation 2 titles directly on their computers without emulation. It achieves this by reverse-engineering the original games' source code, recompiling it for PC architecture, and offering features like mod support, improved performance, and modern graphics options. Users must own the original PlayStation 2 game discs to extract the game data, which is then processed by the OpenGOAL tools to create a fully playable PC version of the game.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>OpenGOAL es un proyecto creado por fans que ofrece una versión nativa para PC de los juegos de Jak & Daxter, lo que permite a los usuarios jugar los títulos de PlayStation 2 directamente en sus ordenadores sin emulación. Esto se logra mediante ingeniería inversa del código fuente de los juegos originales, recompilándolo para la arquitectura de PC y ofreciendo características como compatibilidad con mods, rendimiento mejorado y opciones gráficas modernas. Los usuarios deben tener los discos originales de PlayStation 2 para extraer los datos del juego, que luego son procesados ​​por las herramientas de OpenGOAL para crear una versión totalmente jugable para PC.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>OpenGOAL est un projet créé par des fans qui propose un portage PC natif des jeux Jak et Daxter, permettant aux utilisateurs de jouer aux titres PlayStation 2 directement sur leur ordinateur sans émulation. Pour ce faire, il procède à la rétro-ingénierie du code source des jeux originaux, le recompilant pour l'architecture PC et offrant des fonctionnalités telles que la prise en charge des mods, des performances améliorées et des options graphiques modernes. Les utilisateurs doivent posséder les disques de jeu PlayStation 2 originaux pour extraire les données, qui sont ensuite traitées par les outils OpenGOAL afin de créer une version PC entièrement jouable.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>OpenGOAL é um projeto criado por um fã que fornece uma porta nativa para PC para os jogos Jak and Daxter, permitindo que os usuários joguem os títulos de PlayStation 2 diretamente em seus computadores sem emulação. Ele consegue isso por meio da engenharia reversa do código-fonte dos jogos originais, recompilando-o para a arquitetura de PC e oferecendo recursos como suporte a mods, desempenho aprimorado e opções gráficas modernas. Os usuários precisam possuir os discos originais do jogo para PlayStation 2 para extrair os dados do jogo, que são então processados ​​pelas ferramentas do OpenGOAL para criar uma versão totalmente jogável do jogo para PC.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>OpenGOAL</text>
+		</text>
+	</view>
+</theme>

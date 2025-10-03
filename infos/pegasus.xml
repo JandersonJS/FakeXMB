@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The Aamber Pegasus was a home computer produced in New Zealand by Technosys Research Labs in 1981, with hardware designed by Stewart J. Holmes and software by Paul Gillingwater, Nigel Keam, and Paul Carter. The introduction of the Apple II and its educational discounts in New Zealand is considered a factor in the demise of Technosys and the computer, with production estimated at only one hundred units.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El Aamber Pegasus fue un ordenador doméstico fabricado en Nueva Zelanda por Technosys Research Labs en 1981, con hardware diseñado por Stewart J. Holmes y software de Paul Gillingwater, Nigel Keam y Paul Carter. La introducción del Apple II y sus descuentos educativos en Nueva Zelanda se considera un factor clave en la desaparición de Technosys y del ordenador, con una producción estimada de tan solo cien unidades.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>L'Aamber Pegasus était un ordinateur personnel produit en Nouvelle-Zélande par Technosys Research Labs en 1981. Le matériel était conçu par Stewart J. Holmes et les logiciels par Paul Gillingwater, Nigel Keam et Paul Carter. L'introduction de l'Apple II et ses réductions pour l'éducation en Nouvelle-Zélande sont considérées comme un facteur dans la disparition de Technosys et de l'ordinateur, la production étant estimée à seulement cent unités.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O Aamber Pegasus foi um computador doméstico produzido na Nova Zelândia pela Technosys Research Labs em 1981, com hardware projetado por Stewart J. Holmes e software por Paul Gillingwater, Nigel Keam e Paul Carter. A introdução do Apple II e seus descontos educacionais na Nova Zelândia é considerada um fator que levou ao fim da Technosys e do computador, com uma produção estimada em apenas cem unidades.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Pegasus</text>
+		</text>
+	</view>
+</theme>

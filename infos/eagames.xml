@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>EA (Electronic Arts) is a major video game company that develops and publishes games for computers, consoles, and mobile devices, known for franchises like Apex Legends, The Sims, and EA SPORTS FC. Founded in 1982, it is headquartered in Redwood City, California, and recently agreed to be acquired for $55 billion by a consortium including Saudi Arabia's Public Investment Fund, becoming a private company.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>EA (Electronic Arts) es una importante compañía de videojuegos que desarrolla y publica juegos para computadoras, consolas y dispositivos móviles, conocida por franquicias como Apex Legends, Los Sims y EA SPORTS FC. Fundada en 1982, tiene su sede en Redwood City, California, y recientemente acordó su adquisición por 55 000 millones de dólares por un consorcio que incluye al Fondo de Inversión Pública de Arabia Saudí, convirtiéndose en una empresa privada.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>EA (Electronic Arts) est une société majeure de jeux vidéo qui développe et édite des jeux pour ordinateurs, consoles et appareils mobiles, connue pour des franchises comme Apex Legends, Les Sims et EA SPORTS FC. Fondée en 1982, elle a son siège social à Redwood City, en Californie, et a récemment accepté d'être rachetée pour 55 milliards de dollars par un consortium incluant le Fonds d'investissement public saoudien, devenant ainsi une société privée.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>EA (Electronic Arts) es una importante compañía de videojuegos que desarrolla y publica juegos para computadoras, consolas y dispositivos móviles, conocida por franquicias como Apex Legends, Los Sims y EA SPORTS FC. Fundada en 1982, tiene su sede en Redwood City, California, y recientemente acordó su adquisición por 55 000 millones de dólares por un consorcio que incluye al Fondo de Inversión Pública de Arabia Saudí, convirtiéndose en una empresa privada.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Electronic Arts Games</text>
+		</text>
+	</view>
+</theme>

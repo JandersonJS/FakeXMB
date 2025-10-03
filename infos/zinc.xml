@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The ZiNc emulator is a Windows and Linux emulator for arcade games that ran on Sony-based hardware, including the Capcom ZN-1 and ZN-2 arcade platforms. It was designed to emulate these games with graphical and sound enhancements on lower-spec PCs but is no longer actively developed and has limited support for analog controls. While it offers a different emulation experience than MAME for its specific games, MAME has largely caught up, reducing ZiNc's necessity for most users.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El emulador ZiNc es un emulador de Windows y Linux para los juegos arcade del material de Sony, incluidas las plataformas Capcom ZN-1 y ZN-2. Diseñado para emular estos juegos con mejoras gráficas y sonoras en PC según el juego, no se ha desarrollado más actividad y ofrece un precio de carga limitada de comandos analógicos. Bien que ofrezca una experiencia de emulación diferente de células de MAME para sus juegos específicos, MAME es un gran rattrapé que son retardados, reduciendo además la necesidad de ZiNc para la mayoría de los usuarios.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>L'émulateur ZiNc est un émulateur Windows et Linux pour les jeux d'arcade sur le matériel Sony, notamment les plateformes Capcom ZN-1 et ZN-2. Conçu pour émuler ces jeux avec des améliorations graphiques et sonores sur PC bas de gamme, il n'est plus développé activement et offre une prise en charge limitée des commandes analogiques. Bien qu'il offre une expérience d'émulation différente de celle de MAME pour ses jeux spécifiques, MAME a largement rattrapé son retard, notamment la nécessité de ZiNc pour la plupart des utilisateurs.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O emulador ZiNc é um emulador para Windows e Linux para jogos de arcade que rodam em hardware da Sony, incluindo as plataformas de arcade Capcom ZN-1 e ZN-2. Ele foi projetado para emular esses jogos com melhorias gráficas e sonoras em PCs de menor desempenho, mas não é mais desenvolvido ativamente e tem suporte limitado para controles analógicos. Embora ofereça uma experiência de emulação diferente do MAME para seus jogos específicos, o MAME já se equiparou em grande parte, reduzindo a necessidade do ZiNc para a maioria dos usuários.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>ZiNc</text>
+		</text>
+	</view>
+</theme>

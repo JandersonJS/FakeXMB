@@ -41,20 +41,22 @@
 		</text>
 
 		<text name="label">
-			<origin>0 0.5</origin>
-			<pos>0.05 0.88</pos>
+			<origin>0 0</origin>
+			<pos>0.05 0.86</pos>
 			<alignment>left</alignment>
 			<color>dddddd</color>
 			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
+			<size>0.9 0.1</size>
 			<fontSize>0.052</fontSize>
+      		<autoScroll>horizontal</autoScroll>
 			<glowColor>09090920</glowColor>
 			<glowSize>1</glowSize>
 			<glowOffset>1</glowOffset>
 		</text>
 
        		<image name="hotkey-tips" extra="true">
-			<origin>1 0.5</origin>
-			<pos>1 0.443</pos>
+			<origin>0 0</origin>
+			<pos>0.79 0.3</pos>
 			<maxSize>0.35</maxSize>
 			<maxSize tinyScreen="true">0.45</maxSize>			
 			<path>./main/hotkey-tips/en.png</path>

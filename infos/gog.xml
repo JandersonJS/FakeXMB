@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>GOG is a digital distribution platform for PC games, formerly known as Good Old Games, offering DRM-free (Digital Rights Management) games, allowing users to own and play games more freely and without the constraints of a constant internet connection. Founded by CD Projekt Red, the platform is dedicated to preserving games, including old classics and modern titles, with the optional GOG Galaxy client for managing games and friends.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>GOG es una plataforma de distribución digital de juegos para PC, anteriormente conocida como Good Old Games, que ofrece juegos sin DRM (Gestión de Derechos Digitales), lo que permite a los usuarios poseer y jugar con mayor libertad y sin las limitaciones de una conexión a internet constante. Fundada por CD Projekt Red, la plataforma se dedica a preservar juegos, incluyendo clásicos y títulos modernos, con el cliente opcional GOG Galaxy para gestionar juegos y amigos.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>GOG est une plateforme de distribution numérique de jeux PC, anciennement connue sous le nom de Good Old Games. Elle propose des jeux sans DRM (gestion des droits numériques), permettant aux utilisateurs de posséder et de jouer à des jeux plus librement, sans les contraintes d'une connexion internet permanente. Fondée par CD Projekt Red, la plateforme se consacre à la préservation des jeux, des classiques aux titres modernes, avec le client GOG Galaxy en option pour gérer les jeux et les amis.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>GOG é uma plataforma de distribuição digital para jogos de PC, anteriormente conhecida como Good Old Games, que oferece jogos sem DRM (Gerenciamento de Direitos Digitais), permitindo aos usuários possuir e jogar os jogos de forma mais livre e sem restrições de conexão constante à internet. Fundada pela CD Projekt Red, a plataforma se dedica à preservação de jogos, incluindo clássicos antigos e títulos modernos, com o cliente opcional GOG Galaxy para gerenciar jogos e amigos.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>GOG</text>
+		</text>
+	</view>
+</theme>

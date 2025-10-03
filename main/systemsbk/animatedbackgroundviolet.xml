@@ -3,7 +3,7 @@
   <formatVersion>7</formatVersion>
   <view name="system">
     <video name="staticBackgroundVideo">
-      <size>1 1</size>
+      <minSize>1 1</minSize>
       <pos>0 0</pos>
       <origin>0 0</origin>
       <path>./main/video/violet.mp4</path>

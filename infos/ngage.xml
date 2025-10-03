@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>The N-Gage was Nokia's attempt to merge a mobile phone and a handheld game console, released in 2003, but its commercial execution failed, with an awkward design and a series of problems. A digital successor, N-Gage 2.0, was launched in 2007 as a game distribution platform for SymbianOS smartphones, also failing to establish a lasting market and being discontinued in 2009.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>El N-Gage fue el intento de Nokia de fusionar un teléfono móvil y una consola portátil. Se lanzó en 2003, pero su éxito comercial fracasó debido a un diseño poco práctico y una serie de problemas. Un sucesor digital, el N-Gage 2.0, se lanzó en 2007 como plataforma de distribución de juegos para smartphones con SymbianOS. El producto tampoco logró consolidarse en el mercado y se discontinuó en 2009.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Lancée en 2003, la N-Gage était la tentative de Nokia de fusionner un téléphone mobile et une console de jeux portable. Son développement commercial a échoué, en raison d'une conception complexe et de nombreux problèmes. Son successeur numérique, la N-Gage 2.0, a été lancée en 2007 comme plateforme de distribution de jeux pour smartphones SymbianOS. Elle n'a pas non plus réussi à s'imposer sur le marché et a été abandonnée en 2009.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>O N-Gage foi uma tentativa da Nokia de fundir um telemóvel e um console de jogos portátil, lançado em 2003, mas a sua execução falhou comercialmente, com um design incómodo e uma série de problemas. Um sucessor digital, N-Gage 2.0, foi lançado em 2007 como uma plataforma de distribuição de jogos para smartphones com SymbianOS, também falhando em criar um mercado duradouro e sendo desativada em 2009.</text>
+		</text>
+
+
+		<text name="N-Gage" extra="true">
+			<text></text>
+		</text>
+	</view>
+</theme>

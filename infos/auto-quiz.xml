@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-This type of video game usually adopts the contest format for several players in turns. Tests, questions, riddles... Who will win?
-			</text>
+		<text name="system_description" extra="true">
+			<text>Quiz games, or trivia games, test knowledge on various subjects through question-and-answer formats like multiple-choice, true/false, or fill-in-the-blanks. They can be used for fun, education, or both, blending learning with entertainment by engaging participants of all ages and knowledge levels. These games can also help improve concentration, memory, and knowledge retention</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos de preguntas y respuestas, o trivias, ponen a prueba los conocimientos sobre diversos temas mediante preguntas y respuestas de opción múltiple, verdadero/falso o completar espacios en blanco. Pueden usarse con fines lúdicos, educativos o ambos, combinando aprendizaje y entretenimiento al involucrar a participantes de todas las edades y niveles de conocimiento. Estos juegos también pueden ayudar a mejorar la concentración, la memoria y la retención de conocimientos.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Este tipo de videojuegos suele adoptar el formato de concurso para varios jugadores por turnos. Pruebas, preguntas, acertijos... ¿Quién ganará?.
+		<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux-questionnaires, ou jeux-questionnaires, testent les connaissances sur divers sujets grâce à des formats de questions-réponses comme les QCM, les vrais/faux ou les questions à trous. Ils peuvent être utilisés à des fins ludiques, éducatives ou les deux, alliant apprentissage et divertissement en engageant des participants de tous âges et de tous niveaux. Ces jeux peuvent également contribuer à améliorer la concentration, la mémoire et la mémorisation.</text>
 		</text>
-	</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>Jogos de quiz, ou trivia, testam conhecimentos sobre diversos assuntos por meio de formatos de perguntas e respostas, como múltipla escolha, verdadeiro/falso ou preenchimento de lacunas. Podem ser usados ​​para diversão, educação ou ambos, combinando aprendizado com entretenimento, envolvendo participantes de todas as idades e níveis de conhecimento. Esses jogos também podem ajudar a melhorar a concentração, a memória e a retenção de conhecimento.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Quiz games</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Juegos de preguntas</text>
+			<text>Quiz</text>
 		</text>
 	</view>
 </theme>

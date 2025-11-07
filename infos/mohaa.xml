@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Medal of Honor: Allied Assault is a World War II first-person shooter where you play as U.S. Army Lieutenant Mike Powell, detailing his fictional exploits in the European theater. The game is known for its D-Day beach landing on Omaha Beach and other historical battles, allowing players to fight in North Africa, Italy, and Germany. It was praised for its intense gameplay and large-scale battles, and was followed by expansion packs.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Medal of Honor: Allied Assault es un juego de disparos en primera persona ambientado en la Segunda Guerra Mundial, en el que te pones en la piel del teniente del ejército estadounidense Mike Powell, quien detalla sus hazañas ficticias en el frente europeo. El juego es conocido por el desembarco del Día D en la playa de Omaha y otras batallas históricas, que permiten a los jugadores luchar en el norte de África, Italia y Alemania. Fue elogiado por su intensa jugabilidad y sus batallas a gran escala, y fue seguido por expansiones.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Medal of Honor: Allied Assault est un jeu de tir à la première personne de la Seconde Guerre mondiale où vous incarnez le lieutenant Mike Powell de l'armée américaine, détaillant ses exploits fictifs sur le théâtre européen. Connu pour son débarquement sur la plage d'Omaha Beach lors du Jour J et d'autres batailles historiques, le jeu permet aux joueurs de combattre en Afrique du Nord, en Italie et en Allemagne. Il a été salué pour son gameplay intense et ses batailles à grande échelle, et a été suivi par des extensions.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Medal of Honor: Allied Assault é um jogo de tiro em primeira pessoa da Segunda Guerra Mundial no qual você joga como o Tenente do Exército dos EUA Mike Powell, detalhando suas façanhas fictícias no teatro de operações europeu. O jogo é conhecido pelo desembarque na praia de Omaha, no Dia D, e outras batalhas históricas, permitindo que os jogadores lutassem no Norte da África, Itália e Alemanha. Foi elogiado por sua jogabilidade intensa e batalhas em larga escala, e foi seguido por pacotes de expansão.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Medal of Honor: Allied Assault</text>
+		</text>
+	</view>
+</theme>

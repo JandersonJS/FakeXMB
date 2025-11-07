@@ -1,32 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-In this type of video game the player basically fishes or hunts. Usually they take the form of tournaments and many have a wide variety of places to catch and collect the largest number of pieces.			
-	</text>
+		<text name="system_description" extra="true">
+			<text>Hunting and fishing games are a diverse genre that includes simulations, arcade-style games, and role-playing games where players engage in virtual hunting or fishing activities. These games vary in style from realistic simulations that focus on equipment and realistic physics to simpler arcade games that emphasize quick reflexes and upgrades, and even action RPGs with large worlds and quest-based gameplay.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos de caza y pesca son un género diverso que incluye simulaciones, juegos de estilo arcade y juegos de rol en los que los jugadores participan en actividades virtuales de caza o pesca. Estos juegos varían en estilo, desde simulaciones realistas que se centran en el equipo y la física realista hasta juegos arcade más sencillos que priorizan los reflejos rápidos y las mejoras, e incluso juegos de rol de acción con grandes mundos y mecánicas de juego basadas en misiones.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-En este tipo de videojuegos el jugador basicamente pesca o caza. En general suelen adoptar la forma de torneos y muchos cuentan con una amplia variedad de lugares en los que atrapar y coleccionar el mayor numero de piezas.
-	</text>
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux de chasse et de pêche constituent un genre diversifié qui comprend des simulations, des jeux d'arcade et des jeux de rôle où les joueurs participent à des activités virtuelles de chasse ou de pêche. Ces jeux varient en style, allant des simulations réalistes axées sur l'équipement et la physique réaliste aux jeux d'arcade plus simples qui privilégient les réflexes rapides et les améliorations, en passant par les jeux de rôle et d'action avec de vastes mondes et un gameplay basé sur des quêtes.</text>
 		</text>
-	
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Os jogos de caça e pesca formam um gênero diversificado que inclui simulações, jogos no estilo arcade e jogos de RPG, nos quais os jogadores participam de atividades virtuais de caça ou pesca. Esses jogos variam em estilo, desde simulações realistas que se concentram em equipamentos e física realista até jogos arcade mais simples que priorizam reflexos rápidos e melhorias, e até mesmo RPGs de ação com vastos mundos e jogabilidade baseada em missões.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Hunting and fishing</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Caza y pesca</text>
+			<text>Hunting and Fishing Games</text>
 		</text>
 	</view>
 </theme>

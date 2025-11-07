@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>BennuGD is a high-level, open-source game development suite that focuses on modularity and portability, making it an excellent choice for cross-platform game development.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>BennuGD es una suite de desarrollo de juegos de código abierto de alto nivel que se centra en la modularidad y la portabilidad, lo que la convierte en una excelente opción para el desarrollo de juegos multiplataforma.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>BennuGD est une suite de développement de jeux open source de haut niveau qui se concentre sur la modularité et la portabilité, ce qui en fait un excellent choix pour le développement de jeux multiplateformes.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>BennuGD é um conjunto de desenvolvimento de jogos de código aberto e de alto nível que se concentra em modularidade e portabilidade, o que o torna uma excelente escolha para desenvolvimento de jogos multiplataforma.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Splinter GU</text>
+		</text>
+	</view>
+</theme>

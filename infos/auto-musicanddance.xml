@@ -1,35 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-Genre that is characterized by focusing on the use of music to develop the gameplay, often based on the more or less realistic interpretation of it.
+		<text name="system_description" extra="true">
+			<text>A music video game, also commonly known as a music game, is a video game where the gameplay is meaningfully and often almost entirely oriented around the player's interactions with a musical score or individual songs. Music video games may take a variety of forms and are often grouped with puzzle games due to their common use of "rhythmically generated puzzles".</text>
+		</text>
 
-It includes karaoke games, rhythm games, dance games and musical instrument games.
-			</text>
+		<text name="system_description" extra="true" lang="es">
+			<text>Un videojuego musical, también conocido comúnmente como juego de música, es un videojuego cuya mecánica de juego se centra de forma significativa, y a menudo casi por completo, en la interacción del jugador con una partitura musical o canciones individuales. Los videojuegos musicales pueden adoptar diversas formas y, a menudo, se agrupan con los juegos de puzles debido a su uso común de "puzles generados rítmicamente".</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Género que se caracteriza por centrarse en el uso de la música para desarrollar la jugabilidad, a menudo basada en la interpretación más o menos realista de la misma.
-
-Incluye juegos de karaoke, juegos de ritmo, juegos de baile y juegos con instrumentos musicales.
+				<text name="system_description" extra="true" lang="fr">
+			<text>Un jeu vidéo musical, également appelé jeu de rythme, est un jeu vidéo dont le gameplay est significativement, et souvent presque entièrement, axé sur les interactions du joueur avec une partition musicale ou des chansons individuelles. Les jeux vidéo musicaux peuvent prendre diverses formes et sont souvent regroupés avec les jeux de réflexion en raison de leur utilisation fréquente d'énigmes basées sur le rythme.</text>
 		</text>
-	</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Um jogo de videogame musical, também conhecido como jogo de música, é um videogame cuja jogabilidade é significativamente, e muitas vezes quase que inteiramente, orientada para a interação do jogador com uma partitura musical ou músicas individuais. Os jogos de videogame musicais podem assumir diversas formas e são frequentemente agrupados com jogos de quebra-cabeça devido ao uso comum de "quebra-cabeças gerados ritmicamente".</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Music and dance</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Música y baile</text>
+			<text>Music and Dancing</text>
 		</text>
 	</view>
 </theme>

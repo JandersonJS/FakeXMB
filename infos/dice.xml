@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>DICE is a Discrete Integrated Circuit Emulator. It emulates computer systems that lack any type of CPU, consisting only of discrete logic components. It was first released in 2008 as a circuit-level simulation of Pong. libretro: dice is a libretro port.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>DICE es un emulador de circuitos integrados discretos. Emula sistemas informáticos sin CPU, compuestos únicamente por componentes lógicos discretos. Se lanzó por primera vez en 2008 como una simulación de Pong a nivel de circuito. libretro: dice es una adaptación de libretro.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>DICE est un émulateur de circuits intégrés discrets. Il émule les systèmes informatiques dépourvus de processeur et constitués uniquement de composants logiques discrets. Initialement publié en 2008, il s'agissait d'une simulation de Pong au niveau circuit. libretro: dice est un portage libretro.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>DICE é um emulador de circuito integrado discreto. Ele emula sistemas de computador sem CPU, consistindo apenas de componentes lógicos discretos. Foi lançado pela primeira vez em 2008 como uma simulação de Pong em nível de circuito. libretro: dice é uma versão do libretro.</text>
+		</text>
+
+
+		<text name="DICE" extra="true">
+			<text></text>
+		</text>
+	</view>
+</theme>

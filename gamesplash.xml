@@ -1,10 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
 <formatVersion>7</formatVersion>
+  <subset name="colorset" displayName="${subset.colorset}">
+    <include name="gray" displayName="${gray}">./main/colors/gray.xml</include>
+    <include name="blue" displayName="${blue}">./main/colors/blue.xml</include>
+    <include name="red" displayName="${red}">./main/colors/red.xml</include>
+    <include name="green" displayName="${green}">./main/colors/green.xml</include>
+    <include name="yellow" displayName="${yellow}">./main/colors/yellow.xml</include>
+    <include name="violet">./main/colors/violet.xml</include>
+    <include name="cyan">./main/colors/cyan.xml</include>
+    <include name="orange">./main/colors/orange.xml</include>
+    <include name="brawn">./main/colors/brawn.xml</include>
+    <include name="silver">./main/colors/silver.xml</include>
+  </subset>
+
 	<view name="splash">
 		<image name="background">
-			<pos>0.05 0.05</pos>
-			<origin>0 0</origin>
+			<pos>0.5 0.3</pos>
+			<origin>0.5 0.5</origin>
 			<minSize>0.3 0.3</minSize>
 			<roundCorners>0</roundCorners>
 			<linearSmooth>true</linearSmooth>
@@ -15,59 +28,412 @@
 		</image>
 
 		<image name="backgroundalt" extra="true">
-		<default>./main/background/bg.png</default>
-		<path></path>
+	    	<path>./main/background/bg.png</path>
 			<linearSmooth>true</linearSmooth>
 			<minSize>1 1</minSize>
 			<zIndex>1</zIndex>
 		</image>
-
+	
 		<text name="loading" extra="true">
+			<text>Wait for a moment...</text>
+			<text lang="es">Espera un momento...</text>
+			<text lang="fr">Attendez un instant...</text>
+			<text lang="pt">Aguarde um instante...</text>
 			<origin>0 0</origin>
-			<pos>0.855 0.935</pos>
-			<alignment>left</alignment>
-			<color>dddddd</color>
+			<pos>0.70 0.935</pos>
+			<color>ffffff</color>
 			<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
-			<fontSize>0.03</fontSize>
-			<glowColor>09090920</glowColor>
+			<fontSize>0.040</fontSize>
+			<glowColor>00000035</glowColor>
 			<glowSize>1</glowSize>
-			<glowOffset>1</glowOffset>
-			<text>LOADING...</text>
-			<text lang="pt">CARREGANDO...</text>
-			<text lang="fr">CHARGEMENT...</text>
-			<text lang="es">CARGANDO...</text>
-			<text lang="de">WIRD GELADEN...</text>
-			<zIndex>8</zIndex>
+			<glowOffset>3 2</glowOffset>
+            <forceUppercase>1</forceUppercase>
+			<zIndex>05</zIndex>
 		</text>
 
 		<text name="label">
-			<origin>0 0</origin>
-			<pos>0.05 0.86</pos>
+			<origin>0 0.5</origin>
+			<pos>0.05 0.88</pos>
 			<alignment>left</alignment>
-			<color>dddddd</color>
-			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
-			<size>0.9 0.1</size>
+			<color>208b20</color>
+			<fontPath>./main/fonts/XboxOriginalBold-YzPYy.otf</fontPath>
 			<fontSize>0.052</fontSize>
-      		<autoScroll>horizontal</autoScroll>
 			<glowColor>09090920</glowColor>
 			<glowSize>1</glowSize>
 			<glowOffset>1</glowOffset>
+			<visible>empty({game:rom})</visible>
 		</text>
 
-       		<image name="hotkey-tips" extra="true">
+		<image name="logo-splash" extra="true">
+			<path>{game:marquee}</path>
+			<pos>0.5 0.76</pos>
+			<origin>0.5 0.5</origin>
+			<maxSize>0.50 0.20</maxSize>
+			<zIndex>05</zIndex>
+			<visible>!empty({game:name})</visible>
+			<linearSmooth>true</linearSmooth>
+		</image>
+
+		<text name="name-splash" extra="true" ifSubset="hotkeytips:yes">
+			<visible>true</visible>
+			<text>{game:name}</text>
+			<pos>0.023 0.175</pos>
+			<size>0.25 0.08</size>
+			<color>ffffff</color>
+			<backgroundColor>FF000000</backgroundColor>
+			<fontSize>0.028</fontSize>
+			<alignment>left</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
 			<origin>0 0</origin>
-			<pos>0.79 0.3</pos>
-			<maxSize>0.35</maxSize>
-			<maxSize tinyScreen="true">0.45</maxSize>			
-			<path>./main/hotkey-tips/en.png</path>
-			<path>./main/hotkey-tips/${lang}.png</path>
+			<glowColor>00000035</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>3 2</glowOffset>
+			<zIndex>05</zIndex>
+			<autoScroll>horizontal</autoScroll>
+			<singleLineScroll>true</singleLineScroll>
+			<autoScrollDelay>0</autoScrollDelay>
+		</text>
+
+       	<image name="hotkey-tips" extra="true" ifSubset="hotkeytips:yes">
+			<visible>true</visible>
+			<color>ffffff</color>
+			<origin>1 0.5</origin>
+			<pos>1 0.35</pos>
+			<maxSize>0.55</maxSize>		
+			<path>./main/hotkey-tips/gamesplash.png</path>
+			<path>./main/hotkey-tips/gamesplash-${lang}.png</path>
 			<linearSmooth>true</linearSmooth>
 			<zIndex>9</zIndex>
+		</image>
+
+		<text name="name-splash" extra="true" ifSubset="hotkeytips:no">
+       		<visible>false</visible>
+		</text>
+
+       	<image name="hotkey-tips" extra="true" ifSubset="hotkeytips:no">
+       		<visible>false</visible>
+		</image>
+
+       	<image name="hotkeyBack" extra="true" ifSubset="hotkeytips:no">
+       		<visible>false</visible>
+		</image>
+
+       	<image name="infoBack" extra="true" ifSubset="hotkeytips:no">
+       		<visible>false</visible>
+		</image>
+
+
+		<splash name="splash">
+			<backgroundColor>000000FF</backgroundColor>
+		</splash>
+
+		<stackpanel name="container-gamedata" extra="static" ifSubset="hotkeytips:yes">
+			<separator>0.015</separator>
+			<pos>0.025 0.26</pos>
+			<size>0.5 0.032</size>
+			<orientation>horizontal</orientation>
+			<backgroundColor>FF000000</backgroundColor>
+			<zIndex>09</zIndex>
+	
+			<image name="icons-releaseyear">
+			<visible>true</visible>
+				<path>./main/media/game_info_releasedate.svg</path>
+				<linearSmooth>true</linearSmooth>
+				<color>ffffff</color>
+				<padding>0 0</padding>
+				<maxSize>1 1</maxSize>
+				<visible>!empty({game:releaseyear})</visible>
+			</image>
+			<text name="gamedata-releaseyear">
+			<visible>true</visible>
+				<fontSize>0.025</fontSize>
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<text>{game:releaseyear}</text>
+				<color>ffffff</color>
+				<glowColor>00000035</glowColor>
+				<glowSize>1</glowSize>
+				<glowOffset>3 2</glowOffset>
+				<visible>!empty({game:releaseyear})</visible>
+			</text>
+	
+			<image name="icons-publisher">
+				<path>./main/media/game_info_publisher.svg</path>
+				<linearSmooth>true</linearSmooth>
+			<color>ffffff</color>
+				<padding>0 0</padding>
+				<maxSize>1 1</maxSize>
+				<visible>{game:publisher} != {game:developer} &amp;&amp; !empty({game:publisher})</visible>
+			</image>
+			<text name="gamedata-publisher">
+				<fontSize>0.025</fontSize>
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<text>{game:publisher}</text>
+				<color>ffffff</color>
+				<glowColor>00000035</glowColor>
+				<glowSize>1</glowSize>
+				<glowOffset>3 2</glowOffset>
+				<visible>{game:publisher} != {game:developer} &amp;&amp; !empty({game:publisher})</visible>
+			</text>
+	
+			<image name="icons-developer">
+				<path>./main/media/game_info_developer.svg</path>
+				<linearSmooth>true</linearSmooth>
+				<color>ffffff</color>
+				<padding>0 0</padding>
+				<maxSize>1 1</maxSize>
+				<visible>{game:publisher} != {game:developer} &amp;&amp; !empty({game:developer})</visible>
+			</image>
+			<text name="gamedata-developer">
+				<fontSize>0.025</fontSize>
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<text>{game:developer}</text>
+				<color>ffffff</color>
+				<glowColor>00000035</glowColor>
+				<glowSize>1</glowSize>
+				<glowOffset>3 2</glowOffset>
+				<visible>{game:publisher} != {game:developer} &amp;&amp; !empty({game:developer})</visible>
+			</text>
+	
+			<image name="icons-developer-publisher">
+				<path>./main/media/game_info_publisher.svg</path>
+				<linearSmooth>true</linearSmooth>
+				<color>ffffff</color>
+				<padding>0 0</padding>
+				<maxSize>1 1</maxSize>
+				<visible>{game:publisher} == {game:developer} &amp;&amp; !empty({game:publisher}) &amp;&amp; !empty({game:developer})</visible>
+			</image>
+			<image name="icons-developer-publisher2">
+				<path>./main/media/game_info_developer.svg</path>
+				<linearSmooth>true</linearSmooth>
+				<color>ffffff</color>
+				<padding>0 0</padding>
+				<maxSize>1 1</maxSize>
+				<visible>{game:publisher} == {game:developer} &amp;&amp; !empty({game:publisher}) &amp;&amp; !empty({game:developer})</visible>
+			</image>
+			<text name="gamedata-developer-publisher">
+				<fontSize>0.025</fontSize>
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<text>{game:developer}</text>
+				<color>ffffff</color>
+				<glowColor>00000035</glowColor>
+				<glowSize>1</glowSize>
+				<glowOffset>3 2</glowOffset>
+				<visible>{game:publisher} == {game:developer} &amp;&amp; !empty({game:publisher}) &amp;&amp; !empty({game:developer})</visible>
+			</text>
+		</stackpanel>
+
+		<stackpanel name="container-gamedata2" extra="true" ifSubset="hotkeytips:yes">
+			<separator>0.018</separator>
+			<pos>0.025 0.31</pos>
+			<size>0.5 0.032</size>
+			<orientation>horizontal</orientation>
+			<backgroundColor>FF000000</backgroundColor>
+			<zIndex>05</zIndex>
+
+			<text name="gamedata-stars">
+				<fontSize>0.025</fontSize>
+				<text>{game:stars}</text>
+				<color>ffffff</color>
+				<glowColor>00000035</glowColor>
+				<glowSize>1</glowSize>
+				<glowOffset>3 2</glowOffset>
+				<visible>!empty({game:stars})</visible>
+			</text>
+	
+			<image name="icons-genre">
+				<path>./main/media/game_info_genre.svg</path>
+				<linearSmooth>true</linearSmooth>
+				<color>ffffff</color>
+				<padding>0 0</padding>
+				<maxSize>1 1</maxSize>
+				<visible>!empty({game:genre})</visible>
+			</image>
+			<text name="gamedata-genre">
+				<fontSize>0.025</fontSize>
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<text> {game:genre}</text>
+				<color>ffffff</color>
+				<glowColor>00000035</glowColor>
+				<glowSize>1</glowSize>
+				<glowOffset>3 2</glowOffset>
+				<singleLineScroll>true</singleLineScroll>
+				<autoScrollDelay>0</autoScrollDelay>
+				<visible>!empty({game:genre})</visible>
+			</text>
+		</stackpanel>
+
+		<stackpanel name="container-icons" extra="true" ifSubset="hotkeytips:yes">
+			<separator>0.015</separator>
+			<pos>0.024 0.36</pos>
+			<size>0.7 0.032</size>
+			<orientation>horizontal</orientation>
+			<backgroundColor>FF000000</backgroundColor>
+			<zIndex>09</zIndex>
+
+			<image name="flag-region">
+				<path>./main/media/flags/{game:region}.png</path>
+				<maxSize>1</maxSize>
+				<linearSmooth>true</linearSmooth>
+				<opacity>0.8</opacity>
+				<visible>{game:region} != {game:lang} &amp;&amp; !contains(lower({game:region}), ',') &amp;&amp; !empty({game:region})</visible>
+			</image>
+	
+			<image name="flag-force-world">
+				<path>./main/media/flags/wr.png</path>
+				<maxSize>1</maxSize>
+				<linearSmooth>true</linearSmooth>
+				<opacity>0.8</opacity>
+				<visible>contains(lower({game:region}), ',') &amp;&amp; !empty({game:region})</visible>
+			</image>
+	
+			<image name="flag-lang">
+				<path>./main/media/flags/{game:lang}.png</path>
+				<maxSize>1</maxSize>
+				<linearSmooth>true</linearSmooth>
+				<opacity>0.8</opacity>
+				<visible>!contains(lower({game:lang}), ',') &amp;&amp; !empty({game:lang})</visible>
+			</image>
+	
+			<text name="gamedata-lang">
+				<fontSize>0.02</fontSize>
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<text>{game:lang}.upper()</text>
+				<color>ffffff</color>
+				<glowColor>00000035</glowColor>
+				<glowSize>1</glowSize>
+				<glowOffset>3 2</glowOffset>
+				<singleLineScroll>true</singleLineScroll>
+				<autoScrollDelay>0</autoScrollDelay>
+				<y>0.02</y>
+				<visible>contains(lower({game:lang}), ',') &amp;&amp; !empty({game:lang})</visible>
+			</text>
+
+			<text name="container-separator">
+				<text> |</text>
+				<fontSize>0.03</fontSize>
+				<color>ffffff</color>
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<visible>!empty({game:lang}) || !empty({game:region}) </visible>
+			  </text>
+
+			<text name="icons-players">
+				<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+				<text>{game:playerCount}</text>
+				<alignment>center</alignment>
+				<fontSize>0.03</fontSize>
+				<color>ffffff</color>
+			</text>
+	
+			<image name="icons-cheevos">
+				<visible>{game:cheevos}</visible>
+				<path>./main/icons/Contest.png</path>
+				<linearSmooth>true</linearSmooth>
+				<color>ffffff</color>
+				<padding>0 0</padding>
+				<maxSize>1 1</maxSize>
+			</image>
+	
+			<image name="icons-wheel">
+				<visible>{game:wheelGame}</visible>
+				<linearSmooth>true</linearSmooth>
+				<padding>0 0</padding>
+				<path>./main/media/wheel.svg</path>
+				<maxSize>1 1</maxSize>
+				<color>ffffff</color>
+			</image>
+	
+			<image name="icons-gun">
+				<visible>{game:gunGame}</visible>
+				<linearSmooth>true</linearSmooth>
+				<padding>0 0</padding>
+				<path>./main/media/gun.svg</path>
+				<maxSize>1 1</maxSize>
+				<color>ffffff</color>
+			</image>
+
+			<image name="icons-padtokey">
+				<visible>{game:hasKeyboardMapping}</visible>
+				<linearSmooth>true</linearSmooth>
+				<padding>0 0</padding>
+				<path>./main/midia/padtokey.png</path>
+				<maxSize>1 1</maxSize>
+				<color>ffffff</color>
+			</image> 
+		</stackpanel>
+
+		<text name="name-splash" extra="true" ifSubset="hotkeytips:yes">
+			<visible>true</visible>
+			<text>{game:name}</text>
+			<pos>0.023 0.175</pos>
+			<size>0.25 0.08</size>
+			<color>ffffff</color>
+			<backgroundColor>FF000000</backgroundColor>
+			<fontSize>0.028</fontSize>
+			<alignment>left</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+			<origin>0 0</origin>
+			<glowColor>00000035</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>3 2</glowOffset>
+			<zIndex>05</zIndex>
+			<autoScroll>horizontal</autoScroll>
+			<singleLineScroll>true</singleLineScroll>
+			<autoScrollDelay>0</autoScrollDelay>
+		</text>
+
+       	<image name="hotkey-tips" extra="true" ifSubset="hotkeytips:yes">
+			<visible>true</visible>
+			<color>ffffff</color>
+			<origin>1 0.5</origin>
+			<pos>1 0.35</pos>
+			<maxSize>0.60</maxSize>
+			<maxSize tinyScreen="true">0.45</maxSize>			
+			<path>./main/hotkey-tips/gamesplash.png</path>
+			<path>./main/hotkey-tips/gamesplash-${lang}.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>9</zIndex>
+		</image>
+
+       	<image name="hotkeyBack" extra="true" ifSubset="hotkeytips:yes">
+			<visible>true</visible>
+			<path>./main/media/colorbg.png</path>
+			<origin>1 0.5</origin>
+			<pos>1 0.35</pos>
+			<size>0.27 0.65</size>
+      <color>${baseColor}bb</color>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>8</zIndex>
+		</image>
+
+       	<image name="infoBack" extra="true" ifSubset="hotkeytips:yes">
+			<visible>true</visible>
+			<path>./main/media/colorbg.png</path>
+			<origin>0 0</origin>
+			<pos>0 0.17</pos>
+			<size>0.29 0.25</size>
+      <color>${baseColor}bb</color>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>4</zIndex>
 		</image>
 
 		<splash name="splash">
 			<backgroundColor>000000FF</backgroundColor>
 		</splash>
+
+		<stackpanel name="container-gamedata" extra="false" ifSubset="hotkeytips:no">
+
+		</stackpanel>
+
+		<stackpanel name="container-gamedata2" extra="false" ifSubset="hotkeytips:no">
+
+		</stackpanel>
+
+		<stackpanel name="container-icons" extra="false" ifSubset="hotkeytips:no">
+			
+		</stackpanel>
+
 
 	</view>
 

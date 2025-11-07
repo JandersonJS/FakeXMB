@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Blake Stone refers to a series of first-person shooter video games, with the protagonist being a British intelligence agent named Blake Stone. The original game, Blake Stone: Aliens of Gold, was released in 1993 and uses an enhanced version of the engine from Wolfenstein 3D. The series' plot revolves around Agent Stone's mission to stop the evil Dr. Pyrus Goldfire from conquering Earth with a mutant army.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Blake Stone se refiere a una serie de videojuegos de disparos en primera persona, protagonizada por un agente de inteligencia británico llamado Blake Stone. El juego original, Blake Stone: Aliens of Gold, se lanzó en 1993 y utiliza una versión mejorada del motor gráfico de Wolfenstein 3D. La trama de la serie gira en torno a la misión del agente Stone de impedir que el malvado Dr. Pyrus Goldfire conquiste la Tierra con un ejército mutante.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Blake Stone fait référence à une série de jeux vidéo de tir à la première personne dont le protagoniste est un agent des services secrets britanniques nommé Blake Stone. Le jeu original, Blake Stone: Aliens of Gold, est sorti en 1993 et ​​utilise une version améliorée du moteur de Wolfenstein 3D. L'intrigue de la série tourne autour de la mission de l'agent Stone : empêcher le maléfique Dr Pyrus Goldfire de conquérir la Terre avec une armée de mutants.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Blake Stone refere-se a uma série de jogos de tiro em primeira pessoa, cujo protagonista é um agente da inteligência britânica chamado Blake Stone. O jogo original, Blake Stone: Aliens of Gold, foi lançado em 1993 e utiliza uma versão aprimorada do motor gráfico de Wolfenstein 3D. O enredo da série gira em torno da missão do Agente Stone de impedir que o maligno Dr. Pyrus Goldfire conquiste a Terra com um exército de mutantes.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Blake Stone</text>
+		</text>
+	</view>
+</theme>

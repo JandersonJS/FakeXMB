@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Star Wars Jedi Knight: Jedi Academy is a first- and third-person shooter video game developed by Raven Software and published by LucasArts for Windows, Mac OS X and Xbox in 2003. Vicarious Visions was responsible for the development of the Xbox version. The game is a sequel to 2002's Star Wars Jedi Knight II: Jedi Outcast and the fourth and final installment in the Star Wars: Jedi Knight series. The single-player story, set in the fictional Star Wars expanded universe two years after Jedi Outcast, follows Jaden Korr, a new student at Luke Skywalker's Jedi Academy under the tutelage of the previous games' protagonist, Kyle Katarn. As Jaden, players are tasked with investigating a Dark Jedi cult called the Disciples of Ragnos, while slowly learning the ways of the Force and committing themselves to either the light side or the dark side</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Star Wars Jedi Knight: Jedi Academy es un videojuego de disparos en primera y tercera persona desarrollado por Raven Software y publicado por LucasArts para Windows, Mac OS X y Xbox en 2003. Vicarious Visions fue responsable del desarrollo de la versión para Xbox. El juego es una secuela de Star Wars Jedi Knight II: Jedi Outcast de 2002 y la cuarta y última entrega de la serie Star Wars: Jedi Knight. La historia para un jugador, ambientada en el universo ficticio expandido de Star Wars dos años después de Jedi Outcast, sigue a Jaden Korr, un nuevo estudiante en la Academia Jedi de Luke Skywalker bajo la tutela del protagonista de los juegos anteriores, Kyle Katarn. Como Jaden, los jugadores tienen la tarea de investigar un culto Jedi Oscuro llamado los Discípulos de Ragnos, mientras aprenden poco a poco los caminos de la Fuerza y ​​se comprometen con el lado luminoso o el lado oscuro.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Star Wars Jedi Knight: Jedi Academy est un jeu vidéo de tir à la première et à la troisième personne développé par Raven Software et édité par LucasArts pour Windows, Mac OS X et Xbox en 2003. Vicarious Visions a développé la version Xbox. Ce jeu est la suite de Star Wars Jedi Knight II: Jedi Outcast, sorti en 2002, et le quatrième et dernier volet de la série Star Wars: Jedi Knight. L'histoire solo, qui se déroule dans l'univers étendu fictif de Star Wars deux ans après Jedi Outcast, suit Jaden Korr, un nouvel élève de l'Académie Jedi de Luke Skywalker sous la tutelle du protagoniste des précédents jeux, Kyle Katarn. Dans la peau de Jaden, les joueurs doivent enquêter sur une secte de Jedi Noirs appelée les Disciples de Ragnos, tout en apprenant peu à peu les voies de la Force et en choisissant de rejoindre le côté lumineux ou le côté obscur.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Star Wars Jedi Knight: Jedi Academy é um jogo eletrônico de tiro em primeira e terceira pessoa desenvolvido pela Raven Software e publicado pela LucasArts para Windows, Mac OS X e Xbox em 2003. A Vicarious Visions foi responsável pelo desenvolvimento da versão para Xbox. O jogo é uma sequência de Star Wars Jedi Knight II: Jedi Outcast, de 2002, e o quarto e último título da série Star Wars: Jedi Knight. A história para um jogador, ambientada no universo expandido fictício de Star Wars dois anos após Jedi Outcast, acompanha Jaden Korr, um novo aluno da Academia Jedi de Luke Skywalker, sob a tutela do protagonista dos jogos anteriores, Kyle Katarn. Como Jaden, os jogadores são encarregados de investigar um culto Jedi Sombrio chamado Discípulos de Ragnos, enquanto aprendem lentamente os caminhos da Força e se comprometem com o lado da luz ou com o lado sombrio.</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>Star Wars Jedi Knight: Jedi Academy</text>
+		</text>
+	</view>
+</theme>

@@ -1,37 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-
-			<text name="system_description" extra="true" >
-				<text>Auto gamelist.
-
-Beat 'em up (also known as brawler and, in some markets, beat 'em all) is a video game genre featuring hand-to-hand combat between the protagonist and an improbably large number of opponents. Traditional beat 'em ups take place in scrolling, two-dimensional (2D) levels, while a number of modern games feature more open three-dimensional (3D) environments with yet larger numbers of enemies.
-
-			</text>
-	
-				</text>
-			
-
+		<text name="system_description" extra="true">
+			<text>Beat'em up games are action games where players defeat large numbers of enemies in hand-to-hand combat or with melee weapons, often progressing through scrolling levels. A hallmark of the genre is moving through one section of a level at a time, defeating waves of enemies before advancing to the next, with a boss at the end of each level. Key features include simple controls, cooperative multiplayer, and characters with unique movesets, making the genre popular for its accessible and satisfying combat.</text>
+		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text>Lista de juegos automática.
-				
-Del inglés Beat them up (Golpéalos). Juego de lucha donde el jugador se enfrenta a infinidad de enemigos, generalmente en combates cuerpo a cuerpo, mientras se desplaza por un escenario que avanza en una única dirección.
+			<text>Los juegos beat'em up son juegos de acción en los que los jugadores derrotan a un gran número de enemigos en combate cuerpo a cuerpo o con armas cuerpo a cuerpo, a menudo avanzando por niveles. Una característica distintiva del género es avanzar por una sección de un nivel a la vez, derrotando oleadas de enemigos antes de avanzar al siguiente, con un jefe al final de cada nivel. Sus características principales incluyen controles sencillos, multijugador cooperativo y personajes con movimientos únicos, lo que ha hecho que el género sea popular por su combate accesible y gratificante.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les beat'em up sont des jeux d'action où les joueurs affrontent un grand nombre d'ennemis au corps à corps ou à l'aide d'armes de mêlée, progressant souvent à travers des niveaux à défilement. L'une des caractéristiques du genre est de progresser section par section dans un niveau, en éliminant des vagues d'ennemis avant de passer au suivant, avec un boss à la fin de chaque niveau. Ses principales caractéristiques incluent des commandes simples, un multijoueur coopératif et des personnages aux mouvements uniques, ce qui rend ce genre populaire pour ses combats accessibles et stimulants.</text>
+		</text>
 
-Es habitual que puedan participar al menos dos jugadores de forma cooperativa y a menudo más. Suele desarrollarse por fases al final de las cuales hay un enemigo o jefe final de mayor dificultad que los enemigos comunes.
+				<text name="system_description" extra="true" lang="pt">
+			<text>Jogos de beat'em up são jogos de ação em que os jogadores derrotam um grande número de inimigos em combate corpo a corpo ou com armas brancas, muitas vezes progredindo por níveis. Uma característica marcante do gênero é avançar por uma seção de cada nível, derrotando ondas de inimigos antes de avançar para a próxima, com um chefe no final de cada nível. Os principais recursos incluem controles simples, multijogador cooperativo e personagens com movimentos únicos, tornando o gênero popular por seu combate acessível e satisfatório.</text>
 		</text>
-		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Beat'em up</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Beat'em up</text>
+			<text>Beat'em Up Games</text>
 		</text>
 	</view>
 </theme>

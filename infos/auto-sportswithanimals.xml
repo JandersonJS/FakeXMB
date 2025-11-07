@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-In this list you will basically find equestrian games or horse racing.
-			</text>
+		<text name="system_description" extra="true">
+			<text>Video games featuring sports with animals range from simulation games where you play as an animal, to sports management sims, to games based on real-life animal sports like horse racing or dog sledding. Popular genres include survival games where you must hunt and avoid predators, as well as racing games like those inspired by harness racing and pigeon racing. Some games also incorporate real-world animal training sports like Canicross (running with dogs).</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los videojuegos que incluyen deportes con animales abarcan desde juegos de simulación donde juegas como un animal, hasta simuladores de gestión deportiva y juegos basados en deportes con animales reales, como carreras de caballos o trineos tirados por perros. Entre los géneros más populares se encuentran los juegos de supervivencia, donde debes cazar y evitar depredadores, así como los juegos de carreras inspirados en las carreras de trotones y las carreras de palomas. Algunos juegos también incorporan deportes de entrenamiento con animales reales, como el canicross (carreras con perros).</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-En esta lista encontrás basicamente juegos de hípica o carreras de caballos.
+		<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux vidéo de sport animalier vont des jeux de simulation où vous incarnez un animal aux simulations de gestion sportive, en passant par des jeux inspirés de sports animaliers réels comme les courses de chevaux ou le traîneau à chiens. Parmi les genres populaires, on trouve les jeux de survie où vous devez chasser et éviter les prédateurs, ainsi que les jeux de course inspirés des courses de harnais et des courses de pigeons. Certains jeux intègrent également des sports de dressage animalier réels, comme le canicross (course avec des chiens).</text>
 		</text>
-	</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>Os videogames que apresentam esportes com animais variam de jogos de simulação, onde você joga como um animal, a simuladores de gerenciamento esportivo e jogos baseados em esportes com animais da vida real, como corridas de cavalos ou trenós puxados por cães. Gêneros populares incluem jogos de sobrevivência, onde você deve caçar e evitar predadores, bem como jogos de corrida, como aqueles inspirados em corridas de arreios e corridas de pombos. Alguns jogos também incorporam esportes de treinamento com animais do mundo real, como Canicross (corrida com cães).</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Sports with animals</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Deportivos con animales</text>
+			<text>Sports with Animals</text>
 		</text>
 	</view>
 </theme>

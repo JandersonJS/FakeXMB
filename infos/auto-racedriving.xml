@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-Racing games are a video game genre in which the player participates in a racing competition. They may be based on anything from real-world racing leagues to fantastical settings. They are distributed along a spectrum between more realistic racing simulations and more fantastical arcade-style racing games.
-			</text>
+		<text name="system_description" extra="true">
+			<text>A racing video game is a genre of electronic games in which the player participates in racing competitions with any type of land vehicle, including motorcycles and quadricycles. There are game alternatives with water, air and even space vehicles.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Un videojuego de carreras es un género de juegos electrónicos en el que el jugador participa en competiciones de carreras con cualquier tipo de vehículo terrestre, incluidas motocicletas y cuatriciclos. Existen alternativas de juego con vehículos acuáticos, aéreos e incluso espaciales.</text>
 		</text>
 		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Un jeu vidéo de course est un genre de jeux électroniques dans lequel le joueur participe à des compétitions de course avec tout type de véhicule terrestre, y compris des motos et des quadricycles. Il existe des alternatives de jeu avec des véhicules aquatiques, aériens et même spatiaux.</text>
+		</text>
 
+				<text name="system_description" extra="true" lang="pt">
+			<text>Videogame de corrida é um gênero de jogos eletrônicos em que o jogador participa de competições de corrida com qualquer tipo de veículo terrestre, inclusive motocicletas e quadriciclos. Existem alternativas de jogos com veículos aquáticos, aéreos e até espaciais.</text>
+		</text>
 
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Suelen existir dos tipos de juegos de carreras, los arcade y los de simulación. Los juegos de carreras estilo arcade brindan diversión y una experiencia trepidante por encima de todo, mientras que en los de simulación se centran en imitar realísticamente el manejo de los vehículos, condiciones de la pista o la propia mecánica física.
-</text>
-	</text>
 
 		<text name="system_name" extra="true">
-			<text>Race, Driving</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Carreras, conducción</text>
+			<text>Racing Games</text>
 		</text>
 	</view>
 </theme>

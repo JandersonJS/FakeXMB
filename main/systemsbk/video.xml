@@ -5,7 +5,20 @@
     <image name="background" extra="true">
       <color>000000FF</color>
     </image>
-    <video name="backgroundvideo" extra="true">
+    <video name="backgroundvideo" extra="true" ifSubset="randomVideosAudio:on">
+      <default>./main/video/no-video.mp4</default>
+      <path>{random}</path>
+      <pos>0.5 0.475</pos>
+      <origin>0.5 0.5</origin>
+      <minSize>1 0.95</minSize>
+      <delay>0</delay>
+      <color>FFFFFFA0</color>
+      <effect>none</effect>
+      <zIndex>11</zIndex>
+    </video>
+    <video name="backgroundvideo" extra="true" ifSubset="randomVideosAudio:off">
+      <default>./main/video/no-video.mp4</default>
+      <audio>false</audio>
       <path>{random}</path>
       <pos>0.5 0.475</pos>
       <origin>0.5 0.5</origin>

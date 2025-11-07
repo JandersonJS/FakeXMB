@@ -2,26 +2,23 @@
 	<formatVersion>7</formatVersion>
 
 	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
-	    
 
-		<text name="system_description" extra="true" >
-			<text>Kaneko Seisakusho (金子製作所), also referred to as Kaneko Co. Ltd. (カネコ株式会社), was a Japanese video game publisher founded in Suginami, Tokyo, Japan, by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.</text>
+		<text name="system_description" extra="true">
+			<text>Kaneko Seisakusho (金子製作所), stylized as KANEKO, also referred to as Kaneko Co. Ltd. (カネコ株式会社), was a Japanese video game publisher founded in Suginami, Tokyo, Japan, by Hiroshi Kaneko. It published a number of games both under its brand and other companies, such as Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n, and the Gals Panic series.</text>
 		</text>
 
-		<text name="system_description" extra="true" lang="fr" >
-			<text>Kaneko Seisakusho (金子製作所), también conocido como Kaneko Co. Ltd. (カネコ株式会社), fue un editor de videojuegos japonés fundado en Suginami, Tokio, Japón, por Hiroshi Kaneko. Publicó varios juegos tanto bajo su marca como con otras compañías, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n y la serie Gals Panic.</text>
-		</text>
-
-		
 		<text name="system_description" extra="true" lang="es">
-			<text>Kaneko Seisakusho (金子製作所), également appelé Kaneko Co. Ltd. (カネコ株式会社), était un éditeur de jeux vidéo japonais fondé à Suginami, Tokyo, Japon, par Hiroshi Kaneko. Il a publié un certain nombre de jeux sous sa marque et sous d'autres sociétés, telles que Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n et la série Gals Panic.</text>
-		</text>
-
-		<text name="system_description" extra="true" lang="pt" >
-			<text>Kaneko Seisakusho (金子製作所), também conhecido como Kaneko Co. (カネコ株式会社), foi uma editora japonesa de videogame fundada em Suginami, Tóquio, Japão, por Hiroshi Kaneko. Publicou uma série de jogos sob sua marca e de outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</text>
+			<text>Kaneko Seisakusho (金子製作所), estilizado como KANEKO, también conocido como Kaneko Co. Ltd. (カネコ株式会社), fue un editor de videojuegos japonés fundado en Suginami, Tokio, Japón, por Hiroshi Kaneko. Publicó varios juegos tanto bajo su marca como con otras compañías, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n y la serie Gals Panic.</text>
 		</text>
 		
-				
+				<text name="system_description" extra="true" lang="fr">
+			<text>Kaneko Seisakusho (金子製作所), stylisé comme KANEKO, également appelé Kaneko Co. Ltd. (カネコ株式会社), était un éditeur de jeux vidéo japonais fondé à Suginami, Tokyo, Japon, par Hiroshi Kaneko. Il a publié un certain nombre de jeux sous sa marque et sous d'autres sociétés, telles que Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n et la série Gals Panic.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Kaneko Seisakusho (金子製作所), estilizado como KANEKO, também conhecido como Kaneko Co. (カネコ株式会社), foi uma editora japonesa de videogame fundada em Suginami, Tóquio, Japão, por Hiroshi Kaneko. Publicou uma série de jogos sob sua marca e de outras empresas, como Air Buster, Nexzr, Shogun Warriors, DJ Boy, Guts'n e a série Gals Panic.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
 			<text>Kaneko Seisakusho</text>

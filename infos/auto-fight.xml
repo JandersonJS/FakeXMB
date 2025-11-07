@@ -1,30 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.</text>
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Fighting games are a genre of action video games where characters engage in close-quarters combat, typically one-on-one, in a series of rounds. Players use a combination of basic attacks and special moves, executed through specific button and joystick inputs, to reduce their opponent's health to zero. Key elements include character selection, mastering special move inputs, and developing strategies for offense, defense, and movement.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos de lucha son un género de videojuegos de acción en el que los personajes se enfrentan en combates cuerpo a cuerpo, normalmente uno contra uno, en una serie de asaltos. Los jugadores utilizan una combinación de ataques básicos y movimientos especiales, ejecutados mediante combinaciones específicas de botones y palancas de control, para reducir la salud de su oponente a cero. Los elementos clave incluyen la selección de personajes, el dominio de los movimientos especiales y el desarrollo de estrategias de ataque, defensa y movimiento.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Subgénero de los juegos de acción donde el jugador se enfrenta contra otros pesonajes, normalmente en combates de uno contra uno y controlados por la máquina o por otro jugador humano. En este género cada personaje cuenta con una gran cantidad de movimientos distintos, que son encadenables entre sí mediante combos.
-			
-Aunque a menudo el término se intercambia con el de Beat'em Up, por lo general los juegos de lucha son exclusivamente aquellos donde el combate es uno contra uno, y no uno contra varios. 
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux de combat constituent un genre de jeux vidéo d'action où les personnages s'affrontent au corps à corps, généralement en un contre un, au cours d'une série de manches. Les joueurs utilisent une combinaison d'attaques de base et de coups spéciaux, exécutés à l'aide de combinaisons spécifiques de boutons et de mouvements du joystick, pour réduire la barre de vie de leur adversaire à zéro. Les éléments clés incluent le choix du personnage, la maîtrise des commandes des coups spéciaux et l'élaboration de stratégies d'attaque, de défense et de déplacement.</text>
 		</text>
-	</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Jogos de luta são um gênero de videogames de ação em que os personagens se enfrentam em combate corpo a corpo, geralmente um contra um, em uma série de rodadas. Os jogadores utilizam uma combinação de ataques básicos e golpes especiais, executados por meio de comandos específicos no controle ou joystick, para reduzir a vida do oponente a zero. Os elementos principais incluem a seleção de personagens, o domínio dos comandos dos golpes especiais e o desenvolvimento de estratégias de ataque, defesa e movimentação.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Fight</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Lucha</text>
+			<text>Fighting Games</text>
 		</text>
 	</view>
 </theme>

@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-A role-playing video game (commonly referred to as simply a role-playing game or RPG) is a video game genre where the player controls the actions of a character (or several party members) immersed in some well-defined world, usually involving some form of character development by way of recording statistics. Many role-playing video games have origins in tabletop role-playing games and use much of the same terminology, settings and game mechanics.
-			</text>
+		<text name="system_description" extra="true">
+			<text>RPG video games, or role-playing video games, are games where players assume the roles of characters in a fictional world to progress through a story. Players develop their characters by gaining experience and improving attributes, often making choices that shape the narrative and character's journey. Common elements include non-player characters, quests, and the ability to customize characters' appearance and abilities.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text>Lista de juegos automática.
-
-Los videojuegos de rol, también llamados por simplificación con las siglas inglesas RPG (role-playing game) pertenecen a un género donde el jugador controla las acciones y la historia de uno o varios personajes inmersos en un mundo o mapa detallado. 
-
-Este género normalmente implica alguna forma de desarrollo progresivo de sus personajes a medida que transcurre la historia, ya sea mediante el registro de estadísticas varias o la evolución de habilidades, magias, mejores armas, armaduras etc...
-			</text>
+			<text>Los videojuegos RPG, o videojuegos de rol, son juegos en los que los jugadores asumen el papel de personajes en un mundo ficticio para avanzar en la historia. Los jugadores desarrollan sus personajes adquiriendo experiencia y mejorando atributos, a menudo tomando decisiones que moldean la narrativa y la trayectoria del personaje. Entre los elementos comunes se incluyen personajes no jugadores, misiones y la posibilidad de personalizar la apariencia y las habilidades de los personajes.</text>
 		</text>
+		
+		<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux vidéo de rôle (RPG) sont des jeux où les joueurs incarnent des personnages dans un monde fictif pour progresser dans une histoire. Ils développent leurs personnages en gagnant de l'expérience et en améliorant leurs attributs, faisant souvent des choix qui façonnent le récit et l'aventure du personnage. Parmi les éléments communs, on trouve des personnages non-joueurs, des quêtes et la possibilité de personnaliser l'apparence et les capacités des personnages.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>Jogos de RPG, ou RPGs, são jogos em que os jogadores assumem o papel de personagens em um mundo fictício para progredir na história. Os jogadores desenvolvem seus personagens ganhando experiência e aprimorando atributos, frequentemente fazendo escolhas que moldam a narrativa e a jornada do personagem. Elementos comuns incluem personagens não jogáveis, missões e a possibilidade de personalizar a aparência e as habilidades dos personagens.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Role Playing Games</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Juegos de Rol (RPG)</text>
+			<text>Role-Playing</text>
 		</text>
 	</view>
 </theme>

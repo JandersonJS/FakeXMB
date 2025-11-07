@@ -215,27 +215,11 @@ license: creative commons CC-BY-NC-SA
       <glowSize>1</glowSize>
       <glowOffset>3 2</glowOffset>
       <autoScroll>horizontal</autoScroll>
+      <autoScrollDelay>0</autoScrollDelay>
       <visible>true</visible>
       <zIndex>99</zIndex>
       </text>
 
-    <!-- Used by random box need to be declared there -->
-
-    <image name="box" extra="true">
-      <pos>0.50 0.18</pos>
-      <origin>0 0</origin>
-      <maxSize>0.24 0.24</maxSize>
-      <zIndex>12</zIndex>
-      <visible>false</visible>
-    </image>
-
-    <video name="videobox" extra="true">
-      <pos>0.50 0.18</pos>
-      <origin>0 0</origin>
-      <maxSize>0.24 0.24</maxSize>
-      <visible>false</visible>
-      <zIndex>12</zIndex>
-    </video>
     <image name="background" extra="static">
       <tile>false</tile>
       <minSize>1 1</minSize>
@@ -647,7 +631,16 @@ El más jugado : {binding:mostPlayed}
          <maxSize>0.2 0.17</maxSize>
          <zIndex>36</zIndex>
       </image>
-    <video name="md_video">
+    <video name="md_video" ifSubset="gameVideosAudio:on">
+      <audio>true</audio>>
+      <pos>0.565 0.22</pos>
+      <minSize>0.3798 0.36</minSize>
+      <origin>0 0</origin>
+      <delay>0.8</delay>
+      <loops>1</loops>
+    </video>
+    <video name="md_video" ifSubset="gameVideosAudio:off">
+      <audio>false</audio>>
       <pos>0.565 0.22</pos>
       <minSize>0.3798 0.36</minSize>
       <origin>0 0</origin>
@@ -1210,5 +1203,17 @@ El más jugado : {binding:mostPlayed}
     <subset name="logoColor" displayName="${lang.logoColor}">
         <include name="off" displayName="${lang.off}"/>
         <include name="on" displayName="${lang.on}"/>
+   </subset>
+    <subset name="hotkeytips" displayName="${hotkeytips}">
+        <include name="on" displayName="${yes}"/>
+        <include name="off" displayName="${no}"/>
+   </subset>
+    <subset name="gameVideosAudio" displayName="${gameVideosAudio}">
+        <include name="off" displayName="${off}"/>
+        <include name="on" displayName="${on}"/>
+   </subset>
+    <subset name="randomVideosAudio" displayName="${randomVideosAudio}">
+        <include name="off" displayName="${off}"/>
+        <include name="on" displayName="${on}"/>
    </subset>
 </theme>

@@ -4,12 +4,14 @@
   <include>./animatedbackgroundsubset.xml</include>
   <view name="system">
     <image name="box" extra="true">
+      <default>./main/media/novideo.png</default>
       <path>{random:image}</path>
+      <minSize>0.3 0.3</minSize>
       <zIndex>21</zIndex>     
       <color>FFFFFFFF</color>
       <origin>0 0</origin>
-      <pos>0.730 0.640</pos>
-      <roundCorners>0.05</roundCorners>
+      <pos>0.65 0.60</pos>
+      <roundCorners>0</roundCorners>
       <visible>true</visible>
     </image>
   </view>

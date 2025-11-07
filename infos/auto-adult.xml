@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-Keep out of the reach of children... Wink, wink; nudge, nudge.</text>
+		<text name="system_description" extra="true">
+			<text>Adult games encompass a vast range of activities, from party games to complex video games and role-playing. They can provide mental stimulation, stress relief, and opportunities for social connection. For adults, playing is an essential way to express creativity, build relationships, and engage in satisfying leisure.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos para adultos abarcan una amplia gama de actividades, desde juegos de fiesta hasta videojuegos complejos y juegos de rol. Pueden proporcionar estimulación mental, alivio del estrés y oportunidades para conectar socialmente. Para los adultos, jugar es una forma esencial de expresar su creatividad, forjar relaciones y disfrutar de un tiempo libre satisfactorio.</text>
 		</text>
 		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux pour adultes englobent une vaste gamme d'activités, des jeux de société aux jeux vidéo complexes et aux jeux de rôle. Ils peuvent stimuler l'esprit, soulager le stress et créer des liens sociaux. Pour les adultes, jouer est un moyen essentiel d'exprimer sa créativité, de nouer des relations et de s'adonner à des loisirs enrichissants.</text>
+		</text>
 
+				<text name="system_description" extra="true" lang="pt">
+			<text>Os jogos para adultos abrangem uma vasta gama de atividades, desde jogos de festa a videogames complexos e RPGs. Eles podem proporcionar estímulo mental, alívio do estresse e oportunidades de conexão social. Para os adultos, brincar é uma forma essencial de expressar a criatividade, construir relacionamentos e se envolver em momentos de lazer gratificantes.</text>
+		</text>
 
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Mantener fuera del alcance de los niños... Guiño, guiño; codazo, codazo.</text>
-	</text>
-		
-				
 
 		<text name="system_name" extra="true">
-			<text>Adult</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Adultos</text>
+			<text>Adult Games</text>
 		</text>
 	</view>
 </theme>

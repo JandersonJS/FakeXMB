@@ -1,31 +1,26 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
-				
-Puzzle video games make up a broad genre of video games that emphasize puzzle solving. The types of puzzles can test problem-solving skills, including logic, pattern recognition, sequence solving, spatial recognition, and word completion.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-			</text>
+		<text name="system_description" extra="true">
+			<text>Puzzle games are a genre of video games that focus on solving challenges using logic, pattern recognition, and critical thinking to progress. These games can be standalone titles or incorporated into other genres and test players' skills through a variety of mechanics involving shapes, colors, numbers, or words. They can range from quick-thinking real-time challenges, like Tetris, to complex, multi-step logical problems. </text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos de rompecabezas son un género de videojuegos que se centran en resolver desafíos mediante la lógica, el reconocimiento de patrones y el pensamiento crítico para progresar. Estos juegos pueden ser independientes o integrarse en otros géneros y ponen a prueba las habilidades de los jugadores mediante diversas mecánicas que involucran formas, colores, números o palabras. Pueden abarcar desde desafíos de razonamiento rápido en tiempo real, como el Tetris, hasta complejos problemas lógicos de varios pasos.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Género de videojuegos que se caracteriza por exigir agilidad mental al jugador para resolver enigmas por lo general en una sola pantalla. Algunos videojuegos involucran problemas de lógica, matemáticas, estrategia, completar palabras o reconocimiento de patrones.
+		<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux de réflexion sont un genre de jeux vidéo qui se concentrent sur la résolution de problèmes en faisant appel à la logique, à la reconnaissance de formes et à l'esprit critique pour progresser. Ces jeux peuvent être indépendants ou intégrés à d'autres genres et tester les compétences des joueurs grâce à une variété de mécanismes impliquant des formes, des couleurs, des nombres ou des mots. Ils peuvent aller de défis en temps réel exigeant une réflexion rapide, comme Tetris, à des problèmes logiques complexes à plusieurs étapes.</text>
 		</text>
-	</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>Jogos de quebra-cabeça são um gênero de videogames que se concentram na resolução de desafios usando lógica, reconhecimento de padrões e pensamento crítico para progredir. Esses jogos podem ser títulos independentes ou incorporados a outros gêneros e testam as habilidades dos jogadores por meio de uma variedade de mecânicas que envolvem formas, cores, números ou palavras. Eles podem variar de desafios em tempo real que exigem raciocínio rápido, como Tetris, a problemas lógicos complexos e com várias etapas.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Puzzle</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
 			<text>Puzzle</text>
 		</text>
 	</view>

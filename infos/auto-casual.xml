@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-			<text name="system_description" extra="true" >
-				<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-Simple game that does not require great skill or great dedication on the part of the player.
-				</text>
-			</text>
-			
-	
-	
-		<text name="system_description" extra="true" lang="es">
-			<text>Lista de juegos automática.
-
-Juego sencillo, que no requiere de gran habilidad ni de gran dedicación por parte del jugador.
-			</text>
+		<text name="system_description" extra="true">
+			<text>Casual games are video games designed for easy accessibility, quick play sessions, and low commitment, making them enjoyable for a broad audience. They typically feature simple rules, intuitive mechanics, and colorful, engaging visuals, with popular examples including puzzle, match-3, and word games. Monetization often relies on free-to-play models with in-app purchases and advertisements.</text>
 		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos casuales son videojuegos diseñados para un fácil acceso, sesiones de juego rápidas y un bajo nivel de compromiso, lo que los hace divertidos para un público amplio. Suelen contar con reglas sencillas, mecánicas intuitivas y gráficos coloridos y atractivos, con ejemplos populares como los juegos de puzles, de combinar 3 y de palabras. La monetización suele basarse en modelos gratuitos con compras dentro de la aplicación y anuncios.</text>
+		</text>
+		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux casual sont des jeux vidéo conçus pour être facilement accessibles, rapides et peu engageants, ce qui les rend accessibles à un large public. Ils présentent généralement des règles simples, des mécanismes intuitifs et des graphismes colorés et attrayants, avec des exemples populaires comme les jeux de réflexion, de match-3 et de lettres. La monétisation repose souvent sur des modèles free-to-play avec achats intégrés et publicités.</text>
+		</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Jogos casuais são videogames projetados para fácil acessibilidade, sessões de jogo rápidas e baixo comprometimento, tornando-os agradáveis para um público amplo. Geralmente, apresentam regras simples, mecânica intuitiva e visuais coloridos e envolventes, com exemplos populares incluindo quebra-cabeças, combinar 3 e jogos de palavras. A monetização geralmente depende de modelos gratuitos com compras no aplicativo e anúncios.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Casual</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Casual</text>
+			<text>Casual Games</text>
 		</text>
 	</view>
 </theme>

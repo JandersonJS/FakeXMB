@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+<formatVersion>7</formatVersion>
+	<view name="splash">
+		<image name="background">
+			<pos>0.05 0.05</pos>
+			<origin>0 0</origin>
+			<minSize>0.3 0.3</minSize>
+			<roundCorners>0</roundCorners>
+			<linearSmooth>true</linearSmooth>
+			<color>ffffff</color>
+			<colorEnd>404040</colorEnd>
+			<gradientType>vertical</gradientType>
+			<zIndex>3</zIndex>
+		</image>
+
+		<image name="backgroundalt" extra="true">
+		<default>./main/background/bg.png</default>
+		<path></path>
+			<linearSmooth>true</linearSmooth>
+			<minSize>1 1</minSize>
+			<zIndex>1</zIndex>
+		</image>
+
+		<text name="loading" extra="true">
+			<origin>0 0</origin>
+			<pos>0.855 0.935</pos>
+			<alignment>left</alignment>
+			<color>dddddd</color>
+			<fontPath>./main/fonts/Circular Std Black.ttf</fontPath>
+			<fontSize>0.03</fontSize>
+			<glowColor>09090920</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
+			<text>LOADING...</text>
+			<text lang="pt">CARREGANDO...</text>
+			<text lang="fr">CHARGEMENT...</text>
+			<text lang="es">CARGANDO...</text>
+			<text lang="de">WIRD GELADEN...</text>
+			<zIndex>8</zIndex>
+		</text>
+
+		<text name="label">
+			<origin>0 0</origin>
+			<pos>0.05 0.86</pos>
+			<alignment>left</alignment>
+			<color>dddddd</color>
+			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
+			<size>0.9 0.1</size>
+			<fontSize>0.052</fontSize>
+      		<autoScroll>horizontal</autoScroll>
+			<glowColor>09090920</glowColor>
+			<glowSize>1</glowSize>
+			<glowOffset>1</glowOffset>
+		</text>
+
+       		<image name="hotkey-tips" extra="true">
+			<origin>0 0</origin>
+			<pos>0.79 0.3</pos>
+			<maxSize>0.35</maxSize>
+			<maxSize tinyScreen="true">0.45</maxSize>			
+			<path>./main/hotkey-tips/en.png</path>
+			<path>./main/hotkey-tips/${lang}.png</path>
+			<linearSmooth>true</linearSmooth>
+			<zIndex>9</zIndex>
+		</image>
+
+		<splash name="splash">
+			<backgroundColor>000000FF</backgroundColor>
+		</splash>
+
+	</view>
+
+</theme>

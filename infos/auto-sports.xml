@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-A sports video game is a video game that simulates the practice of sports. Most sports have been recreated with a game, including team sports, track and field, extreme sports, and combat sports.
-			</text>
+		<text name="system_description" extra="true">
+			<text>A sports video game is a video game that simulates the practice of sports. Most sports have been recreated with video games, including team sports, track and field, extreme sports, and combat sports.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Un videojuego deportivo es un videojuego que simula la práctica de deportes. La mayoría de los deportes se han recreado en videojuegos, incluyendo deportes de equipo, atletismo, deportes extremos y deportes de combate.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-			
-Videojuegos que simulan las reglas y el terreno de juego tradicionales. Casi todos los deportes conocidos han sido recreados en un videojuego, incluyendo deportes de equipo, atletismo, deportes extremos y deportes de combate.
+		<text name="system_description" extra="true" lang="fr">
+			<text>Un jeu vidéo de sport est un jeu vidéo qui simule la pratique d'un sport. La plupart des sports ont été recréés grâce aux jeux vidéo, notamment les sports d'équipe, l'athlétisme, les sports extrêmes et les sports de combat.</text>
 		</text>
-	</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>Um videogame esportivo é um videogame que simula a prática de esportes. A maioria dos esportes já foi recriada com videogames, incluindo esportes coletivos, atletismo, esportes radicais e esportes de combate.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
 			<text>Sports</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Deportivos</text>
 		</text>
 	</view>
 </theme>

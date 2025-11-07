@@ -3,15 +3,31 @@
   <formatVersion>7</formatVersion>
   <include>./animatedbackgroundsubset.xml</include>
   <view name="system">
-    <video name="videobox" extra="true">
+    <video name="videobox" extra="true" ifSubset="randomVideosAudio:on">
+      <default>./main/video/no-video.mp4</default>
       <path>{random}</path>
+      <minSize>0.3 0.3</minSize>
       <zIndex>21</zIndex>     
       <origin>0 0</origin>
-      <pos>0.730 0.640</pos>
+      <pos>0.65 0.60</pos>
       <delay>0</delay>
       <color>FFFFFFFF</color>
       <effect>none</effect>
-      <roundCorners>0.05</roundCorners>
+      <roundCorners>0</roundCorners>
+      <visible>true</visible>
+    </video>
+    <video name="videobox" extra="true" ifSubset="randomVideosAudio:off">
+      <default>./main/video/no-video.mp4</default>
+      <audio>false</audio>
+      <path>{random}</path>
+      <minSize>0.3 0.3</minSize>
+      <zIndex>21</zIndex>     
+      <origin>0 0</origin>
+      <pos>0.65 0.60</pos>
+      <delay>0</delay>
+      <color>FFFFFFFF</color>
+      <effect>none</effect>
+      <roundCorners>0</roundCorners>
       <visible>true</visible>
     </video>
   </view>

@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.</text>
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-They are basically mahjong games and variants of this classic Chines board game.
+		<text name="system_description" extra="true">
+			<text>Asiatic board games encompass a diverse range of both traditional games, like Go and Shogi, and modern, internationally popular titles often featuring unique aesthetics and language-independent design. Examples of traditional games include the strategic battle of Shogi, the tile-based game of Mahjong, and the classic Indian race game Chaupar, while modern titles often focus on themes like Japanese history, puzzle-like city-building, and intricate mechanisms. These modern games are designed for a global audience and are known for their sophisticated production and appeal to a wide range of players.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos de mesa asiáticos abarcan una amplia gama de juegos tradicionales, como el Go y el Shogi, y títulos modernos de popularidad internacional, que suelen presentar una estética única y un diseño independiente del idioma. Entre los juegos tradicionales se incluyen la batalla estratégica del Shogi, el Mahjong, un juego de fichas, y el clásico juego de carreras indio Chaupar. Por otro lado, los juegos modernos suelen centrarse en temas como la historia japonesa, la construcción de ciudades con mecánicas complejas y la construcción de puzles. Estos juegos modernos están diseñados para un público global y son conocidos por su sofisticada producción y su atractivo para una amplia gama de jugadores.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Basicamente son juegos de mahjong y variantes de este clásico juego de mesa de origen chino.
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux de société asiatiques englobent une gamme variée de jeux traditionnels, comme le Go et le Shogi, ainsi que des titres modernes, populaires à l'international, souvent dotés d'une esthétique unique et d'une conception indépendante du langage. Parmi les jeux traditionnels, on peut citer le Shogi, un jeu de stratégie basé sur des tuiles, le Mahjong, et le Chaupar, un jeu de course indien classique. Les titres modernes, quant à eux, abordent souvent des thèmes comme l'histoire du Japon, la construction de villes à partir de casse-têtes et des mécanismes complexes. Conçus pour un public international, ces jeux modernes sont réputés pour leur production sophistiquée et séduisent un large éventail de joueurs.</text>
 		</text>
-	</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Os jogos de tabuleiro asiáticos abrangem uma gama diversificada de jogos tradicionais, como Go e Shogi, e títulos modernos e internacionalmente populares, muitas vezes com estética única e design independente de idioma. Exemplos de jogos tradicionais incluem a batalha estratégica de Shogi, o jogo de Mahjong baseado em peças e o clássico jogo de corrida indiano Chaupar, enquanto os títulos modernos frequentemente se concentram em temas como história japonesa, construção de cidades em formato de quebra-cabeça e mecanismos complexos. Esses jogos modernos são projetados para um público global e são conhecidos por sua produção sofisticada e apelo a uma ampla gama de jogadores.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
 			<text>Asiatic Board Games</text>
 		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Juegos de mesa asiáticos</text>
-		</text>
-	
 	</view>
 </theme>

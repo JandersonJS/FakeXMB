@@ -1,30 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-Shoot 'em ups are a sub-genre of shooter video games, which are in turn a sub-genre of action video games. There is no consensus as to which design elements compose a shoot 'em up; some restrict the definition to games featuring spacecraft and certain types of character movement, while others allow a broader definition including characters on foot and a variety of perspectives. 
-			</text>
+		<text name="system_description" extra="true">
+			<text>Shoot'em ups are a sub-genre of shooter video games, which are in turn a sub-genre of action video games. There is no consensus as to which design elements compose a shoot'em up; some restrict the definition to games featuring spacecraft and certain types of character movement, while others allow a broader definition including characters on foot and a variety of perspectives.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
-			<text>Lista de juegos automática.
-				
-El término shoot 'em up define un género de videojuegos en los que el jugador controla un personaje u objeto solitario, generalmente una nave espacial, un avión o algún otro vehículo, que dispara contra hordas de enemigos que van apareciendo en pantalla. Es un subgénero de los videojuegos de disparos. </text>
+			<text>Los juegos de disparos son un subgénero de los videojuegos de acción. No existe un consenso sobre los elementos de diseño que componen un juego de disparos; algunos limitan la definición a juegos que presentan naves espaciales y ciertos tipos de movimiento de personajes, mientras que otros permiten una definición más amplia que incluye personajes a pie y una variedad de perspectivas.</text>
+		</text>
+		
+		<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux de tir (shoot'em ups) constituent un sous-genre des jeux vidéo de tir, qui sont eux-mêmes un sous-genre des jeux vidéo d'action. Il n'existe pas de consensus quant aux éléments de conception qui caractérisent un jeu de tir ; certains limitent la définition aux jeux mettant en scène des vaisseaux spatiaux et certains types de mouvements de personnages, tandis que d'autres adoptent une définition plus large incluant des personnages à pied et une variété de perspectives.</text>
 		</text>
 
+		<text name="system_description" extra="true" lang="pt">
+			<text>Os jogos de tiro (shoot'em ups) são um subgênero dos jogos de tiro, que por sua vez são um subgênero dos jogos de ação. Não há consenso sobre quais elementos de design compõem um jogo de tiro; alguns restringem a definição a jogos que apresentam naves espaciais e certos tipos de movimentação de personagens, enquanto outros permitem uma definição mais ampla, incluindo personagens a pé e uma variedade de perspectivas.</text>
+		</text>
 
 
 		<text name="system_name" extra="true">
-			<text>Shoot'em up</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Shoot'em up</text>
+			<text>Shoot'em ups</text>
 		</text>
 	</view>
 </theme>

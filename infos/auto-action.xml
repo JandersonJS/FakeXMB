@@ -1,37 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-An action game is a video game genre that emphasizes physical challenges, including hand-eye coordination and reaction-time. The genre includes a large variety of sub-genres, such as fighting games, beat 'em ups, shooter games, and platform games.
-
+		<text name="system_description" extra="true">
+			<text>Action games are a video game genre centered on physical challenges that require hand-eye coordination and quick reflexes. They often feature fast-paced gameplay, combat, and require players to navigate environments by jumping, running, shooting, or fighting to overcome obstacles and defeat enemies. This genre includes many subgenres, such as shooters, fighting games, and platformers.</text>
 		</text>
 
-			</text>
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos de acción son un género de videojuegos centrado en desafíos físicos que requieren coordinación ojo-mano y reflejos rápidos. Suelen ofrecer una jugabilidad trepidante y combates, y requieren que los jugadores se desplacen por entornos saltando, corriendo, disparando o luchando para superar obstáculos y derrotar a los enemigos. Este género incluye muchos subgéneros, como los juegos de disparos, los juegos de lucha y los juegos de plataformas.</text>
+		</text>
 		
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux d'action sont un genre de jeu vidéo axé sur les défis physiques qui requièrent une coordination œil-main et des réflexes rapides. Ils proposent souvent un gameplay et des combats rapides, et demandent aux joueurs de se déplacer dans des environnements en sautant, en courant, en tirant ou en combattant pour surmonter des obstacles et vaincre des ennemis. Ce genre comprend de nombreux sous-genres, tels que les jeux de tir, de combat et de plateforme.</text>
+		</text>
 
+				<text name="system_description" extra="true" lang="pt">
+			<text>Jogos de ação são um gênero de videogame centrado em desafios físicos que exigem coordenação motora e reflexos rápidos. Geralmente, apresentam jogabilidade e combates rápidos, e exigem que os jogadores naveguem pelos ambientes pulando, correndo, atirando ou lutando para superar obstáculos e derrotar inimigos. Este gênero inclui muitos subgêneros, como jogos de tiro, jogos de luta e jogos de plataforma.</text>
+		</text>
 
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Género que se caracteriza porque el jugador debe hacer uso de su velocidad, destreza en el control y tiempo de reacción para avanzar. Se trata de un género muy amplio que abarca los juegos de disparos, los juegos de lucha y que da lugar a hibridaciones con casi cualquier otro tipo de género.			
-
-	</text>
-	</text>
 
 		<text name="system_name" extra="true">
-			<text>Action</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Acción</text>
+			<text>Action Games</text>
 		</text>
 	</view>
 </theme>

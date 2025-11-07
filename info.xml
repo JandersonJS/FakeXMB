@@ -123,7 +123,7 @@
          <maxSize>0.030 0.030</maxSize>
          <zIndex>99</zIndex>
          <linearSmooth>true</linearSmooth>
-       </webimage>
+      </webimage>
 
       <image name="star-picto" extra="static">
          <path>./main/images/star-picto.png</path>
@@ -211,6 +211,7 @@
          <glowSize>1</glowSize>
          <glowOffset>3 2</glowOffset>
          <autoScroll>horizontal</autoScroll>
+         <autoScrollDelay>0</autoScrollDelay>
          <zIndex>99</zIndex>
          <backgroundColor>ff000000</backgroundColor>
       </text>

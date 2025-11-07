@@ -1,30 +1,26 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-Fragment or limited version of a video game distributed by its own publisher, usually free of charge, in order to publicize the main features of the game and promote it among players.
-			</text>
+		<text name="system_description" extra="true">
+			<text>Game demos are free, limited-time samples of a video game designed to let players try it before buying the full version. They come in "playable" versions that offer a portion of the game, like the first levels or a specific time limit, and "non-playable" teaser versions that act like a trailer. Demos help players decide if a game is right for them, introduce them to new genres, and can be crucial marketing tools for developers.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Las demos son muestras gratuitas y por tiempo limitado de un videojuego, diseñadas para que los jugadores puedan probarlo antes de comprar la versión completa. Existen versiones jugables que ofrecen una parte del juego, como los primeros niveles o un límite de tiempo específico, y versiones teaser no jugables que funcionan como un tráiler. Las demos ayudan a los jugadores a decidir si un juego es adecuado para ellos, les presentan nuevos géneros y pueden ser herramientas de marketing cruciales para los desarrolladores.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Fragmento o versión limitada de un videojuego distribuído por la propia editora del mismo, normalmente de manera gratuíta, con el fin de dar a conocer las características principales del juego y promocionarlo entre los jugadores.
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les démos de jeux vidéo sont des extraits gratuits et à durée limitée d'un jeu vidéo, conçus pour permettre aux joueurs de l'essayer avant d'acheter la version complète. Elles existent en versions « jouables » qui offrent une partie du jeu, comme les premiers niveaux ou une durée de jeu spécifique, et en versions « non jouables » qui font office de bande-annonce. Les démos aident les joueurs à déterminer si un jeu leur convient, leur font découvrir de nouveaux genres et peuvent constituer des outils marketing essentiels pour les développeurs.</text>
 		</text>
-	</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>As demos de jogos são amostras gratuitas e por tempo limitado de um videogame, projetadas para que os jogadores o experimentem antes de comprar a versão completa. Elas vêm em versões "jogáveis", que oferecem uma parte do jogo, como os primeiros níveis ou um limite de tempo específico, e versões teaser "não jogáveis", que funcionam como um trailer. As demos ajudam os jogadores a decidir se um jogo é ideal para eles, apresentam-lhes novos gêneros e podem ser ferramentas de marketing cruciais para desenvolvedores.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Demo</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
 			<text>Demos</text>
 		</text>
 	</view>

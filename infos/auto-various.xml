@@ -1,25 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.</text>
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>Video games can be categorized by their gameplay mechanics, such as First-Person Shooters (like Call of Duty), Multiplayer Online Battle Arenas (MOBAs) (like League of Legends), and Role-Playing Games (RPGs) (like World of Warcraft), which often focus on storytelling and character development. Other genres include Battle Royale (like Fortnite), Simulation, Sports, Strategy (RTS), Action-Adventure, and Platformers (like Super Mario).</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los videojuegos se pueden clasificar según su mecánica de juego, como los juegos de disparos en primera persona (como Call of Duty), los juegos multijugador en línea (MOBA) (como League of Legends) y los juegos de rol (RPG) (como World of Warcraft), que suelen centrarse en la narrativa y el desarrollo de personajes. Otros géneros incluyen los juegos de batalla real (como Fortnite), la simulación, los deportes, la estrategia (RTS), la acción y la aventura y los juegos de plataformas (como Super Mario).</text>
 		</text>
 		
+		<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux vidéo peuvent être classés selon leurs mécanismes de jeu, comme les jeux de tir à la première personne (comme Call of Duty), les arènes de combat multijoueur en ligne (MOBA) (comme League of Legends) et les jeux de rôle (RPG) (comme World of Warcraft), qui mettent souvent l'accent sur la narration et le développement des personnages. Parmi les autres genres, on trouve les jeux de combat royal (comme Fortnite), les jeux de simulation, les jeux de sport, les jeux de stratégie (RTS), les jeux d'action-aventure et les jeux de plateforme (comme Super Mario).</text>
+		</text>
 
+		<text name="system_description" extra="true" lang="pt">
+			<text>Os videogames podem ser categorizados por suas mecânicas de jogo, como jogos de tiro em primeira pessoa (como Call of Duty), arenas de batalha multijogador online (MOBAs) (como League of Legends) e jogos de RPG (como World of Warcraft), que geralmente se concentram na narrativa e no desenvolvimento de personagens. Outros gêneros incluem Battle Royale (como Fortnite), Simulação, Esportes, Estratégia (RTS), Ação-Aventura e Plataforma (como Super Mario).</text>
+		</text>
 
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.</text>
-	</text>
 
 		<text name="system_name" extra="true">
 			<text>Various</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Varios</text>
 		</text>
 	</view>
 </theme>

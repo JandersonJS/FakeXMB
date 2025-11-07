@@ -1,24 +1,26 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.</text>
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+
+		<text name="system_description" extra="true">
+			<text>"Reflection games" can refer to a few different types of games, including indie horror, VR puzzle, and logic-based games where players interact with or manipulate reflections and mirrors. NVIDIA's Reflex technology is also a factor, which is an anti-lag tool for high-performance gaming. The phrase could also refer to general games that explore the theme of reflection and its consequences.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los "juegos de reflexión" pueden referirse a diferentes tipos de juegos, como el terror independiente, los puzles de realidad virtual y los juegos de lógica donde los jugadores interactúan con o manipulan reflejos y espejos. La tecnología Reflex de NVIDIA también es un factor, ya que actúa como una herramienta anti-lag para juegos de alto rendimiento. El término también podría referirse a juegos generales que exploran el tema de la reflexión y sus consecuencias.</text>
 		</text>
 		
+		<text name="system_description" extra="true" lang="fr">
+			<text>L'expression «jeux de réflexion» désigne différents types de jeux, notamment les jeux d'horreur indépendants, les jeux de réflexion en réalité virtuelle et les jeux de logique où les joueurs interagissent avec des reflets et des miroirs, ou les manipulent. La technologie Reflex de NVIDIA, un outil anti-lag pour les jeux haute performance, est également un facteur important. L'expression pourrait également désigner les jeux généraux explorant le thème de la réflexion et ses conséquences.</text>
+		</text>
 
+		<text name="system_description" extra="true" lang="pt">
+			<text>"Jogos de reflexão" podem se referir a alguns tipos diferentes de jogos, incluindo terror indie, quebra-cabeças de realidade virtual e jogos baseados em lógica, nos quais os jogadores interagem ou manipulam reflexos e espelhos. A tecnologia Reflex da NVIDIA também é um fator a ser considerado, sendo uma ferramenta antilag para jogos de alto desempenho. A expressão também pode se referir a jogos em geral que exploram o tema da reflexão e suas consequências.</text>
+		</text>
 
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.</text>
-	</text>
 
 		<text name="system_name" extra="true">
-			<text>Reflection</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
 			<text>Reflection</text>
 		</text>
 	</view>

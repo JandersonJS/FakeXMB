@@ -1,31 +1,27 @@
-<!-- Theme by pajarorrojo
-https://github.com/pajarorrojo/es-theme-PlayStation-X 
--->
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system">
-		<text name="system_description" extra="true" >
-			<text>Auto gamelist.
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
 
-An adventure game is a video game in which the player assumes the role of a protagonist in an interactive story driven by exploration and/or puzzle-solving
-			</text>
+		<text name="system_description" extra="true">
+			<text>Adventure games are a video game genre focused on storytelling, puzzle-solving, and exploration, where players control a protagonist in an interactive narrative. While they sometimes include action, their primary focus is on narrative and puzzles over combat or dexterity-based challenges. Examples range from classic point-and-click games to modern, more complex experiences that incorporate elements like Quick Time Events and virtual reality. </text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>Los juegos de aventura son un género de videojuegos centrado en la narración, la resolución de puzles y la exploración, donde los jugadores controlan a un protagonista en una narrativa interactiva. Si bien a veces incluyen acción, se centran principalmente en la narrativa y los puzles, por encima del combate o los desafíos de destreza. Los ejemplos abarcan desde los clásicos juegos de apuntar y hacer clic hasta experiencias modernas y más complejas que incorporan elementos como Quick Time Events y realidad virtual.</text>
 		</text>
 		
-
-
-	<text name="system_description" extra="true" lang="es">
-		<text>Lista de juegos automática.
-
-Estos juegos se caracterizan por la exploración, la investigación, la resolución de puzzles, la interacción con personajes y el avance de manera lineal y centrado en la trama del juego.			
+				<text name="system_description" extra="true" lang="fr">
+			<text>Les jeux d'aventure sont un genre de jeu vidéo axé sur la narration, la résolution d'énigmes et l'exploration, où les joueurs incarnent un protagoniste dans un récit interactif. Bien qu'ils incluent parfois de l'action, ils privilégient la narration et les énigmes plutôt que le combat ou les défis d'adresse. On en trouve des exemples allant des jeux point-and-click classiques aux expériences modernes plus complexes intégrant des éléments comme les Quick Time Events et la réalité virtuelle.</text>
 		</text>
-	</text>
+
+				<text name="system_description" extra="true" lang="pt">
+			<text>Jogos de aventura são um gênero de videogame focado em narrativa, resolução de quebra-cabeças e exploração, onde os jogadores controlam um protagonista em uma narrativa interativa. Embora às vezes incluam ação, seu foco principal é a narrativa e os quebra-cabeças, em vez de combates ou desafios baseados em destreza. Os exemplos variam de jogos clássicos de apontar e clicar a experiências modernas e mais complexas que incorporam elementos como Quick Time Events e realidade virtual.</text>
+		</text>
+
 
 		<text name="system_name" extra="true">
-			<text>Adventure</text>
-		</text>
-		<text name="system_name" extra="true" lang="es">
-			<text>Aventura</text>
+			<text>Adventure Games</text>
 		</text>
 	</view>
 </theme>

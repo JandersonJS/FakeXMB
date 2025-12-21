@@ -42,7 +42,7 @@ Developed by **JandersonJS**.
 ## 🔄 Changelog
 *From now on, all updates will be listed here so you can follow the project's progress.*
 
-📅 21/12/2025 – v1.0.0
+📅 21/12/2025 – v1.0.1
 - Added multiple systems for better adaptation to Retrobat;
 - Support for new systems compatible with Batocera v42;
 - General organization of the theme: reduced code, improved indentation, simplified paths;

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>It was founded in 1982 by Tetsuo Akiyama (秋山 哲雄, Akiyama Tetsuo) and later became corporate on August 8, 1983 while revealing itself as "Visco" in Japan. They originally developed video games for several platforms from the arcades and NES, to the Nintendo 64 and Neo Geo in the past.</text>

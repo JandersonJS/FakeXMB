@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>This, much like the SNES MSU-1 project will allow audio from Game Boy games to be replaced with CD quality audio!</text>

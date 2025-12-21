@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>ResidualVM is a game engine reimplementation that allows you to play 3D adventure games such as Grim Fandango, Escape from Monkey Island, Myst III and The Longest Journey. ResidualVM utilizes OpenGL for 3D graphics hardware acceleration. A software renderer is also included for machines without hardware OpenGL.</text>

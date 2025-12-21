@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The Nintendo Switch is a video game console developed by Nintendo and released worldwide in most regions on March 3, 2017. 

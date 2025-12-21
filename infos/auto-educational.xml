@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Educational video games are a type of digital game designed for learning, also known as "serious games" or "edutainment," which teach specific subjects or skills in a fun and engaging way. They work by incorporating educational objectives into gameplay, motivating students through challenges and rewards, and are used in various formats for different age groups, from primary school to professional training.</text>

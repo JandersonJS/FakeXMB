@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>OpenJazz is an open sourced re-implementation of Jazz Jackrabbit 1 made by Alister Thomson, also known as Toxic Bunny. It was started on the 23rd of August, 2005.</text>

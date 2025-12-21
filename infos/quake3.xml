@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Quake III Arena is a first-person shooter video game, originally released on December 2, 1999. The game was developed by Id Software, while the music was written and composed by Sonic Mayhem and Front Line Assembly.</text>

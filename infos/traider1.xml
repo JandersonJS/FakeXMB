@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Tomb Raider is an action-adventure and platform video game developed by Core Design and published by Eidos Interactive. The debut entry in the Tomb Raider franchise, the game was initially released in 1996 for the Sega Saturn, followed by versions for MS-DOS and PlayStation.</text>

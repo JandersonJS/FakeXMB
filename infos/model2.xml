@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Sega Model 2 was a arcade system board developed by Sega AM2 in 1993 as a direct evolution of the earlier Model 1. The board was state-of-the-art for its time, costing $2,000,000 to develop. The system would power arcade hits of the mid-1990s such as Daytona USA, Virtua Fighter 2 and The House of The Dead.</text>

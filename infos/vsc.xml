@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Video System was a Japanese game developer and publisher founded by software designer Koji Furukawa, that operated between 1986-2004. They were initially known for developing Arcade games (mostly Mahjong sims) and would eventually produce games for other platforms, such as the Neo-Geo, SNES and Nintendo 64. They would go on to create the Aero Fighters, F-1 Grand Prix and Super Volley franchises.</text>

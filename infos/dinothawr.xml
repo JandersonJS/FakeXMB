@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Dinothawr is an open-source, block-pushing puzzle game where players free frozen dinosaur friends by pushing them onto lava, blending elements from Kickle Cubicle and Sokoban. Created by Agnes Heyer and Hans-Kristian Arntzen (Themaister), it features over 50 levels, a level editor, and is built using the libretro API, with its source code available on GitHub. The game is known for its ambient music and retro graphics, and it is available on various platforms, including Android, Linux, and as a port for systems like Raspberry Pi and RetroPie.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The Super NES CD-ROM Systemv is an unreleased video game peripheral for the Super Nintendo Entertainment System (SNES). The add-on built upon the functionality of the cartridge-based SNES by adding support for a CD-ROM-based format known as Super Disc.

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Sega Model 3 is an arcade platform released in 1996 as the successor to Sega Model 2. Model 3 continued several arcade games series established on previous Sega arcade boards, with games such as; Daytona USA 2, Sega Rally 2, Virtua Fighter 3 and Star Wars Trilogy Arcade.</text>

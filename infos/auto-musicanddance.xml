@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>A music video game, also commonly known as a music game, is a video game where the gameplay is meaningfully and often almost entirely oriented around the player's interactions with a musical score or individual songs. Music video games may take a variety of forms and are often grouped with puzzle games due to their common use of "rhythmically generated puzzles".</text>

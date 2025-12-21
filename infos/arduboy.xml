@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Arduboy is a handheld game console with open source software, based on the Arduino hardware platform. The original version of the Arduboy was 1.6 millimetres (0.063 in) thick, with the height and width of a credit card, and was initially designed as an electronic business card.

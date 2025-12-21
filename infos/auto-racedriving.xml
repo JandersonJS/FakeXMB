@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>A racing video game is a genre of electronic games in which the player participates in racing competitions with any type of land vehicle, including motorcycles and quadricycles. There are game alternatives with water, air and even space vehicles.</text>

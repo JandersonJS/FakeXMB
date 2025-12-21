@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>RetroBat is a free and open-source Windows application that organizes and automates the configuration of classic console emulators, allowing you to play games from different platforms in a single location with a unified interface based on EmulationStation. It simplifies the emulation process by automatically configuring controllers and emulators, making it easier to add games and manage themes and title information.</text>

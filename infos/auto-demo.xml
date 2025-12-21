@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Game demos are free, limited-time samples of a video game designed to let players try it before buying the full version. They come in "playable" versions that offer a portion of the game, like the first levels or a specific time limit, and "non-playable" teaser versions that act like a trailer. Demos help players decide if a game is right for them, introduce them to new genres, and can be crucial marketing tools for developers.</text>

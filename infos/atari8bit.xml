@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 	
 		<text name="system_description" extra="true">
 			<text>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 based on the MOS Technology 6502 CPU. Various versions of the same basic design would be released over the next decade, but remained largely identical internally. These included the original Atari 400 and 800, and their successors, the XL and XE series.</text>

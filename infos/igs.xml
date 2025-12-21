@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>International Games System Co., Ltd. was officially established in 1991. In response to immense market opportunities in arcade games,IGS established and continued its own brand and independent R&D of key technologies as it aims to emerge as a well-known game developer in the Chinese market.</text>

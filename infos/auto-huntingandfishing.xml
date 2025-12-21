@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Hunting and fishing games are a diverse genre that includes simulations, arcade-style games, and role-playing games where players engage in virtual hunting or fishing activities. These games vary in style from realistic simulations that focus on equipment and realistic physics to simpler arcade games that emphasize quick reflexes and upgrades, and even action RPGs with large worlds and quest-based gameplay.</text>

@@ -1,10 +1,10 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 				<text name="system_description" extra="true">
-			<text>The Nintendo DS (ニ ン テ ン ド ー DS, Nintendō Dī Esu ?, DS for Dual Screen, Double Screen in Japan), is a portable console created by Nintendo, released at the end of 2004 in Japan and North America and in 2005 in Europe. Has the particularity of the double screen and the touchscreen. It has also democratized casual gaming which has contributed to its popularity.</text>
+			<text>The Nintendo DS (ニ ン テ ン ド ー DS, Nintendō Dī Esu ?, DS for Dual Screen, Double Screen in Japan), is a portable console created by Nintendo, released at the end of 2004 in Japan and North America and in 2005 in Europe. Has the particularity of the double system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel and the touchsystem, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel. It has also democratized casual gaming which has contributed to its popularity.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="es">
@@ -12,7 +12,7 @@
 		</text>
 		
 				<text name="system_description" extra="true" lang="fr">
-			<text>La Nintendo DS (ニンテンドーDS, Nintendō Dī Esu?, DS pour Dual Screen, Double Screen au Japon), est une console portable créée par Nintendo, sortie fin 2004 au Japon et en Amérique du Nord et en 2005 en Europe. A la particularité du double écran et du touchscreen. Elle a également démocratisé le gaming casual ce qui a contribué à sa popularité.</text>
+			<text>La Nintendo DS (ニンテンドーDS, Nintendō Dī Esu?, DS pour Dual Screen, Double Screen au Japon), est une console portable créée par Nintendo, sortie fin 2004 au Japon et en Amérique du Nord et en 2005 en Europe. A la particularité du double écran et du touchsystem, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel. Elle a également démocratisé le gaming casual ce qui a contribué à sa popularité.</text>
 		</text>
 
 				<text name="system_description" extra="true" lang="pt">

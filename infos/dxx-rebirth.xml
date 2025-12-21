@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>DXX-Rebirth is a source port of Descent and Descent 2, based on D1X and D2X respectively. Founded in 2005 to keep enjoying those games (on Linux) and published on this very site, the project gained more traction than I could ever have imagined and will eternally be grateful for. About 10 years later, when I became increasingly involved in other projects, I just couldn't dedicate the time to this port that it and its community deserved anymore and in 2020, I decided to officially retire. However for the purpose of preservation and for those who would still like to play, tinker or even continue where I left off, the last official version I released will remain available here for as long as I can maintain this space.</text>

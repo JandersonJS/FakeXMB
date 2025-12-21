@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>GZDoom is the latest version targeting current systems with modern graphics hardware. (Vulkan/OpenGL 4.5 capability recommended, but the minimum requirement for the hardware renderer is OpenGL 3.3, the minimum for the software renderer is Direct3D 9) </text>

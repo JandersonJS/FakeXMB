@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Video games can be categorized by their gameplay mechanics, such as First-Person Shooters (like Call of Duty), Multiplayer Online Battle Arenas (MOBAs) (like League of Legends), and Role-Playing Games (RPGs) (like World of Warcraft), which often focus on storytelling and character development. Other genres include Battle Royale (like Fortnite), Simulation, Sports, Strategy (RTS), Action-Adventure, and Platformers (like Super Mario).</text>

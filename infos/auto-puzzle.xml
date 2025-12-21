@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Puzzle games are a genre of video games that focus on solving challenges using logic, pattern recognition, and critical thinking to progress. These games can be standalone titles or incorporated into other genres and test players' skills through a variety of mechanics involving shapes, colors, numbers, or words. They can range from quick-thinking real-time challenges, like Tetris, to complex, multi-step logical problems. </text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Tecmo Co., Ltd. (テクモ株式会社, Tekumo kabushikigaisha), was a Japanese video game corporation founded in 1967. It had its headquarters in Kudankita, Chiyoda, Tokyo. Its subsidiary, Tecmo Inc, was located in Torrance, California. Tecmo was formerly known as Tehkan.</text>

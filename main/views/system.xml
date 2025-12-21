@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme defaultView="detailed">
+  <formatVersion>7</formatVersion>
+    
+  <feature supported="manufacturer">
+  <view name="system">
+
+        <helpsystem name="help">
+            <textColor>ffffff</textColor>
+            <iconColor>ffffff</iconColor>
+        </helpsystem>
+        
+      <text name="system_description" extra="static">
+      <origin>0 0</origin>
+      <pos>0.712 0.116</pos>
+      <size>0.28 0.06</size>
+      <forceUppercase>0</forceUppercase>
+      <fontSize>0.035</fontSize>
+      <color>ffffff</color>
+      <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+      <fontSize>0.025</fontSize>
+      <alignment>left</alignment>
+      <glowColor>00000035</glowColor>
+      <glowSize>1</glowSize>
+      <glowOffset>3 2</glowOffset>
+      <autoScroll>horizontal</autoScroll>
+      <autoScrollDelay>0</autoScrollDelay>
+      <visible>true</visible>
+      <zIndex>99</zIndex>
+      </text>
+
+    <text name="logoText">
+      <fontPath>./main/fonts/Cabin-Bold.ttf</fontPath>
+      <color>${baseColor}</color>
+      <forceUppercase>true</forceUppercase>
+    </text>
+  <image name="logo" ifSubset="logoColor:off">
+ 
+            <storyboard event="activate" repeatAt="forever">
+                <animation property="opacity" from="1" to="1" duration="1" mode="Linear"/>
+                <animation property="saturation" from="0" to="0" duration="1" mode="Linear"/>
+            </storyboard>
+
+            <storyboard event="scroll" repeatAt="forever">
+                <animation property="opacity" from="1" to="1" duration="1" mode="Linear"/>
+                <animation property="saturation" from="0" to="0" duration="1" mode="Linear"/>
+            </storyboard>
+
+        <!-- try png -->
+        <path>./main/logos/${system.theme}.png</path>
+      <!-- try svg -->
+        <path>./main/logos/${system.theme}.svg</path>
+        <!-- check if lang resources exist -->
+        <path>./main/logos/${system.theme}-${lang}.png</path>
+        <path>./main/logos/${system.theme}-${lang}.svg</path>
+        <!-- 
+        <path>/userdata/themes/${system.theme}/main/${system}.png</path>
+        <path>/userdata/themes/${system.theme}/main/${system}.svg</path>
+      <path>/userdata/themes/${system.theme}/main/${system}-${lang}.png</path>
+      <path>/userdata/themes/${system.theme}/main/${system}-${lang}.svg</path>
+      -->
+      <storyboard><sound path="./main/sounds/omp.wav"/></storyboard>
+    </image>
+    <image name="logo" region="eu"></image>
+    <image name="logo" region="us">
+      <path>./main/logos/us/${system.theme}.png</path>
+      <path>./main/logos/us/${system.theme}.svg</path>
+    </image>
+
+
+  <image name="logo" ifSubset="logoColor:on">
+
+        <!-- try png -->
+        <path>./main/logos/${system.theme}.png</path>
+      <!-- try svg -->
+        <path>./main/logos/${system.theme}.svg</path>
+        <!-- check if lang resources exist -->
+        <path>./main/logos/${system.theme}-${lang}.png</path>
+        <path>./main/logos/${system.theme}-${lang}.svg</path>
+        <!-- 
+        <path>/userdata/themes/${system.theme}/main/${system}.png</path>
+        <path>/userdata/themes/${system.theme}/main/${system}.svg</path>
+      <path>/userdata/themes/${system.theme}/main/${system}-${lang}.png</path>
+      <path>/userdata/themes/${system.theme}/main/${system}-${lang}.svg</path>
+      -->
+      <storyboard><sound path="./main/sounds/omp.wav"/></storyboard>
+    </image>
+    <image name="logo" region="eu"></image>
+    <image name="logo" region="us">
+      <path>./main/logos/us/${system.theme}.png</path>
+      <path>./main/logos/us/${system.theme}.svg</path>
+    </image>
+    
+    <image name="logo" region="jp">
+      <path>./main/logos/jp/${system.theme}.png</path>
+      <path>./main/logos/jp/${system.theme}.svg</path>
+  </image>
+
+        <image name="bottom" extra="static">
+            <pos>0 1</pos>
+            <origin>0 1</origin>
+            <size>1 0.065</size>
+            <path>./main/media/band.svg</path>
+            <color>00000080</color>
+            <zIndex>50</zIndex>
+        </image>
+
+        <image name="bottomLine" extra="true">
+            <pos>0 0.935</pos>
+            <origin>0 0</origin>
+            <size>1 0.005</size>
+            <path>./main/media/band.svg</path>
+            <color>${baseColor}</color>
+            <zIndex>50</zIndex>
+        </image>
+
+      <text name="manufacturerName" extra="static">
+        <text>${system.sortedBy}</text>
+        <alignment>left</alignment>
+        <verticalAlignment>top</verticalAlignment>
+        <fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
+        <fontSize>0.060</fontSize>
+        <pos>0.029 0.037</pos>
+        <size>0.64 0.08</size>
+        <color>ffffff</color>
+        <autoScroll>horizontal</autoScroll>  
+        <autoScrollDelay>0</autoScrollDelay>   
+        <zIndex>100</zIndex>
+        <glowColor>00000080</glowColor>
+        <glowSize>1</glowSize>
+
+        <fontSize tinyScreen="true">0.065</fontSize>
+        <glowSize tinyScreen="true">1</glowSize>
+      </text>
+      <text name="fullName" extra="true">
+        <text>${system.fullName}</text>
+        <alignment>left</alignment>
+        <verticalAlignment>top</verticalAlignment>
+        <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+        <fontSize>0.024</fontSize>
+        <pos>0.03 0.12</pos>
+        <pos verticalScreen="true">0.03 0.10</pos>         
+        <size>0.94 0.28</size>
+        <zIndex>100</zIndex>
+        <color>ffffff</color>
+        <glowColor>000000A0</glowColor>
+        <glowSize>1</glowSize>
+        
+        <pos tinyScreen="true">0.03 0.13</pos>
+        <glowColor tinyScreen="true">00000040</glowColor>
+        <fontSize tinyScreen="true">0.035</fontSize>
+      </text>
+      <text name="releaseYyear" extra="true">
+        <text>${system.releaseYearOrNull}</text>
+        <alignment>left</alignment>
+        <verticalAlignment>top</verticalAlignment>
+        <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+        <fontSize>0.024</fontSize>
+        <pos>0.03 0.157</pos>
+        <pos verticalScreen="true">0.03 0.127</pos>         
+        <size>0.94 0.28</size>        
+        <zIndex>100</zIndex>
+        <color>ffffff</color>
+        <glowColor>000000A0</glowColor>
+        <glowSize>1</glowSize>
+                
+        <pos tinyScreen="true">0.03 0.19</pos>
+        <glowColor tinyScreen="true">00000040</glowColor>
+        <fontSize tinyScreen="true">0.035</fontSize>
+      </text> 
+
+      <text name="systemInfo" visible="false"/>
+      <text name="systemInfoEx" extra="true">
+      <!-- possible bindings are :
+{binding:total}, {binding:played}, {binding:favorites}, {binding:hidden}, {binding:gamesPlayed}
+{binding:mostPlayed}, {binding:lastPlayedDate}
+-->
+      <text>Games : {binding:total}
+Favorites : {binding:favorites}
+Games played : {binding:gamesPlayed}
+Most played : {binding:mostPlayed}
+Last played : {binding:lastPlayedDate}</text>
+      <text lang="fr">Nombre de jeux : {binding:total}
+Favoris : {binding:favorites}
+Jeux joués : {binding:gamesPlayed}
+Le plus joué : {binding:mostPlayed}
+Dernière partie : {binding:lastPlayedDate}</text>
+      <text lang="es">Número de juegos : {binding:total}
+Favoritos : {binding:favorites}
+Jugados : {binding:gamesPlayed}
+El más jugado : {binding:mostPlayed}
+Última partida : {binding:lastPlayedDate}</text>
+      <alignment>left</alignment>
+      <verticalAlignment>center</verticalAlignment>
+      <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+      <fontSize>0.024</fontSize>
+      <pos>0.03 0.64</pos>
+      <size>0.94 0.28</size>
+      <zIndex>100</zIndex>
+      <color>ffffff</color>
+      <glowColor>000000A0</glowColor>
+      <glowSize>1</glowSize>
+    </text>
+    <text name="systemInfoEx" extra="true" if="{system.name} == 'collections'">
+      <text>Collections : {binding:subSystems}</text>
+      <text lang="fr">Nombre de collections : {binding:subSystems}</text>
+    </text>
+    <text name="systemInfoEx" extra="true" if="{system.name} == 'library' || {system.name} == 'screenshots'">
+      <text>Items : {binding:total}</text>
+      <text lang="fr">Nombre d'élements : {binding:total}</text>
+      <text lang="es">Número de elementos: {binding:total}</text>
+    </text>
+    <subset name="iconset" displayName="${subset.iconset}">
+      <include name="PSX" displayName="${PSX}">./main/iconsets/psx.xml</include>
+      <include name="PSX-color" displayName="${PSX-color}">./main/iconsets/psx-color.xml</include>
+      <include name="PSX-color-2" displayName="${PSX-color-2}">./main/iconsets/psx-color-2.xml</include>
+      <include name="PSX-light" displayName="${PSX-light}">./main/iconsets/psx-light.xml</include>
+    </subset> 
+    </view>
+  </feature> 
+  
+</theme>

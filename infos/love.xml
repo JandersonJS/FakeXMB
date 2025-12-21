@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>LÖVE (stylized as LOVE) is a platform game developed and published by American indie developer Fred Wood. It was originally released in May 2008, exclusively to the game's website, but was later to released as an enhanced version entitled Love+ on February 7, 2014 to Early Access, with its final release being on February 14, 2014. For the game's fifth anniversary, it was released on Nintendo Switch on February 14, 2019.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Quiz games, or trivia games, test knowledge on various subjects through question-and-answer formats like multiple-choice, true/false, or fill-in-the-blanks. They can be used for fun, education, or both, blending learning with entertainment by engaging participants of all ages and knowledge levels. These games can also help improve concentration, memory, and knowledge retention</text>

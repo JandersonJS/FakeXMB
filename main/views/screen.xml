@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme defaultView="detailed">
+  <formatVersion>7</formatVersion>
+  <view name="screen">
+
+        <text name="clock" extra="true">
+            <size>0.045 0.058</size>
+            <pos>0.896 0.07</pos>
+            <color>ffffff</color>
+            <fontPath>./main/fonts/SST Roman.ttf</fontPath>
+            <fontSize>0.025</fontSize>
+            <alignment>left</alignment>
+            <glowColor>00000035</glowColor>
+            <glowSize>1</glowSize>
+            <glowOffset>3 2</glowOffset>
+            <zIndex>99</zIndex>
+            <backgroundColor>ff000000</backgroundColor>
+            <verticalAlignment>center</verticalAlignment>
+        </text>
+      
+        <controllerActivity name="controllerActivity">
+            <origin>0 0</origin>
+            <pos>0.695 0.175</pos>
+            <size>0.1 0.033</size>
+            <itemSpacing>0.012</itemSpacing>
+            <color>FFFFFF</color>
+            <!-- controllers -->
+            <imagePath>./main/media/controller.svg</imagePath>
+            <gunPath>./main/media/gun.svg</gunPath>
+            <wheelPath>./main/media/wheel.svg</wheelPath>
+            <activityColor>A0A0FFC0</activityColor>
+            <hotkeyColor>FFA0A0C0</hotkeyColor>
+        </controllerActivity>
+
+        <batteryIndicator name="batteryIndicator">
+            <pos>0.965 0.173</pos>
+            <size>0.035 0.035</size>
+            <horizontalAlignment>right</horizontalAlignment>
+            <incharge>./main/battery/incharge.svg</incharge>
+            <full>./main/battery/full.svg</full>
+            <at75>./main/battery/75.svg</at75>
+            <at50>./main/battery/50.svg</at50>
+            <at25>./main/battery/25.svg</at25>
+            <empty>./main/battery/empty.svg</empty>
+            <!-- wifi -->
+            <networkIcon>./main/icons/Network.png</networkIcon>
+            <color>FFFFFF</color>
+        </batteryIndicator>
+        <batteryIndicator name="batteryIndicator" tinyScreen="true">
+            <pos>0.935 0.935</pos>
+            <origin>0 0</origin>
+            <size>0.05 0.07</size>
+        </batteryIndicator>
+
+      <image name="plus-icon" extra="static">
+            <path>./main/media/plus-picto-bato.svg</path>
+            <pos>0.086 0.045</pos>
+            <pos ifSubset="frontend:no-frontend">0.02 0.045</pos>
+            <maxSize>0.050</maxSize>
+            <color>ffffff</color>
+            <verticalAlignment>top</verticalAlignment>
+            <alignment>left</alignment>
+            <linearSmooth>true</linearSmooth>
+            <zIndex>99</zIndex>
+      </image>
+
+      <image name="logo-front, plus-icon" extra="static" tinyScreen="true">
+            <visible>false</visible>
+      </image>
+
+      <text name="systemInfo">
+            <visible>true</visible>
+      </text>
+
+      <image name="infoBar" extra="static">
+            <pos>0.68 0.068</pos>
+            <origin>0 0</origin>
+            <path>./main/media/colorglass.svg</path>
+            <color>${baseColor}</color>
+            <size>0.40 0.15</size>
+            <visible>true</visible>
+            <linearSmooth>true</linearSmooth>
+      </image>
+
+      <image name="plus-icon" extra="static">
+            <path>./main/media/plus-picto-bato.svg</path>
+            <pos>0.690 0.082</pos>
+            <maxSize>0.030</maxSize>
+            <color>ffffff</color>
+            <alignment>left</alignment>
+            <linearSmooth>true</linearSmooth>
+            <zIndex>99</zIndex>
+      </image>
+
+      <image name="info-icon" extra="static">
+            <path>./main/media/info-picto.svg</path>
+            <pos>0.690 0.132</pos>
+            <maxSize>0.030</maxSize>
+            <color>ffffff</color>
+            <verticalAlignment>top</verticalAlignment>
+            <alignment>left</alignment>
+            <linearSmooth>true</linearSmooth>
+            <zIndex>99</zIndex>
+      </image>
+
+      <image name="puntoazul-1" extra="static">
+            <path>./main/media/punto-azul.png</path>
+            <pos>0.729 0.090</pos>
+            <maxSize>0.010</maxSize>
+            <color>ffffff</color>
+            <alignment>left</alignment>
+            <linearSmooth>true</linearSmooth>
+            <zIndex>99</zIndex>
+      </image>
+
+      <text name="friends" extra="static">
+            <text>42</text>
+            <pos>0.736 0.081</pos>
+            <size>0.024 0.035</size>
+            <color>ffffff</color>
+            <fontPath>./fonts/SST Roman.ttf</fontPath>
+            <fontSize>0.028</fontSize>
+            <alignment>left</alignment>
+            <glowColor>00000035</glowColor>
+            <glowSize>1</glowSize>
+            <glowOffset>3 2</glowOffset>
+            <zIndex>99</zIndex>
+            <backgroundColor>ff000000</backgroundColor>
+      </text>
+
+      <image name="users-icon" extra="static">
+           <path>./main/media/users-picto.svg</path>
+           <pos>0.710 0.082</pos>
+           <maxSize>0.030</maxSize>
+           <color>ffffff</color>
+           <verticalAlignment>top</verticalAlignment>
+           <alignment>left</alignment>
+           <linearSmooth>true</linearSmooth>
+           <zIndex>99</zIndex>
+      </image>
+
+      <image name="avatar" extra="static">
+         <path>./main/avatars/${image.avatar}.png</path>
+         <path ifSubset="system-avatar:custom">./custom-avatar.png</path>
+         <pos>0.751 0.082</pos>
+         <maxSize>0.030 0.030</maxSize>
+         <zIndex>99</zIndex>
+         <linearSmooth>true</linearSmooth>
+      </image>
+
+      <webimage name="avatar"  extra="static" if="{global.cheevos} == true" ifSubset="system-avatar:cheevos">
+         <path>https://media.retroachievements.org/UserPic/${global.cheevos.username}.png</path>
+         <roundCorners>0.5</roundCorners>
+         <pos>0.751 0.082</pos>
+         <maxSize>0.030 0.030</maxSize>
+         <zIndex>99</zIndex>
+         <linearSmooth>true</linearSmooth>
+      </webimage>
+
+      <image name="star-icon" extra="static">
+         <path>./main/media/star-picto.png</path>
+         <pos>0.952 0.090</pos>
+         <maxSize>0.02</maxSize>
+         <color>ffffff</color>
+         <verticalAlignment>center</verticalAlignment>
+         <alignment>left</alignment>
+         <linearSmooth>true</linearSmooth>
+         <zIndex>99</zIndex>
+      </image>
+
+      <text name="trophy-level" extra="static">
+         <text>2025</text>
+         <pos>0.965 0.082</pos>
+         <size>0.048 0.035</size>
+         <color>ffffff</color>
+         <fontPath>./main/fonts/SST Roman.ttf</fontPath>
+         <fontSize>0.025</fontSize>
+         <alignment>left</alignment>
+         <glowColor>00000035</glowColor>
+         <glowSize>1</glowSize>
+         <glowOffset>3 2</glowOffset>
+         <zIndex>99</zIndex>
+         <backgroundColor>ff000000</backgroundColor>
+      </text>
+
+      <image name="clock-icon" extra="static">
+         <path>./main/media/clock.svg</path>
+         <pos>0.878 0.082</pos>
+         <maxSize>0.030</maxSize>
+         <color>ffffff</color>
+         <verticalAlignment>top</verticalAlignment>
+         <alignment>left</alignment>
+         <linearSmooth>true</linearSmooth>
+         <zIndex>99</zIndex>
+      </image>
+
+      <image name="trophy-icon" extra="static">
+         <path>./main/media/trophy-picto.svg</path>
+         <pos>0.934 0.082</pos>
+         <maxSize>0.030</maxSize>
+         <color>ffffff</color>
+         <color ifCheevos="true">F3C300d1</color>
+         <verticalAlignment>top</verticalAlignment>
+         <alignment>left</alignment>
+         <linearSmooth>true</linearSmooth>
+         <zIndex>99</zIndex>
+      </image>
+
+      <text name="systemInfoEx" extra="true">
+         <alignment>left</alignment>
+         <pos>0.162 0.045</pos>
+         <pos tinyScreen="true">0.065 0.045</pos>
+         <size>0.398 0.055</size>
+         <color>FFFFFF</color>
+         <fontPath>./main/fonts/SST Light.ttf</fontPath>
+         <fontSize>0.030</fontSize>
+         <glowColor>00000035</glowColor>
+         <glowSize>1</glowSize>
+         <glowOffset>3 2</glowOffset>
+         <backgroundColor>ff000000</backgroundColor>
+         <zIndex>99</zIndex>
+      </text>
+
+      <text name="systemInfoEx" extra="true">
+      <include>./infos/${system.theme}.xml</include>
+      </text>
+
+      <text name="username" extra="static">
+         <text>${theme.nick}</text>
+         <text ifSubset="system-username:custom">${custom.nick}</text>
+         <pos>0.772 0.080</pos>
+         <size>0.108 0.035</size>
+         <color>ffffff</color>
+         <fontPath>./main/fonts/SST Light.ttf</fontPath>
+         <fontSize>0.028</fontSize>
+         <alignment>left</alignment>
+         <glowColor>00000035</glowColor>
+         <glowSize>1</glowSize>
+         <glowOffset>3 2</glowOffset>
+         <autoScroll>horizontal</autoScroll>
+         <autoScrollDelay>0</autoScrollDelay>
+         <zIndex>99</zIndex>
+         <backgroundColor>ff000000</backgroundColor>
+      </text>
+    <!-- Hide batteryIndicator and replace it with a stackpanel -->
+    <!--
+    <batteryIndicator name="batteryIndicator">
+      <visible>false</visible>
+    </batteryIndicator>
+    <stackpanel name="batteryIndicatorReplacement" extra="true">
+      <pos>0.70 0.012</pos>
+      <size>0.28 0.0275</size>
+      <pos verticalScreen="true">0.7 0.04</pos>
+      <size verticalScreen="true">0.28 0.023</size>
+      <orientation>horizontal</orientation>
+      <separator>2</separator>
+      <reverse>true</reverse>
+      <batteryText name="ss.batterytext">
+        <fontSize>0.019</fontSize>
+        <fontSize tinyScreen="true">0.025</fontSize>
+        <color>FFFFFFA0</color>
+        <padding>4 0</padding>
+      </batteryText>
+      <batteryIcon name="ss.battery">
+        <incharge>./main/media/battery/incharge.svg</incharge>
+        <full>./main/media/battery/full.svg</full>
+        <at75>./main/media/battery/75.svg</at75>
+        <at50>./main/media/battery/50.svg</at50>
+        <at25>./main/media/battery/25.svg</at25>
+        <empty>./main/media/battery/empty.svg</empty>
+        <planemodeIcon>./main/media/icons/Planemode.png</planemodeIcon>
+        <maxSize>1 1</maxSize>
+        <linearSmooth>true</linearSmooth>
+        <padding>1 1</padding>
+        <color>FFFFFFA0</color>
+      </batteryIcon>
+      <text name="ss.separator1">
+        <text>-</text>
+        <fontSize>0.01</fontSize>
+        <color>00000000</color>
+      </text>
+      <networkIcon name="ss.network">
+        <networkIcon>./main/icons/Network.png</networkIcon>
+        <planemodeIcon>./main/icons/Planemode.png</planemodeIcon>
+        <maxSize>1 1</maxSize>
+        <linearSmooth>true</linearSmooth>
+        <padding>1 1</padding>
+        <color>FFFFFFA0</color>
+      </networkIcon>
+      <text name="ss.separator2">
+        <text>AAAA</text>
+        <fontSize>0.01</fontSize>
+        <color>00000000</color>
+      </text>
+      <text name="ss.cheevosUser" if="${global.cheevos}" tinyScreen="false">
+        <text>${global.cheevos.username}</text>
+        <alignment>center</alignment>
+        <fontSize>0.022</fontSize>
+        <fontSize tinyScreen="true">0.025</fontSize>
+        <color>FFFFFFA0</color>
+      </text>
+      <text name="ss.separator2">
+        <text>AA</text>
+        <fontSize>0.01</fontSize>
+        <color>00000000</color>
+      </text>
+      <webImage name="ss.cheevosUserPic" if="${global.cheevos}" tinyScreen="false">
+        <visible>{global:cheevos}</visible>
+        <linearSmooth>true</linearSmooth>
+        <path>https://media.retroachievements.org/UserPic/${global.cheevos.username}.png</path>
+        <maxSize>1 1</maxSize>
+        <color>FFFFFFFF</color>
+      </webImage>
+    </stackpanel>
+    <stackpanel name="batteryIndicatorReplacement" extra="true" tinyScreen="true">
+      <pos>0.708 0.015</pos>
+      <size>0.28 0.06</size>
+    </stackpanel>
+    -->
+  </view>
+</theme>

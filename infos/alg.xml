@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>American Laser Games was a company based in Albuquerque, New Mexico that created numerous light gun laserdisc video games featuring live action full motion video. The company was founded in the late 1980s by Robert Grebe, who had originally created a system to train police officers under the company name ICAT (Institute for Combat Arms and Tactics) and later adapted the technology for arcade games. Its first hit game was Mad Dog McCree, a light gun shooter set in the American Old West. By mid-1995 they were recognized as the leading company in the medium of laserdisc-based arcade games. Almost all arcade games released by the company were light gun shooters and a number of them also had an Old West theme. </text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>A platform game (often simplified as platformer or jump 'n' run games) is a video game genre and subgenre of action games in which the core objective is to move the player character between points in a rendered environment. Platform games are characterized by their level design featuring uneven terrain and suspended platforms of varying height that requires use of the player character's abilities, such as jumping and climbing, to navigate the player's environment and reach their goal.</text>

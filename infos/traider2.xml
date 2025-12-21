@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Tomb Raider II (also known as Tomb Raider II: Starring Lara Croft) is a 1997 action-adventure video game developed by Core Design and published by Eidos Interactive. It was initially released for Windows and PlayStation.

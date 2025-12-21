@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The N-Gage was Nokia's attempt to merge a mobile phone and a handheld game console, released in 2003, but its commercial execution failed, with an awkward design and a series of problems. A digital successor, N-Gage 2.0, was launched in 2007 as a game distribution platform for SymbianOS smartphones, also failing to establish a lasting market and being discontinued in 2009.</text>

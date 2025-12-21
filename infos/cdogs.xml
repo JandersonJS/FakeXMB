@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>C-Dogs SDL is an overhead shoot-em-up which lets players work alone and cooperatively during missions or fight against each other in the “dogfight” deathmatch mode. Customize your player, choose from many weapons, and blast, slide and slash your way through over 100 user-created campaigns.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Adventure games are a video game genre focused on storytelling, puzzle-solving, and exploration, where players control a protagonist in an interactive narrative. While they sometimes include action, their primary focus is on narrative and puzzles over combat or dexterity-based challenges. Examples range from classic point-and-click games to modern, more complex experiences that incorporate elements like Quick Time Events and virtual reality. </text>

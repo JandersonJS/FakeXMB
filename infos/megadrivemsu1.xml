@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The MSU-1 is a custom coprocessor much like the DSP chips used in games like Super Mario Kart or Pilotwings, designed by byuu, the author of bsnes and higan.  This chip enables playback of CD-quality (44.1kHz, 16-bit) audio, as well as addressing up to 4GB of data, far more than a typical SNES cartridge could ever hold.  This allows ROM hacks to replace the background music of games with high quality versions, and even play full-motion videos.</text>

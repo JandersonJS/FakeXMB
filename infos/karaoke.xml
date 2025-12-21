@@ -1,10 +1,10 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
-			<text>Karaoke is a form of interactive entertainment where people sing along to pre-recorded instrumental music, with the lyrics displayed on a screen. Originating in Japan, where the word means "empty orchestra" (kara + ōkesutora), karaoke has become popular worldwide as a fun way to relax and express oneself. In Japan, it's common to sing in private rooms that also offer food and drinks, while elsewhere, there are bars where everyone sings on stage for an audience.</text>
+			<text>Karaoke is a form of interactive entertainment where people sing along to pre-recorded instrumental music, with the lyrics displayed on a system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel. Originating in Japan, where the word means "empty orchestra" (kara + ōkesutora), karaoke has become popular worldwide as a fun way to relax and express oneself. In Japan, it's common to sing in private rooms that also offer food and drinks, while elsewhere, there are bars where everyone sings on stage for an audience.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">

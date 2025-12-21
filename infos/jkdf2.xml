@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Star Wars Jedi Knight: Dark Forces II is a 1997 first-person shooter where you play as Kyle Katarn, a mercenary who discovers his Force-sensitive heritage and becomes a Jedi. The story follows him as he seeks revenge against the Dark Jedi Jerec and his followers who murdered his father, which leads him to the legendary “Valley of the Jedi” to stop them from acquiring its immense power. A key feature of the game is the ability for players to choose between the light or dark side of the Force based on their actions, which affects the story's outcome.</text>

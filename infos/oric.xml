@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 				<text name="system_description" extra="true">
 			<text>Oric was the name used by Tangerine Computer Systems for a series of home computers, including the original Oric-1, its successor the Oric Atmos and the later Oric Stratos/IQ164 and Oric Telestrat models.</text>

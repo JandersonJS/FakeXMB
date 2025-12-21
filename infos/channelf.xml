@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Fairchild Channel F, short for "Channel Fun", was the first programmable ROM cartridge–based video game console, and the first console to use a microprocessor. It was released by Fairchild Camera and Instrument in November 1976 across North America[3] at a retail price of US$169.95 </text>

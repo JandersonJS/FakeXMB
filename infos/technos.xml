@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Technōs Japan Corp. was a Japanese video game developer, best known for the Double Dragon and Kunio-kun franchises (the latter including Renegade, Super Dodge Ball and River City Ransom) as well as Karate Champ, The Combatribes and Voltage Fighter Gowcaizer. As of June 2015, Arc System Works owns the intellectual properties of Technōs Japan.</text>

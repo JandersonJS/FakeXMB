@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>REminiscence is a rewrite of the engine used in the game Flashback from Delphine Software. This program is designed as a cross-platform replacement for the original executable. The game data files (DOS, PC-CD, Amiga,  Macintosh) are required. Apart from that, you can buy it here on GOG or here on Steam. Create a folder with proper naming. Then follow the Flashback_Data\StreamingAssets\data folder to access the data of the Flashback you have. Copy all of the files in the data folder to the folder you just created.</text>

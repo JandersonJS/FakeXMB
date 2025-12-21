@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Cheil Computer appeared on the scene during the second half of 1993 as an arcade game manufacturer. Their later games went under the label First Amusement. Afterwards, the arcade development team apparently split from the company to reform as Semicom. Jeil became an online game developer and worked on several network games, but apparently didn't last for very long. Semicom, however, continued to produce dozens of arcade games until 2001, when they switched to gambling machines altogether. Around the same time Semicom took over the distribution and support for Jarinkobi's CNM series (an office management suite), which apparently has since become the company's sole source of income. Until 1995, Cheil Computer's and Semicom's arcade games were published by a company called Mijin Computer.</text>

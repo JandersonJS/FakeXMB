@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Strategy video games are a genre that emphasizes planning, resource management, and decision-making over reflexes. Players command a role, often from a high-level view, to achieve objectives by thinking ahead and executing strategic plans. The genre includes subgenres like real-time strategy (RTS) and turn-based strategy (TBS), and games can involve building, combat, diplomacy, or a combination of these elements.</text>

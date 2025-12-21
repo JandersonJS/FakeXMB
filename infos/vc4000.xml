@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The Interton Video Computer 4000 (officially abbreviated as Interton VC 4000) is an early 8-bit ROM cartridge-based second-generation home video game console that was released in Germany, England, France, Spain, Austria, the Netherlands and Australia in 1978.</text>

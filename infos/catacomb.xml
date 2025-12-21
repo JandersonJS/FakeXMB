@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Catacomb is a 2-D top-down third-person shooter developed and published by Softdisk. It was originally created for the Apple II, and later ported to IBM PC compatibles. It supports EGA and CGA graphics. </text>

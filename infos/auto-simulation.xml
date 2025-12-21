@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>A game or genre that aims to imitate reality as faithfully as possible, avoiding the simplified controls or mechanics typical of games and applying the laws of physics in a realistic manner, often without a defined end goal. There are countless types based on their themes, such as flight simulation, driving simulation, or management simulation (business, construction, etc.). They are the opposite of arcade games.</text>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme defaultView="detailed">
+  <formatVersion>7</formatVersion>
+  <view name="basic">
+    <image name="ControllerOverlay" extra="true" ifSubset="systembackground:mini-consoles">
+      <path>./main/consoles/default.png</path>
+      <path>./main/consoles/${system.theme}.png</path>
+      <linearSmooth>true</linearSmooth>
+      <pos>0.5 0.5</pos>
+      <maxSize>0.5 0.5</maxSize>
+      <origin>0.5 0.5</origin>
+      <color>FFFFFF09</color>
+      <zIndex>11</zIndex>
+    </image>
+
+        <image name="back-gamelist" extra="static">
+            <pos>0.01 0.215</pos>
+            <size>0.980 0.725 </size>
+            <path>./main/media/band.svg</path>
+            <color>00000080</color>
+            <zIndex>10</zIndex>
+        </image>
+
+        <textlist name="gamelist">
+            <pos>0.025 0.22</pos>
+            <size>0.950 0.715 </size>
+            <size ifHelpPrompts="false">0.950 0.76</size>
+            <lines>17</lines>
+            <horizontalMargin>0.005</horizontalMargin>
+            <scrollbarColor>${baseColor}</scrollbarColor>
+            <scrollbarCorner>0.49</scrollbarCorner>
+            <scrollbarSize>0.0065</scrollbarSize>
+            <scrollbarAlignment>outerright</scrollbarAlignment>
+            <itemTemplate>
+            <image name="selectionBackground">
+              <path>./main/media/band.svg</path>
+              <color>transparent</color>
+              <roundCorners>0</roundCorners>
+              <storyboard event="activate">
+                <animation property="color" to="${baseColor}"/>
+              </storyboard>
+              <storyboard event="deactivate">
+                <animation property="color" to="transparent"/>
+              </storyboard>
+              <container>
+                <padding>6 0</padding>
+                <text name="nameId" pos="0 0" size="0.5 1">
+                  <text>{grid:label}</text>
+                  <extraTextColor>ffffff</extraTextColor>
+                  <verticalAlignment>center</verticalAlignment>
+                  <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+                  <multiLine>false</multiLine>
+                  <autoScrollDelay>250</autoScrollDelay>
+                  <fontSize>0.026</fontSize>
+                  <color>ffffff</color>
+                  <storyboard event="activate">
+                    <animation property="color" to="000000"/>
+                    <animation property="singleLineScroll" to="true"/>
+                  </storyboard>
+                  <storyboard event="deactivate">
+                    <animation property="color" to="ffffff"/>
+                    <animation property="singleLineScroll" to="false"/>
+                  </storyboard>
+                </text>
+                <text name="genreId" pos="0.5 0" size="0.2 1">
+                  <text>{game:genre}</text>
+                  <verticalAlignment>center</verticalAlignment>
+                  <alignment>left</alignment>
+                  <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+                  <fontSize>0.016</fontSize>
+                  <color>A0A0A0</color>
+                  <multiLine>false</multiLine>
+                  <autoScrollDelay>250</autoScrollDelay>
+                  <storyboard event="activate">
+                    <animation property="singleLineScroll" to="true"/>
+                  </storyboard>
+                  <storyboard event="deactivate">
+                    <animation property="singleLineScroll" to="false"/>
+                  </storyboard>
+                </text>
+                <text name="publisherId" pos="0.7 0" size="0.2 1">
+                  <text>{game:publisher}</text>
+                  <verticalAlignment>center</verticalAlignment>
+                  <alignment>left</alignment>
+                  <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+                  <fontSize>0.016</fontSize>
+                  <color>A0A0A0</color>
+                  <multiLine>false</multiLine>
+                  <autoScrollDelay>250</autoScrollDelay>
+                  <storyboard event="activate">
+                    <animation property="singleLineScroll" to="true"/>
+                  </storyboard>
+                  <storyboard event="deactivate">
+                    <animation property="singleLineScroll" to="false"/>
+                  </storyboard>
+                </text>
+                <text name="releasedateId" pos="0.9 0" size="0.1 1">
+                  <text>{game:stars}</text>
+                  <verticalAlignment>center</verticalAlignment>
+                  <alignment>left</alignment>
+                  <fontPath>./main/fonts/Cabin-Regular.ttf</fontPath>
+                  <fontSize>0.016</fontSize>
+                  <color>FFCC00D0</color>
+                  <multiLine>false</multiLine>
+                  <autoScrollDelay>250</autoScrollDelay>
+                  <storyboard event="activate">
+                    <animation property="singleLineScroll" to="true"/>
+                  </storyboard>
+                  <storyboard event="deactivate">
+                    <animation property="singleLineScroll" to="false"/>
+                  </storyboard>
+                </text>
+              </container>
+            </image>
+          </itemTemplate>
+        </textlist>
+  </view>
+</theme>

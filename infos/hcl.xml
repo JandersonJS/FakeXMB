@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Originally released in mid-2011 by indie game creator E. Hashimoto (Buster), Hydra Castle Labyrinth is an old school-styled platform adventure that was previously only available in Japanese. A brave soul recently translated the game to English, and now the cute metroidvania title is available for a much wider audience to enjoy. And enjoy it ye shall!</text>

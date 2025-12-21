@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Heroic Games Launcher is a free, open-source, and user-friendly client for Linux, Windows, and macOS that serves as an alternative to the official Epic Games, GOG, and Amazon game launchers. It allows users to download, install, and launch games from these digital storefronts through a unified and lightweight interface. The launcher uses third-party tools like Legendary for Epic games, gogdl for GOG, and Nile for Amazon, enabling it to manage accounts and game files efficiently. Heroic also supports Wine, Proton, and other tools to facilitate running Windows games on other operating systems, focusing on privacy and resource efficiency. 

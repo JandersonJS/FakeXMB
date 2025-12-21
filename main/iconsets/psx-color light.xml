@@ -1,0 +1,21 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="menu, system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
+		<helpsystem name="help">
+			<iconColor>${baseColor}</iconColor>
+			<iconUpDown>./psx-color light/updown.svg</iconUpDown>
+			<iconLeftRight>./psx-color light/leftright.svg</iconLeftRight>
+			<iconUpDownLeftRight>./psx-color light/all.svg</iconUpDownLeftRight>
+			<iconA>./psx-color light/a.svg</iconA>
+			<iconB>./psx-color light/b.svg</iconB>
+			<iconX>./psx-color light/x.svg</iconX>
+			<iconY>./psx-color light/y.svg</iconY>
+			<iconL>./psx-color light/l.svg</iconL>
+			<iconR>./psx-color light/r.svg</iconR>
+			<iconStart>./psx-color light/start.svg</iconStart>
+			<iconSelect>./psx-color light/select.svg</iconSelect>
+			<iconF1>./psx-color light/f1.png</iconF1>
+		</helpsystem>
+	</view>
+</theme>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Mattel Aquarius was a short-lived 1983 home computer based on the Zilog Z-80 microprocessor with 4KB RAM, a built-in Microsoft BASIC interpreter, and a rubber keyboard. Designed as a low-cost entry into the computer market with expansion potential, it was discontinued just months after its 1983 release due to poor sales and a flood of more capable competitors, leading to a failure in the crowded 1980s home computer landscape.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Ship of Harkinian is an open-source, fan-made PC port of The Legend of Zelda: Ocarina of Time, built from a decompiled version of the original Nintendo 64 game. It runs on modern hardware for platforms like Windows, macOS, and Linux, offering enhancements such as 4K resolution, higher frame rates, and support for custom mods. To use it, you need a legally obtained Ocarina of Time ROM, which Ship of Harkinian then uses to extract the game's copyrighted assets.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Fighting games are a genre of action video games where characters engage in close-quarters combat, typically one-on-one, in a series of rounds. Players use a combination of basic attacks and special moves, executed through specific button and joystick inputs, to reduce their opponent's health to zero. Key elements include character selection, mastering special move inputs, and developing strategies for offense, defense, and movement.</text>

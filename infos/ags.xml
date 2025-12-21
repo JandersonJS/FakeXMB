@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Adventure Game Studio (acronym AGS) is an open source development tool that is primarily used to create adventure video games. It is aimed at intermediate-level game designers, and combines an integrated development environment (IDE) for configuring most aspects of the game with a C-based scripting language for processing game logic.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Ur-Quan Masters promises a “fascinating and quirky adventure to save Earth from the ruthless Ur-Quan armada,” its creators said in a press release. Just like the original game, players embark on a space adventure across an open galaxy, encountering a colorful cast of alien creatures and discovering hundreds of star systems. The game is full of space battles, with a charming retro aesthetic and strange extraterrestrial characters.</text>

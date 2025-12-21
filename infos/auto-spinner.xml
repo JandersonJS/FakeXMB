@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The spinner can be used for classics like Tempest, Breakout, and 720 while the trackball works great on Marble Madness, Golden Tee, Centipede, and Missle Command.  The spinner also works great as an analogue steering wheel on all MAME driving games!  The frontend has a special category to direct you to only the games that use this hardware.</text>

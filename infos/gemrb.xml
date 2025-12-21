@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>GemRB is a portable, open-source implementation of Bioware's Infinity Engine, which powers classic RPGs like Baldur's Gate and Planescape: Torment. Its goal is to make these games available on multiple platforms, fix old bugs, add new features, and serve as a platform for mod development—all without the need for commercial game data.</text>

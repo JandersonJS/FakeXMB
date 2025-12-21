@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 			<text>A handheld TV game or plug and play game is an integrated home video game console and game controller, usually battery powered, which connects directly to a television. The game software is built directly into the unit, which is typically designed to look like a toy or classic game console controller with the addition of a composite video cable to connect the unit. These systems usually contain either a collection of classic games or original games based on licensed properties. Because the game software is integrated into the game unit and almost never designed to be changed by the user, these game systems are typically marketed as electronic toys or collectibles rather than game consoles.</text>

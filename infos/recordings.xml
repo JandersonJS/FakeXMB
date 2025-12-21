@@ -1,10 +1,10 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
-			<text>Here you can see your videos recorded with a screen recorder integrated into Batocera.</text>
+			<text>Here you can see your videos recorded with a system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel recorder integrated into Batocera.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">

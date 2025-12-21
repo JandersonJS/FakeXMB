@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The Sega Titan Video (Sega ST-V) was an arcade board released by Sega during 1995. It is based on the Sega Saturn hardware and was released for both Japanese and American markets, with games being released until 2001 in Japan.</text>

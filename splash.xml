@@ -1,6 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <theme>
   <formatVersion>7</formatVersion>
+  <subset name="colorset" displayName="${subset.colorset}">
+    <include name="gray" displayName="${gray}">./main/colors/gray.xml</include>
+    <include name="blue" displayName="${blue}">./main/colors/blue.xml</include>
+    <include name="red" displayName="${red}">./main/colors/red.xml</include>
+    <include name="green" displayName="${green}">./main/colors/green.xml</include>
+    <include name="yellow" displayName="${yellow}">./main/colors/yellow.xml</include>
+    <include name="violet" displayName="${violet}">./main/colors/violet.xml</include>
+    <include name="cyan" displayName="${cyan}">./main/colors/cyan.xml</include>
+    <include name="orange" displayName="${orange}">./main/colors/orange.xml</include>
+    <include name="brawn" displayName="${brawn}">./main/colors/brawn.xml</include>
+    <include name="silver" displayName="${silver}">./main/colors/silver.xml</include>
+  </subset>
 
 	<view name="splash">
 
@@ -8,14 +20,15 @@
 			<backgroundColor>000000FF</backgroundColor>
 		</splash>
 		<image name="background">
-			<path>./main/background/splash.jpg</path>
+			<path>./main/background/splash.png</path>
+			<color>${baseColor}</color>
 		</image>
 		
 		<text name="label, FakeXMB" extra="true">
 			<origin>0 0</origin>
 			<fontPath>./main/fonts/PhatBoy Slim BoldItalic.otf</fontPath>
 			<fontSize>0.023</fontSize>
-			<color>000000</color>
+			<color>ffffff</color>
 			<forceUppercase>true</forceUppercase>
 		</text>
 
@@ -33,13 +46,12 @@
 		      <origin>0 0</origin>
 		      <pos>0.05 0.87</pos>
 		      <size>0.9 0.016</size>
+		      <borderSize>0.008</borderSize>
 		      <color>6060607F</color>
-		      <colorEnd>6060607F</colorEnd>
 		    </image>
 		    <image name="progressbar:active">
 		      <tile>true</tile>
 		      <color>4a8d35</color>
-		      <colorEnd>4a8d35</colorEnd>
 		    </image>
 		
 	</view>

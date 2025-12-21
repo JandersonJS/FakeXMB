@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>A casino game is one in which players simulate betting money or chips on various random outcomes or combinations of possible outcomes, usually in a virtual casino environment for entertainment purposes, such as at parties or school competitions, on machines that simulate games of chance.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Amazon Prime Gaming offers members free PC games to keep, exclusive in-game content and in-game items for popular titles, and a free monthly Twitch channel subscription. Accessed via gaming.amazon.com and linked to your Amazon Prime account, this service provides a rotating selection of digital content and perks for various platforms including PC, console, and mobile games.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Acorn Electron was a budget version of the BBC Micro educational/home computer introduced by Acorn Computers Ltd on 25 August 1983. It had 32 kilobytes of RAM, and its ROM includes BBC BASIC v2 along with its operating system. </text>

@@ -35,16 +35,4 @@
       <zIndex>12</zIndex>
     </image>
   </view>
-<!--
-  <customView name="basic,detailed,grid,Tile,Carousel,Boxes">
-    <image name="backgrounde2" extra="true">
-      <tile>false</tile>
-      <pos>0.5 0.5</pos>
-      <origin>0.5 0.5</origin>
- <color>50505090</color>
-      <minSize>1 1</minSize>
-      <path>./../background/${system.theme}.jpg</path>
-      <zIndex>2</zIndex>
-    </image>
-  </customView> -->
 </theme>

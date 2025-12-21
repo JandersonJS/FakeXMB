@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>A trackball is a computer cursor control device used in many laptop computer keyboards and older versions of computer mice. The device comprises a ball held by a socket containing sensors to detect a rotation of the ball about two axes -- like an upside-down mouse with a ball in it.</text>

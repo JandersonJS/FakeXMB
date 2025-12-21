@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>7</formatVersion>
+
+    <view name="menu">
+        <menuText name="menutitle">
+            <fontPath>./main/fonts/Exo2-BoldCondensed.otf</fontPath>
+            <fontSize>0.042</fontSize>
+            <color>FFFFFF</color>
+        </menuText>
+
+        <menuText name="menufooter">
+            <fontPath>./main/fonts/Exo2-BoldCondensed.otf</fontPath>
+            <fontSize>0.020</fontSize>
+            <color>ffffff</color>
+        </menuText>
+
+        <menuText name="menutext">
+            <fontPath>./main/fonts/Exo2-RegularCondensed.otf</fontPath>
+            <fontSize>0.031</fontSize>
+            <color>EEEEEE</color>
+            <separatorColor>FEFEFE</separatorColor>
+            <selectorColor>${baseColor}</selectorColor>
+            <selectorColorEnd>${baseColor}</selectorColorEnd>
+            <selectedColor>262626</selectedColor>
+            <selectorGradientType>horizontal</selectorGradientType>
+        </menuText>
+
+        <menuTextSmall name="menutextsmall">
+            <fontPath>./main/fonts/Exo2-RegularCondensed.otf</fontPath>
+            <fontSize>0.032</fontSize>
+            <color>ffffff</color>
+        </menuTextSmall>
+     
+        <menuGroup name="menugroup">
+            <fontPath>./main/fonts/Cabin-Bold.ttf</fontPath>
+            <fontSize>0.025</fontSize>
+            <color>${groupColor}</color>
+            <separatorColor>${groupSeparatorColor}</separatorColor>
+            <backgroundColor>00000000</backgroundColor>
+            <lineSpacing>2.5</lineSpacing>
+        </menuGroup>
+
+        <menuBackground name="menubg">
+            <color>${baseColor}99</color>
+            <cornerSize>32 32</cornerSize>
+            <path>./main/media/frame.png</path>
+        </menuBackground>
+
+        <menuIcons name="menuicons">
+            <iconKodi>./main/icons/Kodi.png</iconKodi>
+            <iconSystem>./main/icons/System.png</iconSystem>
+            <iconUpdates>./main/icons/Updates.png</iconUpdates>
+            <iconGames>./main/icons/Games.png</iconGames>
+            <iconControllers>./main/icons/Controllers.png</iconControllers>
+            <iconUI>./main/icons/UI.png</iconUI>
+            <iconSound>./main/icons/Sound.png</iconSound>
+            <iconNetwork>./main/icons/Network.png</iconNetwork>
+            <iconScraper>./main/icons/Scraper.png</iconScraper>
+            <iconAdvanced>./main/icons/Advanced.png</iconAdvanced>
+            <iconQuit>./main/icons/Quit.png</iconQuit>
+            <iconRestart>./main/icons/Restart.png</iconRestart>
+            <iconShutdown>./main/icons/Shutdown.png</iconShutdown>
+            <iconFastShutdown>./main/icons/Fastshutdown.png</iconFastShutdown>
+            <iconRetroachievements>./main/icons/Contest.png</iconRetroachievements>
+            <iconManual>./main/icons/Manual.png</iconManual>
+        </menuIcons>
+
+        <menuTextEdit name="menutextedit">
+            <inactive>./main/media/textinput_ninepatch.png</inactive>
+            <active>./main/media/textinput_ninepatch_active.png</active>
+        </menuTextEdit>
+
+        <menuButton name="menubutton">
+            <path>./main/media/button.png</path>
+            <filledPath>./main/media/button_filled.png</filledPath>
+        </menuButton>
+    </view>
+</theme>

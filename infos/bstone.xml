@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Blake Stone refers to a series of first-person shooter video games, with the protagonist being a British intelligence agent named Blake Stone. The original game, Blake Stone: Aliens of Gold, was released in 1993 and uses an enhanced version of the engine from Wolfenstein 3D. The series' plot revolves around Agent Stone's mission to stop the evil Dr. Pyrus Goldfire from conquering Earth with a mutant army.</text>

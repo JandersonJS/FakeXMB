@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 			<text>As its title suggests, VitaQuake II is a port of Quake II’s engine for the PSVita. Quake II is a massively popular game that was released in late 1997 by id Software as a successor (but not a direct sequel) to Quake I.</text>

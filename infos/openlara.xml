@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>With OpenLara, you can experience  Tomb Raider like you've never played before. You can try it through the eyes of Lara Croft with the primary person camera, for this you can switch to this mode by pressing L1 + A and exit this mode with the same combination. FPS also available in 2-Player Mode.</text>

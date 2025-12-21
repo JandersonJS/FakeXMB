@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 			<text>The PocketStation is a memory card peripheral by Sony Computer Entertainment for the PlayStation home video game console. Categorized by Sony as a combination of a Memory Card and a miniature personal digital assistant, the device features a monochrome liquid crystal display (LCD), infrared communication capability, a real-time clock, built-in flash memory, and sound capability. To use the device's memory card functionality, it must be connected to a PlayStation through a memory card slot. It was released exclusively in Japan on January 23, 1999.</text>

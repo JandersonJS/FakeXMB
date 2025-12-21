@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Video game music (or VGM) is the soundtrack that accompanies video games. Early video game music was once limited to sounds of early sound chips, such as programmable sound generators (PSG) or FM synthesis chips. These limitations have led to the style of music known as chiptune, which became the sound of the first video games.</text>

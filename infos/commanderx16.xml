@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The idea is that this computer evokes the same affection and nostalgia that many users had for 8-bit computers, and yet it maintains proximity to the hardware from a programming point of view. In other words, the intention is for it to be an 8-bit computer, and not a Raspberry Pi dressed up as a classic computer (get it, MSXVR?).</text>

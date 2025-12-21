@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Psikyo was a Japanese video game developer and publisher known for its shoot 'em ups and undressing mahjong games. It was founded in 1992 by former Video System staff who worked on the Aero Fighters series. Psikyo was mainly an arcade game developer, and ported some of their games to home consoles as well.</text>

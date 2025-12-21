@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>PlayStation 4 (プレイステーション4, Pureisutēshon Fō; officially abbreviated as PS4) is a video game console, of the eighth generation with x86 architecture, produced by Sony Interactive Entertainment and launched in November 2013, as the fourth edition of the PlayStation series, successor to PlayStation 3, competing directly with Nintendo's Wii U and Microsoft's Xbox One.</text>

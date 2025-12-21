@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">	
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">	
 		
 				<text name="system_description" extra="true">
 			<text>The Family Computer Disk System, abbreviated as the FDS or FCD, is a peripheral for Nintendo's Family Computer home video game console, released only in Japan on February 21, 1986.</text>

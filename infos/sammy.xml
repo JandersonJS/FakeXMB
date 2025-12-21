@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Sammy Corporation is a Japanese developer and retailer of pachinko and pachislot machines, headquartered in Shinagawa, Tokyo. Its South Korean office, Sammy Amusement Service, is headquartered in Seoul, South Korea. Sammy is a subsidiary of the entertainment conglomerate Sega Sammy Holdings.</text>

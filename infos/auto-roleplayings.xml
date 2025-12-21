@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>RPG video games, or role-playing video games, are games where players assume the roles of characters in a fictional world to progress through a story. Players develop their characters by gaining experience and improving attributes, often making choices that shape the narrative and character's journey. Common elements include non-player characters, quests, and the ability to customize characters' appearance and abilities.</text>

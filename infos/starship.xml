@@ -1,10 +1,10 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
-			<text>To play Star Fox 64 on PC, you can use Starship, a decompiled native PC port developed by the same community that created the Ocarina of Time port. Starship offers numerous enhancements over the original, including high-resolution graphics, widescreen support, high frame rates, and modding capabilities. The port also provides quality-of-life improvements like bug fixes, customizable controller settings, and cheats.</text>
+			<text>To play Star Fox 64 on PC, you can use Starship, a decompiled native PC port developed by the same community that created the Ocarina of Time port. Starship offers numerous enhancements over the original, including high-resolution graphics, widesystem, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel support, high frame rates, and modding capabilities. The port also provides quality-of-life improvements like bug fixes, customizable controller settings, and cheats.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
@@ -16,7 +16,7 @@
 		</text>
 
 				<text name="system_description" extra="true" lang="pt">
-			<text>Para jogar Star Fox 64 no PC, você pode usar o Starship, uma versão nativa descompilada para PC desenvolvida pela mesma comunidade que criou a versão de Ocarina of Time. O Starship oferece inúmeras melhorias em relação ao original, incluindo gráficos de alta resolução, suporte a widescreen, altas taxas de quadros e recursos de modificação. A versão também oferece melhorias de qualidade de vida, como correções de bugs, configurações de controle personalizáveis ​​e cheats.</text>
+			<text>Para jogar Star Fox 64 no PC, você pode usar o Starship, uma versão nativa descompilada para PC desenvolvida pela mesma comunidade que criou a versão de Ocarina of Time. O Starship oferece inúmeras melhorias em relação ao original, incluindo gráficos de alta resolução, suporte a widesystem, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel, altas taxas de quadros e recursos de modificação. A versão também oferece melhorias de qualidade de vida, como correções de bugs, configurações de controle personalizáveis ​​e cheats.</text>
 		</text>
 
 

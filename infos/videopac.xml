@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Odyssey² or Videopac was a very popular video game console in the 70s and 80s. The console was created in 1978 by the company Magnavox / Philips as an evolution of the previous Magnavox console, the Magnavox Odyssey, the first home video game console ever.</text>

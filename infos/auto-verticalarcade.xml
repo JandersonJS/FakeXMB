@@ -1,11 +1,11 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		
 				<text name="system_description" extra="true" >
-			<text>They are games where the screen is vertical instead of horizontal, they are usually spaceship games.</text>
+			<text>They are games where the system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel is vertical instead of horizontal, they are usually spaceship games.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="es" >

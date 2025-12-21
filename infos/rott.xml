@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Rise of the Triad: Dark War is a first-person shooter video game, developed and published by Apogee Software (now 3D Realms) in 1995. The player can choose to play as one of five different characters, each bearing unique attributes such as speed and endurance. The game's story follows these five characters who have been sent to investigate a deadly cult, and soon become aware of a deadly plot to destroy a nearby city. A remake was designed by Interceptor Entertainment and released by Apogee Games in 2013. The shareware version of the game is titled Rise of the Triad: The HUNT Begins.</text>

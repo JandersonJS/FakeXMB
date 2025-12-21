@@ -15,6 +15,6 @@
   </variables>
   <subset tinyScreen="false" name="animatedBackground" displayName="${animatedBackground}">
     <include name="yes" displayName="${yes}">./animatedbackground.xml</include>
-    <include name="no" displayName="${no}"/>
+    <include name="no" displayName="${no}">./background.xml</include>
   </subset>
 </theme>

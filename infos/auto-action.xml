@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Action games are a video game genre centered on physical challenges that require hand-eye coordination and quick reflexes. They often feature fast-paced gameplay, combat, and require players to navigate environments by jumping, running, shooting, or fighting to overcome obstacles and defeat enemies. This genre includes many subgenres, such as shooters, fighting games, and platformers.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Adobe Flash Player (known in Internet Explorer, Firefox, and Google Chrome as Shockwave Flash) is computer software for viewing multimedia contents, executing rich Internet applications, and streaming audio and video content created on the Adobe Flash platform. It can run from a web browser as a browser plug-in or independently on supported devices. Originally created by FutureWave under the name FutureSplash Player, it was renamed to Macromedia Flash Player after Macromedia acquired FutureWave in 1996. It was then developed and distributed by Adobe Systems as Flash Player after Adobe acquired Macromedia in 2005. It is currently developed and distributed by Zhongcheng for users in China, and by Harman International for enterprise users outside of China, in collaboration with Adobe.</text>

@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
+
+		<text name="system_description" extra="true">
+			<text>3dSen is a Nintendo Entertainment System (NES) emulator that converts classic games to a 3D perspective, recreating scenarios and characters in a three-dimensional environment. Available on Steam, the emulator does not include games and requires the user to obtain them separately, focusing on specific titles that have been adjusted for the 3D effect. It was developed by Geod Studio and can be used with or without virtual reality (VR) support.</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="es">
+			<text>3dSen es un emulador de Nintendo Entertainment System (NES) que convierte juegos clásicos a una perspectiva 3D, recreando escenarios y personajes en un entorno tridimensional. Disponible en Steam, el emulador no incluye juegos y requiere que el usuario los obtenga por separado, centrándose en títulos específicos adaptados al efecto 3D. Fue desarrollado por Geod Studio y puede usarse con o sin soporte para realidad virtual (RV).</text>
+		</text>
+		
+		<text name="system_description" extra="true" lang="fr">
+			<text>3dSen est un émulateur de Nintendo Entertainment System (NES) qui convertit les jeux classiques en 3D, recréant ainsi les décors et les personnages dans un environnement tridimensionnel. Disponible sur Steam, cet émulateur ne contient aucun jeu; l’utilisateur doit donc se les procurer séparément. Il se concentre sur des titres spécifiques adaptés à la 3D. Développé par Geod Studio, il est compatible avec ou sans casque de réalité virtuelle (VR).</text>
+		</text>
+
+		<text name="system_description" extra="true" lang="pt">
+			<text>3dSen é um emulador de Nintendinho (NES) que converte jogos clássicos para a perspectiva 3D, recriando cenários e personagens em um ambiente tridimensional. Disponível na Steam, o emulador não acompanha jogos e precisa que o usuário os obtenha separadamente, com foco em títulos específicos que foram ajustados para o efeito 3D. Ele foi desenvolvido pelo Geod Studio e pode ser usado com ou sem suporte de realidade virtual (VR).</text>
+		</text>
+
+
+		<text name="system_name" extra="true">
+			<text>3dSen</text>
+		</text>
+	</view>
+</theme>

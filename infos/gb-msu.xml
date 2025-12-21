@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>MSU-1 (Media Sound Unit-1) is an expansion chip for the Super Nintendo that adds CD-quality audio playback capability, and the term "MSU-1 hack" refers to fan-made projects to modify Game Boy games to run on the Super NES via the Super Game Boy, using the MSU-1 chip to obtain enhanced soundtracks.</text>

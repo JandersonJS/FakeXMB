@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 	
 		<text name="system_description" extra="true">
 			<text>The GP32 (GamePark 32) is a handheld game console developed by the South Korean company Game Park. It was released on November 23, 2001, in South Korea and distributed in some parts of Europe. Is a free software oriented console, being the first of its kind.</text>

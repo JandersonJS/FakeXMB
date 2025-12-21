@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The VTech Socrates is an 8-bit educational home video game console manufactured and released in 1988 by VTech. The console features a robot character Socrates, named after the philosopher. The character is visually similar to Johnny Five from the Short Circuit movies. It was discontinued in the early 1990s. The system features standard wireless controllers that communicated via infrared reception. </text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Casio Loopy was a 32-bit Japanese video game console released in 1995, aimed at women, featuring a built-in thermal printer for creating stickers with game images or images captured by an optional accessory, the Magical Shop. Its library of 11 games included titles about fashion, dolls, and life simulation, but the console was not a commercial success, with its main selling point being the printer and its innovative design for the time.</text>

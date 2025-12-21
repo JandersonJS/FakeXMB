@@ -1,11 +1,11 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		
 				<text name="system_description" extra="true" >
-			<text>Is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game and Watch features a single game to be played on an LCD screen in addition to a clock.</text>
+			<text>Is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game and Watch features a single game to be played on an LCD system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel in addition to a clock.</text>
 		</text>
 		
 				<text name="system_description" extra="true" lang="es">

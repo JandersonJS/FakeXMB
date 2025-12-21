@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>CorsixTH aims to re-implement the game engine of Theme Hospital, and be able to load the original game data files. After most of the original engine has been re-implemented in open source code, the project will serve as a base from which extensions and improvements to the original game can be made.</text>

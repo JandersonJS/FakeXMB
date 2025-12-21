@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 	
 		<text name="system_description" extra="true">
 			<text>The PDP-1 (Programmed Data Processor-1) is the first computer in Digital Equipment Corporation's PDP series and was first produced in 1959. It is famous for being the computer most important in the creation of hacker culture at MIT, BBN and elsewhere.

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 				<text name="system_description" extra="true" >
 			<text>Is a line of home computers from Atari Corporation and the successor to the Atari 8-bit family. The initial ST model, the 520ST, saw limited release in April–June 1985 and was widely available in July.</text>

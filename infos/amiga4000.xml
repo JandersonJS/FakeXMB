@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Amiga 4000, released by Commodore in 1992, was a high-end personal computer, the successor to the Amiga 3000, which introduced the AGA (Advanced Graphics Architecture) graphics chipset with 16.8 million colors. There were two main versions, the desktop A4000D and the tower A4000T, with Motorola 68040 or 68030 CPUs and the AmigaOS operating system. The A4000 was the last in the Amiga line before Commodore's bankruptcy, and was continued by others for a time.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Nihon Bussan Co. Ltd. was a Japanese video game developer and publisher headquartered in Kita, Osaka. In the past they had also manufactured and sold yachts. The main video game brand of the company was Nichibutsu (日物、ニチブツ), with adult video games (mainly strip mahjong arcade games) coming under the Sphinx (スフィンクス) brand. The company used a horned owl for its official logo.</text>

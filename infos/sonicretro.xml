@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The Retro Engine is a game engine that was originally developed by Christian Whitehead. It is a retro-styled multiplatform engine that has been used in several game remasters in the Sonic the Hedgehog series. Since 2018, the engine has been developed by the newly founded Evening Star Studio.</text>

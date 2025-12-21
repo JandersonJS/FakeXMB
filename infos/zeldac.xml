@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 			<text>First released over 20 years ago, Zelda Classic is a game engine made to recreate and modify the original Legend of Zelda game. The community surrounding it has created over 600 quests or custom games from it, totaling in about 20+ hours of content.</text>

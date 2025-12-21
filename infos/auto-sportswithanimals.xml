@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Video games featuring sports with animals range from simulation games where you play as an animal, to sports management sims, to games based on real-life animal sports like horse racing or dog sledding. Popular genres include survival games where you must hunt and avoid predators, as well as racing games like those inspired by harness racing and pigeon racing. Some games also incorporate real-world animal training sports like Canicross (running with dogs).</text>

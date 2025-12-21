@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>"Reflection games" can refer to a few different types of games, including indie horror, VR puzzle, and logic-based games where players interact with or manipulate reflections and mirrors. NVIDIA's Reflex technology is also a factor, which is an anti-lag tool for high-performance gaming. The phrase could also refer to general games that explore the theme of reflection and its consequences.</text>

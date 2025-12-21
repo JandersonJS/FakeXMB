@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Chihiro (also known as Sega Chihiro) is an arcade system board developed and used by Sega for a variety of high-end arcade releases in the early-to-mid 2000's. Originally released in 2002 with The House of the Dead III, Chihiro is a successor to the NAOMI series of boards and is based on Microsoft's Xbox console.</text>

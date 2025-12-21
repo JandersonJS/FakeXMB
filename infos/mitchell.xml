@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Mitchell Corporation developed titles for home consoles, handhelds, Japanese mobile phones, the arcade and interactive kiosks located in restaurants and other places. Mitchell also distributed printed circuit boards for the arcade/coin-op market. The company also developed video games for other publishers.</text>

@@ -1,11 +1,11 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		
 		<text name="system_description" extra="true">
-			<text>This system is used to display your screenshots, captured with the shortcut Hotkey+L.</text>
+			<text>This system is used to display your system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarouselshots, captured with the shortcut Hotkey+L.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">
@@ -13,7 +13,7 @@
 		</text>
 
 		<text name="system_description" extra="true" lang="fr">
-			<text>Retrouvez ici tous vos screenshots avec le Hotkey+L.</text>
+			<text>Retrouvez ici tous vos system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarouselshots avec le Hotkey+L.</text>
 		</text>	
 		<text name="system_description" extra="true" lang="pt">
 			<text>este sistema é usado para exibir suas capturas de tela, capturadas com o atalho Hotkey+L.</text>

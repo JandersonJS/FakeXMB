@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Asiatic board games encompass a diverse range of both traditional games, like Go and Shogi, and modern, internationally popular titles often featuring unique aesthetics and language-independent design. Examples of traditional games include the strategic battle of Shogi, the tile-based game of Mahjong, and the classic Indian race game Chaupar, while modern titles often focus on themes like Japanese history, puzzle-like city-building, and intricate mechanisms. These modern games are designed for a global audience and are known for their sophisticated production and appeal to a wide range of players.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Medal of Honor: Allied Assault is a World War II first-person shooter where you play as U.S. Army Lieutenant Mike Powell, detailing his fictional exploits in the European theater. The game is known for its D-Day beach landing on Omaha Beach and other historical battles, allowing players to fight in North Africa, Italy, and Germany. It was praised for its intense gameplay and large-scale battles, and was followed by expansion packs.</text>

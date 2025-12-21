@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Namco System 246 is an arcade board that uses the PlayStation 2 hardware as a base, it was launched in 2001 with the game Ridge Racer V, just like the Sega NAOMI it was also used by other developers besides Namco for games.</text>

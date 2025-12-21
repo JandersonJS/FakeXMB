@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Casual games are video games designed for easy accessibility, quick play sessions, and low commitment, making them enjoyable for a broad audience. They typically feature simple rules, intuitive mechanics, and colorful, engaging visuals, with popular examples including puzzle, match-3, and word games. Monetization often relies on free-to-play models with in-app purchases and advertisements.</text>

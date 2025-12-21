@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>GOG is a digital distribution platform for PC games, formerly known as Good Old Games, offering DRM-free (Digital Rights Management) games, allowing users to own and play games more freely and without the constraints of a constant internet connection. Founded by CD Projekt Red, the platform is dedicated to preserving games, including old classics and modern titles, with the optional GOG Galaxy client for managing games and friends.</text>

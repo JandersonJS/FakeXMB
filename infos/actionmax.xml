@@ -1,10 +1,10 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
-			<text>The Action Max was a 1987 video game console by Worlds of Wonder that used VHS tapes and a light gun for on-rails shooting games, but it required a separate VCR and had no true interactivity, limiting replayability and contributing to its failure and the company's bankruptcy. Players would shoot at targets on the TV screen with a light gun, while the console used a sensor on the screen to track hits and keep score on its LED display. Only five games were released, and the console's lack of innovation and inability to provide new gameplay loops led to its quick downfall.</text>
+			<text>The Action Max was a 1987 video game console by Worlds of Wonder that used VHS tapes and a light gun for on-rails shooting games, but it required a separate VCR and had no true interactivity, limiting replayability and contributing to its failure and the company's bankruptcy. Players would shoot at targets on the TV system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel with a light gun, while the console used a sensor on the system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel to track hits and keep score on its LED display. Only five games were released, and the console's lack of innovation and inability to provide new gameplay loops led to its quick downfall.</text>
 		</text>
 
 		<text name="system_description" extra="true" lang="es">

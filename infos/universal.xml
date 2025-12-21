@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Universal Interactive (formerly Universal Interactive Studios) was an American video game publisher. The company was established on January 4, 1994, and led by Skip Paul and Robert Biniaz of MCA. It was best known for producing the Crash Bandicoot and Spyro platform game franchises. Universal Interactive, Inc.</text>

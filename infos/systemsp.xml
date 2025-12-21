@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Sega System SP, is an arcade board developed by Sega which first entered service in 2004. It can be seen as a cost-reduced NAOMI board (itself derived from the Sega Dreamcast), where the core components are presented as a system-on-a-chip, a bespoke version of Linux is used as an operating system, and software was distributed on CompactFlash cards instead of GD-ROMs or cartridges.</text>

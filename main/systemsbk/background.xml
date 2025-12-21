@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system">
+    <image name="bkground" extra="static">
+      <linearSmooth>true</linearSmooth>
+      <path>./main/background/splash.png</path>
+      <color>${baseColor}</color>
+      <pos>0.5 0.5</pos>
+      <origin>0.5 0.5</origin>
+      <minSize>1 1</minSize>
+      <zIndex>11</zIndex>
+    </image>
+  </view>
+</theme>

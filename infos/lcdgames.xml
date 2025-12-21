@@ -1,11 +1,11 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		
 				<text name="system_description" extra="true" >
-			<text>These portable consoles housed a single game with an LCD screen and various levels of difficulty, and also used to include a clock and alarm. Nintendo's Game and Watch series was the most popular, with a line of 59 videogame titles among which were some early Donkey Kong, Mario Bros. or The Legend of Zelda ... Today is very hard to get one and are considered historical pieces and collector's items.</text>
+			<text>These portable consoles housed a single game with an LCD system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel and various levels of difficulty, and also used to include a clock and alarm. Nintendo's Game and Watch series was the most popular, with a line of 59 videogame titles among which were some early Donkey Kong, Mario Bros. or The Legend of Zelda ... Today is very hard to get one and are considered historical pieces and collector's items.</text>
 				</text>
 		
 				<text name="system_description" extra="true" lang="es">

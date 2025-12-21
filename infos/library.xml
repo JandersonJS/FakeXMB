@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Place in library directory your magazine and videos. Acceptable extensions : jpg, jpeg, png, bmp, psd, tga, gif, hdr, pic, ppm, pgm, mkv, pdf, mp4, avi, cbz.</text>

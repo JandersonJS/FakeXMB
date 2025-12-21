@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The Tandy 1000 is the first in a line of IBM PC compatible home computer systems produced by the Tandy Corporation for sale in its Radio Shack and Radio Shack Computer Center chains of stores.</text>

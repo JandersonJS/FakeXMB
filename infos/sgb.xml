@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The Super Game Boy (スーパーゲームボーイ, Sūpā Gēmu Bōi) is a peripheral that allows Game Boy cartridges to be played on a Super Nintendo Entertainment System console. Released in June 1994.</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The PlayChoice-10 is an arcade system that was developed and manufactured by Nintendo. The system can play up to 10 different Nintendo Entertainment System games - the games are in the form of circuit boards which can be plugged into one of ten open slots on the PlayChoice-10's motherboard. The Nintendo Super System would go on to have most of the aspects the PlayChoice-10 had, but with SNES games. </text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text> The Boom3 is a port developed by Ports. It was released in 2004. This system scrapes metadata for the “pc” group(s) and loads the boom3 set from the currently selected theme, if available. Grouped with the “ports” group of systems.</text>

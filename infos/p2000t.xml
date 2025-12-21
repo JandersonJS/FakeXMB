@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>O Philips P2000T é um computador doméstico de 8 bits lançado em 1980 pela Philips, com processador Zilog Z80 e 16 KB de RAM, que utiliza um drive de cassetes para armazenamento e chip Mullard SAA5050 para gráficos em texto, sendo um dos primeiros computadores domésticos a serem usados em escolas na Holanda.</text>

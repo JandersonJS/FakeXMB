@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Bally Astrocade is a second-generation home video game console and simple computer system designed by a team at Midway, at that time the videogame division of Bally. It was originally announced as the "Bally Home Library Computer" in October 1977 and initially made available for mail order in December 1977.</text>

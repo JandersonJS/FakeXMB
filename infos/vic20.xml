@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The VIC-20 was the first computer of any description to sell one million units. It was described as "one of the first anti-spectatorial, non-esoteric computers by design... no longer relegated to hobbyist/enthusiasts or those with money, the computer Commodore developed was the computer of the future."</text>

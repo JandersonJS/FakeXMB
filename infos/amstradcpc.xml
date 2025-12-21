@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true" >
 			<text>Is a series of 8-bit home computers produced by Amstrad between 1984 and 1990. It was designed to compete in the mid-1980s home computer market dominated by the Commodore 64 and the ZX Spectrum.</text>

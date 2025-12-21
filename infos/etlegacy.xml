@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>ET: Legacy is an open source project that aims to create a fully compatible client and server for the popular online FPS game Wolfenstein: Enemy Territory - whose gameplay is still considered unmatched by many, despite its great age.</text>

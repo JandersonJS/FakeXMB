@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 			<text>Abuse is a run and gun video game developed by Crack dot Com and published by Electronic Arts in North America and Origin Systems in Europe. It was released on February 29, 1996 for MS-DOS. A Mac OS port of the game was published by Bungie and released on March 5, 1997. The game's source code, along with some of the shareware content, has been in the public domain since the late 1990s and has been ported to Linux and many other platforms.</text>

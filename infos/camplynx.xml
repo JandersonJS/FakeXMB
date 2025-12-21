@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Lynx was an 8-bit British home computer that was first released in early 1983 as a 48 kB model. Several models were available with 48 kB, 96 kB or 128 kB RAM. It was possible to reach 192 kB with RAM expansions on board.</text>

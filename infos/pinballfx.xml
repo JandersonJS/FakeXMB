@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>An engine for creating and re-creating pinball machines, virtually. Pinball FX is a toolkit with the goal of making it easy to create pinball machines digitally. It uses Unity's High Definition Render Pipeline and comes with extensive editor tooling that aims to provide all the features needed for such a task.</text>

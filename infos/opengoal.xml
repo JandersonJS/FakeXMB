@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>OpenGOAL is a fan-made project that provides a native PC port for the Jak and Daxter games, allowing users to play the PlayStation 2 titles directly on their computers without emulation. It achieves this by reverse-engineering the original games' source code, recompiling it for PC architecture, and offering features like mod support, improved performance, and modern graphics options. Users must own the original PlayStation 2 game discs to extract the game data, which is then processed by the OpenGOAL tools to create a fully playable PC version of the game.</text>

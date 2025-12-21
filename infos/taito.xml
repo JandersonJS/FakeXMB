@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Taito Corporation is a Japanese company that specializes in video games, toys, arcade cabinets and game centers, based in Shinjuku, Tokyo. The company was founded by Michael Kogan in 1953 as the Taito Trading Company, importing vodka, vending machines and jukeboxes into Japan. It began production of video games in 1973. In 2005, Taito was purchased by Square Enix, becoming a wholly owned subsidiary by 2006.</text>

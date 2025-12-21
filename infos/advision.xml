@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Adventure Vision is a cartridge-based video game console released by Entex Industries in either August or October 1982. The monitor, game controls, and computer hardware are all contained within a single portable unit. The LED monitor can only display red pixels. Four games were released, all of which are arcade ports.

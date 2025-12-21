@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Adult games encompass a vast range of activities, from party games to complex video games and role-playing. They can provide mental stimulation, stress relief, and opportunities for social connection. For adults, playing is an essential way to express creativity, build relationships, and engage in satisfying leisure.</text>

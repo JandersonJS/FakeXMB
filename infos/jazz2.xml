@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>They are back! Super-cool rabbit jazz, his crazy little brother, Spaz, and their athletic sister Lori will gang up for Christmas to have a wild and wacky time on your PC. In these Christmas levels of the PC hit Jazz Jackrabbit 2, our favourite rabbits have brand new adventures in cold, snowy landscapes, where there are many evil enemies.</text>

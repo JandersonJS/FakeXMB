@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>Triforce is an arcade board jointly developed by Nintendo, Namco and Sega, announced on February 19, 2002. The name Triforce is a reference to the Zelda series of games and symbolizes the three companies' involvement in the project. The system is based on the Nintendo GameCube and among the main differences are the double 1T-SRAM memory, RAM memory expandability and compatibility with Sega's GD-ROM optical disk system.</text>

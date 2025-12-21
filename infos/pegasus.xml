@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Aamber Pegasus was a home computer produced in New Zealand by Technosys Research Labs in 1981, with hardware designed by Stewart J. Holmes and software by Paul Gillingwater, Nigel Keam, and Paul Carter. The introduction of the Apple II and its educational discounts in New Zealand is considered a factor in the demise of Technosys and the computer, with production estimated at only one hundred units.</text>

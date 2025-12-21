@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Sega Pico, also known as Kids Computer Pico, was an electronic toy by Sega. The purpose of creating Pico was to bring younger children to use video games. The Sega Pico was developed for children aged 2 to 8 years old and the slogan was "the computer that thinks it's a toy"</text>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Hyper Neo Geo 64 was a 3D arcade system released by SNK in 1997, intended to succeed the popular Neo Geo MVS and usher the company into the era of 3D gaming. However, with only seven games released and lacking the success of its predecessor, the Hyper Neo Geo 64 was discontinued in 1999, becoming SNK's biggest failure.</text>

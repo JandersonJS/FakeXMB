@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Acorn Atom is a home computer made by Acorn Computers Ltd from 1980 to 1982, when it was replaced by the BBC Micro. The Micro began life as an upgrade to the Atom, originally known as the Proton.</text>

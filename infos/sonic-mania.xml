@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Sonic Mania is a platform video game developed by Christian Whitehead, PagodaWest Games and Headcannon and published by Sega. Produced in celebration of the 25th anniversary of the Sonic the Hedgehog series. The game returns to the original 2D gameplay and visual style of the Mega Drive games.</text>

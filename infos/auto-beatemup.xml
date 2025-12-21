@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>Beat'em up games are action games where players defeat large numbers of enemies in hand-to-hand combat or with melee weapons, often progressing through scrolling levels. A hallmark of the genre is moving through one section of a level at a time, defeating waves of enemies before advancing to the next, with a boss at the end of each level. Key features include simple controls, cooperative multiplayer, and characters with unique movesets, making the genre popular for its accessible and satisfying combat.</text>

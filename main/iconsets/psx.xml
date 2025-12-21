@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 	
-	<view name="menu, system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="menu, system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 		<helpsystem name="help">
 			<iconColor>FFFFFFFF</iconColor>
 			<iconUpDown>./psx/updown.png</iconUpDown>
@@ -17,24 +17,5 @@
 			<iconSelect>./psx/select.png</iconSelect>
 			<iconF1>./psx/f1.png</iconF1>
 		</helpsystem>		
-	</view>
-
-<view name="screen">
-
-
-    <controllerActivity name="controllerActivity">
-      <origin>0 0</origin>
-      <pos>0.690 0.177</pos>
-      <size>0.100 0.033</size>
-      <itemSpacing>0.003</itemSpacing>
-      <imagePath>./psx/controller.svg</imagePath>
-      <color>FFFFFF80</color>
-      <activityColor>A0A0FFC0</activityColor>
-      <hotkeyColor>FFA0A0C0</hotkeyColor>
-    </controllerActivity>
-
-
-
-</view>
-	
+	</view>	
 </theme>

@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 		<text name="system_description" extra="true">
 			<text>The Atari Jaguar CD or Jag CD is a CD-ROM peripheral for the Atari Jaguar video game console. Atari announced a CD-ROM drive for the Jaguar before the console's November 1993 launch. Code-named the Jaguar II during development, the Jaguar CD was released on September 21, 1995</text>

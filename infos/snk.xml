@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+	<view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 				
 				<text name="system_description" extra="true">
 				<text>The SNK Corporation (株式会社SNK Kabushiki-gaisha Esu Enu Kē?) is a Japanese video game company founded in Higashiosaka, Osaka on July 22, 1978 by former boxer Eikichi Kawasaki. SNK is an acronym for Shin Nihon Kikaku (or "New Japan Project" in Japanese). Its most famous products are the Neo-Geo arcade system and home video game, as well as several game series such as Metal Slug, Samurai Shodown, Fatal Fury, Art of Fighting and The King of Fighters.</text>

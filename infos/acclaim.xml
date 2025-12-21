@@ -1,7 +1,7 @@
 <theme>
 	<formatVersion>7</formatVersion>
 
-  <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid">
+  <view name="system, basic, detailed, grid, Tiles, Carousel, Boxes, grid, gamecarousel">
 
 				<text name="system_description" extra="true">
 				<text>Acclaim Entertainment, Inc. was an American video game publisher based in Glen Cove, New York. Originally formed by Greg Fischbach, Robert Holmes and Jim Scoroposki out of an Oyster Bay storefront in 1987, the company established a worldwide development team through a series of acquisitions in the late 1990s and early 2000s. After poor financial returns in their 2003 fiscal year, Acclaim filed for Chapter 7 bankruptcy in September 2004. Properties owned by Acclaim were subsequently auctioned off to various parties.</text>
